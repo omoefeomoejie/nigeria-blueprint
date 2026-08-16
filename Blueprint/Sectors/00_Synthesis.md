@@ -119,6 +119,28 @@ utilisation rates is the cheapest reform available anywhere in this
 Blueprint, because it manufactures a constituency that would otherwise never
 form.
 
+## 4b. The order matters as much as the list
+
+Sector Brief 03 found that a functional health centre needs power and water.
+That single dependency implies the rest: these are not eight problems, they
+are a graph, and the order of attack changes the result.
+
+`10_Interdependence_Map.md` works it out. The short version:
+
+**Absorption first** — it is not a sector, it sits under all of them, and it
+costs nothing. **Then land registry and revenue integrity**, the cheapest
+high-leverage moves, which fund everything after. **Then power in one
+ring-fenced place**, because it raises three ceilings but is where states
+most recently failed. **Then water billing before health functionality**,
+because a clinic without water is a building. **Then education incentives**,
+once a baseline exists and local governments can actually receive money.
+
+And the two warnings: do not start with the visible (roads photograph well
+and support nothing beneath them), and do not start with the biggest number
+(oil is the largest sector by value and the smallest by state actionability).
+
+The map is inference rather than finding, and says so.
+
 ## 5. What this means for the Blueprint
 
 1. **Capacity is not a precondition to be assumed. It is the reform.** Every
