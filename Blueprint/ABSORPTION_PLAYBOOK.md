@@ -135,6 +135,54 @@ One detail carries the whole case: the commission operated for over twenty
 years from a rented building costing **₦300 million a year that was not
 connected to the national power grid** [Certified].
 
+## The middle case — and the mechanism that beats both
+
+Between the 78% agency and the 16% agency sits the **Rural Electrification
+Agency** at 65% [Certified — Tracka]. It answers the question the two poles
+could not: what does an ordinary, uncaptured, mid-capacity body do?
+
+**It changes when the money moves.**
+
+All three of REA's major funding windows under the Nigeria Electrification
+Project are **results-based: funds are disbursed only once the recipient has
+proven it provided reliable electricity to customers.** Grants are awarded
+on verified performance, calculated per new customer connection. Verification
+runs through a digital platform that confirms connections and triggers
+disbursement, reducing in-person checks to random audits. An **Independent
+Verification Agent** is separately contracted to certify
+disbursement-linked results. [Certified — World Bank/REA programme
+documents]
+
+Now set that beside the failure case. At NDDC, contractors **collected
+mobilisation fees and never mobilised**, and 12,000 of 13,377 projects were
+abandoned *after payment*.
+
+**The difference is not honesty, skill, or culture. It is sequence.**
+
+> NDDC paid on award. REA pays on verified delivery.
+> **You cannot abandon a project after payment if payment only arrives
+> after delivery.**
+
+This is the most transplantable finding in this document, and the cheapest.
+It requires no better officials, no training programme, no cultural change.
+It removes the opportunity structurally. Every practice in the UBEC list
+improves an organisation that wants to deliver; results-based payment
+constrains one that does not.
+
+**What it does not fix — recorded honestly.** Independent analysis of
+licensing data 2017–2025 finds that **a vibrant licensing regime does not
+translate into delivery**: many licensed projects remain unbuilt, delayed or
+stranded through financing gaps, weak grid infrastructure and fuel
+constraints. Deployment is also skewed — the North East and North West
+received almost no new licensed mini-grid capacity across eight years
+despite the highest solar irradiation and worst energy poverty [Certified].
+
+So results-based financing solves **contractor abandonment** and does
+nothing about **investor absence**. Capital goes where it is commercially
+safe. That is Ceará's equity problem (Chapter 7) appearing in a second
+sector, and it needs the same answer: an explicit equity weighting, or the
+mechanism serves the already-served.
+
 ## The correction this forces on the playbook
 
 UBEC's six practices are **necessary but insufficient**. You cannot bundle,
@@ -144,7 +192,12 @@ larger captured project.
 
 **Corrected sequence:**
 
-> **1. Secure the payment chain → 2. Install the practices → 3. Measure.**
+> **1. Pay on verified output, not on award → 2. Secure the payment chain
+> → 3. Install the practices → 4. Measure.**
+
+Step 1 is now first because it is the only step that works *without*
+requiring the organisation to be willing. REA proves it operates in an
+ordinary Nigerian agency; NDDC proves what its absence costs.
 
 Step 1 is Chapters 2 and 4 — selection and enforcement — and it sits
 *upstream* of Chapter 1's execution layer. Any state or agency adopting this
@@ -162,23 +215,28 @@ answer is no, nothing else on this page will work.
 
 A checklist a governor, minister or legislature could impose tomorrow:
 
-1. Publish a completion rate, computed the way an outsider would compute it.
-2. Bundle projects into functional units; ban isolated component delivery.
-3. Publish a multi-year plan that survives the current officeholder.
-4. Define the agency's job as delivered function, not released funds — in
+1. **Pay on verified output.** No payment on award. No mobilisation fee
+   without a mobilisation check. Independent verification of delivery before
+   disbursement. This one rule does more than the other five combined.
+2. Publish a completion rate, computed the way an outsider would compute it.
+3. Bundle projects into functional units; ban isolated component delivery.
+4. Publish a multi-year plan that survives the current officeholder.
+5. Define the agency's job as delivered function, not released funds — in
    its own enabling instrument.
-5. Attach a consequence to abandonment. No new award while an old one is
+6. Attach a consequence to abandonment. No new award while an old one is
    abandoned by the same MDA.
-6. Report status digitally and continuously, not at ceremonies.
+7. Report status digitally and continuously, not at ceremonies.
+8. **Weight for equity explicitly**, or delivery concentrates where capital
+   already feels safe (REA's regional skew; Ceará's early gains).
 
 ## Owed
 
 - **Independent verification of UBEC's internal figures** (95% procurement,
   8.7m learners, ₦100bn mobilised) — currently self-reported.
-- **A middle case.** Both poles are now documented (78% clean-ish, 16%
-  captured). What is undocumented is an agency that is honest but
-  incapable — which would test whether the six practices alone can lift a
-  low-capacity, uncaptured organisation.
+- **Whether results-based payment works without donor scaffolding.** REA's
+  results-based windows sit inside a World Bank-funded programme with an
+  Independent Verification Agent paid for externally. Owed: a
+  domestically-funded Nigerian instance.
 - **The NDDC forensic audit report itself**, unpublished since 2021. Its
   release is the single highest-value disclosure event available in this
   sector.
