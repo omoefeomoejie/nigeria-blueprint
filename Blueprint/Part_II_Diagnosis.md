@@ -147,8 +147,8 @@ decomposes into the same root causes strengthens the diagnosis by
 convergence; any sector that fails for reasons the horizontals cannot
 explain will force Layer 4 to be revised. Both outcomes are recorded.
 
-Convergences so far: **4 of 8 planned sectors** (Agriculture, Power,
-Primary Health, Basic Education).
+Convergences so far: **5 of 8 planned sectors** (Agriculture, Power,
+Primary Health, Basic Education, Water & Sanitation).
 
 Power converged differently and more usefully: it did not merely restate the
 diagnosis — it **corrected a prescription of ours** (Mistakes 8.1). A
@@ -162,12 +162,30 @@ met. Chapter 4's chain — publication → usability → scrutiny — is already
 running in this sector, against the publishing agency's own interest. The
 Blueprint borrows from health here rather than instructing it.
 
-**Candidate horizontal finding — absorptive capacity.** Two sectors have now
-produced the same failure independently: 16 states took electricity
-oversight and could not operate it (Sector 02), and states leave ₦332bn of
-basic-education money unaccessed or unspent because drawing it requires
-counterpart cash and project-preparation capacity (Sector 04). In both
-cases the constraint is not authority and not money — it is **the ability to
-absorb either**. If this recurs in a third sector it stops being an
-observation and becomes a finding, and Layer 3 should be amended to name it.
-Logged, watched, not yet asserted [Law Zero].
+### Layer 3 addition — absorptive capacity (earned by the vertical axis)
+
+Three sectors produced the same failure independently, across three
+different kinds of resource:
+
+- **Authority:** 16 states took electricity regulatory oversight by early
+  2026 and several could not operate it — non-functional regulators,
+  licences issued outside the legal framework, no measurable supply
+  improvement [Sector 02].
+- **Money:** ₦332bn of basic-education funding sits unaccessed or unspent;
+  27 of 36 states accessed nothing in 2024 [Sector 04].
+- **Infrastructure:** public water utilities produce in 28 states but
+  function in only 16, and 40% of boreholes fail within two years
+  [Sector 05].
+
+**The finding:** *Nigeria's constraint is not only that the state lacks
+resources or authority — it is that the state frequently cannot absorb,
+operate, or maintain the resources and authority it already holds.*
+
+This matters because it changes what reform means. Giving a low-absorption
+state more money, or more powers, does not produce more delivery; it
+produces idle accounts, dormant regulators, and decaying assets — and
+sometimes a worse outcome than before the transfer (Sector 02). Capacity is
+not a precondition to be assumed. It is the reform.
+
+Earned under Law Zero by three independent sector cases; promoted from
+candidate at Sector Brief 05.
