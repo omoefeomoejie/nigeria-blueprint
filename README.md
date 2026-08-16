@@ -16,6 +16,10 @@ the authors changed their minds. This repository is that working, in public.
 **If you have five minutes** → [The Doctrine](Blueprint/Doctrine_v0.1.md) —
 nine lines, English and Pidgin, each traceable to an investigation.
 
+**If you want the findings, not the structure** →
+[FINDINGS.md](FINDINGS.md) — everything this project established, ranked by
+what it changed, with what we got wrong and what we still do not know.
+
 **If you want the argument** → [Part I: What We Believe](Blueprint/Part_I_Doctrine.md)
 → [Part II: The Diagnosis](Blueprint/Part_II_Diagnosis.md)
 → [Part III: Vision 2050](Blueprint/Part_III_Vision_2050.md)

@@ -14,6 +14,7 @@ when a node, brief, or session exposes them.
 |---|---|---|
 | A | ~~Scorekeeper test, nodes and sectors~~ — **DONE.** 16 domains tested, 5 failures. New finding: Nigeria's governance failures map onto its missing scorekeepers (no civic auditor for land registries, state electricity regulators, or facility-level water). | 1.3 |
 | A2 | **Found or fund an external scorer in an unscored domain** — cheapest high-leverage intervention the test surfaced; nobody has proposed it | new |
+| A3 | ~~Findings index~~ — **DONE**, `FINDINGS.md`, twelve findings ranked by what they changed | new |
 | B | **Real-terms restatement of headline revenue figures** — nominal naira across a devaluation inflates the growth we celebrate | 3.2 |
 | C | **Cost one pilot end to end** — no chapter states what anything costs; a commissioner asks that first | 3.4 |
 | D | **Second civic auditor to triangulate BudgIT** — source concentration is real | 2.4 |
