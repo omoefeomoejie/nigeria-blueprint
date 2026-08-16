@@ -2,10 +2,11 @@
 
 # Water & Sanitation
 
-*Three quarters of Nigeria's water points are self-supplied. That single
-statistic is this Blueprint's diagnosis completed at household level: when
-the state fails, people exit rather than demand — and the exit dissolves the
-constituency that would have forced delivery.*
+*Three quarters of Nigeria's water points are dug by the people who use
+them. That one number is this Blueprint's whole diagnosis, arriving at
+household level. When the state fails, people leave rather than complain.
+And the ones who can afford to leave are the ones whose complaints would
+have carried.*
 
 ---
 

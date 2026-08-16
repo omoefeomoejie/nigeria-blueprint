@@ -3,7 +3,7 @@
 # Agriculture
 
 *Nobody feels "misaligned incentives." Everybody feels that the fertiliser
-never arrived.*
+never came.*
 
 ---
 
@@ -29,12 +29,15 @@ private fertiliser sector ever developing [Certified]. The scale of the
 absurdity: subsidy rates have reached **87%** while consumption stayed low
 [Certified].
 
-**Demand was never the problem.** In an IFPRI stakeholder survey, **all 44**
-respondents — state ministry officials, ADP staff, input dealers, farmer
-associations, unaffiliated farmers — reported demand far outstripping supply
-each year, with many farmers willing to pay market price if the product were
-simply available [Certified]. Nigerian agriculture policy has spent decades
-subsidising a demand problem that does not exist.
+**Demand was never the problem.** IFPRI asked 44 people across the sector:
+ministry officials, agency staff, input dealers, farmer associations, and
+farmers with no association at all. All 44 said the same thing. Demand far
+outstrips supply every year, and many farmers would pay market price if the
+fertiliser were simply there [Certified].
+
+Read that again. Nigeria has spent decades and subsidy rates as high as 87%
+solving a demand problem that does not exist. The farmers were never the
+obstacle. The distribution was.
 
 **Help goes to those who least need it.** Extension access is positively
 associated with asset ownership, fertiliser use, and credit access — meaning

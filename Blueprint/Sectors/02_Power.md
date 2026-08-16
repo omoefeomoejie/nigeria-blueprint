@@ -2,10 +2,10 @@
 
 # Power
 
-*This is the sector where our own advice was tested in real time — and came
-back needing a correction. Nigeria opened a constitutional door in 2023.
-Sixteen states walked through it. Two years later the lights are not
-noticeably better. That is the finding.*
+*Nigeria opened a constitutional door in 2023. Sixteen states walked
+through it. Two years later the lights are not noticeably better.*
+
+*This is the sector where our own advice was tested and came back wrong.*
 
 ---
 

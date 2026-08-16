@@ -2,10 +2,12 @@
 
 # Basic Education
 
-*Nigeria's basic education problem is not, at the margin, a shortage of
-money. ₦332 billion is sitting idle right now because states cannot or will
-not take it. That single fact rearranges the whole conversation — including
-part of our own Chapter 7.*
+*₦332 billion is sitting idle right now because states cannot or will not
+take it, while twenty million children are out of school. Whatever this
+problem is at the margin, it is not a shortage of money.*
+
+*That single fact rearranges the conversation, including part of our own
+Chapter 7.*
 
 ---
 

@@ -2,9 +2,12 @@
 
 # Transport & Capital Projects
 
-*One federal agency completes 78% of its projects. Another completes 16%.
-Same country, same contractors, same law, same year. The failure everyone
-calls "Nigerian" is organisational — diagnosable, rankable, fixable.*
+*One federal agency finishes 78% of what it starts. Another finishes 16%.
+Same country, same contractors, same law, same year.*
+
+*Whatever people mean when they call this failure "Nigerian," it cannot be
+that. It is organisational, which means it can be diagnosed, ranked, and
+fixed.*
 
 ---
 

@@ -2,10 +2,8 @@
 
 # What Six Sectors Proved
 
-*We opened the vertical axis to test the diagnosis, not to illustrate it.
-Six sectors later, the diagnosis survived — but it did not survive
-unchanged. This is what the briefs collectively established, and what they
-cost us.*
+*We opened these six briefs to test the diagnosis, not to illustrate it.
+The diagnosis survived. It did not survive unchanged.*
 
 ---
 

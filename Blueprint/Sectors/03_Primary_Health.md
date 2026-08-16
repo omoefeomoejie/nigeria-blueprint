@@ -2,9 +2,9 @@
 
 # Primary Health
 
-*The sector that built the measuring instrument our chapters keep asking
-for — and then published a number that embarrassed its own programme. That
-is the most encouraging thing in this brief.*
+*This sector built the measuring instrument our other chapters keep asking
+for, then published a number that embarrassed its own programme. That is the
+most encouraging thing in this brief.*
 
 ---
 
