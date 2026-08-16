@@ -1,4 +1,4 @@
-<!-- BLUEPRINT | Sector Interdependence Map | Draft v0.2 | Source: Sector Briefs 01-09 | Status: DRAFT — inference from documented dependencies, marked as such -->
+<!-- BLUEPRINT | Sector Interdependence Map | Draft v0.3 | Source: Sector Briefs 01-09 | Status: DRAFT — inference from documented dependencies, marked as such -->
 
 # What Has to Move First
 
@@ -106,6 +106,54 @@ Blueprint, because ss. 214–215 forbid state police. Chapter 3's community-
 intelligence layer is the only thing a governor can lawfully build, and it
 now carries more weight than that chapter assumed.
 
+## Correction (v0.3) — it is a loop, not a dependency, and that changes the fix
+
+v0.2 established that security sits under agriculture. The reverse direction
+now measures too, and it closes the circle.
+
+**The recruitment price.** Bandits recruit vulnerable youths for **₦5,000 —
+barely $3** [Certified — IPI Global Observatory]. A survey of 420
+respondents across Zamfara, Katsina and Sokoto found youth unemployment
+significantly increases vulnerability to recruitment, alongside arms
+availability and governance deficits [Certified].
+
+**The loop:**
+
+> Insecurity closes farmland (2.1m hectares) → farming livelihoods collapse
+> → young men who were farming are idle → recruitment at ₦5,000 →
+> insecurity deepens → more farmland closes.
+
+Nigeria's own Institute for Peace and Conflict Resolution states the
+mechanism directly: *"Before, they were in the farms, producing. Today, many
+of them are not. Those energies are now being diverted into crime"*
+[Certified]. And five of the ten poorest states are in the North West — the
+same region losing the farmland [Certified — NBS].
+
+### What this does to the sequence, again
+
+**Security-first is self-defeating on its own.** Clear a ward of bandits
+while the young men in it still have nothing to do, and you have removed the
+symptom and left the recruitment pool intact. The dependency was real; the
+implication that security could go *first and alone* was wrong.
+
+**Corrected: in the affected regions, security and livelihood move together,
+not in sequence.**
+
+And a design consequence falls straight out of the ₦5,000 figure:
+
+> **Any agricultural or public-works intervention in an affected ward is
+> also a security intervention**, because it prices young men out of
+> recruitment. The threshold is $3.
+
+That means Chapter 3's community-intelligence layer and Sector 01's farmer
+registry belong in **one programme**, not in two ministries' separate plans.
+A state that runs them apart is paying twice for half the effect.
+
+**Contested, recorded not used:** several sources allege bandit sponsorship
+by wealthy and politically connected individuals. Widely repeated, not
+verifiable from here. Logged so it is neither smuggled into the argument nor
+quietly dropped [Rule 3].
+
 ## The sequence this implies
 
 **Zero. Absorption first, and it is not a sector.**
@@ -133,9 +181,11 @@ The Ceará mechanism needs a baseline and an absorption fix at the front
 [Chapter 7, Sector 04]. It is not first because it cannot be — the
 assessment has to exist and the LGs have to be able to receive money.
 
-**Running throughout: security, in the affected regions.**
-Not a step in the sequence but a precondition for steps one through four
-wherever farmland or contractors are unsafe. See the correction above.
+**Running throughout: security AND livelihood together, in the affected
+regions.** Not a step in the sequence and not a precondition that can be
+satisfied alone. Security clears the land; livelihood keeps the young men
+off the recruitment market at a threshold of ₦5,000. Either without the
+other unwinds. See corrections v0.2 and v0.3.
 
 **Running throughout: selection.**
 Every sector above is run by people. Selection reform has no natural
@@ -165,9 +215,11 @@ its budget, and no health budget fixes that.
 - **Insecurity → agriculture is now mapped and measured** (see the
   correction). **Health → education remains unmapped**: does a sick
   population hold back learning, and by how much? Plausible, uninvestigated.
-- **The map still runs mostly one way.** Feedback loops — does agricultural
-  collapse worsen insecurity by producing unemployed young men? — are
-  untested and would change the sequencing again if strong.
+- **The security–agriculture loop is now measured in both directions.**
+  Remaining one-way sections: health→education; education→everything at
+  generational lag. Both plausible, both uninvestigated.
+- **The ₦5,000 threshold is a single-source figure.** It is the most
+  consequential number in this file and deserves independent corroboration.
 - **Trade and investment (Brief 08)** is missing from the graph.
 
 ---

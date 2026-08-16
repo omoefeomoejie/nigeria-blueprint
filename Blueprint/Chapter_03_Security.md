@@ -130,3 +130,15 @@ chapter does. And the constitutional ceiling means the community-
 intelligence layer in §6 is the only lawful instrument a governor holds.
 It is therefore not a modest supplement to federal policing. In those
 regions it is the entry condition for every other chapter in this book.
+
+**And it cannot work alone.** The loop runs both ways. Insecurity closes
+farmland; closed farmland idles young men; idle young men are recruited for
+**₦5,000, barely $3** [Certified — IPI Global Observatory]. Clear a ward
+without giving those men something to do and the recruitment pool refills
+behind you.
+
+So this chapter's pilot (§8) should not be run as a security programme. It
+should be run jointly with Sector 01's farmer registry and input scheme in
+the same wards, under one budget line. **At a recruitment price of $3, an
+agricultural intervention is a security intervention.** A state that funds
+them separately pays twice for half the effect.

@@ -122,3 +122,20 @@ Certified Nigerian number: ✔ (13 kg/ha; 87% subsidy rate; extension <50%;
 44/44 stakeholders). Named case: ✔ (GESS/FMSP subsidy schemes; IFPRI
 stakeholder survey). Horizontal failures cited: ✔ (§3).
 **Verdict: ships as Draft v0.1.**
+
+---
+
+### Security note (from the interdependence map, v0.3)
+
+In the North West, North East and conflict-affected Middle Belt, none of §5
+runs on land nobody can safely reach: **2.1 million hectares are
+inaccessible** for security reasons, and the Northern Governors Forum admits
+up to 60% of farmland in key agricultural states is abandoned or
+underutilised [Certified].
+
+But the reverse also holds. Bandits recruit idle young men for **₦5,000**
+[Certified]. So the farmer registry, the input voucher and the extension
+scheme in §5 are not only agricultural policy in those wards. **They are
+counter-recruitment**, and they should be budgeted and run jointly with
+Chapter 3's community-intelligence layer rather than by a separate ministry
+on a separate timetable.
