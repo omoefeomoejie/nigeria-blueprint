@@ -105,3 +105,28 @@ attribution — ✔ (the mechanism claim rests on CJTF + within-case contrast)
 3. Owed named (generalization below existential threat; demobilization) — ✔
 4. Residual uncertainty wouldn't change the design — ✔
 **Verdict: publishable as Draft v0.1.**
+
+---
+
+### Weight note (from the interdependence map, v0.2)
+
+This chapter carries more weight than it claims. The sector work found
+security sitting underneath agriculture and transport as a hard dependency:
+**2.1 million hectares of northern farmland inaccessible** (Niger 350,000
+ha, Zamfara 323,000, Borno 300,000, Katsina 210,000, Benue 200,000), nearly
+half of it inside a maize belt producing 44% of national maize; FAO puts
+national food production down 15% from insecurity; the Northern Governors
+Forum admits up to 60% of farmland in key agricultural states is abandoned
+or underutilised [Certified].
+
+Second-order effects compound it: animal traction costs rose in 2024 because
+cattle theft made work animals scarce, and haulage now requires armed
+escorts, contributing to 30–40 million tonnes of food lost annually
+(₦3.5–5tn).
+
+**What follows.** In the North West, North East and conflict-affected Middle
+Belt, no agricultural, water or power intervention works before this
+chapter does. And the constitutional ceiling means the community-
+intelligence layer in §6 is the only lawful instrument a governor holds.
+It is therefore not a modest supplement to federal policing. In those
+regions it is the entry condition for every other chapter in this book.

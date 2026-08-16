@@ -13,7 +13,7 @@ when a node, brief, or session exposes them.
 | # | Item | Why | Who |
 |---|---|---|---|
 | 1 | **Native review of the three renderings** | Drafts exist in `Doctrine_Translations_DRAFT.md`, all marked unusable. One speaker per language, judging rhythm not literal accuracy. | Founder — not me |
-| 2 | **Reverse dependencies** | The map covers one direction only. Does health failure hold back education? Does insecurity hold back agriculture? Both plausible, neither investigated. | Me, 2 drills |
+| 2 | **Feedback loops in the dependency graph** | Insecurity→agriculture now mapped. Untested: does agricultural collapse worsen insecurity (unemployed young men)? A strong loop would change the sequencing again. Health→education also unmapped. | Me, 2 drills |
 | 3 | **Independent verification of UBEC's self-reported figures** | 95% procurement completion, 8.7m learners, ₦100bn mobilised — all self-reported. The playbook's practices rest partly on them. | Me, 2 drills |
 | 4 | **Sector Brief 08 — trade & investment** | Last unwritten brief. Assessed as unlikely to yield a ninth finding; available on request. | Me, 1 session |
 | 5 | **Middle-case test of the absorption playbook** | We have the top (78%), the captured bottom (16%), and the results-based middle (65%). Untested: an honest, low-capacity body with no donor scaffolding. | Me, 2 drills |
@@ -84,4 +84,5 @@ and not found, which is itself a finding.
 | Enugu integrity check — three qualifications, no collapse | v0.20 |
 | Sector Brief 07 (Housing & Land) — $300bn dead capital | 834e043 |
 | Sector Brief 09 (Oil & Gas) — the purest proof | 4ba30d4 |
-| Sector interdependence map — the sequence a state should attack in | this commit |
+| Sector interdependence map — the sequence a state should attack in | 573264e |
+| Reverse dependency: insecurity→agriculture measured; map corrected to regionally conditional | this commit |

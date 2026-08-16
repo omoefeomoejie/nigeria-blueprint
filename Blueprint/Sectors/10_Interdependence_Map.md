@@ -1,4 +1,4 @@
-<!-- BLUEPRINT | Sector Interdependence Map | Draft v0.1 | Source: Sector Briefs 01-09 | Status: DRAFT — inference from documented dependencies, marked as such -->
+<!-- BLUEPRINT | Sector Interdependence Map | Draft v0.2 | Source: Sector Briefs 01-09 | Status: DRAFT — inference from documented dependencies, marked as such -->
 
 # What Has to Move First
 
@@ -55,6 +55,57 @@ construction, no grid, no new institution — only a decision to stop charging
 15–30% of a property's value to write down who owns it [Sector 07]. And it
 feeds Chapter 1's revenue layer directly, which funds everything else.
 
+## Correction (v0.2) — security was missing, and it belongs near the bottom
+
+The first version of this map left security out of the graph. That was an
+error, and the reason it happened is worth recording: I ranked by what a
+state can act on, and Chapter 3's constitutional ceiling makes security hard
+for states to move. **But difficulty of action is not position in the
+graph.** Security sits underneath agriculture and transport the way power
+sits underneath health.
+
+**The measured dependency:**
+
+- **2.1 million hectares of northern farmland are inaccessible** for
+  security reasons — Niger 350,000 ha, Zamfara 323,000, Borno 300,000,
+  Katsina 210,000, Benue 200,000 [Certified — NAERLS 2024 Wet Season
+  Agricultural Performance Report].
+- Nearly half of that idle land is inside the **maize belt**, which produces
+  about **44% of national maize** [Certified].
+- USDA projected paddy rice down 5% to 7.9m tonnes for 2025–26, largely from
+  reduced farming in insecure regions [Certified].
+- FAO puts national food production down **15%** from insecurity
+  [Certified].
+- The **Northern Governors Forum** admits up to **60% of farmland in key
+  agricultural states** is abandoned or severely underutilised [Certified].
+- Second-order: **animal traction costs rose in 2024** because cattle theft
+  made work animals scarce [Certified — NAERLS]. Insecurity raises input
+  prices, not only land access.
+
+**And security sits under transport, which sits under everything.** Haulage
+firms require armed escorts; routes are avoided without them; Nigeria loses
+**30–40 million tonnes of food a year** to transport failure, insecurity and
+post-harvest loss, worth **₦3.5–5 trillion**, with about **40% of
+perishables** spoiling before reaching consumers [Certified — CILT].
+
+### What this does to the sequence
+
+**The sequence is regionally conditional. It was written as if Nigeria were
+one place.**
+
+- **Where farmland is accessible** (much of the South and parts of the
+  Middle Belt): the sequence below stands as written.
+- **Where it is not** (North West, North East, and conflict-affected Middle
+  Belt): **security precedes everything physical.** No fertiliser e-voucher
+  works on land nobody can safely reach. No extension agent visits a
+  high-risk ward. No mini-grid gets built where the contractor is a ransom
+  target.
+
+The uncomfortable part: the state-level lever here is the weakest in the
+Blueprint, because ss. 214–215 forbid state police. Chapter 3's community-
+intelligence layer is the only thing a governor can lawfully build, and it
+now carries more weight than that chapter assumed.
+
 ## The sequence this implies
 
 **Zero. Absorption first, and it is not a sector.**
@@ -82,6 +133,10 @@ The Ceará mechanism needs a baseline and an absorption fix at the front
 [Chapter 7, Sector 04]. It is not first because it cannot be — the
 assessment has to exist and the LGs have to be able to receive money.
 
+**Running throughout: security, in the affected regions.**
+Not a step in the sequence but a precondition for steps one through four
+wherever farmland or contractors are unsafe. See the correction above.
+
 **Running throughout: selection.**
 Every sector above is run by people. Selection reform has no natural
 position in the sequence because it is a condition of all of them
@@ -107,9 +162,12 @@ its budget, and no health budget fixes that.
 - **The map is inference.** Each dependency is documented; the ranking is
   not. A state that runs this sequence and measures the result would settle
   it, and nobody has.
-- **The reverse dependencies are unmapped.** Does health failure hold back
-  education? Does insecurity hold back agriculture? Both are plausible and
-  neither was investigated.
+- **Insecurity → agriculture is now mapped and measured** (see the
+  correction). **Health → education remains unmapped**: does a sick
+  population hold back learning, and by how much? Plausible, uninvestigated.
+- **The map still runs mostly one way.** Feedback loops — does agricultural
+  collapse worsen insecurity by producing unemployed young men? — are
+  untested and would change the sequencing again if strong.
 - **Trade and investment (Brief 08)** is missing from the graph.
 
 ---

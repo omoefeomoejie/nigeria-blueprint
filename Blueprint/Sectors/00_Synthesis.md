@@ -139,6 +139,17 @@ And the two warnings: do not start with the visible (roads photograph well
 and support nothing beneath them), and do not start with the biggest number
 (oil is the largest sector by value and the smallest by state actionability).
 
+**Corrected at v0.2: the sequence is regionally conditional.** The first
+version left security out of the graph, because we ranked by what a state
+can act on rather than by position in the dependency chain. Security sits
+under agriculture and transport the way power sits under health: **2.1
+million hectares of northern farmland are inaccessible**, nearly half of it
+in a maize belt producing 44% of national output, with the Northern
+Governors Forum admitting up to 60% of farmland in key states abandoned or
+underutilised [Certified — NAERLS, FAO, NGF]. Where farmland is unsafe,
+security precedes everything physical, and the only lawful state lever is
+Chapter 3's community-intelligence layer.
+
 The map is inference rather than finding, and says so.
 
 ## 5. What this means for the Blueprint
