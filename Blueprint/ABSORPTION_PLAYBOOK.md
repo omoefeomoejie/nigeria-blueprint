@@ -95,17 +95,68 @@ UBEC is simultaneously:
 UBEC can build. The states cannot absorb what UBEC funds. Capacity is
 organisation-specific, and it does not travel with the money.
 
-## The mechanism candidate
+## The failure side — and the question settled
 
-Tracka's own explanation of the failure side: *"Because there are no
-consequences for abandonment of a project, it is almost a tradition for
-local officials to just decide to start another project even when there are
-several other ones that need to be executed."*
+We studied the top performer first. The bottom performer answers the harder
+question, and it is not close.
 
-If that is right, absorption is an **incentive** problem before it is a
-competence problem — and the fix routes to Chapter 4's enforcement gap
-rather than to training programmes. The two readings are testable against
-each other, and this playbook does not yet settle them. **Owed.**
+**The scale.** A forensic audit of the Niger Delta Development Commission
+covering 2001–2019 examined **13,777 projects** and **362 bank accounts**.
+Finding: **over 12,000 of 13,377 projects abandoned after payment** —
+roughly 90%. A later ministerial account puts abandonments above 17,500
+[Certified].
+
+**The mechanism, named by the independent study.** Social Action, with
+MacArthur Foundation support, found that **commission personnel were
+compromised and cornered the larger chunk of payments made to contractors
+who then abandoned the jobs** [Certified]. The audit adds two supporting
+findings: contractors collected mobilisation fees and never mobilised; and
+diligent contractors were stalled by non-payment, some having raised bank
+loans to proceed.
+
+**Contracts were awarded without needs assessment**, producing duplication
+and abandonment. In one year, contracts were allegedly awarded at many times
+the budget. One senator reportedly held 300 contracts, 120 paid, no work
+done [Contested — reported claim].
+
+**The question is settled: incentive, not competence.** This is not an
+organisation that tried and lacked skill. It is an organisation working
+exactly as designed for the people inside it. Tracka's hypothesis —
+consequence, not capability — holds on the evidence.
+
+**And the accountability chain never closed on itself.** The forensic audit
+was submitted in 2021. By 2025 a serving minister had declared the report
+**missing**; it remains unpublished, with civil society still demanding its
+release [Certified]. Chapter 4's four links — publication → usability →
+binding participation → consequence — broke at *link one*, on the very
+document commissioned to fix the problem.
+
+One detail carries the whole case: the commission operated for over twenty
+years from a rented building costing **₦300 million a year that was not
+connected to the national power grid** [Certified].
+
+## The correction this forces on the playbook
+
+UBEC's six practices are **necessary but insufficient**. You cannot bundle,
+measure, publish or digitise your way out of an agency where staff take a
+share of the contractor's payment. Bundling a captured project produces a
+larger captured project.
+
+**Corrected sequence:**
+
+> **1. Secure the payment chain → 2. Install the practices → 3. Measure.**
+
+Step 1 is Chapters 2 and 4 — selection and enforcement — and it sits
+*upstream* of Chapter 1's execution layer. Any state or agency adopting this
+playbook must establish which regime it is in before choosing where to
+start:
+
+- **Low-capacity, uncaptured** → the six practices are the whole fix.
+- **Captured** → practices first will be absorbed by the capture. Integrity
+  work comes first, and it is a different kind of fight.
+
+Diagnostic question: *are payments reaching contractors intact?* If the
+answer is no, nothing else on this page will work.
 
 ## What to require of any agency or state
 
@@ -124,10 +175,13 @@ A checklist a governor, minister or legislature could impose tomorrow:
 
 - **Independent verification of UBEC's internal figures** (95% procurement,
   8.7m learners, ₦100bn mobilised) — currently self-reported.
-- **The failure-side audit.** We have studied the top performer. Nobody has
-  documented what the 16% agency does differently, and the answer may be
-  more instructive.
-- **Whether incentive or competence binds** — the two readings above.
+- **A middle case.** Both poles are now documented (78% clean-ish, 16%
+  captured). What is undocumented is an agency that is honest but
+  incapable — which would test whether the six practices alone can lift a
+  low-capacity, uncaptured organisation.
+- **The NDDC forensic audit report itself**, unpublished since 2021. Its
+  release is the single highest-value disclosure event available in this
+  sector.
 
 ---
 
