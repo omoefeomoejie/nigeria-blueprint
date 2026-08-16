@@ -2,10 +2,15 @@
 
 # Part V — The Movement: Who Carries This
 
-*This is the weakest part of the book, and we would rather say so than
-write it with borrowed confidence. Everything before this rests on
-investigations. This rests on one bet we have not tested and a few findings
-carried over from other chapters.*
+*This is the weakest part of the book, and we would rather say so than write
+it with borrowed confidence. Everything before this rests on investigations.
+This rests on one bet we have not tested and a few findings carried over
+from other chapters.*
+
+*Since this chapter was first drafted, the movement has acquired a shape:
+a platform with an entrance examination, governed by professional-body
+standards rather than party ones. That design lives in `../Platform/`. What
+follows is the reasoning it sits on.*
 
 ---
 

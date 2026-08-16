@@ -33,6 +33,19 @@ reversal, permanently, including the ones that embarrassed us.
 
 ---
 
+## The platform
+
+The Blueprint is what we found. **[Platform/](Platform/)** is the
+organisation built to carry it — with an entrance examination on the
+evidence, governed like a professional institute rather than a party,
+because a movement whose members cannot explain its own findings becomes a
+crowd, and a crowd can be bought.
+
+Start with **[what this is](Platform/00_WHAT_THIS_IS.md)**, then
+**[the membership standard](Platform/01_MEMBERSHIP_STANDARD.md)** and
+**[the syllabus](Platform/03_SYLLABUS.md)** — published in advance, free to
+study, no membership required.
+
 ## The two projects
 
 | | What it is | Who reads it |

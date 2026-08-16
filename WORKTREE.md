@@ -23,6 +23,16 @@ when a node, brief, or session exposes them.
 
 See `RED_TEAM.md` for the full pass.
 
+## Platform work opened (16 Aug 2026)
+
+| # | Item | Who |
+|---|---|---|
+| P1 | **Find an external examiner** — a person or body outside the platform, paid whether candidates pass or fail. Without this the exam fails our own scorekeeper test. | Founder |
+| P2 | **Write the Level 1 question bank** — 40 questions against the published syllabus | Me |
+| P3 | **Cost registration end to end** — 24 offices, fees, compliance. No Nigerian party publishes this; another missing scorekeeper. | Me, 2 drills |
+| P4 | **The supporter tier** — how a person who cannot sit a written exam participates without speaking in the platform's name. Risk 2 in the membership standard is unsolved. | Both |
+| P5 | **Decide the name** — must not reflect ethnic, religious or sectional identity (s.222) | Founder |
+
 ## Now — needs someone
 
 | # | Item | Why | Who |

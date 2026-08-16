@@ -243,6 +243,27 @@ different question.]** · `Research Engine/Lessons Learned/Node_9_Decision.md`
 
 ---
 
+### 17. Party registration is an 8% gate, and the barrier is physical
+Of **171 associations that applied in 2025, 14 met the preliminary
+requirements** — the rest failed mostly on documentation and national
+spread. Registration requires offices in **24 states plus the FCT**,
+physically verified by INEC, a headquarters in Abuja, national officers
+spanning two-thirds of the states, and application at least 12 months before
+a general election.
+
+**And the safeguard was just removed:** under the Electoral Act 2022, INEC's
+failure to decide within the window meant automatic registration. The 2026
+Act deletes that clause — approval must now be express, with a 14-day window
+to challenge refusal in the Federal High Court.
+
+**Implication for any reform platform:** the barrier is logistics and money,
+not ideas. Which is exactly why the qualification-based membership model
+matters — verifiable members who can be produced in person in their own
+states are what physical verification demands.
+**[Certified]** · `Platform/04_LEGAL_ROUTE.md`
+
+---
+
 ## The single largest weakness
 
 Every claim here was verified by one entity against publicly indexed
