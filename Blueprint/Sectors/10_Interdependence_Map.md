@@ -1,4 +1,4 @@
-<!-- BLUEPRINT | Sector Interdependence Map | Draft v0.3 | Source: Sector Briefs 01-09 | Status: DRAFT — inference from documented dependencies, marked as such -->
+<!-- BLUEPRINT | Sector Interdependence Map | Draft v0.4 | Source: Sector Briefs 01-09 | Status: DRAFT — inference from documented dependencies, marked as such -->
 
 # What Has to Move First
 
@@ -111,11 +111,36 @@ now carries more weight than that chapter assumed.
 v0.2 established that security sits under agriculture. The reverse direction
 now measures too, and it closes the circle.
 
-**The recruitment price.** Bandits recruit vulnerable youths for **₦5,000 —
-barely $3** [Certified — IPI Global Observatory]. A survey of 420
-respondents across Zamfara, Katsina and Sokoto found youth unemployment
-significantly increases vulnerability to recruitment, alongside arms
-availability and governance deficits [Certified].
+**The recruitment price — downgraded on attempted corroboration.**
+One source reports bandits recruiting vulnerable youths for **₦5,000, barely
+$3** [**Contested** — IPI Global Observatory, single source; corroboration
+attempted and not found].
+
+**What corroboration found instead, and it matters more.** The economics run
+on **ransom**, not stipends: ₦1 million per student demanded in the Bethel
+Baptist abduction, with about 1,000 students taken in a single period
+[Certified]. Reporting describes participants who joined because kidnapping
+and cattle-rustling became *more lucrative* than herding [Certified — Al
+Jazeera].
+
+So ₦5,000 is plausibly an **entry inducement, not the value proposition**.
+The proposition is a share of ransom revenue, orders of magnitude larger.
+
+What does survive: a 420-respondent survey across Zamfara, Katsina and
+Sokoto finds youth unemployment significantly increases vulnerability to
+recruitment, alongside arms availability and governance deficits
+[Certified]. The *direction* holds. The *price* does not.
+
+**A useful comparator surfaced.** A Nigerian police constable earns roughly
+**₦54,000–62,000 a month** [Certified]. That is the state's own lawful
+alternative for a young man in the same labour market, and it is a real
+number to design against.
+
+**Rejected claim, logged.** The widely repeated assertion that repentant
+Boko Haram members receive ₦150,000 monthly is **false** — fact-checking
+found at best a one-off ₦20,000 grant [Certified — Dubawa/Daily Trust].
+Recorded here because it is exactly the kind of figure a movement is
+tempted to repeat.
 
 **The loop:**
 
@@ -139,15 +164,23 @@ implication that security could go *first and alone* was wrong.
 **Corrected: in the affected regions, security and livelihood move together,
 not in sequence.**
 
-And a design consequence falls straight out of the ₦5,000 figure:
+**The design consequence, restated more carefully.** An earlier version of
+this file argued that because recruitment costs $3, any livelihood
+intervention prices young men out of the market. That was too neat, and the
+failed corroboration exposes why: livelihood work competes not against
+₦5,000 but against a share of million-naira ransoms.
 
-> **Any agricultural or public-works intervention in an affected ward is
-> also a security intervention**, because it prices young men out of
-> recruitment. The threshold is $3.
+What still holds, on the surviving evidence:
 
-That means Chapter 3's community-intelligence layer and Sector 01's farmer
-registry belong in **one programme**, not in two ministries' separate plans.
-A state that runs them apart is paying twice for half the effect.
+> Livelihood work in affected wards is **necessary and insufficient**. It
+> removes the vulnerability that recruiters exploit, and it does not
+> outbid the ransom economy. Security work removes the earnings; livelihood
+> work removes the pool. **Neither alone finishes the job, which is why they
+> must run together** — not because one is cheap.
+
+Chapter 3's community-intelligence layer and Sector 01's farmer registry
+still belong in one programme under one budget line. The reason is
+complementarity, not price.
 
 **Contested, recorded not used:** several sources allege bandit sponsorship
 by wealthy and politically connected individuals. Widely repeated, not
@@ -218,8 +251,11 @@ its budget, and no health budget fixes that.
 - **The security–agriculture loop is now measured in both directions.**
   Remaining one-way sections: health→education; education→everything at
   generational lag. Both plausible, both uninvestigated.
-- **The ₦5,000 threshold is a single-source figure.** It is the most
-  consequential number in this file and deserves independent corroboration.
+- **The ₦5,000 figure failed corroboration and is now Contested.** What
+  replaces it is unquantified: nobody has published what a bandit foot
+  soldier actually earns from ransom shares. That number, if it exists,
+  would tell a state exactly what its livelihood programmes must compete
+  with.
 - **Trade and investment (Brief 08)** is missing from the graph.
 
 ---

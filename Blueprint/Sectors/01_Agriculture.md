@@ -133,9 +133,14 @@ inaccessible** for security reasons, and the Northern Governors Forum admits
 up to 60% of farmland in key agricultural states is abandoned or
 underutilised [Certified].
 
-But the reverse also holds. Bandits recruit idle young men for **₦5,000**
-[Certified]. So the farmer registry, the input voucher and the extension
-scheme in §5 are not only agricultural policy in those wards. **They are
-counter-recruitment**, and they should be budgeted and run jointly with
-Chapter 3's community-intelligence layer rather than by a separate ministry
-on a separate timetable.
+But the reverse also holds. Unemployment significantly raises vulnerability
+to recruitment [Certified — 420-respondent survey, Zamfara/Katsina/Sokoto].
+So the farmer registry, the input voucher and the extension scheme in §5 are
+not only agricultural policy in those wards; they are also
+counter-recruitment, and they belong in one budget line with Chapter 3's
+community-intelligence layer.
+
+**Stated honestly:** livelihood work removes the pool recruiters draw from.
+It does not outbid the ransom economy, which is where the real money is
+(₦1m per abducted student in one documented case). Necessary, insufficient,
+and worth doing for both reasons at once.

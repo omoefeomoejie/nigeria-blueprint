@@ -315,6 +315,29 @@ as an engine-sufficiency signal for governance-class questions, not as a rule.
   node (see Mistake 5.1), and the first correction earned by the vertical
   axis — which is what that axis was built to be capable of.
 
+### Mistake 9.1 — We built a design conclusion on a single-source number
+- **Believed:** bandits recruit at ₦5,000 ($3), therefore any livelihood
+  intervention prices young men out of recruitment. Written into the
+  interdependence map, Chapter 3 and Sector 01 in one commit.
+- **Wrong because:** the figure is single-source and failed corroboration.
+  What corroborated instead was the ransom economy — ₦1m per abducted
+  student in one case, with participants reporting they joined because it
+  paid better than herding. Livelihood work competes against ransom shares,
+  not against ₦5,000.
+- **Why fooled:** the number was vivid, memorable, and produced a clean
+  policy conclusion. Vividness is not corroboration, and a figure that makes
+  the argument tidy deserves *more* scrutiny, not less.
+- **Changed mind:** the corroboration drill, run one commit later, on our
+  own most consequential number.
+- **Rule added:** none — Rule 3 (weight by source) and Rule 8 (attribution)
+  already cover it. Logged because the failure was ours and recent, and
+  because the corrected claim (livelihood work is necessary and
+  insufficient) is weaker but true.
+- **Also rejected in the same drill:** the widely repeated claim that
+  repentant Boko Haram members receive ₦150,000 monthly. Fact-checked false;
+  at best a one-off ₦20,000 grant [Dubawa/Daily Trust]. Recorded because a
+  movement would be tempted to repeat it.
+
 ---
 
 **Next entry:** next investigation.

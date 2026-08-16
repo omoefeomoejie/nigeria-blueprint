@@ -132,13 +132,23 @@ It is therefore not a modest supplement to federal policing. In those
 regions it is the entry condition for every other chapter in this book.
 
 **And it cannot work alone.** The loop runs both ways. Insecurity closes
-farmland; closed farmland idles young men; idle young men are recruited for
-**₦5,000, barely $3** [Certified — IPI Global Observatory]. Clear a ward
-without giving those men something to do and the recruitment pool refills
+farmland; closed farmland idles young men; idle young men are vulnerable to
+recruitment — a 420-respondent survey across Zamfara, Katsina and Sokoto
+confirms unemployment significantly raises that vulnerability [Certified].
+Clear a ward without giving those men something to do and the pool refills
 behind you.
 
-So this chapter's pilot (§8) should not be run as a security programme. It
-should be run jointly with Sector 01's farmer registry and input scheme in
-the same wards, under one budget line. **At a recruitment price of $3, an
-agricultural intervention is a security intervention.** A state that funds
-them separately pays twice for half the effect.
+**What livelihood work can and cannot do.** One source reports recruitment
+at ₦5,000 [Contested — corroboration attempted, not found]. The economics
+that did corroborate are larger: ransom, at around ₦1m per abducted student
+in one documented case, with participants reporting they joined because it
+paid better than herding [Certified]. For comparison, a police constable
+earns roughly ₦54,000–62,000 a month [Certified].
+
+So livelihood work is **necessary and insufficient**. It removes the
+vulnerability recruiters exploit; it does not outbid a ransom share.
+Security work removes the earnings; livelihood work removes the pool.
+
+This chapter's pilot (§8) should therefore run jointly with Sector 01's
+farmer registry in the same wards, under one budget line — for
+complementarity, not because recruitment is cheap to outbid.

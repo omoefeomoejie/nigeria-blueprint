@@ -13,7 +13,7 @@ when a node, brief, or session exposes them.
 | # | Item | Why | Who |
 |---|---|---|---|
 | 1 | **Native review of the three renderings** | Drafts exist in `Doctrine_Translations_DRAFT.md`, all marked unusable. One speaker per language, judging rhythm not literal accuracy. | Founder — not me |
-| 2 | **Corroborate the ₦5,000 recruitment price** | Single-source, and the most consequential number in the interdependence map — it sets the threshold at which livelihood becomes security policy. | Me, 1 drill |
+| 2 | **What a bandit foot soldier actually earns** | The ₦5,000 figure failed corroboration; the ransom economy is what corroborated. Nobody has published what a participant nets from a ransom share — the number a livelihood programme must actually compete with. | Me, 2 drills |
 | 3 | **Independent verification of UBEC's self-reported figures** | 95% procurement completion, 8.7m learners, ₦100bn mobilised — all self-reported. The playbook's practices rest partly on them. | Me, 2 drills |
 | 4 | **Sector Brief 08 — trade & investment** | Last unwritten brief. Assessed as unlikely to yield a ninth finding; available on request. | Me, 1 session |
 | 5 | **Middle-case test of the absorption playbook** | We have the top (78%), the captured bottom (16%), and the results-based middle (65%). Untested: an honest, low-capacity body with no donor scaffolding. | Me, 2 drills |
@@ -86,4 +86,5 @@ and not found, which is itself a finding.
 | Sector Brief 09 (Oil & Gas) — the purest proof | 4ba30d4 |
 | Sector interdependence map — the sequence a state should attack in | 573264e |
 | Reverse dependency: insecurity→agriculture measured; map corrected to regionally conditional | 8377838 |
-| Feedback loop closed: agriculture→insecurity via ₦5,000 recruitment; security-first shown self-defeating alone | this commit |
+| Feedback loop closed: agriculture→insecurity; security-first shown self-defeating alone | 1226a99 |
+| ₦5,000 corroboration attempt — FAILED; figure downgraded to Contested, design conclusion restated, Mistake 9.1 logged | this commit |
