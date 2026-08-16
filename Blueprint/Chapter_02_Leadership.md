@@ -1,11 +1,11 @@
 <!-- BLUEPRINT | Chapter 2 — Leadership Selection | Draft v0.1 | Source: Node 2 (~60% — the weakest backbone node; this chapter says so) | Status: DRAFT -->
 
-# Chapter 2 — Who Gets the Seat: Selecting for Competence
+# Chapter 2 — Who Gets the Seat
 
-*This is the chapter with the largest hole in it, and we mark the hole
-rather than paint over it. Nigeria has proved merit selection can be
-**executed**. No Nigerian case has yet proved it **delivered** — or that it
-**survived** its founder. Both gaps shape the design below.*
+*This chapter has the biggest hole in the book, and we would rather point at
+it than paint over it. Nigeria has shown that merit selection can be carried
+out. No Nigerian case has yet shown that it made services better, or that it
+outlived the governor who started it. Both gaps shape everything below.*
 
 ---
 
@@ -30,11 +30,15 @@ moves measurably against a published baseline.
   room), and failed.
 
 ## 3. The Mechanism
-Not "sack the bad ones." The transferable engine is: **a published
-instrument + a threshold fixed in advance + an institution that owns both +
-pay sufficient to make the job worth keeping honestly.** Georgia's
-fifteenfold salary rise was not generosity; it was the incentive half of the
-mechanism.
+
+The transferable part is not "sack the bad ones." It is four things
+together: a test published before anyone sits, a pass mark fixed in advance,
+an institution that owns both, and pay high enough that the job is worth
+keeping honestly.
+
+Georgia raised police salaries up to fifteenfold. That was not generosity.
+It was the other half of the mechanism. A man who cannot feed his family on
+the salary will find the money somewhere, and no test catches that.
 
 ## 4. Preconditions (Rule 5)
 Political mandate to absorb an organized strike; fiscal room for the pay

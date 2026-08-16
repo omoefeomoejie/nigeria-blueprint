@@ -2,8 +2,9 @@
 
 # Chapter 6 — One People: Building Nigerians Out of Nigerians
 
-*We do not ask anyone to stop being Igbo, Hausa, Yoruba, Ijaw, Tiv, Kanuri —
-or Christian, or Muslim. We ask what makes being Nigerian worth more.*
+*Nobody here is asking you to stop being Igbo, Hausa, Yoruba, Ijaw, Tiv or
+Kanuri, or to stop being Christian or Muslim. The question is what would
+make being Nigerian worth something too.*
 
 ---
 

@@ -12,10 +12,10 @@ when a node, brief, or session exposes them.
 
 | # | Item | Why | Cost |
 |---|---|---|---|
-| 1 | **Voice pass, remaining files** — Chapters 2–8 and the six sector briefs | Done so far: Part I, Doctrine, Part II (full rewrite), Chapter 1 (opening + mechanism), Parts III and V (openings). Find-and-replace cannot fix register; each file needs a real rewrite. | 1–2 sessions |
-| 2 | **Doctrine translations** — Hausa, Yoruba, Igbo | Part V's relay model depends on it | Needs native speakers, not me |
-| 3 | **Domestically-funded results-based payment** — a Nigerian instance without donor scaffolding | REA's model sits inside a World Bank programme with an externally-paid verification agent. Does it survive without that? | 2 drills |
-| 4 | **Enugu integrity check** — promoted from Next | Carries load in three chapters (revenue star, transparency laggard, early electricity transfer). If it publishes better than it performs, several claims move. | 2 drills |
+| 1 | **Doctrine translations** — Hausa, Yoruba, Igbo | Part V's relay model depends on it | Needs native speakers, not me |
+| 2 | **Domestically-funded results-based payment** — a Nigerian instance without donor scaffolding | REA's model sits inside a World Bank programme with an externally-paid verification agent. Does it survive without that? | 2 drills |
+| 3 | **Enugu integrity check** — promoted from Next | Carries load in three chapters (revenue star, transparency laggard, early electricity transfer). If it publishes better than it performs, several claims move. | 2 drills |
+| 4 | **Voice pass, sector briefs** — six files | Chapters and Parts done; briefs are internal-facing so lower priority | 1 session |
 
 ## Next
 
@@ -62,7 +62,8 @@ when a node, brief, or session exposes them.
 | Voice pass on Part I + Doctrine (the two files a stranger reads first) | a26fcf2 |
 | Node 8 (Elections) + Chapter 8 — Rule 7 vindicated; timing-defeat observation logged | v0.18 |
 | SIEC extension — first measured boundary on units-first (who keeps the score?) | v0.19 |
-| Middle-case agency (REA) — results-based payment identified as the structural fix; playbook sequence revised | this commit |
+| Middle-case agency (REA) — results-based payment identified as the structural fix; playbook sequence revised | d08e70d |
+| Voice pass — Doctrine, Parts I/II/III/V, Chapters 1–8 (mechanism sections and openings) | this commit |
 |---|---|
 | Osun mechanism (Contested since Node 1) | v0.16 |
 | Node 1 replication proof | v0.12 (Kwara), v0.16 (three-way) |

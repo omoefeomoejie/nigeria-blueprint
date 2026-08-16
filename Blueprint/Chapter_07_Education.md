@@ -27,12 +27,15 @@ narrowing, not widening.
   Cited here as proof that poverty is not destiny; **not** as a model.
 
 ## 3. The Mechanism
-**Tie money to learning, and let the mayor spend it on anything.** Ceará
-assigned a defined share of its discretionary transfer quota (18%) to an
-Education Quality Index — grade-2 literacy, grade-5 reading and maths, and
-pass rates. Because the reward is a *general* transfer, the whole local
-government cares: the mayor, the finance secretary, not just the education
-office.
+
+Tie the money to whether children learn, then let the local government spend
+it on whatever it likes.
+
+Ceará put 18% of its transfer quota behind a simple index: can a child read
+by primary two, and do arithmetic by primary five. Because the reward is
+general money rather than education money, everyone in the local government
+cares. The chairman cares. The finance officer cares. Not just the education
+desk, which nobody listens to anyway.
 
 **The counterintuitive core [Certified]:** municipalities receiving more
 money did **not** spend more on education (~₦0.45 of every naira-equivalent).

@@ -1,9 +1,10 @@
 <!-- BLUEPRINT | Chapter 4 — Accountability | Draft v0.1 | Source: Node 4 (~70%) | Status: DRAFT -->
 
-# Chapter 4 — Traceable Money: Making Corruption Expensive
+# Chapter 4 — Traceable Money
 
-*The goal is not to "fight corruption." It is to make stealing difficult,
-visible, and usually caught — by machine, not by moral appeal.*
+*Nobody has ever fought corruption by asking people to be better. The goal
+here is narrower and duller: make stealing hard, visible, and usually
+caught. By machine, not by sermon.*
 
 ---
 
@@ -28,11 +29,18 @@ transparency test; >60% of Nigerian corruption cases are procurement-linked;
   non-functional procurement portal. Wealth does not buy the machine.
 
 ## 3. The Mechanism
-Four links, and Nigeria has only built the first: **publication → usability
-→ binding participation → measured leakage reduction.** Publishing is
-necessary and nowhere near sufficient. Kaduna's own civil-society co-chair
-notes the state provides no simplified citizens' budget; BudgIT warns that
-consultation without influence is not accountability [Certified].
+
+There are four links in this chain and Nigeria has built one.
+
+First you publish. Then people must be able to use what you published. Then
+what they say must actually bind somebody. Then the saving must be measured,
+or nobody knows whether any of it worked.
+
+Kaduna publishes better than any state in the federation and its own civil
+society co-chair points out that there is no simplified citizens' budget, so
+ordinary people cannot use it. BudgIT puts the third link plainly:
+consultation that does not change decisions is not accountability
+[Certified].
 
 ## 4. Preconditions (Rule 5)
 Working procurement law and an agency to run it; digital payment rails;

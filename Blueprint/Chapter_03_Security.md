@@ -27,11 +27,14 @@ North.
   institutional-housing lesson, not the mass-dismissal tactic.
 
 ## 3. The Mechanism
-Not more men with guns. **Identification.** Federal forces structurally lack
-what wins these fights: local language, terrain, kinship knowledge — the
-ability to tell a neighbour from an infiltrator [Certified]. The
-transferable mechanism is a **community-intelligence layer feeding lawful
-force**, not a parallel army.
+
+Not more men with guns. The thing that won Maiduguri was knowing who people
+are. Federal soldiers posted far from home do not speak the language, do not
+know the terrain, and cannot tell a neighbour from an infiltrator
+[Certified]. Local men could.
+
+So the mechanism is a community layer that gathers what only locals know and
+hands it to lawful force. Not a parallel army. An eye, not a gun.
 
 ## 4. Preconditions (Rule 5)
 Georgia's rebuild needed a revolution-scale mandate, fiscal room for

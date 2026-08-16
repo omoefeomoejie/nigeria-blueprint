@@ -25,10 +25,13 @@ contested. There is no need to look abroad for this chapter; the natural
 experiment is domestic and recent.
 
 ## 3. The Mechanism
-Not the machine. **The window.** Between counting at the unit and announcing
-at the collation centre lies a gap in which paper travels and figures can
-change. Uploading at the unit, in front of witnesses, closes that gap.
-Uploading later, "in a manner prescribed," leaves it open.
+
+Not the machine. The window.
+
+Between the counting at your polling unit and the announcement at the
+collation centre, paper travels. In that gap, numbers can change. Upload the
+result at the unit, in front of the agents and the crowd, and the gap
+closes. Upload it later, "in a manner prescribed," and the gap stays open.
 
 The committee clause that would have required immediate upload — while
 agents and citizens were still present to verify — is exactly this

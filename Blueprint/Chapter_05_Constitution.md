@@ -2,9 +2,9 @@
 
 # Chapter 5 — The Constitution: Which Doors Are Open
 
-*We neither worship this Constitution nor demand its destruction. We put it
-on trial as a system, and follow the evidence about which parts can move,
-how, and in what order.*
+*We do not worship this Constitution and we are not calling for it to be
+torn up. We put it on trial as a system and followed the evidence on which
+parts can move, how, and in what order.*
 
 ---
 
