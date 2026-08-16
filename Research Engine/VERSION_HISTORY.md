@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.12 | File: VERSION_HISTORY.md | File version: v0.12 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.13 | File: VERSION_HISTORY.md | File version: v0.13 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.12** · **File:** VERSION_HISTORY.md · **File version:** v0.12 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.13** · **File:** VERSION_HISTORY.md · **File version:** v0.13 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -257,6 +257,18 @@ top-3 / 5th-least FAAC-dependent on independent numbers. Replication leg →
 strong-partial; Node 1 confidence ~78%. Owed: Kwara layers 2–3 evidence.
 "Strong" status candidate tested and NOT earned (three-question test held).
 Node_1_Decision → v1.3. MANIFEST v1.9.
+
+---
+
+## v0.13 — Node 6 (National Identity) close — BACKBONE COMPLETE
+
+All six backbone nodes now decision-grade (Revenue ~78%, Leadership ~60%,
+Security ~65%, Accountability ~70%, Constitutional ~65%, Identity ~70%).
+Node 6 anchored by the project's strongest causal evidence (Okunogbe 2024,
+AEJ:Applied — NYSC quasi-random posting). Zero new rules (third such node).
+Mistake 6.1: reference cases decay; identity is a flow (Rule 7, third
+domain). Foundations ledger row "tribe/religion are adaptations" →
+Supported (ethnicity) / Partial (religion). MANIFEST v1.10 (17 files).
 
 ---
 

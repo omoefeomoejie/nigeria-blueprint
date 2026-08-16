@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.12 | File: Mistakes.md | File version: v0.7 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.13 | File: Mistakes.md | File version: v0.8 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.12** · **File:** Mistakes.md · **File version:** v0.7 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.13** · **File:** Mistakes.md · **File version:** v0.8 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -240,6 +240,24 @@ as an engine-sufficiency signal for governance-class questions, not as a rule.
 - **Changed mind:** the 2025–26 implementation reporting (₦10tn still
   state-controlled).
 - **Rule added:** folded into Rule 9's judicial-bypass clause.
+
+---
+
+## Node 6 — National Identity
+
+### Mistake 6.1 — We treated the reference cases as banked achievements
+- **Believed (Foundations-era):** Tanzania (and peers) proved national
+  identity can be built and, implicitly, that once built it holds.
+- **Wrong because:** Afrobarometer R5→R9 shows national-identity preference
+  declining in most celebrated cases (Tanzania −23pp); the ruling party
+  still campaigns on unity 26 years after Nyerere. Identity is a flow
+  requiring perpetual maintenance — the project's own stock/flow rule,
+  which we had not applied to our own reference list.
+- **Why fooled:** success stories fossilize at the moment of their telling.
+- **Changed mind:** the cross-round trend data (drill 1) + Tanzania's live
+  maintenance behavior (drill 2).
+- **Rule added:** none — Rule 7 already covers it; this entry records its
+  third cross-domain application and corrects the Foundations framing.
 
 ---
 
