@@ -102,3 +102,16 @@ warning and the design manual.
    survive even if Osun falls and Enugu's sources prove one-off; [Owed]:
    replication proof and Enugu 2026 durability, tracked in Node 1)
 **Verdict: publishable as Draft v0.1.**
+
+---
+
+### Evidence note (v0.11 sweep)
+Enugu's autonomy independently certified (BudgIT FY2024: 146.68% IGR-to-opex,
+#1 nationally) — but the same auditor places Enugu at the BOTTOM of its
+Q4-2025 transparency league (missing disclosures, weak procurement data),
+while Kaduna scores 39/39 with mid-tier revenue. Confirmation that §3's
+layers and Node 4's accountability machinery are separate builds: this
+chapter's pilot (§6) requires BOTH, and §11's kill condition is a live risk
+profile, not a hypothetical — Enugu is currently running it. Within Enugu's
+non-tax: ₦78bn+ was one-off property sales; licenses/rents (+1,000%) are the
+recurring core. [Certified — BudgIT 10th State of States]

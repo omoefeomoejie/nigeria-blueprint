@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.10 | File: Node_5_Decision.md | File version: v1.0 | Last updated: Engine v0.8 (Node 5 — Constitutional) | Status: Current -->
+<!-- RESEARCH ENGINE v0.11 | File: Node_5_Decision.md | File version: v1.0 | Last updated: Engine v0.8 (Node 5 — Constitutional) | Status: Current -->
 
-**Research Engine v0.10** · **File:** Node_5_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.8 (Node 5 — Constitutional) · **Status:** Current
+**Research Engine v0.11** · **File:** Node_5_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.8 (Node 5 — Constitutional) · **Status:** Current
 
 ---
 

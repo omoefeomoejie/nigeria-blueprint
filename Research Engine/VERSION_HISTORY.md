@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.10 | File: VERSION_HISTORY.md | File version: v0.10 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.11 | File: VERSION_HISTORY.md | File version: v0.11 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.10** · **File:** VERSION_HISTORY.md · **File version:** v0.10 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.11** · **File:** VERSION_HISTORY.md · **File version:** v0.11 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -231,6 +231,20 @@ Node 5 → Node 1 revisit → Doctrine.
 
 **Build-order milestone:** Doctrine, Blueprint chapter, and Research Engine
 now all exist as public, versioned, mutually-tracing artifacts.
+
+---
+
+## v0.11 — owed-items sweep (origin: BudgIT State of States 2025, 10th ed.)
+
+One independent source closed/moved four debts: Enugu FY2024 corroboration
+CLOSED (autonomy-grade: 146.68% IGR-to-opex, #1); within-non-tax
+decomposition PARTIAL (₦78bn one-off property sales vs >1,000% recurring
+licenses/rents; BudgIT transfer-inflow caution); Osun growth independently
+confirmed (mechanism still Contested); Kwara replication candidate
+strengthened (national top-3). NEW cross-node finding: Enugu bottom of the
+Q4-2025 transparency league — revenue layers and accountability machinery
+are independent machines; Chapter 1 evidence note added. Node_1_Decision →
+v1.2. No new rules. MANIFEST v1.8.
 
 ---
 

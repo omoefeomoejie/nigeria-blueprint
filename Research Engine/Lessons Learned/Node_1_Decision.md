@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.10 | File: Node_1_Decision.md | File version: v1.1 | Last updated: Engine v0.9 (Node 1 — 2026 addendum) | Status: Current -->
+<!-- RESEARCH ENGINE v0.11 | File: Node_1_Decision.md | File version: v1.2 | Last updated: Engine v0.11 (owed-items sweep) | Status: Current -->
 
-**Research Engine v0.10** · **File:** Node_1_Decision.md · **File version:** v1.1 · **Last updated:** Engine v0.9 (Node 1 — 2026 addendum) · **Status:** Current
+**Research Engine v0.11** · **File:** Node_1_Decision.md · **File version:** v1.2 · **Last updated:** Engine v0.11 (owed-items sweep) · **Status:** Current
 
 ---
 
@@ -119,3 +119,28 @@ decomposition owed.
 **Confidence: ~70% → ~75%.** Both deferred legs strengthened; neither fully
 closed. Remaining owed: independent 2025 Enugu corroboration; within-non-tax
 decomposition; a layers-only state reaching autonomy-grade; Kwara decomposition.
+
+### Sweep update (Engine v0.11 — BudgIT State of States 2025, 10th ed.)
+- **Independent corroboration (was Owed): CLOSED for FY2024.** BudgIT ranks
+  Enugu #1 in IGR growth (381.44%) and #1 in operating autonomy — 146.68%
+  IGR-to-opex; one of only two states (with Lagos) fully funding operations
+  internally; "most probable state to survive without FAAC."
+- **Within-non-tax decomposition (was Owed): PARTIALLY CLOSED — mixed.**
+  Enugu Housing Corporation contributed ₦78bn+ from property *sales*
+  (one-off asset monetisation, Rule 2.1 suspect category); licenses and
+  rents grew >1,000% (recurring). BudgIT caution: uptick may partly reflect
+  federation-transfer inflows. Durability = a recurring engine coexisting
+  with a one-off chunk. Confidence held at ~75% with sharper-shaped
+  uncertainty, not raised.
+- **Osun:** growth momentum independently confirmed (BudgIT top-5 IGR-growth
+  index). Number no longer interested-source-only; mechanism remains
+  Contested.
+- **Kwara:** replication candidate strengthened — BudgIT national top-3
+  overall. Decomposition still owed.
+- **CROSS-NODE FLAG (feeds Node 4 and Chapter 1):** Enugu sits at the
+  BOTTOM of BudgIT's Q4-2025 transparency league (missing disclosures, weak
+  procurement data) while Kaduna scores 39/39. The revenue layers and the
+  accountability machinery are INDEPENDENT machines; Enugu runs Chapter 1's
+  kill-condition risk profile (collection excellence without disclosure).
+  The Blueprint model is Enugu's layers + Kaduna's machinery — neither
+  state alone.
