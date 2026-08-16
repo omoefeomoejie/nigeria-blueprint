@@ -1,0 +1,48 @@
+<!-- RESEARCH ENGINE v0.3 | File: Assumptions.md | File version: v0.1 | Last updated: Engine v0.2 (post-Node 1 review) | Status: Current -->
+
+**Research Engine v0.3** · **File:** Assumptions.md · **File version:** v0.1 · **Last updated:** Engine v0.2 (post-Node 1 review) · **Status:** Current
+
+---
+
+# Assumptions.md — Untested Beliefs as a Research Program
+
+**Difference from Mistakes.md:**
+- *Mistakes* = things we believed and have now **proven wrong**.
+- *Assumptions* = things we currently believe but have **not yet tested**.
+
+An assumption is not a flaw. It is a debt. Each entry names a belief the project
+is currently leaning on, marks it Untested, and lists the future nodes expected
+to test it. As nodes resolve, an assumption moves to Supported, Partially
+Supported, or migrates to Mistakes.md if disproven. This turns our blind spots
+into a deliberate research program instead of silent bias.
+
+---
+
+## Assumption 1 — The units-first bet (the unresolved fork)
+
+**Belief:** Nigeria's federal structure makes state-level experimentation a more
+effective path to transformation than top-down federal/constitutional reform —
+i.e. you change Nigeria by making willing *states* succeed and forcing the centre
+to follow, rather than by capturing the centre and reforming downward.
+
+**Status:** Untested.
+
+**Why it's load-bearing:** Almost every move so far has quietly assumed it — the
+willing-state pilot logic, competitive federalism, treating Lagos/Enugu/Osun as
+the unit of proof. But the "Constitution on trial" framing assumes the opposite
+(centre-first). The project has never resolved which engine of change it believes
+in. Until it does, this assumption silently shapes conclusions.
+
+**Will be tested by:** future nodes on revenue scaling (does a proven state model
+actually spread, or stall at the borders of the willing state?), the constitutional
+node (can the centre be reformed at all, or only out-competed?), and any node where
+a state-level win fails to generalise nationally.
+
+**Origin:** surfaced repeatedly across the pre-evidence reasoning phase; never
+adjudicated. Logged here so it stops hiding.
+
+---
+
+**Next entry trigger:** any node that exposes a belief we are leaning on without
+having tested. Assumptions are added as they are *noticed*, not invented to fill
+the file.
