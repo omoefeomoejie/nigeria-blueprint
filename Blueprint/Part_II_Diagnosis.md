@@ -129,3 +129,22 @@ and each answers to the same standard: **not achieved — irreversible.**
 4. Residual uncertainty wouldn't change the diagnosis — ✔ (Layer 4 stands on
    Certified material alone)
 **Verdict: publishable as Draft v0.1.**
+
+---
+
+### Convergence note (added with Sector Brief 01)
+
+The vertical axis has begun testing this diagnosis from outside. Working
+independently of this project, a sector economist concludes that Nigeria's
+agricultural productivity deficit is **not a shortage of proven
+technologies** but stems from overlapping institutional failures across
+seed supply, credit, insurance, extension, market access and land tenure
+[Certified — VoxDev, 2026].
+
+That is Layer 4, reached from agriculture rather than from governance, by
+someone who has never read this Blueprint. Each sector brief that
+decomposes into the same root causes strengthens the diagnosis by
+convergence; any sector that fails for reasons the horizontals cannot
+explain will force Layer 4 to be revised. Both outcomes are recorded.
+
+Convergences so far: **1 of 8 planned sectors** (Agriculture).
