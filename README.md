@@ -97,6 +97,18 @@ Nigeria's root problem is not corruption, not tribe, not oil. It is
 without its citizens, staffed by quota, closed to their knowledge, opaque to
 their eyes, and constitutionally gated by the beneficiaries of all four.
 
+**And the newer finding, which tells you what to do about it:** we tested
+sixteen areas of government and asked who keeps the score. Five failed, and
+in every one the state did the thing *and* reported on the thing. Eleven
+passed, and in every one somebody outside was counting — BudgIT, NAERLS,
+Afrobarometer, a federal dashboard, a civic tracker with a camera.
+
+**The map of Nigeria's failures is close to the map of its missing
+scorekeepers.** Which makes the cheapest reform in this book one nobody has
+proposed: found a scorer where none exists. A civic body counting land
+titles issued would cost a fraction of one housing scheme and would make
+every claim in that sector checkable.
+
 And every one of those mechanisms has been beaten somewhere — four of them
 inside Nigeria:
 

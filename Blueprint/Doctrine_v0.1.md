@@ -60,6 +60,20 @@ PG: *No believe us — check am. Everything dey written; anybody fit test am.*
 
 ---
 
+## Candidate line 10 — The Scorekeeper *(new, awaiting the retelling test)*
+
+**EN:** *If nobody outside is counting, nothing is being fixed.*
+**PG:** *If person wey no dey inside no dey count am, dem never fix am.*
+
+Backed by: the sixteen-domain scorekeeper test. Five failures, every one a
+place where government does the thing and reports on the thing; eleven
+passes, every one with somebody outside counting [Certified].
+
+Marked as a candidate rather than adopted, because a doctrine line must
+survive ten retellings and this one has not been tested on a single human
+being. If it does not carry, the finding stays in the Blueprint and out of
+the doctrine.
+
 ## The Wager *(this one is hope, not proof, and we say so)*
 
 EN: *When enough of us know the same truth and move, the country moves.*

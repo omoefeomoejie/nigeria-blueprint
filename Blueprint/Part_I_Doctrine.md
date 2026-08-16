@@ -153,6 +153,26 @@ what would prove us wrong. → *the Research Engine, and every kill condition*
 
 ---
 
+## The tenth line, not yet adopted
+
+> *If nobody outside is counting, nothing is being fixed.*
+
+We tested sixteen areas of Nigerian government and asked one question in
+each: who keeps the score? Five failed, and in every one the same body did
+the work and reported on the work. A governor's commission declaring his own
+elections. A state marking its own teacher test. An electricity regulator
+reporting on the market it licensed. A land registry counting its own
+titles.
+
+Eleven passed, and in every one somebody else was counting.
+
+The domains where Nigeria fails are close to the domains where nobody
+independent counts. That is not a slogan yet — it has never been said to a
+real audience — so it sits here as a candidate rather than among the nine.
+But if it survives being repeated, it may be the most useful line in the
+book, because it turns a complaint into a question anybody can ask of any
+government promise: *who is counting this, and do they work for you?*
+
 ## The Wager
 
 > *When enough of us know the same truth and move, the country moves.*

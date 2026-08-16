@@ -76,19 +76,77 @@ school. Water utilities produce in twenty-eight states and work in sixteen,
 and four in ten boreholes die within two years [Certified, Sectors 02, 04,
 05].
 
-## Layer 4 — The one sentence
+## Layer 4 — The two sentences
 
 > **The Nigerian state lacks the capacity and the incentives to act
 > consistently in the long-term interests of its citizens. It is funded
 > without them, staffed by quota, closed to their knowledge, opaque to their
 > eyes, and the gates that could change any of this are held by the people
 > who benefit from all of it.**
+>
+> **And the one thing that would generate both capacity and incentive —
+> somebody outside government keeping score — is missing in precisely the
+> places that fail.**
 
-Everything in Layer 1 follows from that. Corruption is not the root, it is
-what such a state does. Tribe and religion are not the root, they are where
-citizens flee and what elites pick up. Oil is not the root either. Norway
-and Botswana had the same resource and went elsewhere. The incentives are
-the engine, not the oil.
+Everything in Layer 1 follows from the first sentence. Corruption is not the
+root, it is what such a state does. Tribe and religion are not the root,
+they are where citizens flee and what elites pick up. Oil is not the root
+either. Norway and Botswana had the same resource and went elsewhere. The
+incentives are the engine, not the oil.
+
+The second sentence is the newer finding, and it is the one that tells you
+what to do on Monday.
+
+### Layer 4b — The missing scorekeepers
+
+We tested sixteen domains: eight investigations and eight sectors. In each
+we asked one question. **Who keeps the score?**
+
+Five failed. Elections, leadership selection, security, power, land — and
+in every single one, the state both does the thing and reports on the thing.
+A governor's commission declares his own elections. A state sets, marks and
+announces its own teacher test. A security outfit reports its own crime
+figures. A state electricity regulator licenses operators and then reports
+on the market it created. A land registry sets its own fees and counts its
+own titles.
+
+Eleven passed. And every one has somebody else counting: NBS and BudgIT on
+revenue, Tracka walking to project sites with a camera, Nigeria Health
+Watch computing 7.3% from the federal health dashboard, Afrobarometer on
+identity, NAERLS and FAO on harvests, a federally-run learning assessment.
+
+Now line the two lists up against the country. **The domains where Nigeria
+visibly fails are close to the domains where nobody independent is
+counting.** Where a scorer exists, reform is visible, contestable, and
+occasionally embarrassing to the people who published the data. Where none
+exists, "we have digitised the registry" is a sentence no one can check.
+
+Three consequences follow, and they are more actionable than anything in the
+first sentence of Layer 4.
+
+**One: competitive federalism is a property of measurement, not of
+devolution.** Hand power to thirty-six states with a league table and you
+get competition. Hand it over without one and you get thirty-six monopolies,
+each internally unanimous. That is exactly what happened when sixteen states
+took electricity oversight in 2023 — and why, three years on, nobody can say
+whether supply improved. The devolution moved the scorer along with the
+authority.
+
+**Two: the first question about any reform is who will count it.** Not what
+it costs or who runs it. If the answer is "the body doing the reform," the
+reform is unfalsifiable and will be reported as a success regardless of
+outcome.
+
+**Three: founding a scorer may beat funding a programme.** Nigeria has no
+independent auditor for land registries, for state electricity regulators,
+or for whether a particular borehole still works. A civic body counting
+titles issued and days-to-title would cost a fraction of one housing scheme,
+and would make every subsequent claim in that sector checkable. Nobody has
+proposed this, and it is the cheapest intervention this Blueprint has found.
+
+*[Certified — sixteen-domain test, `Research Engine/SCOREKEEPER_TEST.md`.
+The individual domain verdicts rest on documented evidence; the pattern
+across them is our inference and is marked as such there.]*
 
 ---
 
@@ -175,8 +233,9 @@ law, and defended.
 
 ## What follows from this
 
-If the sentence in Layer 4 is right, the cure is not better people but
-changed structure, in this order: fund the state from its people's work
+If Layer 4 is right, the cure is not better people but changed structure —
+and the first move in every chapter below is to establish who keeps the
+score. In this order: fund the state from its people's work
 (Chapter 1); pick and keep the competent by law rather than by favour
 (Chapter 2); open security to local knowledge under law (Chapter 3); make
 every naira traceable and every trace usable (Chapter 4); take the open
