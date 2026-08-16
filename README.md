@@ -53,6 +53,12 @@ believe any of it — or exactly where to aim if you shouldn't.
 | [7. Education](Blueprint/Chapter_07_Education.md) | How does a poor state actually raise learning? | ~72% |
 | [Part V: Movement](Blueprint/Part_V_The_Movement.md) | Who carries this? | *Weakest part — says so* |
 
+**The sector axis** — six ministries examined against the chapters:
+[what six sectors proved](Blueprint/Sectors/00_Synthesis.md). It added one
+finding to the diagnosis (the state often cannot absorb what it already
+holds), refined it (17 states abandon nothing; 5 hold 97.5% of abandoned
+projects), and corrected two of our own chapters.
+
 Confidence figures are the honest confidence of the investigation behind
 each chapter, not marketing.
 
