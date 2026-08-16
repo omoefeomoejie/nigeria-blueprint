@@ -147,9 +147,17 @@ decomposes into the same root causes strengthens the diagnosis by
 convergence; any sector that fails for reasons the horizontals cannot
 explain will force Layer 4 to be revised. Both outcomes are recorded.
 
-Convergences so far: **2 of 8 planned sectors** (Agriculture, Power).
+Convergences so far: **3 of 8 planned sectors** (Agriculture, Power,
+Primary Health).
 
 Power converged differently and more usefully: it did not merely restate the
 diagnosis — it **corrected a prescription of ours** (Mistakes 8.1). A
 vertical that can amend the horizontal is doing the work it was designed
 for.
+
+Primary health converged a third way: it **demonstrated the cure**. NPHCDA
+published its monitoring dashboard in August 2025; an independent watchdog
+promptly used that data to show only 7.3% of the four-year target had been
+met. Chapter 4's chain — publication → usability → scrutiny — is already
+running in this sector, against the publishing agency's own interest. The
+Blueprint borrows from health here rather than instructing it.
