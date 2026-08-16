@@ -108,3 +108,30 @@ anecdote — ✔ 3. Owed named (no Nigerian measured savings figure exists —
 which is why §6 link 4 and §8 make measurement a build requirement) — ✔
 4. Residual uncertainty wouldn't change the design — ✔
 **Verdict: publishable as Draft v0.1.**
+
+---
+
+### Addendum — the enforcement link already exists
+
+This chapter's fourth link, the one Nigeria had never built, has now been
+found operating: **money conditional on publishing.**
+
+In June 2026 twenty Nigerian states shared **$27 million** under a World
+Bank-supported programme for achieving verifiable reform milestones in
+education, health and public financial management, confirmed by an
+independent verification agent [Certified]. A civic monitoring body drew the
+conclusion for us: published records are no longer merely administrative
+requirements, they are conditions for accessing performance-based grants.
+
+That is what the four links look like when the last one is attached. Not a
+moral appeal to publish, and not a penalty for hiding. A payment that does
+not arrive unless the record is there and an outsider confirms it.
+
+**Design implication for §6.** A state adopting this chapter should not only
+publish. It should make its own local governments' transfers conditional on
+publishing, using the same instrument the federation is now using on states.
+The mechanism travels downward.
+
+**Honest caveat:** the verifier is externally funded. Whether a Nigerian
+government can pay for a verifier that is willing to fail it is the open
+question, recorded in the Absorption Playbook.

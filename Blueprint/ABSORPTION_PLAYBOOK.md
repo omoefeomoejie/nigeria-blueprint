@@ -229,14 +229,53 @@ A checklist a governor, minister or legislature could impose tomorrow:
 8. **Weight for equity explicitly**, or delivery concentrates where capital
    already feels safe (REA's regional skew; Ceará's early gains).
 
+## Does pay-on-output survive without donors? Partly.
+
+The playbook's central rule needed testing: REA's results-based windows sit
+inside a World Bank programme with an externally funded Independent
+Verification Agent. Is this a Nigerian mechanism or a donor artefact?
+
+**Proven in Nigeria, not yet owned by Nigeria.**
+
+*Working instances, all donor-scaffolded:*
+- **NSHIP** (2013–18, Adamawa, Nasarawa, Ondo): performance-based financing
+  against decentralised facility financing, LGAs randomly assigned,
+  evaluated by difference-in-differences. World Bank sponsored. [Certified]
+- **HOPE-GOV** (June 2026): twenty states shared **$27 million** for hitting
+  verifiable Disbursement-Linked Results in basic education, primary
+  healthcare and public financial management, confirmed by an **Interim
+  Independent Verification Agent**. World Bank supported. [Certified]
+
+*Domestic practice runs the other way.* In June 2026 the federal government
+approved payment to over **1,240 contractors on verified claims**, having
+processed over **₦700bn of verified obligations** in recent months. But note
+what that verification is: a check on *arrears* — money owed for work
+already done — not a gate before disbursement. Nigerian commentary argues
+the payment system *should* be aligned to milestones and deliverables and
+that performance-based contracts are "worth being considered" [Certified].
+It is a recommendation, not the norm.
+
+**The narrower question this leaves.** Not "does pay-on-output work in
+Nigeria" — it does, repeatedly, in named states, with measured results. The
+question is whether a Nigerian government can fund and staff its own
+verification agent without an incentive to soften the verdict. Every clean
+case so far has an outsider holding the pen.
+
+**Design response.** Where donor verification is unavailable, substitute
+plural verification: the civic tracker (Tracka already does site visits),
+the professional body, and the beneficiary community each verifying
+independently, with payment released only on agreement. Three interested
+parties who disagree are a weaker instrument than one neutral one, but they
+are far stronger than the paying ministry checking its own work.
+
 ## Owed
 
 - **Independent verification of UBEC's internal figures** (95% procurement,
   8.7m learners, ₦100bn mobilised) — currently self-reported.
-- **Whether results-based payment works without donor scaffolding.** REA's
-  results-based windows sit inside a World Bank-funded programme with an
-  Independent Verification Agent paid for externally. Owed: a
-  domestically-funded Nigerian instance.
+- **A fully domestic instance of pay-on-verified-output** — searched, not
+  found. Every working Nigerian case carries an externally funded verifier.
+  This is the single largest gap between this playbook and a transplantable
+  rule.
 - **The NDDC forensic audit report itself**, unpublished since 2021. Its
   release is the single highest-value disclosure event available in this
   sector.
