@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.13 | File: VERSION_HISTORY.md | File version: v0.13 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.14 | File: VERSION_HISTORY.md | File version: v0.14 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.13** · **File:** VERSION_HISTORY.md · **File version:** v0.13 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.14** · **File:** VERSION_HISTORY.md · **File version:** v0.14 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -269,6 +269,17 @@ AEJ:Applied — NYSC quasi-random posting). Zero new rules (third such node).
 Mistake 6.1: reference cases decay; identity is a flow (Rule 7, third
 domain). Foundations ledger row "tribe/religion are adaptations" →
 Supported (ethnicity) / Partial (religion). MANIFEST v1.10 (17 files).
+
+---
+
+## v0.14 — Node 7 (Skills & Education) close at ~72%
+
+Closes the gap Vision 2050 flagged. Ceará certified via border-discontinuity
+(0.15 SD; doubled with technical assistance); mechanism is fiscal and works
+through mayoral attention, not education spending; equity is a design
+parameter. Vietnam Confounded (≤30% explained, mostly household). Zero new
+rules (fourth such node). Mistake 7.1: the flagship-case trap (Lagos, then
+Vietnam). Chapter 7 drafted. MANIFEST v1.11 (18 files).
 
 ---
 

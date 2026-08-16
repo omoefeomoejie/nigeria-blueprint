@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.13 | File: Node_3_Decision.md | File version: v1.0 | Last updated: Engine v0.5 (Node 3 — Security) | Status: Current -->
+<!-- RESEARCH ENGINE v0.14 | File: Node_3_Decision.md | File version: v1.0 | Last updated: Engine v0.5 (Node 3 — Security) | Status: Current -->
 
-**Research Engine v0.13** · **File:** Node_3_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.5 (Node 3 — Security) · **Status:** Current
+**Research Engine v0.14** · **File:** Node_3_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.5 (Node 3 — Security) · **Status:** Current
 
 ---
 

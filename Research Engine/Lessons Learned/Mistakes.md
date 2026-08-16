@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.13 | File: Mistakes.md | File version: v0.8 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.14 | File: Mistakes.md | File version: v0.9 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.13** · **File:** Mistakes.md · **File version:** v0.8 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.14** · **File:** Mistakes.md · **File version:** v0.9 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -258,6 +258,28 @@ as an engine-sufficiency signal for governance-class questions, not as a rule.
   maintenance behavior (drill 2).
 - **Rule added:** none — Rule 7 already covers it; this entry records its
   third cross-domain application and corrects the Foundations framing.
+
+---
+
+## Node 7 — Skills & Education
+
+### Mistake 7.1 — We entered assuming Vietnam would carry the chapter
+- **Believed:** Vietnam, the famous poor-country PISA outlier, was the model
+  to transplant (it had been named as the structural match since the
+  Foundations-era framework).
+- **Wrong because:** peer-reviewed decomposition shows child/household/school
+  variables explain at most ~30% of its performance, most of that *household*
+  provision rather than policy levers — and growth/culture are entangled with
+  the reforms. Confounded (Rule 1), like Lagos in Node 1.
+- **Why fooled:** fame plus a genuinely robust outcome (the outlier survives
+  out-of-school correction) reads as a proven policy model. Outcome validity
+  is not mechanism validity.
+- **Changed mind:** the LSE/ScienceDirect decomposition read against the World
+  Bank's own account.
+- **Rule added:** none — Rule 1 already covers it. Logged as the second
+  flagship-case confounding (Lagos, then Vietnam): **the most-cited case in
+  any domain is the most likely to be confounded, because fame follows
+  outcomes, not mechanisms.**
 
 ---
 

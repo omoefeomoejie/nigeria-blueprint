@@ -17,6 +17,8 @@
 & Education chapter (its node has not been run — Vision 2050 flags this
 honestly), and Part V (The Movement).
 
+`Chapter_07_Education.md` — Learning: paying for results, not promises (Draft v0.1)
+
 Every chapter runs the same eleven fields, carries evidence statuses, applies
 the stock/flow irreversibility test, and passes the Publication Rule before
 shipping. Claims trace to `../Research Engine/` node decisions.

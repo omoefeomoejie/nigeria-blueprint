@@ -1,10 +1,10 @@
-<!-- RESEARCH ENGINE v0.13 | File: MANIFEST.md | File version: v1.10 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.14 | File: MANIFEST.md | File version: v1.11 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.13** · **File:** MANIFEST.md · **File version:** v1.10 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.14** · **File:** MANIFEST.md · **File version:** v1.11 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
-# MANIFEST — Research Engine v0.13
+# MANIFEST — Research Engine v0.14
 
 The single source of truth for what this engine contains. If a file in your
 copy is not on this list, it is stale — delete it. If a file on this list is
@@ -14,20 +14,20 @@ missing from your copy, restore it from the canonical release.
 git tags. **Canonical author:** Claude (per Option A). Reviews critique
 methodology; file revisions come from one source only.
 
-## Contents (17 files)
+## Contents (18 files)
 
 | Path | File version | Last changed at |
 |---|---|---|
-| `MANIFEST.md` | v1.10 | Engine v0.13 |
+| `MANIFEST.md` | v1.11 | Engine v0.14 |
 | `PREAMBLE.md` | v1.0 | Engine v0.1 |
 | `LAW_ZERO.md` | v1.0 | Engine v0.1 |
 | `RESEARCH_HABIT.md` | v1.0 | Engine v0.2 |
 | `Evidence_Standard.md` | v0.2 | Engine v0.2 |
-| `VERSION_HISTORY.md` | v0.13 | Engine v0.13 |
+| `VERSION_HISTORY.md` | v0.14 | Engine v0.14 |
 | `PUBLICATION_RULE.md` | v1.0 | Engine v0.7 |
 | `Skills/Comparative_Statecraft_Engine.md` | v0.5 | Engine v0.8 |
 | `SOPs/Investigation_SOP.md` | v0.1 | Engine v0.1 |
-| `Lessons Learned/Mistakes.md` | v0.8 | Engine v0.13 |
+| `Lessons Learned/Mistakes.md` | v0.9 | Engine v0.14 |
 | `Lessons Learned/Assumptions.md` | v0.2 | Engine v0.8 |
 | `Lessons Learned/Node_1_Decision.md` | v1.3 | Engine v0.12 |
 | `Lessons Learned/Node_2_Decision.md` | v1.0 | Engine v0.4 |
@@ -35,9 +35,10 @@ methodology; file revisions come from one source only.
 | `Lessons Learned/Node_4_Decision.md` | v1.0 | Engine v0.6 |
 | `Lessons Learned/Node_5_Decision.md` | v1.0 | Engine v0.8 |
 | `Lessons Learned/Node_6_Decision.md` | v1.0 | Engine v0.13 |
+| `Lessons Learned/Node_7_Decision.md` | v1.0 | Engine v0.14 |
 
 ## Version-numbering note
-Engine versions (v0.1 → … → v0.13) mark commits of the whole engine and are git
+Engine versions (v0.1 → … → v0.14) mark commits of the whole engine and are git
 tags. File versions move independently and only when content changes. Semantic
 versioning remains a Candidate (trigger: skill interdependence).
 
@@ -57,8 +58,10 @@ versioning remains a Candidate (trigger: skill interdependence).
   2025–26 RMAFC review's fate; s.162(2) keystone passage question.
 - **Node 6 (National Identity):** decision recorded (~70%). Open: NYSC at
   non-graduate scale; Pidgin-as-unifier evidence; religion mechanism.
-- **BACKBONE COMPLETE.** Next fork: Chapters 2–6 drafting vs targeted owed
-  items.
+- **Node 7 (Skills & Education):** decision recorded (~72%). Open: any
+  Nigerian learning-linked transfer instance; baseline assessment quality.
+- **BACKBONE COMPLETE + Node 7.** All six Blueprint chapters plus Ch.7
+  drafted. Remaining: Part I (Doctrine chapter), Part V (Movement).
 - **Five-step sequence:** COMPLETE at v0.10 (Node 4 → Chapter 1 → Node 5 →
   Node 1 revisit → Doctrine). Next fork: Chapter 2 (Leadership) vs Node 6
   (remaining backbone: national identity) vs open owed items.
