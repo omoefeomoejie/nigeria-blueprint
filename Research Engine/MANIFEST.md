@@ -1,10 +1,10 @@
-<!-- RESEARCH ENGINE v0.18 | File: MANIFEST.md | File version: v1.15 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.19 | File: MANIFEST.md | File version: v1.16 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.18** · **File:** MANIFEST.md · **File version:** v1.15 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.19** · **File:** MANIFEST.md · **File version:** v1.16 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
-# MANIFEST — Research Engine v0.18
+# MANIFEST — Research Engine v0.19
 
 The single source of truth for what this engine contains. If a file in your
 copy is not on this list, it is stale — delete it. If a file on this list is
@@ -18,17 +18,17 @@ methodology; file revisions come from one source only.
 
 | Path | File version | Last changed at |
 |---|---|---|
-| `MANIFEST.md` | v1.15 | Engine v0.18 |
+| `MANIFEST.md` | v1.16 | Engine v0.19 |
 | `PREAMBLE.md` | v1.0 | Engine v0.1 |
 | `LAW_ZERO.md` | v1.0 | Engine v0.1 |
 | `RESEARCH_HABIT.md` | v1.0 | Engine v0.2 |
 | `Evidence_Standard.md` | v0.2 | Engine v0.2 |
-| `VERSION_HISTORY.md` | v0.18 | Engine v0.18 |
+| `VERSION_HISTORY.md` | v0.19 | Engine v0.19 |
 | `PUBLICATION_RULE.md` | v1.0 | Engine v0.7 |
 | `Skills/Comparative_Statecraft_Engine.md` | v0.5 | Engine v0.8 |
 | `SOPs/Investigation_SOP.md` | v0.1 | Engine v0.1 |
 | `Lessons Learned/Mistakes.md` | v0.11 | Engine v0.17 |
-| `Lessons Learned/Assumptions.md` | v0.2 | Engine v0.8 |
+| `Lessons Learned/Assumptions.md` | v0.3 | Engine v0.19 |
 | `Lessons Learned/Node_1_Decision.md` | v1.4 | Engine v0.16 |
 | `Lessons Learned/Node_2_Decision.md` | v1.0 | Engine v0.4 |
 | `Lessons Learned/Node_3_Decision.md` | v1.0 | Engine v0.5 |
@@ -36,10 +36,10 @@ methodology; file revisions come from one source only.
 | `Lessons Learned/Node_5_Decision.md` | v1.2 | Engine v0.17 |
 | `Lessons Learned/Node_6_Decision.md` | v1.0 | Engine v0.13 |
 | `Lessons Learned/Node_7_Decision.md` | v1.0 | Engine v0.14 |
-| `Lessons Learned/Node_8_Decision.md` | v1.0 | Engine v0.18 |
+| `Lessons Learned/Node_8_Decision.md` | v1.1 | Engine v0.19 |
 
 ## Version-numbering note
-Engine versions (v0.1 → … → v0.18) mark commits of the whole engine and are git
+Engine versions (v0.1 → … → v0.19) mark commits of the whole engine and are git
 tags. File versions move independently and only when content changes. Semantic
 versioning remains a Candidate (trigger: skill interdependence).
 

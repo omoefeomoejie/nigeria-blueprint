@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.18 | File: Assumptions.md | File version: v0.2 | Last updated: Engine v0.2 (post-Node 1 review) | Status: Current -->
+<!-- RESEARCH ENGINE v0.19 | File: Assumptions.md | File version: v0.3 | Last updated: Engine v0.2 (post-Node 1 review) | Status: Current -->
 
-**Research Engine v0.18** · **File:** Assumptions.md · **File version:** v0.2 · **Last updated:** Engine v0.2 (post-Node 1 review) · **Status:** Current
+**Research Engine v0.19** · **File:** Assumptions.md · **File version:** v0.3 · **Last updated:** Engine v0.2 (post-Node 1 review) · **Status:** Current
 
 ---
 
@@ -46,3 +46,21 @@ adjudicated. Logged here so it stops hiding.
 **Next entry trigger:** any node that exposes a belief we are leaning on without
 having tested. Assumptions are added as they are *noticed*, not invented to fill
 the file.
+
+---
+
+## Boundary condition added at Engine v0.19 (Node 8 — SIECs)
+
+**Units-first works where the unit's performance is visible and comparable.
+It fails where the unit controls the scoreboard itself.**
+
+Evidence: three 2025 LG elections under state electoral commissions produced
+near-total sweeps for the incumbent state party — Lagos (APC, 375/376
+councillorships), Osun (PDP, 332/332), Ondo (APC, 203/203) — across two
+different parties. The INEC chairman calls LG polls "mere coronation." The
+counterfactual: INEC-run FCT council elections have been competitive, with
+the opposition winning two of three chairmanships in 2015.
+
+**Operational test before recommending devolution in any future node:**
+*who keeps the score?* If the unit does, devolution produces monopoly rather
+than competition, and the prescription inverts to centralisation.

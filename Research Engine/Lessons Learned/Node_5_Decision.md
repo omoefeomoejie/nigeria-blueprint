@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.18 | File: Node_5_Decision.md | File version: v1.2 | Last updated: Engine v0.17 (correction from Sector Brief 02) | Status: Current -->
+<!-- RESEARCH ENGINE v0.19 | File: Node_5_Decision.md | File version: v1.2 | Last updated: Engine v0.17 (correction from Sector Brief 02) | Status: Current -->
 
-**Research Engine v0.18** · **File:** Node_5_Decision.md · **File version:** v1.2 · **Last updated:** Engine v0.17 (correction from Sector Brief 02) · **Status:** Current
+**Research Engine v0.19** · **File:** Node_5_Decision.md · **File version:** v1.2 · **Last updated:** Engine v0.17 (correction from Sector Brief 02) · **Status:** Current
 
 ---
 

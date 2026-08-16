@@ -108,3 +108,29 @@ court rulings) 3. Owed named — ✔ (gazetted text; 2027 result; state
 electoral commissions unexamined) 4. Residual uncertainty would not change
 the ask — ✔ (timing is the ask either way)
 **Verdict: publishable as Draft v0.1.**
+
+---
+
+## Addendum — the tier nobody watches
+
+Everything above concerns national elections. The local elections that
+choose the government closest to you are run by state commissions, and the
+numbers are these: in 2025, Lagos's ruling party won 375 of 376
+councillorship seats; Osun's ruling party won all 332; Ondo's won all 203.
+Two different parties, three states, the same outcome. The INEC chairman
+himself calls these polls "mere coronation of candidates of ruling parties"
+[Certified].
+
+The reason is not that the people who run them are worse people. It is that
+state electoral commissions depend on the governor for their appointments
+and their money. No commission funded by a man can declare against him.
+
+**So this chapter's one recommendation that cuts against the rest of the
+book: local government elections should be run by INEC, not by the states.**
+The proof already exists — INEC runs council elections in the FCT, and the
+opposition has won there.
+
+Everywhere else in this Blueprint we argue for pushing power down, because
+competition between states makes them better. It only works when somebody
+else keeps the score. Hand a governor the referee and you do not get
+thirty-six competing states. You get thirty-six monopolies.

@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.18 | File: Node_8_Decision.md | File version: v1.0 | Last updated: Engine v0.18 (Node 8 — Elections) | Status: Current -->
+<!-- RESEARCH ENGINE v0.19 | File: Node_8_Decision.md | File version: v1.1 | Last updated: Engine v0.19 (SIEC extension) | Status: Current -->
 
-**Research Engine v0.18** · **File:** Node_8_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.18 (Node 8 — Elections) · **Status:** Current
+**Research Engine v0.19** · **File:** Node_8_Decision.md · **File version:** v1.1 · **Last updated:** Engine v0.19 (SIEC extension) · **Status:** Current
 
 ---
 
@@ -123,3 +123,61 @@ units-first logic weakens — state electoral commissions are widely regarded
 as the least credible tier, so devolving election administration further
 would likely worsen integrity. Recorded as a boundary condition on
 Assumption 1.
+
+---
+
+## Extension — State electoral commissions (Engine v0.19)
+
+**The measurement.** Three 2025 local-government elections, two parties,
+three regions:
+- **Lagos** (APC state): APC won all 57 chairmanships and **375 of 376**
+  councillorships; the opposition took one seat, Ward D, Yaba.
+- **Osun** (PDP state): PDP won **all 30** chairmanships and **all 332**
+  councillorships.
+- **Ondo** (APC state): APC won **all 18** chairmanships and **all 203**
+  councillorships.
+
+Different parties, same result. This is not the behaviour of a party; it is
+the behaviour of an institution type. [Certified]
+
+**From inside the system.** The INEC chairman stated publicly that the
+conduct of LG elections "in virtually all the states has become mere
+coronation of candidates of ruling parties" [Certified].
+
+**The counterfactual — and it is decisive.** INEC, not a SIEC, conducts
+council elections in the FCT. Scholarly review records no major challenges
+since 1999, and in the 2015 FCT council poll the **opposition** won two of
+three chairmanships [Certified]. Same country, same voters, same period.
+The variable is who runs the election. [Rule 8 satisfied: mechanism plus
+counterfactual contrast.]
+
+**The mechanism is structural, not moral.** SIECs lack constitutionally
+guaranteed financial and operational independence; governors control their
+appointments and their funding. A commission whose budget and jobs sit in
+the governor's hand cannot rule against him. Rule 7 again: an institution
+without independent housing performs the will of whoever houses it.
+
+---
+
+## BOUNDARY CONDITION ON ASSUMPTION 1 (units-first)
+
+This is the first domain where the project's central assumption is
+**measurably wrong**, and the shape of the exception is precise:
+
+> **Units-first works where the unit's performance is visible and
+> comparable. It fails where the unit controls the scoreboard itself.**
+
+Everywhere else in this Blueprint, devolution creates competition: revenue
+league tables, transparency scores, completion rates, learning indices. A
+governor who performs badly is visibly worse than his neighbour. But hand a
+governor the referee and there is no competition at all — only 36
+uncontested monopolies, each internally unanimous.
+
+**Therefore the correct prescription here is the opposite of everywhere else
+in this Blueprint: centralise.** Transfer local-government elections to
+INEC, with the FCT as the working proof. Any state-level electoral reform
+that leaves appointment and funding with the governor is cosmetic.
+
+**Test for future nodes:** before recommending devolution in any domain, ask
+*who keeps the score?* If the answer is "the unit itself," devolution
+produces monopoly, not competition.

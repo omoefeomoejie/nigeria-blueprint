@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.18 | File: VERSION_HISTORY.md | File version: v0.18 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.19 | File: VERSION_HISTORY.md | File version: v0.19 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.18** · **File:** VERSION_HISTORY.md · **File version:** v0.18 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.19** · **File:** VERSION_HISTORY.md · **File version:** v0.19 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -342,6 +342,21 @@ their **timing** rather than their existence. A second case would earn it.
 Boundary condition added to Assumption 1: elections are where units-first
 weakens — state electoral commissions are the least credible tier.
 MANIFEST v1.15 (19 files).
+
+---
+
+## v0.19 — SIEC extension: the first measured boundary on units-first
+
+Three 2025 LG elections, two parties, near-total sweeps for the incumbent
+state party (Lagos 375/376, Osun 332/332, Ondo 203/203). INEC chairman:
+"mere coronation." Counterfactual: INEC-run FCT council polls competitive,
+opposition winning two of three chairmanships in 2015.
+
+**Boundary condition recorded in Assumptions.md:** units-first works where
+performance is visible and comparable; it fails where the unit controls the
+scoreboard. Operational test for all future nodes: *who keeps the score?*
+Prescription here inverts to centralisation — the only such case in the
+Blueprint. Node_8_Decision v1.1; Chapter 8 addendum.
 
 ---
 
