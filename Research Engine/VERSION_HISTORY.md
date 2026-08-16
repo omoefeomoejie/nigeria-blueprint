@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.4 | File: VERSION_HISTORY.md | File version: v0.4 | Last updated: Engine v0.4 (Node 2 — Leadership Selection) | Status: Current -->
+<!-- RESEARCH ENGINE v0.5 | File: VERSION_HISTORY.md | File version: v0.5 | Last updated: Engine v0.5 (Node 3 — Security) | Status: Current -->
 
-**Research Engine v0.4** · **File:** VERSION_HISTORY.md · **File version:** v0.4 · **Last updated:** Engine v0.4 (Node 2 — Leadership Selection) · **Status:** Current
+**Research Engine v0.5** · **File:** VERSION_HISTORY.md · **File version:** v0.5 · **Last updated:** Engine v0.5 (Node 3 — Security) · **Status:** Current
 
 ---
 
@@ -136,6 +136,33 @@ persisted while its flow died with the founder.
 **Cadence check:** v0.3 (reality) → v0.4 (reality). Two consecutive
 evidence-earned commits — healthy. The warning sign is consecutive *engine-only*
 commits, of which there have been none since v0.2.
+
+---
+
+## v0.5 — third evidence-earned commit (origin: Node 3, Security)
+
+Three drills: Amotekun (perception vs incident conflict), the relative-trend
+check (Southwest rose faster than national — but base effects and threat
+migration block attribution both ways), CJTF (mechanism certified with a
+within-case counterfactual).
+
+**Earned and added:**
+- `Skills/Comparative_Statecraft_Engine.md` → **v0.4**: **Rule 8** —
+  attribution requires mechanism + counterfactual contrast; perception cannot
+  certify; unmeasurable mechanisms cannot be certified. **All three v0.1
+  placeholders are now paid.**
+- `Lessons Learned/Mistakes.md` → v0.5 — entries 3.1–3.2 + Kaduna-claim note.
+- `Lessons Learned/Node_3_Decision.md` — decision at ~65% confidence.
+- `MANIFEST.md` → v1.2 (13 files).
+
+**Honest flags:**
+- The certified security mechanism arose under existential threat; its
+  generalization to ordinary crime is a Rule 5 question, unanswered.
+- Third consecutive node converged on the Constitution (ss. 214–215 joins the
+  revenue formula and federal character). The constitutional node is no longer
+  optional; it is being assembled by the evidence itself.
+
+**Cadence check:** v0.3 → v0.4 → v0.5, all evidence-earned. Healthy.
 
 ---
 

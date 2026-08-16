@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.4 | File: Comparative_Statecraft_Engine.md | File version: v0.3 | Last updated: Engine v0.4 (Node 2 — Leadership Selection) | Status: Current -->
+<!-- RESEARCH ENGINE v0.5 | File: Comparative_Statecraft_Engine.md | File version: v0.4 | Last updated: Engine v0.5 (Node 3 — Security) | Status: Current -->
 
-**Research Engine v0.4** · **File:** Comparative_Statecraft_Engine.md · **File version:** v0.3 · **Last updated:** Engine v0.4 (Node 2 — Leadership Selection) · **Status:** Current
+**Research Engine v0.5** · **File:** Comparative_Statecraft_Engine.md · **File version:** v0.4 · **Last updated:** Engine v0.5 (Node 3 — Security) · **Status:** Current
 
 ---
 
@@ -163,8 +163,32 @@ line: reformers leave stock; founders leave defended flow.
 > new Patrol Police with its own academy, identity, and a public constituency
 > (third most trusted institution by 2009) that made dismantling it costly.
 
+
+### Rule 8 — Attribution requires mechanism plus counterfactual contrast
+Raw before/after outcome data cannot attribute causation in *either* direction
+when the environment is moving (a national surge, a migrating threat, a policy
+wave). Perception surveys measure feeling safe, not being safe — they cannot
+certify outcomes. When outcome attribution is confounded:
+1. Drop to **mechanism-level evidence**: is the specific causal channel
+   (what the intervention supplies that was missing) independently corroborated?
+2. Demand a **within-case counterfactual contrast**: a comparable unit, same
+   environment, without the intervention, that fared differently.
+3. If neither exists, the claim is **Contested at best — an unmeasurable
+   mechanism cannot be certified**, and the Blueprint must say so.
+
+> **Origin — Node 3 (Amotekun vs CJTF):** Amotekun — perception studies showed
+> significant improvement (p=0.006) while Southwest fatalities roughly doubled,
+> faster than the national trend; but base effects and southward threat
+> migration mean the raw numbers prove neither failure nor success. Contested,
+> possibly unmeasurable with public data. CJTF — attribution was joint with the
+> military, yet the mechanism (community members supplying the identification/
+> local-language intelligence federal forces structurally lacked) was
+> corroborated across independent sources, with a within-case contrast:
+> Maiduguri held while comparable LGAs without a strong community organ fell.
+> Mechanism certified; outfit-level outcome claims were not.
+
 ### Ordering note
-*(Rules are numbered by birth order, not priority. Apply 1 → 2 → 2.1 → 3 → 4, then 5 → 6 → 7 on any case proposed for transfer.)*
+*(Rules are numbered by birth order, not priority. Apply 1 → 2 → 2.1 → 3 → 4, then 5 → 6 → 7 on any case proposed for transfer, and 8 wherever outcomes are being attributed.)*
 
 ---
 
@@ -197,12 +221,10 @@ line: reformers leave stock; founders leave defended flow.
 ---
 
 ## Not yet earned (placeholders for future nodes)
-- Causation vs. correlation test — *awaiting a node where a reform and an outcome
-  co-moved but causation was unclear.*
-
-*(Two v0.1 placeholders were earned at Node 2: precondition mapping → Rule 5
-(Kyrgyzstan); political-economy → Rule 6, in modified form — the case showed a
-reform outlived by resistance, not killed by it.)*
+*(None. All three v0.1 placeholders have been paid: precondition mapping →
+Rule 5 (Node 2, Kyrgyzstan); political-economy → Rule 6 in modified form
+(Node 2, Kaduna); causation vs. correlation → Rule 8 (Node 3, Amotekun/CJTF).
+New placeholders are added only when a node exposes a gap.)*
 
 These are listed, not asserted. Under Law Zero they cannot become rules until a
 real investigation pays for them.
@@ -261,8 +283,14 @@ Every rule above is auditable via this fixed block.
 - Reason added: "irreversible" is two separate claims; conflating them overstates what a reform achieved
 - Type: Rule
 
+**Rule 8 — Attribution requires mechanism plus counterfactual contrast**
+- Node: 3 (Security — Amotekun vs CJTF)
+- Evidence: FUOYE perception study (significant improvement) vs Dataphyte fatality series (Southwest deaths ~doubled 2020–24, above national trend) — irreconcilable at outcome level; CJTF mechanism corroborated by CFR/CIVIC/peer-reviewed work with Maiduguri-vs-other-LGAs contrast
+- Reason added: perception cannot certify outcomes; confounded before/after attributes nothing in either direction; certification must drop to mechanism + counterfactual contrast
+- Type: Rule
+
 ---
 
-**Skill version:** v0.3 (Rules 5–7 earned from Node 2; Rules 1–4 unchanged)
+**Skill version:** v0.4 (Rule 8 earned from Node 3; Rules 1–7 unchanged)
 **Earned from:** Node 1 (Revenue Structure)
-**Next update trigger:** Node 3.
+**Next update trigger:** Node 4.

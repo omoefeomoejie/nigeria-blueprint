@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.4 | File: Mistakes.md | File version: v0.4 | Last updated: Engine v0.4 (Node 2 — Leadership Selection) | Status: Current -->
+<!-- RESEARCH ENGINE v0.5 | File: Mistakes.md | File version: v0.5 | Last updated: Engine v0.5 (Node 3 — Security) | Status: Current -->
 
-**Research Engine v0.4** · **File:** Mistakes.md · **File version:** v0.4 · **Last updated:** Engine v0.4 (Node 2 — Leadership Selection) · **Status:** Current
+**Research Engine v0.5** · **File:** Mistakes.md · **File version:** v0.5 · **Last updated:** Engine v0.5 (Node 3 — Security) · **Status:** Current
 
 ---
 
@@ -153,4 +153,36 @@ confidence is priced down accordingly.
 
 ---
 
-**Next entry:** Node 3.
+## Node 3 — Security
+
+### Mistake 3.1 — We nearly accepted perception surveys as outcome evidence
+- **Believed (briefly):** the Ondo mixed-methods study (800 respondents,
+  p = 0.006) showed Amotekun reduced crime.
+- **Wrong because:** it showed people *reported feeling* crime had reduced.
+  Incident data over the same period moved the other way. Perception and
+  incidence are different variables; only one is the outcome.
+- **Why fooled:** "statistically significant" reads as "causally proven." The
+  significance was real — of the wrong variable.
+- **Changed mind:** Dataphyte's fatality series (642 → 1,577).
+- **Rule added:** Rule 8, clause on perception data.
+
+### Mistake 3.2 — We nearly over-read the fatality rise as proof of failure
+- **Believed (briefly):** Southwest deaths doubling post-2020, above the
+  national trend, showed Amotekun failed.
+- **Wrong because:** base effects (the Southwest started far safer than the
+  North — Ekiti is among the lowest-fatality states in the federation) and an
+  exogenous shock (mass kidnapping migrating southward) mean the raw rise
+  proves neither failure nor dampened catastrophe. Symmetric to Mistake 1.5:
+  a falsification result creates momentum to swing to the opposite verdict.
+- **Why fooled:** the counter-evidence *felt* like the honest reading. Raw
+  before/after is not honest in either direction when the environment moves.
+- **Changed mind:** running the same skeptical lens on our own falsification.
+- **Rule added:** Rule 8, clause on confounded before/after.
+
+### Note — Kaduna "zero violent conflict since 2023" (logged, not drilled)
+Claim exists only in the governor's own communications (Rule 3: interested).
+Left Contested-unexamined; flagged for any future Kaduna drill.
+
+---
+
+**Next entry:** Node 4.
