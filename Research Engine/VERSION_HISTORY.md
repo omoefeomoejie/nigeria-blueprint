@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.20 | File: VERSION_HISTORY.md | File version: v0.20 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.21 | File: VERSION_HISTORY.md | File version: v0.21 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.20** · **File:** VERSION_HISTORY.md · **File version:** v0.20 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.21** · **File:** VERSION_HISTORY.md · **File version:** v0.21 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -372,6 +372,29 @@ Abandonment-cycle warning sign logged (new farm estates budgeted alongside
 existing abandoned ones; ₦1bn to the governor's home community).
 Counter-evidence recorded: HOPE-GOV implementation, BVN-linked payroll.
 Node_1_Decision v1.5; Chapter 1 evidence note. Confidence held at ~80%.
+
+---
+
+## v0.21 — the scorekeeper test applied deliberately to all eight nodes
+
+Prompted by the red team's Tier 1.3 finding: the first units-first boundary
+was discovered by accident, so others were unexamined.
+
+**Result: three failures, not one.** Elections (known), leadership selection
+(new), security (new). All three share a shape — the devolved unit generates
+what is measured and also measures it. All passing domains share the
+opposite: an externally funded, independently reputed scorer (NBS, BudgIT,
+Afrobarometer, OGP, federal assessment).
+
+**Finding:** competitive federalism is not a property of devolution; it is a
+property of external measurement.
+
+**Refinement to the test:** *fails and fixable* (insert an external scorer,
+then devolve) versus *fails structurally* (centralise). Softens Node 8's
+prescription from a blanket warning into a design instruction.
+
+Chapters 1, 2, 3 and 7 amended with scorekeeper notes. Assumptions.md
+updated. New file `SCOREKEEPER_TEST.md`. MANIFEST v1.18 (20 files).
 
 ---
 

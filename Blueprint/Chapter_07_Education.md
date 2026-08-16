@@ -133,3 +133,17 @@ Also: the measurement precondition may now be met. UBEC reports a completed
 **National Learning Assessment** with the Federal Ministry of Education
 [Certified]. **Owed:** verify its credibility and state-level granularity —
 if it holds, §6's baseline step is already built.
+
+---
+
+### Scorekeeper constraint
+
+This chapter's mechanism depends on an assessment that determines how much
+money local governments receive. **That assessment must never be run by the
+state whose transfers depend on it.**
+
+If a state ever both administers the test and pays out against it, the
+mechanism inverts into the failure documented in Chapter 8, where the body
+being measured controls the measurement. Ceará's design assumed independent
+assessment; Nigeria's National Learning Assessment is federally run, which
+satisfies the condition today. It is a condition, not a detail.

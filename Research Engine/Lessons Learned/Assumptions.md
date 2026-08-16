@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.20 | File: Assumptions.md | File version: v0.3 | Last updated: Engine v0.2 (post-Node 1 review) | Status: Current -->
+<!-- RESEARCH ENGINE v0.21 | File: Assumptions.md | File version: v0.3 | Last updated: Engine v0.2 (post-Node 1 review) | Status: Current -->
 
-**Research Engine v0.20** · **File:** Assumptions.md · **File version:** v0.3 · **Last updated:** Engine v0.2 (post-Node 1 review) · **Status:** Current
+**Research Engine v0.21** · **File:** Assumptions.md · **File version:** v0.3 · **Last updated:** Engine v0.2 (post-Node 1 review) · **Status:** Current
 
 ---
 
@@ -64,3 +64,31 @@ the opposition winning two of three chairmanships in 2015.
 **Operational test before recommending devolution in any future node:**
 *who keeps the score?* If the unit does, devolution produces monopoly rather
 than competition, and the prescription inverts to centralisation.
+
+---
+
+## Boundary update (Engine v0.21) — three boundaries, two fixable
+
+The scorekeeper test was applied deliberately across all eight nodes
+(`SCOREKEEPER_TEST.md`), after the red team observed we had found the first
+boundary by accident.
+
+**Result: three failures, not one.** Elections (known), **leadership
+selection** (new — the state sets, marks and announces its own competency
+test), and **security** (new — a state outfit reporting its own crime
+figures).
+
+**The shape of failure:** the devolved unit both generates the thing being
+measured and does the measuring.
+
+**The shape of success:** an outside body with its own funding and
+reputation counts — NBS, BudgIT, Afrobarometer, OGP, a federal assessment.
+
+> **Competitive federalism is not a property of devolution. It is a property
+> of external measurement.**
+
+**Refinement to the test:** *fails and fixable* (insert an external scorer,
+then devolve — selection, security) versus *fails structurally* (the scorer
+is the institution; centralise — elections). Assumption 1 remains Partially
+Supported, now with a mapped boundary set rather than a single accidental
+exception.

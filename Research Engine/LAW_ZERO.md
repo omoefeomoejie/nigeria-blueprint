@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.20 | File: LAW_ZERO.md | File version: v1.0 (unchanged since engine v0.1) | Last updated: Engine v0.1 (Node 1 initial commit) | Status: Current -->
+<!-- RESEARCH ENGINE v0.21 | File: LAW_ZERO.md | File version: v1.0 (unchanged since engine v0.1) | Last updated: Engine v0.1 (Node 1 initial commit) | Status: Current -->
 
-**Research Engine v0.20** · **File:** LAW_ZERO.md · **File version:** v1.0 (unchanged since engine v0.1) · **Last updated:** Engine v0.1 (Node 1 initial commit) · **Status:** Current
+**Research Engine v0.21** · **File:** LAW_ZERO.md · **File version:** v1.0 (unchanged since engine v0.1) · **Last updated:** Engine v0.1 (Node 1 initial commit) · **Status:** Current
 
 ---
 

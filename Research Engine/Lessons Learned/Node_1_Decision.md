@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.20 | File: Node_1_Decision.md | File version: v1.5 | Last updated: Engine v0.20 (Enugu integrity check) | Status: Current -->
+<!-- RESEARCH ENGINE v0.21 | File: Node_1_Decision.md | File version: v1.5 | Last updated: Engine v0.20 (Enugu integrity check) | Status: Current -->
 
-**Research Engine v0.20** · **File:** Node_1_Decision.md · **File version:** v1.5 · **Last updated:** Engine v0.20 (Enugu integrity check) · **Status:** Current
+**Research Engine v0.21** · **File:** Node_1_Decision.md · **File version:** v1.5 · **Last updated:** Engine v0.20 (Enugu integrity check) · **Status:** Current
 
 ---
 

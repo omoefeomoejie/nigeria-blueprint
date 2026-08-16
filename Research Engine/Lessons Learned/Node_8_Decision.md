@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.20 | File: Node_8_Decision.md | File version: v1.1 | Last updated: Engine v0.19 (SIEC extension) | Status: Current -->
+<!-- RESEARCH ENGINE v0.21 | File: Node_8_Decision.md | File version: v1.1 | Last updated: Engine v0.19 (SIEC extension) | Status: Current -->
 
-**Research Engine v0.20** · **File:** Node_8_Decision.md · **File version:** v1.1 · **Last updated:** Engine v0.19 (SIEC extension) · **Status:** Current
+**Research Engine v0.21** · **File:** Node_8_Decision.md · **File version:** v1.1 · **Last updated:** Engine v0.19 (SIEC extension) · **Status:** Current
 
 ---
 

@@ -173,3 +173,17 @@ performance report is not an audit.** Publishing the first is easy and
 useful. Withholding the second is where the trouble hides. §6's pilot
 therefore requires both, and §11's kill condition treats an unpublished
 audit as a failure of the chapter, not a technicality.
+
+---
+
+### Scorekeeper caveat
+
+The league tables this chapter relies on for scaling (§9) are computed by
+independent bodies — NBS, BudgIT. That is what makes competitive federalism
+work here.
+
+But **the raw inputs are often supplied by the states being ranked.**
+Enugu's headline 2025 figures are ESIRS-sourced. An independent scorer
+working from state-supplied data is a weaker guarantee than it looks, and
+any state adopting this chapter should expect its numbers to be audited
+rather than accepted.

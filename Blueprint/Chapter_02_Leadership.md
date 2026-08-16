@@ -116,3 +116,18 @@ Nigerian outcome measurement; no succession-proof Nigerian selection case)
 design constraints: measure outcomes, house the flow)
 **Verdict: publishable as Draft v0.1, with its weakness stated in the
 opening paragraph rather than buried.**
+
+---
+
+### Scorekeeper note
+
+A state that sets its own competency test, marks its own scripts and
+announces its own result is keeping its own score — the same structure that
+makes state-run local elections uncompetitive (Chapter 8). Kaduna's 2017
+instrument drew an independent audit finding computation errors and a pass
+mark far above the West African standard, which is what that structure
+produces.
+
+So the independent examiner in §6 is not a procedural nicety. **It is what
+makes devolved selection legitimate at all.** Without it, this chapter is
+recommending that governors grade themselves.

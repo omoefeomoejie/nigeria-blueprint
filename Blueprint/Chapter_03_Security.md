@@ -152,3 +152,16 @@ Security work removes the earnings; livelihood work removes the pool.
 This chapter's pilot (§8) should therefore run jointly with Sector 01's
 farmer registry in the same wards, under one budget line — for
 complementarity, not because recruitment is cheap to outbid.
+
+---
+
+### Scorekeeper note
+
+A state security outfit that reports its own effectiveness is keeping its
+own score. Node 3 already found attribution impossible for Amotekun using
+public data, and this is why.
+
+**Strengthen §6 accordingly:** incident data published **raw, by ward, at
+fixed intervals, and mirrored by an independent civic body** — never
+summarised by the outfit itself. Without an external scorer, this chapter
+cannot tell success from press release, and neither can anyone else.
