@@ -51,6 +51,7 @@ believe any of it — or exactly where to aim if you shouldn't.
 | [5. Constitution](Blueprint/Chapter_05_Constitution.md) | Which constitutional doors are open, and in what order? | ~65% |
 | [6. Identity](Blueprint/Chapter_06_Identity.md) | How do Nigerians become Nigerians without ceasing to be themselves? | ~70% |
 | [7. Education](Blueprint/Chapter_07_Education.md) | How does a poor state actually raise learning? | ~72% |
+| [8. Elections](Blueprint/Chapter_08_Elections.md) | How does the vote counted at your unit survive the journey to the centre? | ~70% |
 | [Part V: Movement](Blueprint/Part_V_The_Movement.md) | Who carries this? | *Weakest part — says so* |
 
 **[The Absorption Playbook](Blueprint/ABSORPTION_PLAYBOOK.md)** — one

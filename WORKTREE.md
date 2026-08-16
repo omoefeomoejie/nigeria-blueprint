@@ -12,7 +12,7 @@ when a node, brief, or session exposes them.
 
 | # | Item | Why | Cost |
 |---|---|---|---|
-| 1 | **Node 8 — Elections** | The horizontal gap; selects the people who run every chapter | Full node |
+| 1 | **State electoral commissions** — the LG-election tier | Node 8 found this the least credible part of the system and entirely unexamined. Also the boundary condition on units-first. | 2 drills |
 | 2 | **A middle-case agency** — honest but incapable | Both poles now documented (78% vs 16% captured). The middle case tests whether practices alone lift a low-capacity, uncaptured body. | 2 drills |
 | 3 | **Doctrine translations** — Hausa, Yoruba, Igbo | Part V's relay model depends on it | Needs native speakers, not me |
 | 4 | **Voice pass, remaining files** — Parts II/III/V, Chapters 1–7, sector briefs | Part I and the Doctrine done; the rest still carry the AI register | 1–2 sessions |
@@ -32,6 +32,8 @@ when a node, brief, or session exposes them.
 | Item | What would change | Where recorded |
 |---|---|---|
 | RMAFC formula transmission | If transmitted, Node 5's central finding weakens — revise by commit | Node_5_Decision v1.1 |
+| **2027 elections** (presidential 16 Jan, governorship 6 Feb) | The only test of whether the 2026 Act's housing produces real-time upload | Node_8_Decision |
+| §60(3) gazetted text | Credible sources conflict on what it requires; read the operative text directly | Node_8_Decision |
 | Federal funding-certainty directive (2026) | If 2026–27 abandonment falls, procurement rules can move absorption | Sector 06 §4 |
 | Enugu FY2025 independent corroboration | Node 1's newest figures are ESIRS-sourced | Node_1_Decision v1.4 |
 | National Learning Assessment quality | If credible and state-disaggregated, Ch.7's baseline step is already built | Ch.7 correction |
@@ -58,7 +60,8 @@ when a node, brief, or session exposes them.
 | Seventeen-states drill (redefined the question: organisational, not geographic; corrected our own overclaim) | d213ef2 |
 | UBEC practice audit → ABSORPTION_PLAYBOOK.md (six transplantable practices + a six-point checklist) | 1d58bcc |
 | Failure-side audit (NDDC): incentive-vs-competence settled; playbook sequence corrected to secure-payment-chain → practices → measure | 77bee7d |
-| Voice pass on Part I + Doctrine (the two files a stranger reads first) | this commit |
+| Voice pass on Part I + Doctrine (the two files a stranger reads first) | a26fcf2 |
+| Node 8 (Elections) + Chapter 8 — Rule 7 vindicated; timing-defeat observation logged | this commit |
 |---|---|
 | Osun mechanism (Contested since Node 1) | v0.16 |
 | Node 1 replication proof | v0.12 (Kwara), v0.16 (three-way) |

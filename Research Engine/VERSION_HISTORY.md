@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.17 | File: VERSION_HISTORY.md | File version: v0.17 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.18 | File: VERSION_HISTORY.md | File version: v0.18 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.17** · **File:** VERSION_HISTORY.md · **File version:** v0.17 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.18** · **File:** VERSION_HISTORY.md · **File version:** v0.18 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -320,6 +320,28 @@ certified-number rule, actionability triage). Briefs 01 (Agriculture) and
 
 Elections reclassified as horizontal (Node 8 candidate); diplomacy folded
 into a future trade brief. MANIFEST v1.14.
+
+---
+
+## v0.18 — Node 8 (Elections) close at ~70%
+
+The horizontal gap closed. BVAS accredited; IReV published without legal
+force (31.8% uploaded in 36 hours; courts held IReV "merely a public
+viewing portal"). Rule 7 vindicated in its most consequential domain: an
+administratively-built flow had no legal duty to breach. Rule 9 confirmed at
+speed — the 2026 Act signed ~24 hours after harmonisation, while the
+revenue-formula proposal has waited since 2022.
+
+Recorded unresolved: what §60(3) as signed actually requires (sources
+conflict; probable reconciliation is transmission mandatory, real-time not),
+and incapacity vs subversion in 2023.
+
+New observation logged, not asserted: reforms can be defeated by amending
+their **timing** rather than their existence. A second case would earn it.
+
+Boundary condition added to Assumption 1: elections are where units-first
+weakens — state electoral commissions are the least credible tier.
+MANIFEST v1.15 (19 files).
 
 ---
 

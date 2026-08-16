@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.17 | File: Node_6_Decision.md | File version: v1.0 | Last updated: Engine v0.13 (Node 6 — National Identity) | Status: Current -->
+<!-- RESEARCH ENGINE v0.18 | File: Node_6_Decision.md | File version: v1.0 | Last updated: Engine v0.13 (Node 6 — National Identity) | Status: Current -->
 
-**Research Engine v0.17** · **File:** Node_6_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.13 (Node 6 — National Identity) · **Status:** Current
+**Research Engine v0.18** · **File:** Node_6_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.13 (Node 6 — National Identity) · **Status:** Current
 
 ---
 
