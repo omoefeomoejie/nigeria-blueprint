@@ -15,7 +15,7 @@ when a node, brief, or session exposes them.
 | 1 | **Native review of the three renderings** | Drafts now exist in `Doctrine_Translations_DRAFT.md`, all unreviewed and marked unusable. One speaker per language, judging rhythm not literal accuracy. | Founder action, not mine |
 | 2 | **Enugu integrity check** | Carries load in three chapters. If it publishes better than it performs, several claims move. | 2 drills |
 | 3 | **Enugu integrity check** — promoted from Next | Carries load in three chapters (revenue star, transparency laggard, early electricity transfer). If it publishes better than it performs, several claims move. | 2 drills |
-| 4 | **Sector Briefs 07–09** — housing, trade, oil & gas | Deliberately deferred at six; marginal finding was falling. Available if a specific question requires them. | 1 session each |
+| 4 | **Sector Briefs 08–09** — trade, oil & gas | 07 (housing) written and produced the largest single number in the Blueprint. Oil & gas next: worth writing precisely because it is the expected lead and the least state-actionable. | 1 session each |
 
 ## Next
 
@@ -68,7 +68,8 @@ when a node, brief, or session exposes them.
 | Doctrine translation drafts (HA/YO/IG) written and quarantined pending native review | 321892e |
 | Domestically-funded pay-on-output question — answered: proven in Nigeria, not owned by Nigeria; every case donor-verified | 9f2baae |
 | Enugu integrity check — debt caveat, audited-accounts gap, abandonment warning; new distinction earned (self-report ≠ audit) | v0.20 |
-| Voice pass complete — Doctrine, all five Parts, Chapters 1–8, six sector briefs, synthesis | this commit |
+| Voice pass complete — Doctrine, all five Parts, Chapters 1–8, six sector briefs, synthesis | 0178634 |
+| Sector Brief 07 (Housing & Land) — $300bn dead capital; the fee-wall finding; register-as-infrastructure | this commit |
 |---|---|
 | Osun mechanism (Contested since Node 1) | v0.16 |
 | Node 1 replication proof | v0.12 (Kwara), v0.16 (three-way) |

@@ -200,10 +200,13 @@ technologies"), BudgIT's Tracka after visiting 2,760 projects ("this is no
 longer a funding problem"), and UBEC's Executive Secretary ("not the amount
 of money accessed or spent, but the impact").
 
-Convergences: **6 of 8 planned sectors.** Two of them did more than confirm.
-Power corrected one of our prescriptions; primary health showed the cure
-already running, with an agency publishing data that a watchdog immediately
-used against it.
+Convergences: **7 of 9 planned sectors.** Three did more than confirm. Power corrected one of our prescriptions;
+primary health showed the cure already running, with an agency publishing
+data a watchdog immediately used against it; and housing inverted the
+diagnosis — the only sector where the state is not failing to deliver
+something but preventing citizens from using what they already own. $300bn
+of Nigerian property, roughly 60% of GDP, is frozen because registering it
+costs up to a third of its value.
 
 ---
 

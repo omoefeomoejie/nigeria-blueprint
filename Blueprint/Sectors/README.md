@@ -69,7 +69,7 @@ symmetry would have been warehouse-building.
 | 4 ✔ | Basic education | Chapter 7's mechanism applies directly |
 | 5 ✔ | Water & sanitation | State-owned, measurable, currently invisible |
 | 6 ✔ | Transport & roads | Large state capital budgets, weak conversion |
-| 7 — | Housing & land admin (not written) | Ties to Chapter 1's revenue layer |
+| 7 ✔ | Housing & land admin | Ties to Chapter 1's revenue layer |
 | 8 — | Trade & investment (not written) | Includes the only state-level handle on diplomacy |
 | — | Oil & gas | Deliberately late: states cannot act alone here |
 
