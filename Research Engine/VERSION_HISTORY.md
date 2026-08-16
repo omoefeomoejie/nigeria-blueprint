@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.21 | File: VERSION_HISTORY.md | File version: v0.21 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.22 | File: VERSION_HISTORY.md | File version: v0.22 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.21** · **File:** VERSION_HISTORY.md · **File version:** v0.21 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.22** · **File:** VERSION_HISTORY.md · **File version:** v0.22 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -395,6 +395,29 @@ prescription from a blanket warning into a design instruction.
 
 Chapters 1, 2, 3 and 7 amended with scorekeeper notes. Assumptions.md
 updated. New file `SCOREKEEPER_TEST.md`. MANIFEST v1.18 (20 files).
+
+---
+
+## v0.22 — real-terms restatement (red team Tier 3.2)
+
+Deflators applied: 2024 inflation 31.4%, 2025 23.01%; ₦1 in early 2023 ≈
+₦0.50 by end-2025.
+
+**Osun's growth claim retired** — approximately flat in real terms. First
+case in the project killed by our own arithmetic rather than by contrary
+evidence. Retained as a mechanism example only. **Enugu** restated to ~5.3×
+real over two years (not ~10.8× nominal). **Kwara** to ~40–50% real (not
+262.8%). **Oil derivation strengthens** — a large real increase alongside
+the worst delivery record.
+
+Node 1 confidence held at ~80%: the three layers are structural claims and
+mechanisms do not deflate. But we ran sixteen investigations before applying
+a CPI table, and it took an adversarial pass to notice.
+
+New file `REAL_TERMS.md`, including the honest caveat that NBS rebased the
+CPI mid-period, so these figures are directional rather than precise.
+Rule candidate logged, not earned: *deflate before you celebrate.*
+MANIFEST v1.19 (21 files).
 
 ---
 

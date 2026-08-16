@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.21 | File: Assumptions.md | File version: v0.3 | Last updated: Engine v0.2 (post-Node 1 review) | Status: Current -->
+<!-- RESEARCH ENGINE v0.22 | File: Assumptions.md | File version: v0.3 | Last updated: Engine v0.2 (post-Node 1 review) | Status: Current -->
 
-**Research Engine v0.21** · **File:** Assumptions.md · **File version:** v0.3 · **Last updated:** Engine v0.2 (post-Node 1 review) · **Status:** Current
+**Research Engine v0.22** · **File:** Assumptions.md · **File version:** v0.3 · **Last updated:** Engine v0.2 (post-Node 1 review) · **Status:** Current
 
 ---
 

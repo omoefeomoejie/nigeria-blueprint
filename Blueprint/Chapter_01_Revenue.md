@@ -27,11 +27,12 @@ for 71–92% of revenue.
   eliminated. A structurally ordinary state escaped dependence.
 - **Lagos** [Confounded]: real reform (LIRS, 800k+ properties digitized) —
   inseparable from uncopyable commercial geography. Illustration, not model.
-- **Osun** [Certified — layer 1 only]: ₦22.4bn (2021) → ₦58.8bn (2025),
-  +162%, mechanism independently confirmed as **tax harmonisation +
-  digitisation blocking leakages** (Dataphyte, 2026). Note the limit: IGR
-  has stayed below 50% of total revenue — collection integrity proven,
-  dependence-escape not achieved.
+- **Osun** [Certified — mechanism only]: mechanism independently confirmed
+  as **tax harmonisation + digitisation blocking leakages** (Dataphyte,
+  2026). **But the growth is nominal.** ₦22.4bn (2021) → ₦58.8bn (2025) is
+  +162% on paper and approximately flat in real terms once inflation is
+  removed. We cite Osun for *how* it collects, not for *how much*. IGR has
+  also stayed below 50% of total revenue.
 - **Kwara** [Certified (layer 1 + succession) / Owed (layers 2–3)]: the
   replication case. No endowment; recurring composition (taxes + MDA fees);
   262.8% growth 2020–24 into BudgIT's national top-3 and 5th-least
@@ -187,3 +188,23 @@ Enugu's headline 2025 figures are ESIRS-sourced. An independent scorer
 working from state-supplied data is a weaker guarantee than it looks, and
 any state adopting this chapter should expect its numbers to be audited
 rather than accepted.
+
+---
+
+### Real-terms note (v0.22)
+
+Nigerian prices roughly doubled between early 2023 and end-2025 (inflation
+averaged 31.4% in 2024 and 23.01% in 2025). Every revenue figure in this
+chapter was originally quoted in nominal naira, which flatters all of them.
+
+Restated:
+- **Enugu** grew about **5.3× in real terms** over two years, not the ~10.8×
+  the nominal figures suggest. Still the strongest case in the country.
+- **Kwara** grew about **40–50% real**, not 262.8%.
+- **Osun's growth is approximately flat in real terms** and has been
+  withdrawn as a magnitude case.
+
+**The mechanism is unaffected**, because the three jobs — block the leak,
+plan the money, show the work — are structural claims, not naira claims. But
+any state adopting this chapter should set its targets in real terms, or it
+will congratulate itself on inflation.

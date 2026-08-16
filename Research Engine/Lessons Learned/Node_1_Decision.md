@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.21 | File: Node_1_Decision.md | File version: v1.5 | Last updated: Engine v0.20 (Enugu integrity check) | Status: Current -->
+<!-- RESEARCH ENGINE v0.22 | File: Node_1_Decision.md | File version: v1.6 | Last updated: Engine v0.22 (real-terms restatement) | Status: Current -->
 
-**Research Engine v0.21** · **File:** Node_1_Decision.md · **File version:** v1.5 · **Last updated:** Engine v0.20 (Enugu integrity check) · **Status:** Current
+**Research Engine v0.22** · **File:** Node_1_Decision.md · **File version:** v1.6 · **Last updated:** Engine v0.22 (real-terms restatement) · **Status:** Current
 
 ---
 
@@ -229,3 +229,26 @@ built; the audit is being withheld. Both are true.
 
 **Owed:** Enugu's 2024 audited accounts, if published. Their content would
 settle whether the transparency gap is administrative delay or avoidance.
+
+---
+
+## Real-terms restatement (Engine v0.22)
+
+Applied after the red team flagged that our headline figures are nominal
+naira across a currency collapse (2024 inflation 31.4%, 2025 23.01%; ₦1 in
+early 2023 ≈ ₦0.50 by end-2025).
+
+- **Enugu:** real growth ~5.3× over two years, not the ~10.8× implied
+  nominally. Case survives, magnitude roughly halved.
+- **Kwara:** ~+40–50% real, not +262.8%. Case survives; the
+  succession-survival finding is unaffected (not a magnitude claim).
+- **Osun: the growth claim does not survive.** Real growth approximately
+  flat. **Withdrawn as a replication case**; retained only as a mechanism
+  example (harmonisation + digitisation, independently confirmed).
+- **Layer-1 replication now rests on two magnitude cases (Enugu, Kwara) plus
+  one mechanism-only case (Osun).**
+
+**Confidence held at ~80%.** The three institutional layers are a structural
+claim, not a magnitude claim, and mechanisms do not deflate. But the node
+was quoting inflated numbers and did not notice for twenty-two engine
+versions. See `REAL_TERMS.md`.

@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.21 | File: SCOREKEEPER_TEST.md | File version: v1.0 | Last updated: Engine v0.21 | Status: Current -->
+<!-- RESEARCH ENGINE v0.22 | File: SCOREKEEPER_TEST.md | File version: v1.0 | Last updated: Engine v0.21 | Status: Current -->
 
-**Research Engine v0.21** · **File:** SCOREKEEPER_TEST.md · **File version:** v1.0 · **Last updated:** Engine v0.21 · **Status:** Current
+**Research Engine v0.22** · **File:** SCOREKEEPER_TEST.md · **File version:** v1.0 · **Last updated:** Engine v0.21 · **Status:** Current
 
 ---
 

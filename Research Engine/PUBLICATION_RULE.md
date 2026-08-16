@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.21 | File: PUBLICATION_RULE.md | File version: v1.0 | Last updated: Engine v0.7 (Chapter 1 drafting) | Status: Current -->
+<!-- RESEARCH ENGINE v0.22 | File: PUBLICATION_RULE.md | File version: v1.0 | Last updated: Engine v0.7 (Chapter 1 drafting) | Status: Current -->
 
-**Research Engine v0.21** · **File:** PUBLICATION_RULE.md · **File version:** v1.0 · **Last updated:** Engine v0.7 (Chapter 1 drafting) · **Status:** Current
+**Research Engine v0.22** · **File:** PUBLICATION_RULE.md · **File version:** v1.0 · **Last updated:** Engine v0.7 (Chapter 1 drafting) · **Status:** Current
 
 ---
 

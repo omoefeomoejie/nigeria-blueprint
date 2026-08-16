@@ -132,6 +132,9 @@ now receive money conditional on publishing records.
 - **₦5,000 recruitment price** carried a tidy design conclusion for one
   commit, failed corroboration, and was downgraded. A figure that makes an
   argument neat deserves more scrutiny, not less.
+- **Every revenue figure was nominal** across a period when prices doubled.
+  Deflated, Osun's growth vanishes and Enugu's halves. We ran sixteen
+  investigations before applying a CPI table.
 
 Eleven entries, three correcting our own prior nodes. All permanent.
 `Research Engine/Lessons Learned/Mistakes.md`
