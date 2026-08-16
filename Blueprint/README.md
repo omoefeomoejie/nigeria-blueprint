@@ -13,7 +13,7 @@
 | `Chapter_05_Constitution.md` | Which doors are open: the gate map | Draft v0.1 |
 | `Chapter_06_Identity.md` | Building Nigerians out of Nigerians | Draft v0.1 |
 
-**Still missing:** Part I (Doctrine expanded into its full chapter), a Skills
+**Still missing:** Part I (Doctrine expanded into its full chapter).
 & Education chapter (its node has not been run — Vision 2050 flags this
 honestly), and Part V (The Movement).
 
