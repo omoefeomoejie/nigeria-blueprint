@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.11 | File: Node_1_Decision.md | File version: v1.2 | Last updated: Engine v0.11 (owed-items sweep) | Status: Current -->
+<!-- RESEARCH ENGINE v0.12 | File: Node_1_Decision.md | File version: v1.3 | Last updated: Engine v0.12 (Kwara replication drill) | Status: Current -->
 
-**Research Engine v0.11** · **File:** Node_1_Decision.md · **File version:** v1.2 · **Last updated:** Engine v0.11 (owed-items sweep) · **Status:** Current
+**Research Engine v0.12** · **File:** Node_1_Decision.md · **File version:** v1.3 · **Last updated:** Engine v0.12 (Kwara replication drill) · **Status:** Current
 
 ---
 
@@ -144,3 +144,22 @@ decomposition; a layers-only state reaching autonomy-grade; Kwara decomposition.
   kill-condition risk profile (collection excellence without disclosure).
   The Blueprint model is Enugu's layers + Kaduna's machinery — neither
   state alone.
+
+### Kwara replication drill (Engine v0.12)
+- **Replication leg: partial → STRONG-PARTIAL. Confidence ~75% → ~78%.**
+- Kwara: no endowment (no oil/port/mineral windfall); composition recurring
+  (2023: ₦23.1bn tax + ₦36.5bn MDA fees — administrative, not one-off);
+  growth 262.8% (2020–24) into BudgIT national top-3, 5th-least
+  FAAC-dependent; numbers independent (NBS/BudgIT).
+- **Rule 7 corroboration in the revenue domain:** KW-IRS created by statute
+  (Revenue Administration Law No. 6 of 2015), survived the 2019 hostile
+  succession ("O to ge") and was reformed, not scrapped — automation,
+  leakage-blocking, tax-net expansion continued. First revenue-authority
+  flow shown to survive a party-change succession (Enugu remains
+  founder-tenure). Academic corroboration of the institutional arc.
+- Limits: IGR covers ~58% of opex (Index 1.73) — trending toward autonomy,
+  not arrived; layers 2–3 (capex share, conversion) not yet evidenced —
+  **named owed fact**; mechanism narrative partly KW-IRS-told.
+- Engine discipline note: the "Strong" status candidate got its first real
+  test and was NOT earned — Contested-with-named-owed-fact suffices
+  (three-question test, Q3). Candidate stands.

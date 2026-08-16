@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.11 | File: VERSION_HISTORY.md | File version: v0.11 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.12 | File: VERSION_HISTORY.md | File version: v0.12 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.11** · **File:** VERSION_HISTORY.md · **File version:** v0.11 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.12** · **File:** VERSION_HISTORY.md · **File version:** v0.12 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -245,6 +245,18 @@ strengthened (national top-3). NEW cross-node finding: Enugu bottom of the
 Q4-2025 transparency league — revenue layers and accountability machinery
 are independent machines; Chapter 1 evidence note added. Node_1_Decision →
 v1.2. No new rules. MANIFEST v1.8.
+
+---
+
+## v0.12 — Kwara replication drill (origin: Node 1 replication leg)
+
+Kwara: ordinary endowment, recurring composition, layer-1 by statute
+(KW-IRS, 2015 law), survived hostile 2019 succession — first revenue-flow
+succession-survival case (Rule 7 corroborated in a new domain). BudgIT
+top-3 / 5th-least FAAC-dependent on independent numbers. Replication leg →
+strong-partial; Node 1 confidence ~78%. Owed: Kwara layers 2–3 evidence.
+"Strong" status candidate tested and NOT earned (three-question test held).
+Node_1_Decision → v1.3. MANIFEST v1.9.
 
 ---
 
