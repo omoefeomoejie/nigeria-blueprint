@@ -70,8 +70,8 @@ symmetry would have been warehouse-building.
 | 5 ✔ | Water & sanitation | State-owned, measurable, currently invisible |
 | 6 ✔ | Transport & roads | Large state capital budgets, weak conversion |
 | 7 ✔ | Housing & land admin | Ties to Chapter 1's revenue layer |
-| 8 — | Trade & investment (not written) | Includes the only state-level handle on diplomacy |
-| — | Oil & gas | Deliberately late: states cannot act alone here |
+| 8 — | Trade & investment (not written; unlikely to produce a new finding) | Includes the only state-level handle on diplomacy |
+| 9 ✔ | Oil & gas | Written last by design; the argument for lastness is the finding |
 
 ## Two corrections to the original sector list
 

@@ -200,7 +200,7 @@ technologies"), BudgIT's Tracka after visiting 2,760 projects ("this is no
 longer a funding problem"), and UBEC's Executive Secretary ("not the amount
 of money accessed or spent, but the impact").
 
-Convergences: **7 of 9 planned sectors.** Three did more than confirm. Power corrected one of our prescriptions;
+Convergences: **8 of 9 planned sectors.** Three did more than confirm. Power corrected one of our prescriptions;
 primary health showed the cure already running, with an agency publishing
 data a watchdog immediately used against it; and housing inverted the
 diagnosis — the only sector where the state is not failing to deliver
