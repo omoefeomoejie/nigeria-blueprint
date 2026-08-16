@@ -113,6 +113,6 @@ self-constraining amendment; live 2025–26 RMAFC review outcome) — ✔
 The 2025–26 RMAFC review is complete and its proposals are "ready for
 transmission." Not transmitted. In the same period the commission's
 *remuneration* proposals reached the President and became law. The gate is
-observable in real time, sorted by loss-type — which is why §6(c)'s keystone
+observable in real time, sorted by loss-type, which is why §6(c)'s keystone
 (a transmission deadline in s.162(2)) is this chapter's central ask rather
 than a better formula. [Certified — contemporaneous reporting]

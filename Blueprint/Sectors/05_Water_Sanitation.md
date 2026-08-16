@@ -74,7 +74,7 @@ from candidate to stated finding in Part II, Layer 3.
 **Exit is available here, and that changes the politics.** You cannot
 privately drill your own police force or your own currency. You can drill
 your own borehole for a few hundred thousand naira. Sectors where exit is
-cheap lose their reform constituency first — which is why water reform is
+cheap lose their reform constituency first, which is why water reform is
 politically invisible despite affecting everyone. Any water strategy must
 therefore *recruit* the exited, not assume them.
 
