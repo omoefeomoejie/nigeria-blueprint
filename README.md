@@ -53,6 +53,11 @@ believe any of it — or exactly where to aim if you shouldn't.
 | [7. Education](Blueprint/Chapter_07_Education.md) | How does a poor state actually raise learning? | ~72% |
 | [Part V: Movement](Blueprint/Part_V_The_Movement.md) | Who carries this? | *Weakest part — says so* |
 
+**[The Absorption Playbook](Blueprint/ABSORPTION_PLAYBOOK.md)** — one
+Nigerian agency completes 78% of its projects; another completes 16%. Same
+law, same contractors, same year. What the difference consists of, and a
+six-point checklist any government could impose tomorrow.
+
 **The sector axis** — six ministries examined against the chapters:
 [what six sectors proved](Blueprint/Sectors/00_Synthesis.md). It added one
 finding to the diagnosis (the state often cannot absorb what it already

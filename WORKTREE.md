@@ -12,13 +12,14 @@ when a node, brief, or session exposes them.
 
 | # | Item | Why | Cost |
 |---|---|---|---|
-| 1 | **What UBEC does** — the federation's best-executing agency (78%) vs the worst (16%) | Absorption proved organisational, not geographic. One agency, public leadership, published method — far more tractable than the state version. Converts the finding into a playbook. | 2–3 drills |
+| 1 | **The failure-side audit** — what the 16%-completion agency does differently | We have studied the top performer (see ABSORPTION_PLAYBOOK.md). The bottom performer is undocumented and may be more instructive. Also settles incentive-vs-competence. | 2–3 drills |
 | 2 | **Voice pass** — Part I + Doctrine | The two files a stranger reads first; both still read as AI-written (flagged by founder, agreed) | 1 session |
 | 3 | **Node 8 — Elections** | The horizontal gap; selects the people who run every chapter | Full node |
 | 4 | **Doctrine translations** — Hausa, Yoruba, Igbo | Part V's relay model depends on it | Needs native speakers, not me |
 
 ## Next
 
+- **Independent verification of UBEC's self-reported figures** (95% procurement completion, 8.7m learners, ₦100bn mobilised) — the practices are corroborated in direction by Tracka's independent 78%, but the internal numbers are not.
 - **Enugu integrity check.** Enugu now carries load in three places: star revenue case (Node 1), transparency-league laggard (Node 4), early electricity-transfer state (Sector 02). If it publishes better than it performs, several claims move at once. Deliberate audit owed.
 - **Sector Brief 07 — Housing & land administration** (not written; overlaps Ch.1 land revenue)
 - **Sector Brief 08 — Trade & investment** (not written; would absorb the diplomacy question)
@@ -53,7 +54,8 @@ when a node, brief, or session exposes them.
 ## Done
 
 | Item | Closed by |
-| Seventeen-states drill (redefined the question: organisational, not geographic; corrected our own overclaim) | this commit |
+| Seventeen-states drill (redefined the question: organisational, not geographic; corrected our own overclaim) | d213ef2 |
+| UBEC practice audit → ABSORPTION_PLAYBOOK.md (six transplantable practices + a six-point checklist) | this commit |
 |---|---|
 | Osun mechanism (Contested since Node 1) | v0.16 |
 | Node 1 replication proof | v0.12 (Kwara), v0.16 (three-way) |
