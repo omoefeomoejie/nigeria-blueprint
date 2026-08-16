@@ -116,3 +116,24 @@ dates). Named case: ✔ (Aba/Geometric; Imo's out-of-framework licence).
 Horizontal failures cited: ✔ (§3), including a correction to our own
 Chapter 5.
 **Verdict: ships as Draft v0.1.**
+
+---
+
+### Scorekeeper note — a sharper version of this brief's finding
+
+This brief says the 2023 devolution produced "little meaningful improvement
+in supply." The scorekeeper test gives a more precise and more damning
+statement: **the devolution produced no measurable anything, because it
+moved the scorer along with the authority.**
+
+Before 2023, NERC regulated and reported on a national market. After, each
+state regulator licenses the operators in its own market and reports on the
+market it created. There is no independent body computing supply hours,
+metering rates or collection rates state by state. So "several states are
+struggling" is itself an inference from licensing irregularities rather than
+from performance data, because performance data does not exist.
+
+**Design consequence for §5:** the published supply baseline must be
+computed to a national standard that NERC still maintains, so that sixteen
+state markets remain comparable. A baseline each state defines for itself is
+not a baseline; it is a press release with a number in it.

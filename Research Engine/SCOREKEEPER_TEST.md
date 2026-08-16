@@ -143,6 +143,128 @@ warning into a design instruction.
    not. Enugu's ESIRS figures are the live example.
 5. **Assumptions.md:** units-first now has three boundaries, two fixable.
 
-**Owed:** the test has not been applied to the eight sector briefs. Housing
-(the state runs its own land registry) and water (utilities report their own
-functionality) look like probable failures.
+---
+
+# Part Two — the test run against the eight sector briefs
+
+## The test, run
+
+### Sector 01 — Agriculture
+**Who keeps the score?** Yields are measured by NAERLS (federal) and by
+international bodies (FAO, USDA projections). Fertiliser and extension
+coverage come from IFPRI stakeholder surveys.
+**Verdict: PASSES.** The state does not measure its own harvest.
+**Caveat:** a state-run farmer registry (§5) *would* be state-scored. Keep
+the registry state-run for delivery and the yield baseline independent for
+measurement — do not let one body do both.
+
+### Sector 02 — Power
+**Who keeps the score?** NERC records transfers; supply and metering data
+sit with DisCos and the regulator. After devolution, **the state regulator
+licenses the operators and also reports on the market it created.**
+**Verdict: FAILS, and this explains the two-year gap.** Sixteen states took
+oversight and "little meaningful improvement in supply" is reported — but
+nobody can verify improvement or its absence, because the new scorer is the
+new regulator. The absence of a baseline is not an oversight; it is the
+predictable output of a domain that fails this test.
+**Fixable:** Chapter/Sector 02's pilot already demands a published supply
+baseline by feeder. Strengthen: baseline published to a national standard
+NERC still maintains, so it is comparable across states.
+
+### Sector 03 — Primary health
+**Who keeps the score?** NPHCDA runs the dashboard; Nigeria Health Watch
+computed the 7.3% figure from it independently.
+**Verdict: PASSES, and it is the cleanest pass in the sector axis.** The
+publisher was federal, the analyst was independent, and the number
+embarrassed the programme. That is the mechanism working exactly as
+designed.
+**Note:** the state is not the scorer here because basic health data is
+federally aggregated. If health data were state-aggregated, this would
+invert.
+
+### Sector 04 — Basic education
+**Who keeps the score?** UBEC publishes access and utilisation figures per
+state; the National Learning Assessment is federally run.
+**Verdict: PASSES.** The states being scored are not the scorers.
+**This is why publishing per-state access rates is the cheapest reform
+available** (Sector 04 §4): the scoring infrastructure already exists.
+
+### Sector 05 — Water & sanitation
+**Who keeps the score?** WASHNORM, run with NBS and UNICEF — independent.
+But *functionality* of a specific utility is reported by the utility.
+**Verdict: SPLIT — passes at national level, fails at facility level.**
+The national picture (28 states producing, 16 functional; 40% borehole
+failure) is independently measured. Whether a given scheme works is
+self-reported.
+**Fixable, and cheaply:** the functionality register in §5 must be verified
+by the community using the water point, not by the agency that built it.
+This is the plural-verification design from the Absorption Playbook, applied
+at the smallest possible scale.
+
+### Sector 06 — Transport & capital projects
+**Who keeps the score?** BudgIT's Tracka physically visits sites. The
+Budget Office reports implementation; the Finance Ministry disputed it with
+a different measure.
+**Verdict: PASSES — and it is the corpus's best illustration of why.** The
+17.66% and the 76–84% figures conflict precisely because two different
+bodies measured. That conflict is not a weakness in the evidence; it is the
+external scorer doing its job. Where only the ministry measured, there would
+have been one number and no argument.
+
+### Sector 07 — Housing & land
+**Who keeps the score?** The state runs the land registry, sets the fees,
+processes the applications, and reports the results. Nobody independent
+counts titles issued or measures time-to-title.
+**Verdict: FAILS.** As predicted. There is no BudgIT for land registries.
+**Fixable, and this is the actionable finding:** §5 already proposes
+publishing a service standard — days to title, cost, backlog — which no
+state currently does. Add: **that standard must be audited by a
+professional body** (the Nigerian Institution of Estate Surveyors and
+Valuers is the obvious candidate and already publishes on dead capital).
+Without an external scorer, "we digitised the registry" is unfalsifiable,
+which is precisely what analysts report about existing digitisation efforts.
+
+### Sector 09 — Oil & gas
+**Who keeps the score?** FAAC and NBS publish derivation receipts; BudgIT
+analyses them. But **what states do with the money is not scored at all** —
+which is how ₦10tn passed through with communities still poor.
+**Verdict: SPLIT — inflow scored, outflow unscored.** The worst possible
+configuration: the money is visible arriving and invisible thereafter.
+**The PIA's Host Community Development Trusts are the structural answer**
+(75% projects / 20% investment / 5% administration, statutory), because they
+create a spending rule an outsider can check. Whether anyone checks it is
+the watch item.
+
+---
+
+## What Part Two adds
+
+**Two clean failures (power, housing), two splits (water, oil), four
+passes.** Combined with Part One: **five failures across sixteen domains
+tested.**
+
+**The pattern holds and sharpens.** Every failure is a domain where the
+state built the thing *and* reports on the thing. Every pass has a federal
+agency, a civic organisation, or an international survey doing the counting.
+
+**New observation — the "no BudgIT" problem.** Nigeria has strong external
+scorers for money (BudgIT, Tracka), health (NPHCDA + Nigeria Health Watch),
+identity (Afrobarometer) and agriculture (NAERLS, FAO). It has none for
+**land registries**, **state electricity regulators**, or **facility-level
+water functionality**. Those are exactly the three domains that failed.
+
+> **The map of Nigeria's governance failures is close to the map of its
+> missing scorekeepers.** Where a civic auditor exists, reform is visible
+> and contestable. Where none exists, "we digitised it" is unfalsifiable.
+
+**Which implies a cheap, high-leverage intervention nobody has proposed:**
+funding or founding an external scorer in an unscored domain may do more for
+that domain than any programme inside it. A land-registry equivalent of
+BudgIT would cost a fraction of a single housing scheme and would make every
+subsequent claim checkable.
+
+**Correction to Sector 02's own account.** We wrote that the 2023 electricity
+devolution produced "no measurable supply improvement." Strictly, the
+correct statement is: **no measurable anything**, because the devolution
+removed the scorer along with the authority. That is a sharper and more
+damning finding, and it is now the first thing Sector 02 should say.

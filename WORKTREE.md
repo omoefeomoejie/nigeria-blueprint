@@ -12,7 +12,8 @@ when a node, brief, or session exposes them.
 
 | # | Item | Tier |
 |---|---|---|
-| A | ~~Who-keeps-the-score test across all eight nodes~~ — **DONE**, found three failures not one; apply it next to the eight sector briefs (housing and water look like probable failures) | 1.3 |
+| A | ~~Scorekeeper test, nodes and sectors~~ — **DONE.** 16 domains tested, 5 failures. New finding: Nigeria's governance failures map onto its missing scorekeepers (no civic auditor for land registries, state electricity regulators, or facility-level water). | 1.3 |
+| A2 | **Found or fund an external scorer in an unscored domain** — cheapest high-leverage intervention the test surfaced; nobody has proposed it | new |
 | B | **Real-terms restatement of headline revenue figures** — nominal naira across a devaluation inflates the growth we celebrate | 3.2 |
 | C | **Cost one pilot end to end** — no chapter states what anything costs; a commissioner asks that first | 3.4 |
 | D | **Second civic auditor to triangulate BudgIT** — source concentration is real | 2.4 |

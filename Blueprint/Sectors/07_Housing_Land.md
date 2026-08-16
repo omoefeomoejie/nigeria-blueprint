@@ -131,3 +131,26 @@ range; ~90% of houses self-financed). Named case: ✔ (KADGIS Kaduna study;
 Lagos and Abuja registry digitisation; Land Use Act 1978). Horizontal
 failures cited: ✔ (§3).
 **Verdict: ships as Draft v0.1.**
+
+---
+
+### Scorekeeper note — there is no BudgIT for land
+
+The state runs the registry, sets the fees, processes the applications and
+reports the results. No independent body counts titles issued or measures
+time-to-title anywhere in Nigeria.
+
+That is why "we have digitised the land registry" is a claim nobody can
+check, and why analysts keep reporting implementation gaps behind
+digitisation announcements. **Unscored domains produce unfalsifiable
+reforms.**
+
+**Add to §5:** the service standard (days to title, cost, backlog) must be
+audited by an independent professional body. The Nigerian Institution of
+Estate Surveyors and Valuers is the obvious candidate — it already publishes
+on dead capital and has no stake in a particular state's numbers.
+
+And the wider point, which applies beyond this sector: **funding an external
+scorer in an unscored domain may do more good than any programme inside it.**
+A land-registry equivalent of BudgIT would cost a fraction of one housing
+scheme and would make every subsequent claim in this sector checkable.
