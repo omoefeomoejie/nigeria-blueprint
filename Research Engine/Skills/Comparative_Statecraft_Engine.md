@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.3 | File: Comparative_Statecraft_Engine.md | File version: v0.2 | Last updated: Engine v0.3 (Node 1 — Enugu certification) | Status: Current -->
+<!-- RESEARCH ENGINE v0.4 | File: Comparative_Statecraft_Engine.md | File version: v0.3 | Last updated: Engine v0.4 (Node 2 — Leadership Selection) | Status: Current -->
 
-**Research Engine v0.3** · **File:** Comparative_Statecraft_Engine.md · **File version:** v0.2 · **Last updated:** Engine v0.3 (Node 1 — Enugu certification) · **Status:** Current
+**Research Engine v0.4** · **File:** Comparative_Statecraft_Engine.md · **File version:** v0.3 · **Last updated:** Engine v0.4 (Node 2 — Leadership Selection) · **Status:** Current
 
 ---
 
@@ -110,8 +110,61 @@ and ask whether these three layers improved. They are the portable mechanism.
 > corroborated by BudgIT. The layers, not the source, are what a structurally
 > ordinary state could actually adopt.
 
-### Rule 3 — superseded ordering note
-*(Rules are numbered by birth order, not priority. Apply 1 → 2 → 2.1 → 3 → 4.)*
+
+### Rule 5 — Map the preconditions before prescribing transfer
+A certified mechanism is not yet a transferable one. Before recommending a
+reform, name what the success quietly required *before* it could work — the
+political mandate, the fiscal room, the legal powers, the willingness to fight
+one's own side. Then check each against the target. A mechanism minus its
+preconditions is a different (and usually failed) reform.
+
+> **Origin — Node 2 (Kyrgyzstan):** From 2011 Kyrgyzstan copied Georgia's
+> celebrated police model — Western-style patrols, rule-of-law enforcement —
+> and failed. It could not execute the mass dismissals that rooted out the
+> entrenched network, and lacked the funding for salary multiples. Georgia's
+> unnamed preconditions were a revolution-scale mandate (Saakashvili, ~96%),
+> money for up-to-15x pay rises, and a leadership prepared to jail its own
+> allies. Same policy, missing preconditions, opposite result.
+
+### Rule 6 — Model the organized loser; assume they outwait you
+Every reform creates a loser. If the loser is organized and permanent while the
+winner is diffuse (parents, pupils, "the public"), do not only plan for the
+loser's attack — plan for their patience. A resisting constituency that loses
+every direct confrontation can still win by negotiating with the founder's
+successor. Name the loser, name their waiting game, and name what binds the
+successor before the founder leaves.
+
+> **Origin — Node 2 (Kaduna):** The NUT lost every direct fight 2017–2022 —
+> a week-long NLC strike failed, a court challenge failed, even its national
+> president was dismissed for refusing the 2021 test. Then el-Rufai left (2023),
+> and the successor flipped to welfare-and-retention: retirement age 60→65,
+> rural allowances, ₦548m released to the NUT scheme; no competency test has
+> surfaced since 2021. Resistance did not defeat the reform. It outlived it.
+
+### Rule 7 — Distinguish stock changes from flow mechanisms (the irreversibility split)
+When testing whether a reform is irreversible, split it in two:
+- **Stock changes** — one-time alterations of state (a workforce replaced, an
+  agency built, cash collection killed). These persist *by default*, because
+  undoing them costs a new painful act.
+- **Flow mechanisms** — ongoing practices (continuous testing, annual audits,
+  standing enforcement). These die *by default* at succession unless housed in
+  an institution with statutory footing and an organized constituency that
+  defends them.
+
+"Irreversible" must be claimed separately for each. A reform can be permanent
+in its stock and dead in its flow — which is exactly the founder-vs-reformer
+line: reformers leave stock; founders leave defended flow.
+
+> **Origin — Node 2 (Kaduna vs Georgia):** Kaduna's stock persisted — the
+> 21,780 dismissals were never reversed, the 25,000 recruits remain. Its flow
+> died with the founder — continuous competency testing was a practice of one
+> governor's will, unhoused and undefended, and stopped at succession. Georgia's
+> police reform survived succession because the flow was institutionalised: a
+> new Patrol Police with its own academy, identity, and a public constituency
+> (third most trusted institution by 2009) that made dismantling it costly.
+
+### Ordering note
+*(Rules are numbered by birth order, not priority. Apply 1 → 2 → 2.1 → 3 → 4, then 5 → 6 → 7 on any case proposed for transfer.)*
 
 ---
 
@@ -134,16 +187,22 @@ and ask whether these three layers improved. They are the portable mechanism.
    by someone with a stake? Certified vs. contested.
 7. **State what is owed.** Name the single source or fact that would move the case
    up a status.
+8. **Map the preconditions (Rule 5).** What did the success require first? Which
+   does the target lack, and what is the bridge?
+9. **Name the organized loser (Rule 6).** Who loses, how do they fight, and how
+   do they wait? What binds the successor?
+10. **Run the stock/flow split (Rule 7).** Which parts persist by default, and
+    which need an institution and a constituency to survive succession?
 
 ---
 
 ## Not yet earned (placeholders for future nodes)
 - Causation vs. correlation test — *awaiting a node where a reform and an outcome
   co-moved but causation was unclear.*
-- Precondition mapping (what the success quietly required first) — *awaiting a
-  case where a copied reform failed for lack of a precondition.*
-- Political-economy / who-fights-this analysis — *awaiting a node where a
-  technically sound reform was killed by resistance.*
+
+*(Two v0.1 placeholders were earned at Node 2: precondition mapping → Rule 5
+(Kyrgyzstan); political-economy → Rule 6, in modified form — the case showed a
+reform outlived by resistance, not killed by it.)*
 
 These are listed, not asserted. Under Law Zero they cannot become rules until a
 real investigation pays for them.
@@ -184,9 +243,26 @@ Every rule above is auditable via this fixed block.
 - Reason added: the transferable mechanism is the institutional layers, not the (often endowment-bound) revenue source
 - Type: Rule
 
+**Rule 5 — Map the preconditions before prescribing transfer**
+- Node: 2 (Leadership Selection — Kyrgyzstan replication failure)
+- Evidence: post-2011 Kyrgyz police reform copied Georgia's model and failed on inability to mass-dismiss and lack of funding; Georgia's mandate/fiscal/willingness preconditions documented (World Bank, Princeton ISS)
+- Reason added: a certified mechanism transferred without its preconditions produced the opposite result
+- Type: Rule
+
+**Rule 6 — Model the organized loser; assume they outwait you**
+- Node: 2 (Leadership Selection — Kaduna)
+- Evidence: NUT lost strike (2018), court challenge, and its president's job (2021), then obtained welfare-and-retention reversal of lever under successor Uba Sani (retirement 60→65, allowances, ₦548m release; no test since 2021)
+- Reason added: organized permanent losers can lose every battle and still outwait the founder
+- Type: Rule
+
+**Rule 7 — Distinguish stock changes from flow mechanisms**
+- Node: 2 (Leadership Selection — Kaduna vs Georgia)
+- Evidence: Kaduna dismissals/recruitment persisted (stock) while continuous testing stopped at succession (flow); Georgia's flow survived via institutional housing + public constituency
+- Reason added: "irreversible" is two separate claims; conflating them overstates what a reform achieved
+- Type: Rule
+
 ---
 
-**Skill version:** v0.2 (Rules 2.1 and 4 earned from Enugu certification; Rules
-1–3 unchanged)
+**Skill version:** v0.3 (Rules 5–7 earned from Node 2; Rules 1–4 unchanged)
 **Earned from:** Node 1 (Revenue Structure)
-**Next update trigger:** Node 2 — first investigation outside revenue structure.
+**Next update trigger:** Node 3.

@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.3 | File: Mistakes.md | File version: v0.3 | Last updated: Engine v0.3 (Node 1 — Enugu certification) | Status: Current -->
+<!-- RESEARCH ENGINE v0.4 | File: Mistakes.md | File version: v0.4 | Last updated: Engine v0.4 (Node 2 — Leadership Selection) | Status: Current -->
 
-**Research Engine v0.3** · **File:** Mistakes.md · **File version:** v0.3 · **Last updated:** Engine v0.3 (Node 1 — Enugu certification) · **Status:** Current
+**Research Engine v0.4** · **File:** Mistakes.md · **File version:** v0.4 · **Last updated:** Engine v0.4 (Node 2 — Leadership Selection) · **Status:** Current
 
 ---
 
@@ -104,4 +104,53 @@ confounded revenue sources but share three transferable institutional layers
 
 ---
 
-**Next entry:** Node 2 (first node outside revenue structure).
+## Node 2 — Leadership Selection
+
+### Mistake 2.1 — We nearly compared failure rates across tests with different bars
+- **Believed (briefly):** Kaduna's 2021 result (165 of 27,662 below the sack
+  threshold) versus 2017 (21,780 of ~33,000 failed) showed the replaced
+  workforce was dramatically more competent.
+- **Wrong because:** The instrument changed. 2017's sack bar was 75%; 2021's
+  was 40%, with the 40–74% band sent to training instead of dismissal. The two
+  failure rates are not comparable.
+- **Why fooled:** Same name ("competency test"), same state, same agency —
+  the label implied the same instrument.
+- **Changed mind:** Reading the threshold rules side by side.
+- **Rule added:** none — Rule 2.1 (decompose before classifying) already covers
+  it. Logged as the first confirmation that the decomposition habit generalizes
+  beyond revenue: aggregates conceal instrument changes in any domain.
+
+### Mistake 2.2 — We treated "executed and sustained under the founder" as evidence of irreversibility
+- **Believed:** Kaduna's reform surviving a strike, a court challenge, and five
+  years of repetition (2017–2022) meant it had become durable.
+- **Wrong because:** It survived the founder's *enemies*, not the founder's
+  *absence*. No test has surfaced since el-Rufai left in 2023; the successor
+  reversed the lever to welfare-and-retention. Only the stock (dismissals,
+  recruits) persisted; the flow (continuous testing) died.
+- **Why fooled:** Endurance under attack looks like permanence. They are
+  different tests.
+- **Changed mind:** The post-2023 succession drill.
+- **Rule added:** Rule 7 — stock/flow irreversibility split.
+
+### Mistake 2.3 — We assumed a defeated resistance was a finished resistance
+- **Believed:** The NUT losing every direct confrontation meant the political
+  economy fight was over.
+- **Wrong because:** The organized loser outwaited the founder and negotiated
+  with his successor — a strategy our political-economy placeholder ("reform
+  killed by resistance") did not anticipate. The reform was not killed; it was
+  outlived.
+- **Why fooled:** We modeled resistance as attack, not as patience.
+- **Changed mind:** Uba Sani's teacher-welfare pivot (retirement 60→65,
+  allowances, ₦548m release) read against the NUT's unbroken organization.
+- **Rule added:** Rule 6 — model the organized loser's waiting game.
+
+### Note — the unfilled leg (recorded for honesty, not symmetry)
+Kaduna's *outcome* leg is empty: no independent measurement of pupil learning
+attributable to the replacement surfaced; evaluators state evidence on impact
+is limited. Teachers replaced ≠ children learning — the leadership-selection
+analog of Node 1's "optics growth." The decision carries this as Owed, and
+confidence is priced down accordingly.
+
+---
+
+**Next entry:** Node 3.

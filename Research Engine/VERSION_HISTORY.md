@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.3 | File: VERSION_HISTORY.md | File version: v0.3 | Last updated: Engine v0.3 (Node 1 — Enugu certification) | Status: Current -->
+<!-- RESEARCH ENGINE v0.4 | File: VERSION_HISTORY.md | File version: v0.4 | Last updated: Engine v0.4 (Node 2 — Leadership Selection) | Status: Current -->
 
-**Research Engine v0.3** · **File:** VERSION_HISTORY.md · **File version:** v0.3 · **Last updated:** Engine v0.3 (Node 1 — Enugu certification) · **Status:** Current
+**Research Engine v0.4** · **File:** VERSION_HISTORY.md · **File version:** v0.4 · **Last updated:** Engine v0.4 (Node 2 — Leadership Selection) · **Status:** Current
 
 ---
 
@@ -105,6 +105,37 @@ The thesis partly failed — which is exactly why this commit matters.
 **Honest flag:** Node 1 has proven a *mechanism* (the three layers, corroborated)
 but not a *transfer* (no ordinary state has yet adopted them from scratch and
 succeeded). The Decision records this gap as the still-owed replication proof.
+
+---
+
+## v0.4 — second evidence-earned commit (origin: Node 2, Leadership Selection)
+
+Run as a falsification exercise across three drills: Georgia (mechanism),
+Kyrgyzstan (replication failure), Kaduna (Nigerian execution + succession test).
+The succession drill returned the node's most valuable finding: Kaduna's stock
+persisted while its flow died with the founder.
+
+**Earned and added:**
+- `Skills/Comparative_Statecraft_Engine.md` → **v0.3**:
+  - **Rule 5** — map preconditions before prescribing transfer (*rule*; pays
+    the v0.1 precondition-mapping placeholder — Kyrgyzstan).
+  - **Rule 6** — model the organized loser; assume they outwait you (*rule*;
+    pays the political-economy placeholder in modified form — Kaduna).
+  - **Rule 7** — stock/flow irreversibility split (*rule* — Kaduna vs Georgia).
+- `Lessons Learned/Mistakes.md` → v0.4 — entries **2.1–2.3** plus the
+  unfilled-outcome-leg note.
+- `Lessons Learned/Node_2_Decision.md` — decision at ~60% confidence.
+- `MANIFEST.md` → v1.1 (12 files).
+
+**Honest flags:**
+- Kaduna's outcome leg (pupil learning) is Owed and possibly unmeasured;
+  confidence priced down for it.
+- No Nigerian case yet shows a selection reform that is executed AND
+  succession-proof. That gap is the chapter's design target, not a footnote.
+
+**Cadence check:** v0.3 (reality) → v0.4 (reality). Two consecutive
+evidence-earned commits — healthy. The warning sign is consecutive *engine-only*
+commits, of which there have been none since v0.2.
 
 ---
 
