@@ -191,17 +191,51 @@ not a precondition to be assumed. It is the reform.
 Earned under Law Zero by three independent sector cases; promoted from
 candidate at Sector Brief 05.
 
-**Refinement (Sector Brief 06): absorption is a state-level variable, not a
-national condition.** Independent tracking of 2,760 federal projects across
-30 states found **97.5% of abandoned-but-paid-for projects concentrated in
-five states, while seventeen states recorded none** [Certified — Tracka].
+**Refinement (Sector Brief 06): absorption is a variable, not a national
+condition.** Independent tracking of 2,760 federal projects across 30 states
+found **97.5% of abandoned-but-paid-for projects concentrated in five
+states** — Taraba, Abia, Nasarawa, Adamawa, Ogun [Certified — Tracka].
+
+**Correction to our own earlier phrasing.** An earlier draft of this section
+described "seventeen states with none." That was too clean. The fuller
+Tracka data shows: **Cross River alone recorded no abandoned, unexecuted or
+fraudulently delivered projects**; top-ten completion rates run only ~52–63%
+(Katsina and Rivers leading, Enugu 8th at 61.96%, Kaduna 10th at 59%); and
+*non-execution* concentrates in a **different** five states — Benue 40%,
+Ondo 32.4%, Kwara 30.4%, Akwa Ibom 27.3%, Sokoto 25.6%. Nationally, of the
+2024 capital budget tracked, **52.10% completed, 23.91% ongoing, and ~24%
+abandoned, not executed, or fraudulently delivered despite funds released**.
+The honest claim is narrower: abandonment-after-payment is concentrated;
+non-execution is concentrated differently; and even the best performers
+complete only about six projects in ten.
 Capital-budget execution shows the same failure at federal level (17.66% of
 the capital budget spent to Q3 2025 on the Budget Office's own figures,
 disputed by the Finance Ministry at 76–84% on a wider measure), but the
 state distribution is the more actionable fact.
 
-This matters more than the diagnosis itself: a national condition invites
-fatalism, a distribution invites ranking, and ranking invites competition.
-Seventeen states already absorb properly. The reform question is not "can
-Nigerians execute" — it is "what do those seventeen do that the five do
-not," and that is answerable.
+**And the sharper cut: absorption is organisational, not geographic.**
+The same tracking ranks federal agencies as well as states.
+**UBEC completed 78% of its projects; the Federal Ministry of Agriculture
+68%; the Rural Electrification Agency 65% — against the Lower Benue River
+Basin Development Authority at 20% and the Ministry of Niger Delta Affairs
+at 16%** [Certified — Tracka]. Same country, same contractors, same
+procurement law, same year: a **62-point spread between agencies**.
+
+That finding kills the two laziest explanations at once. It is not culture,
+because the culture is constant across agencies. It is not region, because
+the spread is widest *within* the federal government. Some organisations
+execute and others do not, and the difference is inside them.
+
+Note the pairing this produces: UBEC is the federation's best-executing
+agency **and** the agency whose money 27 of 36 states could not draw down in
+2024 [Sector 04]. UBEC can build. The states cannot absorb what UBEC funds.
+Capacity failure is specific to organisations, not general to the country.
+
+**Mechanism candidate — consequence, not competence.** Tracka's own reading:
+*"Because there are no consequences for abandonment of a project, it is
+almost a tradition for local officials to just decide to start another
+project even when there are several other ones that need to be executed."*
+If that is right, absorption is an incentive problem before it is a training
+problem, and the fix is enforcement — which routes back to Chapter 4.
+**Owed:** what UBEC does that the low performers do not. Named in the
+worktree as the most valuable unrun investigation in this repository.

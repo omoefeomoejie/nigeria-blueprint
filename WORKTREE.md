@@ -12,7 +12,7 @@ when a node, brief, or session exposes them.
 
 | # | Item | Why | Cost |
 |---|---|---|---|
-| 1 | **The seventeen states** — what states that abandon no projects do differently | Converts absorptive capacity from diagnosis into transferable playbook. Highest evidential value in the repo. | 2–3 drills |
+| 1 | **What UBEC does** — the federation's best-executing agency (78%) vs the worst (16%) | Absorption proved organisational, not geographic. One agency, public leadership, published method — far more tractable than the state version. Converts the finding into a playbook. | 2–3 drills |
 | 2 | **Voice pass** — Part I + Doctrine | The two files a stranger reads first; both still read as AI-written (flagged by founder, agreed) | 1 session |
 | 3 | **Node 8 — Elections** | The horizontal gap; selects the people who run every chapter | Full node |
 | 4 | **Doctrine translations** — Hausa, Yoruba, Igbo | Part V's relay model depends on it | Needs native speakers, not me |
@@ -53,6 +53,7 @@ when a node, brief, or session exposes them.
 ## Done
 
 | Item | Closed by |
+| Seventeen-states drill (redefined the question: organisational, not geographic; corrected our own overclaim) | this commit |
 |---|---|
 | Osun mechanism (Contested since Node 1) | v0.16 |
 | Node 1 replication proof | v0.12 (Kwara), v0.16 (three-way) |

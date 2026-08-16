@@ -2,10 +2,9 @@
 
 # Transport & Capital Projects
 
-*Seventeen states abandoned no projects at all. Five states hold 97.5% of
-the abandoned ones. That distribution is the most useful fact in this
-Blueprint: it means the failure everyone calls "Nigerian" is actually a
-state-level variable — diagnosable, rankable, fixable.*
+*One federal agency completes 78% of its projects. Another completes 16%.
+Same country, same contractors, same law, same year. The failure everyone
+calls "Nigerian" is organisational — diagnosable, rankable, fixable.*
 
 ---
 
@@ -72,9 +71,25 @@ not: **97.5% of abandoned-but-paid projects sit in five states — Taraba,
 Abia, Nasarawa, Adamawa, Ogun — while seventeen states recorded none**
 [Certified — Tracka, 2,760 projects, 30 states].
 
-Absorption is therefore **not a national trait but a state-level variable**.
-Seventeen states already do this properly. That is the difference between a
-condition and a diagnosis.
+Absorption is therefore **not a national trait but a variable** — and the
+sharpest cut is organisational rather than geographic. Tracka's agency
+ranking: **UBEC 78% completion, Federal Ministry of Agriculture 68%, Rural
+Electrification Agency 65%; Lower Benue River Basin Development Authority
+20%, Ministry of Niger Delta Affairs 16%** [Certified]. A 62-point spread
+inside one government.
+
+**Honest correction:** an earlier draft of this brief said "seventeen states
+recorded none." The fuller data is narrower — **Cross River** alone recorded
+no abandoned, unexecuted or fraudulently delivered projects; top-ten
+completion rates are only ~52–63%; and *non-execution* concentrates in a
+different five states (Benue 40%, Ondo 32.4%, Kwara 30.4%, Akwa Ibom 27.3%,
+Sokoto 25.6%). Nationally: 52.10% completed, 23.91% ongoing, ~24%
+abandoned/not executed/fraudulently delivered.
+
+**Mechanism candidate:** Tracka's own explanation — *"Because there are no
+consequences for abandonment… it is almost a tradition for local officials
+to just decide to start another project"* — makes this an incentive problem
+before a competence problem.
 
 ## 4. What is genuinely sector-specific
 

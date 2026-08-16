@@ -66,9 +66,17 @@ regulators and decaying assets, and sometimes a worse outcome than before
 the transfer.
 
 **One refinement that matters more than the finding — absorption is a
-distribution, not a condition.** Independent tracking of 2,760 projects
-across 30 states found **97.5% of abandoned-but-paid-for projects in five
-states, and seventeen states with none**.
+distribution, not a condition, and organisational before geographic.**
+Independent tracking found **97.5% of abandoned-but-paid-for projects in
+five states**, and — the sharper cut — a **62-point completion spread
+between federal agencies** (UBEC 78%, Agriculture 68%, REA 65%; Lower Benue
+River Basin 20%, Niger Delta Affairs 16%). Same country, same contractors,
+same law, same year.
+
+*(Corrected: an earlier draft said "seventeen states with none." Only Cross
+River recorded no abandoned, unexecuted or fraudulently delivered projects;
+top-ten completion rates run ~52–63%; non-execution concentrates in a
+different five states. The narrower claim is the accurate one.)*
 
 This is the single most useful fact the vertical axis produced. A national
 condition invites fatalism; a distribution invites ranking; ranking invites
@@ -132,9 +140,11 @@ had begun repeating and the marginal finding was falling; completing eight
 for symmetry would have been warehouse-building, which this project exists
 to refuse. They remain available if a specific question requires them.
 
-**Owed:** whether absorption's five-state concentration holds across other
-datasets and years; what the seventeen clean states actually do differently
-— the most valuable unrun investigation in this repository.
+**Owed:** whether the concentration holds across other datasets and years;
+and **what UBEC does that the 16%-completion agencies do not** — now the
+most valuable unrun investigation in this repository, and more tractable
+than the state version because the unit is a single organisation with a
+public leadership, published reports, and a documented method.
 
 ---
 
