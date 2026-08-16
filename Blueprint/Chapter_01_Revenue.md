@@ -1,10 +1,15 @@
 <!-- BLUEPRINT | Chapter 1 | Draft v0.2 | Source: Research Engine Node 1 (Decision ~70%), Nodes 2/4 cross-findings | Status: DRAFT — publishable per Publication Rule check at end -->
 
-# Chapter 1 — Revenue: Feeding the State From Its People's Work
+# Chapter 1 — Money: Feeding the State From Your Work
 
-*Every claim carries its evidence status: [Certified] independent sources;
-[Contested] real data, interested interpretation; [Confounded] real outcome,
-uncopyable cause; [Owed] the named fact that would settle it.*
+*A government that lives on oil shared in Abuja does not need you to
+succeed. That is not an insult to anybody in office. It is arithmetic.
+Change what the state lives on and you change what it notices.*
+
+*Every claim below carries its status. [Certified] means an independent
+source. [Contested] means real data with an interested storyteller.
+[Confounded] means a real result we cannot pin on the stated cause. [Owed]
+means we have named the fact that would settle it and have not got it yet.*
 
 ---
 
@@ -34,15 +39,22 @@ for 71–92% of revenue.
   (KW-IRS, Revenue Administration Law No. 6 of 2015).
 
 ## 3. The Mechanism (what actually transfers)
-Not the revenue source — sources are endowments (Lagos's ports, Enugu's
-recoverable assets) and do not copy [Certified, Node 1 Rule 4]. The
-transferable object is **three institutional layers**:
-1. **Collection integrity** — kill cash handling in every MDA; digitize for
-   traceability; plug leakage.
-2. **Fiscal management** — reverse recurrent-heavy budgets toward capital.
-3. **Execution/conversion** — publish revenue-to-delivered-projects so
-   collection is never a vanity metric.
-Both proof states show identical layers atop opposite sources [Certified].
+
+Where the money comes from does not transfer. Lagos has ports and company
+headquarters. Enugu had assets lying idle that it recovered. Neither can be
+copied by a state that has neither [Certified, Node 1].
+
+What transfers is the three jobs underneath, and both states did all three.
+
+1. **Block the leak.** End cash collection in every ministry and agency.
+   Money you cannot trace is money you cannot count, and money nobody counts
+   goes somewhere.
+2. **Plan the money.** Turn a budget that mostly pays salaries into one that
+   mostly builds things.
+3. **Show the work.** Publish what was collected against what was delivered,
+   so that collecting more never becomes the achievement.
+
+Opposite sources, identical three jobs. That is the copyable part.
 
 ## 4. Preconditions (Rule 5)
 - A governor with the mandate and will to end cash collection over the

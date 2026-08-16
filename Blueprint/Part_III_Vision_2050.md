@@ -1,26 +1,27 @@
 <!-- BLUEPRINT | Part III — Vision 2050 | Draft v0.1 | Source: five irreversibles (Foundations) x Rule 7 stock/flow x Nodes 1-6 | Status: DRAFT -->
 
-# Part III — Vision 2050: What Must Become Irreversible
+# Part III — 2050: What Must Become Impossible to Undo
 
-*Most manifestos promise what they will achieve. This one names what must
-become impossible to undo. The difference is the whole book.*
+*Manifestos promise what they will achieve. This one names what must become
+impossible to undo. That difference is the whole book.*
 
 ---
 
-## Why this chapter is not a list of achievements
+## Why this is not a list of achievements
 
-A reformer asks: what can I finish while I hold office? A founder asks: what
-will still be standing when my worst possible successor holds it?
+A reformer asks what he can finish while he holds office. A founder asks
+what will still be standing when his worst successor holds it.
 
-Nigeria has had achievements. It has had roads commissioned, agencies
-launched, programmes flagged off — and it has watched most of them dissolve
-at the next handover. Our own investigations found this happening in real
-time: a state ran competency testing for five years, beat a strike and a
-court case, and the practice simply stopped when the governor left
-[Certified, Node 2]. In the same state, in the same handover, the
-open-government machinery not only survived but expanded [Certified, Node 4].
+Nigeria has had plenty of achievements. Roads commissioned, agencies
+launched, programmes flagged off, most of them gone by the next handover. We
+watched it happen in the evidence. One state ran teacher competency testing
+for five years, beat a strike and a court case, and the whole thing stopped
+the month the governor left [Certified, Node 2]. In the same state, at the
+same handover, the open government machinery survived and grew [Certified,
+Node 4].
 
-The difference was not the reform's quality. It was **how it was held**.
+The difference was not which reform was better. It was how each one was
+held.
 
 **So every target in this chapter is claimed in two parts:**
 - **Stock** — one-time changes that persist by default, because undoing them

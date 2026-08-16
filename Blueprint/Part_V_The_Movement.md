@@ -2,20 +2,19 @@
 
 # Part V — The Movement: Who Carries This
 
-*This is the least evidenced part of the book. Parts II–IV rest on seven
-investigations; this part rests on one untested wager and a handful of
-findings borrowed from other chapters. We mark it that way rather than
-write it with false confidence.*
+*This is the weakest part of the book, and we would rather say so than
+write it with borrowed confidence. Everything before this rests on
+investigations. This rests on one bet we have not tested and a few findings
+carried over from other chapters.*
 
 ---
 
 ## 1. What this part is not
 
-It is not a call to rally, march, or hate anybody. The Medicine Rule
-governs: *blame builds nothing; we did not come to fight anybody, we came
-to build.* A movement built on anger recruits fast and dies fast — and in
-Nigeria it also gets its members hurt. Everything below is designed to be
-carried by people who still have jobs, families, and something to lose.
+It is not a call to rally, march, or hate anybody. Blame builds nothing. A
+movement built on anger recruits fast and dies fast, and in Nigeria it also
+gets people hurt. Everything below is meant to be carried by people who have
+jobs, families, and something to lose.
 
 ## 2. The honest status of our central belief
 

@@ -12,7 +12,7 @@ when a node, brief, or session exposes them.
 
 | # | Item | Why | Cost |
 |---|---|---|---|
-| 1 | **Voice pass, remaining files** — Parts II/III/V, Chapters 1–8, sector briefs | Part I and the Doctrine done; the rest still carry the AI register | 1–2 sessions |
+| 1 | **Voice pass, remaining files** — Chapters 2–8 and the six sector briefs | Done so far: Part I, Doctrine, Part II (full rewrite), Chapter 1 (opening + mechanism), Parts III and V (openings). Find-and-replace cannot fix register; each file needs a real rewrite. | 1–2 sessions |
 | 2 | **Doctrine translations** — Hausa, Yoruba, Igbo | Part V's relay model depends on it | Needs native speakers, not me |
 | 3 | **Domestically-funded results-based payment** — a Nigerian instance without donor scaffolding | REA's model sits inside a World Bank programme with an externally-paid verification agent. Does it survive without that? | 2 drills |
 | 4 | **Enugu integrity check** — promoted from Next | Carries load in three chapters (revenue star, transparency laggard, early electricity transfer). If it publishes better than it performs, several claims move. | 2 drills |
