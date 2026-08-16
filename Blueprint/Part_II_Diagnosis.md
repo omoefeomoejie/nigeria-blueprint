@@ -147,8 +147,9 @@ decomposes into the same root causes strengthens the diagnosis by
 convergence; any sector that fails for reasons the horizontals cannot
 explain will force Layer 4 to be revised. Both outcomes are recorded.
 
-Convergences so far: **5 of 8 planned sectors** (Agriculture, Power,
-Primary Health, Basic Education, Water & Sanitation).
+Convergences so far: **6 of 8 planned sectors** (Agriculture, Power,
+Primary Health, Basic Education, Water & Sanitation, Transport & Capital
+Projects).
 
 Power converged differently and more usefully: it did not merely restate the
 diagnosis — it **corrected a prescription of ours** (Mistakes 8.1). A
@@ -189,3 +190,18 @@ not a precondition to be assumed. It is the reform.
 
 Earned under Law Zero by three independent sector cases; promoted from
 candidate at Sector Brief 05.
+
+**Refinement (Sector Brief 06): absorption is a state-level variable, not a
+national condition.** Independent tracking of 2,760 federal projects across
+30 states found **97.5% of abandoned-but-paid-for projects concentrated in
+five states, while seventeen states recorded none** [Certified — Tracka].
+Capital-budget execution shows the same failure at federal level (17.66% of
+the capital budget spent to Q3 2025 on the Budget Office's own figures,
+disputed by the Finance Ministry at 76–84% on a wider measure), but the
+state distribution is the more actionable fact.
+
+This matters more than the diagnosis itself: a national condition invites
+fatalism, a distribution invites ranking, and ranking invites competition.
+Seventeen states already absorb properly. The reform question is not "can
+Nigerians execute" — it is "what do those seventeen do that the five do
+not," and that is answerable.
