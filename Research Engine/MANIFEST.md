@@ -1,10 +1,10 @@
-<!-- RESEARCH ENGINE v0.15 | File: MANIFEST.md | File version: v1.12 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.16 | File: MANIFEST.md | File version: v1.13 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.15** · **File:** MANIFEST.md · **File version:** v1.12 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.16** · **File:** MANIFEST.md · **File version:** v1.13 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
-# MANIFEST — Research Engine v0.15
+# MANIFEST — Research Engine v0.16
 
 The single source of truth for what this engine contains. If a file in your
 copy is not on this list, it is stale — delete it. If a file on this list is
@@ -18,18 +18,18 @@ methodology; file revisions come from one source only.
 
 | Path | File version | Last changed at |
 |---|---|---|
-| `MANIFEST.md` | v1.12 | Engine v0.15 |
+| `MANIFEST.md` | v1.13 | Engine v0.16 |
 | `PREAMBLE.md` | v1.0 | Engine v0.1 |
 | `LAW_ZERO.md` | v1.0 | Engine v0.1 |
 | `RESEARCH_HABIT.md` | v1.0 | Engine v0.2 |
 | `Evidence_Standard.md` | v0.2 | Engine v0.2 |
-| `VERSION_HISTORY.md` | v0.15 | Engine v0.15 |
+| `VERSION_HISTORY.md` | v0.16 | Engine v0.16 |
 | `PUBLICATION_RULE.md` | v1.0 | Engine v0.7 |
 | `Skills/Comparative_Statecraft_Engine.md` | v0.5 | Engine v0.8 |
 | `SOPs/Investigation_SOP.md` | v0.1 | Engine v0.1 |
-| `Lessons Learned/Mistakes.md` | v0.9 | Engine v0.14 |
+| `Lessons Learned/Mistakes.md` | v0.10 | Engine v0.16 |
 | `Lessons Learned/Assumptions.md` | v0.2 | Engine v0.8 |
-| `Lessons Learned/Node_1_Decision.md` | v1.3 | Engine v0.12 |
+| `Lessons Learned/Node_1_Decision.md` | v1.4 | Engine v0.16 |
 | `Lessons Learned/Node_2_Decision.md` | v1.0 | Engine v0.4 |
 | `Lessons Learned/Node_3_Decision.md` | v1.0 | Engine v0.5 |
 | `Lessons Learned/Node_4_Decision.md` | v1.0 | Engine v0.6 |
@@ -38,15 +38,15 @@ methodology; file revisions come from one source only.
 | `Lessons Learned/Node_7_Decision.md` | v1.0 | Engine v0.14 |
 
 ## Version-numbering note
-Engine versions (v0.1 → … → v0.15) mark commits of the whole engine and are git
+Engine versions (v0.1 → … → v0.16) mark commits of the whole engine and are git
 tags. File versions move independently and only when content changes. Semantic
 versioning remains a Candidate (trigger: skill interdependence).
 
 ## Node status at this release
-- **Node 1 (Revenue Structure):** **~78%** (v0.12). Replication
-  strong-partial (Kwara: statutory layer-1, succession-survived, no
-  endowment). Open: Kwara layers 2–3; Osun mechanism; independent FY2025
-  Enugu corroboration; Enugu transparency watch.
+- **Node 1 (Revenue Structure):** **~80%** (v0.16). Layer 1 replicated on
+  three revenue bases (Enugu/Kwara/Osun), all independently sourced. Open:
+  Kwara layers 2–3; independent FY2025 Enugu corroboration; Enugu
+  transparency watch.
 - **Node 2 (Leadership Selection):** decision recorded (~60%). Open: Kaduna
   learning outcomes; a succession-proof Nigerian selection reform.
 - **Node 3 (Security):** decision recorded (~65%). Open: Amotekun

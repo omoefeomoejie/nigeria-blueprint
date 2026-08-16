@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.15 | File: Mistakes.md | File version: v0.9 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.16 | File: Mistakes.md | File version: v0.10 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.15** · **File:** Mistakes.md · **File version:** v0.9 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.16** · **File:** Mistakes.md · **File version:** v0.10 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -53,6 +53,11 @@ What changed our mind? What rule did it add?
   Osun election.
 - **Rule added:** Comparative Statecraft Engine, Rule 3 — *Prefer independent audits
   over interested claims.* Osun logged **Contested**, not Certified.
+- **Resolution (Engine v0.16, 16 Aug 2026):** an independent source
+  (Dataphyte) confirmed the *same* mechanism the interested source had
+  claimed. The lesson is not "we were right to doubt" — it is that holding
+  a claim at Contested **cost nothing and eventually paid in full**. The
+  Evidence Standard justified itself across eighteen engine versions.
 
 ### Meta-mistake 1.0 — The project itself ran theory ahead of evidence
 - **Believed:** Building more architecture (skills, laws, nodes) was progress.

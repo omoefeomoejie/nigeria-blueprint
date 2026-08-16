@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.15 | File: VERSION_HISTORY.md | File version: v0.15 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.16 | File: VERSION_HISTORY.md | File version: v0.16 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.15** · **File:** VERSION_HISTORY.md · **File version:** v0.15 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.16** · **File:** VERSION_HISTORY.md · **File version:** v0.16 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -291,6 +291,18 @@ moved to the President and into law in the same period. Rule 9 confirmed
 contemporaneously. Node 5 ~65% → ~70%; Node_5_Decision v1.1; Chapter 5
 evidence note added. Watch item logged (transmission may still occur;
 revision by commit if so). MANIFEST v1.12.
+
+---
+
+## v0.16 — Osun closure (origin: Node 1's oldest open item)
+
+Osun **Contested → Certified** via independent source (Dataphyte, pre-election
+governance appraisal): mechanism is tax harmonisation + digitisation blocking
+leakages. Caveat certified too: IGR still <50% of total revenue — a layer-1
+case, not a dependence-escape case. Node 1 ~78% → **~80%**; third
+independently-sourced layer-1 replication. Mistake 1.3 gains a resolution
+note: holding at Contested cost nothing and paid in full. Chapter 1 updated;
+harmonisation elevated as the pilot's entry move. MANIFEST v1.13.
 
 ---
 

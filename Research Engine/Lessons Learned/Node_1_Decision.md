@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.15 | File: Node_1_Decision.md | File version: v1.3 | Last updated: Engine v0.12 (Kwara replication drill) | Status: Current -->
+<!-- RESEARCH ENGINE v0.16 | File: Node_1_Decision.md | File version: v1.4 | Last updated: Engine v0.16 (Osun closure) | Status: Current -->
 
-**Research Engine v0.15** · **File:** Node_1_Decision.md · **File version:** v1.3 · **Last updated:** Engine v0.12 (Kwara replication drill) · **Status:** Current
+**Research Engine v0.16** · **File:** Node_1_Decision.md · **File version:** v1.4 · **Last updated:** Engine v0.16 (Osun closure) · **Status:** Current
 
 ---
 
@@ -163,3 +163,23 @@ decomposition; a layers-only state reaching autonomy-grade; Kwara decomposition.
 - Engine discipline note: the "Strong" status candidate got its first real
   test and was NOT earned — Contested-with-named-owed-fact suffices
   (three-question test, Q3). Candidate stands.
+
+### Osun closure (Engine v0.16) — Contested → CERTIFIED
+- **Confidence ~78% → ~80%.** Independent source obtained: Dataphyte
+  governance appraisal (15 Aug 2026, pre-election, neutral civic-data body)
+  attributes Osun's growth to **tax harmonisation + digitisation of revenue
+  collection, blocking leakages and expanding sources** — the same mechanism
+  previously narrated only by a gubernatorial aide. Rule 3 satisfied.
+- Series extended: ₦22.4bn (2021) → ₦58.8bn (2025), +162%; +62% in the
+  incumbent's first year, +2.5% (2024), +45% (2025).
+- **Caveat (falsification):** FAAC rose generally post-2023 (subsidy removal,
+  devaluation, non-oil collections), and Osun's IGR has remained **below 50%
+  of total revenue since 2021**. Osun is a **layer-1 case** (collection
+  integrity certified) — NOT a dependence-escape case like Enugu/Kwara.
+- **Third independent layer-1 replication:** Enugu (asset-based), Kwara
+  (statutory, succession-proof), Osun (harmonisation/digitisation) — three
+  different revenue bases, same layer-1 mechanism, all independently sourced.
+- **Chapter note:** harmonisation-to-end-double-taxation now appears in Osun,
+  Kwara, and the national agenda. Likely the most-replicated layer-1 move in
+  Nigeria — and business-friendly, which explains why it passes politically
+  where dismissal-based reforms do not. Elevate in pilot design.

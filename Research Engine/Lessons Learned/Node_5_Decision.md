@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.15 | File: Node_5_Decision.md | File version: v1.1 | Last updated: Engine v0.15 (Node 5 — live test) | Status: Current -->
+<!-- RESEARCH ENGINE v0.16 | File: Node_5_Decision.md | File version: v1.1 | Last updated: Engine v0.15 (Node 5 — live test) | Status: Current -->
 
-**Research Engine v0.15** · **File:** Node_5_Decision.md · **File version:** v1.1 · **Last updated:** Engine v0.15 (Node 5 — live test) · **Status:** Current
+**Research Engine v0.16** · **File:** Node_5_Decision.md · **File version:** v1.1 · **Last updated:** Engine v0.15 (Node 5 — live test) · **Status:** Current
 
 ---
 

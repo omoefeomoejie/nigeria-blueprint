@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.15 | File: Node_2_Decision.md | File version: v1.0 | Last updated: Engine v0.4 (Node 2 — Leadership Selection) | Status: Current -->
+<!-- RESEARCH ENGINE v0.16 | File: Node_2_Decision.md | File version: v1.0 | Last updated: Engine v0.4 (Node 2 — Leadership Selection) | Status: Current -->
 
-**Research Engine v0.15** · **File:** Node_2_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.4 (Node 2 — Leadership Selection) · **Status:** Current
+**Research Engine v0.16** · **File:** Node_2_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.4 (Node 2 — Leadership Selection) · **Status:** Current
 
 ---
 

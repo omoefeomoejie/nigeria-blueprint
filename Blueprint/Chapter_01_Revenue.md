@@ -22,9 +22,11 @@ for 71–92% of revenue.
   eliminated. A structurally ordinary state escaped dependence.
 - **Lagos** [Confounded]: real reform (LIRS, 800k+ properties digitized) —
   inseparable from uncopyable commercial geography. Illustration, not model.
-- **Osun** [Contested]: real growth, now independently confirmed in BudgIT's
-  top-5 growth index; mechanism story still from interested sources only.
-  [Owed: independent mechanism decomposition.]
+- **Osun** [Certified — layer 1 only]: ₦22.4bn (2021) → ₦58.8bn (2025),
+  +162%, mechanism independently confirmed as **tax harmonisation +
+  digitisation blocking leakages** (Dataphyte, 2026). Note the limit: IGR
+  has stayed below 50% of total revenue — collection integrity proven,
+  dependence-escape not achieved.
 - **Kwara** [Certified (layer 1 + succession) / Owed (layers 2–3)]: the
   replication case. No endowment; recurring composition (taxes + MDA fees);
   262.8% growth 2020–24 into BudgIT's national top-3 and 5th-least
@@ -124,3 +126,14 @@ chapter's pilot (§6) requires BOTH, and §11's kill condition is a live risk
 profile, not a hypothetical — Enugu is currently running it. Within Enugu's
 non-tax: ₦78bn+ was one-off property sales; licenses/rents (+1,000%) are the
 recurring core. [Certified — BudgIT 10th State of States]
+
+---
+
+### Evidence note (v0.16 — Osun closure)
+Layer 1 (collection integrity) now has **three independently-sourced
+Nigerian replications on three different revenue bases**: Enugu (asset
+recovery), Kwara (statutory authority, succession-proof), Osun
+(harmonisation + digitisation). **Design implication for §6:** harmonisation
+that ends double taxation is the most-replicated and most politically
+survivable entry move — it makes businesses allies rather than victims.
+Start the pilot there.
