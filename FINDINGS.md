@@ -154,6 +154,18 @@ Eleven entries, three correcting our own prior nodes. All permanent.
 
 ---
 
+### 13. The revenue pilot costs ₦250m–₦1bn and one political fight
+Lagos budgets ₦250m for a digital tax platform against a ₦200bn target —
+0.02% of its IGR, 0.35% of Kaduna's, about two weeks of collections even for
+Taraba. The expensive items are not purchasable: operational autonomy for
+the revenue service, and the fight with people who live on cash collection.
+
+**Cost does not explain why poor states have not done this.**
+**[Certified — Lagos Eko Revenue Plus planning documents; Kwara, Abia,
+Enugu implementations]** · Chapter 1, `Blueprint/PILOT_BRIEF.md`
+
+---
+
 ## The single largest weakness
 
 Every claim here was verified by one entity against publicly indexed

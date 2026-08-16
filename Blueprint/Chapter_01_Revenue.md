@@ -208,3 +208,52 @@ Restated:
 plan the money, show the work — are structural claims, not naira claims. But
 any state adopting this chapter should set its targets in real terms, or it
 will congratulate itself on inflation.
+
+---
+
+## What this pilot costs
+
+*Added because the red team noticed no chapter in this book states a price,
+and a commissioner asks that first.*
+
+**The capital cost is small enough that it is not the obstacle.**
+
+Lagos's own planning documents budget **₦250 million** for a digital tax
+management system — portal construction, data mining, partnerships,
+stakeholder engagement, communications — against a target of ₦200bn a year
+from that stream. A companion data platform is budgeted at ₦500m
+[Certified — Eko Revenue Plus summit synopsis].
+
+Put ₦250m against what states actually collect:
+
+| State | Annual IGR | ₦250m as a share |
+|---|---|---|
+| Lagos | ₦1.26tn | 0.02% |
+| Enugu | ₦180.5bn (2024) | 0.14% |
+| Kaduna | ₦71.6bn | 0.35% |
+| Taraba | ₦10.87bn | 2.3% |
+
+Even for the smallest revenue base in the federation, a platform costs
+about two weeks of collections and pays for itself the moment it plugs one
+leak.
+
+**What the working states actually bought.** Kwara: POS machines at
+collection points, an e-Centre as a one-stop shop for taxpayers, online
+payment integrated with the land information system, automated court
+affidavits. Abia: a withholding-tax platform built by a private vendor with
+staff trained on it. Enugu: digital tools and GIS land digitisation
+[Certified].
+
+**And the items with no price tag, which are the hard ones.** Enugu's
+revenue chairman lists them first: operational autonomy for the revenue
+service, and *"refocusing their mindset from civil service to a
+private sector-driven mindset"* [Certified]. Neither appears in a budget
+line. Neither can be procured.
+
+> **Honest costing for this chapter: ₦250m–₦1bn of capital, and one
+> political fight.**
+
+The fight is with the people who live on cash collection, and some of them
+work for you. That is the real price, and it is the same price whether your
+state collects ₦10bn or ₦1tn — **which is why cost does not explain why poor
+states have not done this.**

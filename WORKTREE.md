@@ -16,7 +16,8 @@ when a node, brief, or session exposes them.
 | A2 | **Found or fund an external scorer in an unscored domain** — cheapest high-leverage intervention the test surfaced; nobody has proposed it | new |
 | A3 | ~~Findings index~~ — **DONE**, `FINDINGS.md`, twelve findings ranked by what they changed | new |
 | B | ~~Real-terms restatement~~ — **DONE.** Osun's growth claim retired; Enugu halved to ~5.3× real; Kwara to ~40–50%. Oil finding strengthened. | 3.2 |
-| C | **Cost one pilot end to end** — no chapter states what anything costs; a commissioner asks that first | 3.4 |
+| C | ~~Cost one pilot end to end~~ — **DONE** for Chapter 1: ₦250m–₦1bn capital plus one political fight; cost does not explain non-adoption. Chapters 2–8 still uncosted. | 3.4 |
+| C2 | **Cost the remaining chapters** — Ch.7's assessment and Ch.4's audit machinery are the two most likely to be genuinely expensive | 3.4 |
 | D | **Second civic auditor to triangulate BudgIT** — source concentration is real | 2.4 |
 | E | **Human sources** — the single largest structural weakness; not mine to do | 1.1 |
 

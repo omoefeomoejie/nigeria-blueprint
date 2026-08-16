@@ -35,9 +35,21 @@ a change of government in 2019 that swept out almost everything else, and
 the state is now third nationally on independent fiscal rankings. A revenue
 agency that exists only because you said so will end when you do.
 
-**What it costs you.** The people who live on cash collection will fight, and
-some of them work for you. That is the whole cost. There is no technical
-obstacle.
+**What it costs you.** In money, less than you expect. Lagos budgets ₦250m
+for a digital tax platform against a ₦200bn target; that is 0.35% of
+Kaduna's annual IGR and about two weeks of collections even for the smallest
+state in the federation. Kwara bought POS machines, a taxpayer e-Centre and
+an online payment system integrated with its land registry. Abia bought a
+withholding-tax platform from a private vendor.
+
+The real cost is not money. Enugu's revenue chairman names the two
+expensive items first, and neither is on any invoice: **operational autonomy
+for the revenue service**, and shifting the staff from a civil-service
+mindset to a delivery one. Then the fight with the people who live on cash
+collection, some of whom work for you.
+
+**₦250m–₦1bn and one political fight.** There is no technical obstacle, and
+cost is not why this has not been done.
 
 **Numbers to watch.** Year one: no cash collection anywhere, and a published
 leakage baseline. Year three: IGR up 50% on baseline, capital spending above
