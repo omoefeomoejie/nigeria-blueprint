@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.22 | File: Node_1_Decision.md | File version: v1.6 | Last updated: Engine v0.22 (real-terms restatement) | Status: Current -->
+<!-- RESEARCH ENGINE v0.23 | File: Node_1_Decision.md | File version: v1.6 | Last updated: Engine v0.22 (real-terms restatement) | Status: Current -->
 
-**Research Engine v0.22** · **File:** Node_1_Decision.md · **File version:** v1.6 · **Last updated:** Engine v0.22 (real-terms restatement) · **Status:** Current
+**Research Engine v0.23** · **File:** Node_1_Decision.md · **File version:** v1.6 · **Last updated:** Engine v0.22 (real-terms restatement) · **Status:** Current
 
 ---
 

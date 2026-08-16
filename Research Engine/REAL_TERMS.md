@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.22 | File: REAL_TERMS.md | File version: v1.0 | Last updated: Engine v0.22 | Status: Current -->
+<!-- RESEARCH ENGINE v0.23 | File: REAL_TERMS.md | File version: v1.0 | Last updated: Engine v0.22 | Status: Current -->
 
-**Research Engine v0.22** · **File:** REAL_TERMS.md · **File version:** v1.0 · **Last updated:** Engine v0.22 · **Status:** Current
+**Research Engine v0.23** · **File:** REAL_TERMS.md · **File version:** v1.0 · **Last updated:** Engine v0.22 · **Status:** Current
 
 ---
 

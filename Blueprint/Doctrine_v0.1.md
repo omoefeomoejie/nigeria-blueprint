@@ -74,6 +74,21 @@ survive ten retellings and this one has not been tested on a single human
 being. If it does not carry, the finding stays in the Blueprint and out of
 the doctrine.
 
+## Candidate line 11 — The Sovereign *(new, awaiting the retelling test)*
+
+**EN:** *Nobody outside is stopping us from counting our own money.*
+**PG:** *Nobody for outside dey stop us to count our own money.*
+
+Backed by Node 9: external constraint is real in three channels (debt
+structure, currency exposure, verification dependence) and explains almost
+none of the failures documented in this book. ₦332bn of Nigerian education
+money undrawn, 12,000 NDDC projects abandoned, a revenue formula frozen on a
+Nigerian desk since 1992 — none of it foreign.
+
+Candidate, not adopted. It has never been said aloud to anyone, and it is
+the line most likely to start an argument, which is either its strength or
+its disqualification. The street decides.
+
 ## The Wager *(this one is hope, not proof, and we say so)*
 
 EN: *When enough of us know the same truth and move, the country moves.*

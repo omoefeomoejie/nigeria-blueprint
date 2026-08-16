@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.22 | File: PREAMBLE.md | File version: v1.0 (unchanged since engine v0.1) | Last updated: Engine v0.1 (Node 1 initial commit) | Status: Current -->
+<!-- RESEARCH ENGINE v0.23 | File: PREAMBLE.md | File version: v1.0 (unchanged since engine v0.1) | Last updated: Engine v0.1 (Node 1 initial commit) | Status: Current -->
 
-**Research Engine v0.22** · **File:** PREAMBLE.md · **File version:** v1.0 (unchanged since engine v0.1) · **Last updated:** Engine v0.1 (Node 1 initial commit) · **Status:** Current
+**Research Engine v0.23** · **File:** PREAMBLE.md · **File version:** v1.0 (unchanged since engine v0.1) · **Last updated:** Engine v0.1 (Node 1 initial commit) · **Status:** Current
 
 ---
 

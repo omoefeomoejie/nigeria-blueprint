@@ -221,6 +221,61 @@ moves, not who the people are. See the Absorption Playbook.
 
 ---
 
+### Layer 4c — What about outside powers?
+
+The question deserves a straight answer, because it is the most common
+objection to any Nigerian reform plan: none of this matters, because
+Washington, London and Paris will not permit Nigeria to succeed.
+
+**External constraint is real and we can size it.** Nigeria's external debt
+is about **$51.86bn**; debt service consumed roughly **61% of projected
+federal revenue** in the 2025 budget, and the IMF recorded interest-to-
+revenue above 80% in 2023. Currency and commodity exposure is genuine — the
+2023–25 devaluation forced this project to restate its own figures, which
+retired one of our cases. And the most under-discussed dependence of all:
+every working Nigerian instance of pay-on-verified-delivery relies on an
+**externally funded verifier** [Certified].
+
+**But three facts complicate the standard story.** Nigeria's largest single
+external creditor is the **World Bank**, on concessional terms — not a
+commercial predator. The most expensive external debt is **Eurobonds**,
+commercial paper Nigeria chose to issue at market rates. And **domestic debt
+service now exceeds external** (54.5% of total debt servicing in 2025). The
+biggest claim on Nigerian revenue is Nigerian creditors.
+
+**Then run the test.** Take every failure documented in this book and ask
+whether an outside power caused it.
+
+₦332bn of Nigerian education money unaccessed, with 27 of 36 states drawing
+nothing. Twelve thousand of 13,377 NDDC projects abandoned while commission
+staff took contractor payments — ₦10tn of Nigeria's own oil money. A
+governor's commission declaring 375 of 376 seats. A revenue formula frozen
+since 1992 because a Nigerian president never transmitted a Nigerian
+commission's proposal. Land registration priced at up to a third of a
+property's value, freezing $300bn of Nigerian wealth. Overhead growing
+62.66% in a record revenue year. Four in ten boreholes dead within two
+years.
+
+**None of those require a foreign hand to explain, and none can be fixed by
+removing one.**
+
+**Why the framing matters, and not for moral reasons.** Layer 4b found that
+Nigeria's failures track its missing scorekeepers. External blame interacts
+with that badly: **it supplies a permanent explanation that requires no
+scorekeeper.** If the boreholes failed because of hegemony, nobody has to
+publish the functionality register. And the people the alibi protects are
+not in Washington. They are the officials who took the payments.
+
+**The strongest sovereign position is the boring one.** A state that collects
+its own revenue, executes its own projects, publishes its own audited
+accounts and pays for its own verifiers is far harder to pressure than one
+that does not. Every external channel above **shrinks as domestic capacity
+grows**. Sovereignty is built by capacity, not asserted by grievance.
+
+*Full working, including the four strongest arguments against this
+position — among them that our evidence base was assembled to answer a
+different question — in `Research Engine/Lessons Learned/Node_9_Decision.md`.*
+
 ## Why this is not a counsel of despair
 
 Every mechanism named above has been beaten somewhere, and four of them

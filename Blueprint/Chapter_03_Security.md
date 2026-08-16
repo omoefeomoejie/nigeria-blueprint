@@ -44,8 +44,17 @@ mechanism arose under *existential* threat — whether it generalizes to
 ordinary crime is **Owed**.
 
 ## 5. Nigerian Constraints
-The constitutional ceiling (ss. 214–215): states may fund and complement,
-never own force [Certified]. Abuse and militia-drift are documented, not
+The constitutional ceiling. **s.214(1)** establishes the Nigeria Police Force
+and provides that *no other police force shall be established for the
+Federation or any part thereof*; **s.215** places command under the
+Inspector-General and limits a governor's power to direct his state's
+Commissioner of Police.
+
+So a state may **fund, train, vet, statutorily constitute, patrol, gather and
+route intelligence**. It may not **arrest, detain, prosecute or command**.
+Every state security outfit in Nigeria — Amotekun, CJTF and the rest —
+exists in the space s.214 leaves open. This chapter is a workaround, and
+calling it anything grander would be dishonest. Abuse and militia-drift are documented, not
 hypothetical — CJTF abuses against civilians are recorded in the same
 literature that certifies its effectiveness [Certified]. Demobilization
 after the emergency is an unsolved problem.

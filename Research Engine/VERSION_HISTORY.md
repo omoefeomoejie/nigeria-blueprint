@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.22 | File: VERSION_HISTORY.md | File version: v0.22 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.23 | File: VERSION_HISTORY.md | File version: v0.23 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.22** · **File:** VERSION_HISTORY.md · **File version:** v0.22 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.23** · **File:** VERSION_HISTORY.md · **File version:** v0.23 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -418,6 +418,47 @@ New file `REAL_TERMS.md`, including the honest caveat that NBS rebased the
 CPI mid-period, so these figures are directional rather than precise.
 Rule candidate logged, not earned: *deflate before you celebrate.*
 MANIFEST v1.19 (21 files).
+
+---
+
+## v0.23 — the constitutional audit and Node 9 (external constraint)
+
+**Constitutional audit.** Every chapter run through Node 5's gate map.
+Four chapters plus land administration executable with no amendment
+(revenue, accountability, education, identity partly, land). Four provisions
+block the rest: ss.214–215 (police), ss.197–198 (SIECs), s.162(2)
+(derivation), and the missing transmission deadline in s.162(2).
+
+Two self-corrections: **federal character governs distribution, not
+standard** — Chapter 2 amended to floor-then-balance, and merit selection
+reclassified as executable now. **Chapter 8's centralisation recommendation
+is the least likely amendment in the book** (24 state assemblies voting
+against their own governors' control of local elections) and now says so.
+
+Sharpest irony recorded: the Land Use Act vests all state land in the
+Governor, so the person with total authority over land administration is the
+one complaining it is stuck.
+
+**Node 9 — external constraint.** Three measurable channels: debt structure
+($51.86bn external, 61% of projected federal revenue to debt service),
+currency/commodity exposure, and verification dependence. But the largest
+creditor is the World Bank on concessional terms, the priciest debt is
+Eurobonds Nigeria chose to issue, and domestic debt service now exceeds
+external (54.5%).
+
+Falsification test run across every documented failure: roughly two of a
+dozen are externally driven. Central finding is negative and stated as such.
+The alibi mechanism recorded: external blame supplies an explanation that
+requires no scorekeeper, and its beneficiaries are domestic.
+
+Four counter-arguments recorded in full, including that our evidence base
+was assembled to answer a different question, and that the strongest
+opposing case (external power shapes which options seem thinkable) is
+unfalsifiable from inside. Confidence ~70% channels / ~85% negative claim.
+
+Two candidate doctrine lines added, both untested: *"If nobody outside is
+counting, nothing is being fixed"* and *"Nobody outside is stopping us from
+counting our own money."* MANIFEST v1.20 (23 files).
 
 ---
 

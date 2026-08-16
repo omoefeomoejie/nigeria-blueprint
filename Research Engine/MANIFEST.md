@@ -1,10 +1,10 @@
-<!-- RESEARCH ENGINE v0.22 | File: MANIFEST.md | File version: v1.19 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.23 | File: MANIFEST.md | File version: v1.20 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.22** · **File:** MANIFEST.md · **File version:** v1.19 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.23** · **File:** MANIFEST.md · **File version:** v1.20 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
-# MANIFEST — Research Engine v0.22
+# MANIFEST — Research Engine v0.23
 
 The single source of truth for what this engine contains. If a file in your
 copy is not on this list, it is stale — delete it. If a file on this list is
@@ -18,14 +18,15 @@ methodology; file revisions come from one source only.
 
 | Path | File version | Last changed at |
 |---|---|---|
-| `MANIFEST.md` | v1.19 | Engine v0.22 |
+| `MANIFEST.md` | v1.20 | Engine v0.23 |
 | `SCOREKEEPER_TEST.md` | v1.0 | Engine v0.21 |
 | `REAL_TERMS.md` | v1.0 | Engine v0.22 |
+| `Lessons Learned/Node_9_Decision.md` | v1.0 | Engine v0.23 |
 | `PREAMBLE.md` | v1.0 | Engine v0.1 |
 | `LAW_ZERO.md` | v1.0 | Engine v0.1 |
 | `RESEARCH_HABIT.md` | v1.0 | Engine v0.2 |
 | `Evidence_Standard.md` | v0.2 | Engine v0.2 |
-| `VERSION_HISTORY.md` | v0.22 | Engine v0.22 |
+| `VERSION_HISTORY.md` | v0.23 | Engine v0.23 |
 | `PUBLICATION_RULE.md` | v1.0 | Engine v0.7 |
 | `Skills/Comparative_Statecraft_Engine.md` | v0.5 | Engine v0.8 |
 | `SOPs/Investigation_SOP.md` | v0.1 | Engine v0.1 |
@@ -41,7 +42,7 @@ methodology; file revisions come from one source only.
 | `Lessons Learned/Node_8_Decision.md` | v1.1 | Engine v0.19 |
 
 ## Version-numbering note
-Engine versions (v0.1 → … → v0.22) mark commits of the whole engine and are git
+Engine versions (v0.1 → … → v0.23) mark commits of the whole engine and are git
 tags. File versions move independently and only when content changes. Semantic
 versioning remains a Candidate (trigger: skill interdependence).
 

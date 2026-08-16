@@ -33,6 +33,23 @@ See `RED_TEAM.md` for the full pass.
 | 4 | **Sector Brief 08 — trade & investment** | Last unwritten brief. Assessed as unlikely to yield a ninth finding; available on request. | Me, 1 session |
 | 5 | **Middle-case test of the absorption playbook** | We have the top (78%), the captured bottom (16%), and the results-based middle (65%). Untested: an honest, low-capacity body with no donor scaffolding. | Me, 2 drills |
 
+## Newly opened by Node 9 (external constraint)
+
+- **Illicit financial flows and transfer pricing out of Nigeria** — genuinely
+  unexamined, plausibly large, and the channel most likely to shift Node 9's
+  balance if investigated.
+- **The historical causal chain** — colonial extraction → rentier structure →
+  the 1999 Constitution drafted under military rule. Saying today's failure
+  is domestic is not the same as saying the structure producing it was.
+- **Has any African state funded a domestic verification agent independent
+  enough to fail its own government?** The most direct sovereignty
+  intervention in the corpus, and we do not know if it has ever been done.
+- **Arms proliferation** — cross-border dimensions of the security node,
+  never investigated.
+- **Land Use Act reform** — the audit covered titling cost, not tenure
+  security. A Certificate of Occupancy is a leasehold from the governor, not
+  freehold. Different question, unanswered.
+
 ## Newly opened by the costing work
 
 - **The 2024 capex reversal.** Capital exceeded recurrent by ₦1.26tn for the

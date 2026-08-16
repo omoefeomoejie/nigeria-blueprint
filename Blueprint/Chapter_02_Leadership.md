@@ -46,9 +46,20 @@ leg; and willingness to apply the test to allies. Kyrgyzstan proves that
 without these, the same policy produces nothing.
 
 ## 5. Nigerian Constraints
-Federal character constitutionalizes group allocation in appointments
-[Certified, Node 2] — merit reform must be designed *alongside* it, not as
-an open challenge to it, or it dies at a gate it cannot pass (Rule 9). And
+Federal character (s.14(3) and its state equivalents) is usually described
+in this project as an obstacle to merit. **The constitutional audit corrects
+that, and the correction matters.** The principle governs the *distribution*
+of appointments, not the *standard* for them. Nothing in it requires
+appointing an unqualified person.
+
+**So the design is floor-then-balance:** set a published competency floor,
+then apply representational balance above it. That is executable without any
+amendment, and it is how the principle's own authors defend it.
+
+**Where it genuinely bites:** where the qualified pool is unevenly
+distributed, a floor plus a quota can become unfillable, and the usual
+resolution is to lower the floor. That is a design problem to solve, not a
+constitutional prohibition to fight. And
 the instrument itself is attackable: Kaduna's 2017 test drew an independent
 audit finding computation errors and a 75% pass bar far above the West
 African credit standard [Contested]. A contestable instrument hands the

@@ -201,6 +201,48 @@ prove it governs efficiently rather than merely cheaply.**
 
 ---
 
+### 15. Four constitutional provisions block this book. Not "the Constitution."
+Every chapter run through the gate map. **Four chapters plus land
+administration are fully executable now** — revenue, accountability,
+education, identity (partly), and land, where the Land Use Act already vests
+total authority in the governor complaining that titling is slow.
+
+**Blocked:** police (ss.214–215), LG elections (ss.197–198), derivation
+(s.162(2)), and the missing transmission deadline (s.162(2)). Four
+provisions.
+
+**And a correction to ourselves:** federal character governs the
+*distribution* of appointments, not the *standard*. Merit selection is
+executable now, floor-then-balance. We had been treating a design problem as
+a constitutional prohibition.
+**[Certified]** · `Blueprint/CONSTITUTIONAL_AUDIT.md`
+
+### 16. External power is real, sized, and explains almost none of it
+Nigeria's external debt is ~$51.86bn; debt service took ~61% of projected
+federal revenue in 2025. Three channels are genuine: debt structure,
+currency exposure, and **verification dependence** — every working Nigerian
+instance of pay-on-verified-delivery relies on a donor-funded verifier.
+
+But the largest external creditor is the **World Bank on concessional
+terms**; the most expensive debt is **Eurobonds Nigeria chose to issue**; and
+**domestic debt service now exceeds external** (54.5% in 2025).
+
+Run every documented failure against the question *did an outside power
+cause this?* — ₦332bn undrawn, 12,000 NDDC projects abandoned, 375 of 376
+seats, a formula frozen on a Nigerian desk — and roughly two of a dozen are
+externally driven.
+
+**The alibi problem:** external blame supplies an explanation that requires
+no scorekeeper. Its beneficiaries are Nigerian officials, not foreign ones.
+**Sovereignty is built by capacity, not asserted by grievance** — and
+funding your own verifier is the most direct sovereignty intervention in
+this corpus.
+**[~70% on channels; ~85% on the negative claim. Four counter-arguments
+recorded, including that our evidence base was assembled to answer a
+different question.]** · `Research Engine/Lessons Learned/Node_9_Decision.md`
+
+---
+
 ## The single largest weakness
 
 Every claim here was verified by one entity against publicly indexed

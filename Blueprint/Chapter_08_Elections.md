@@ -133,6 +133,19 @@ book: local government elections should be run by INEC, not by the states.**
 The proof already exists — INEC runs council elections in the FCT, and the
 opposition has won there.
 
+**And we should be honest about what that would take.** State Independent
+Electoral Commissions are constitutionally established (ss.197–198 and the
+Third Schedule), with members appointed by the Governor. Transferring their
+function to INEC therefore requires a constitutional amendment: two-thirds
+of both chambers of the National Assembly **and 24 of 36 state assemblies**.
+
+That means asking 24 state assemblies to vote against their own governors'
+control of local elections. **On the gate logic of Chapter 5, this is the
+least likely amendment in this book to pass** — the gate-holder loses
+directly, and there is no burden being shed. We recommend it because it is
+right, and we say plainly that it is hard. Anyone presenting it as available
+is not reading the arithmetic.
+
 Everywhere else in this Blueprint we argue for pushing power down, because
 competition between states makes them better. It only works when somebody
 else keeps the score. Hand a governor the referee and you do not get

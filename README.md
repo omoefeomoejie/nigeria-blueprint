@@ -59,6 +59,10 @@ believe any of it — or exactly where to aim if you shouldn't.
 | [8. Elections](Blueprint/Chapter_08_Elections.md) | How does the vote counted at your unit survive the journey to the centre? | ~70% |
 | [Part V: Movement](Blueprint/Part_V_The_Movement.md) | Who carries this? | *Weakest part — says so* |
 
+**[What needs the Constitution changed](Blueprint/CONSTITUTIONAL_AUDIT.md)**
+— four chapters plus land administration are executable now; four provisions
+block the rest. Not "the Constitution," four provisions.
+
 **[What it costs](Blueprint/COSTING.md)** — all eight chapters priced. The
 four a governor can start alone total about ₦1.1bn–₦4.1bn, less than one
 flyover. The cheapest chapter is the hardest.
