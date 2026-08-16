@@ -12,10 +12,10 @@ when a node, brief, or session exposes them.
 
 | # | Item | Why | Cost |
 |---|---|---|---|
-| 1 | **Voice pass** — Part I + Doctrine | The two files a stranger reads first; both still read as AI-written (flagged by founder, agreed). Now the top item by default. | 1 session |
-| 2 | **Node 8 — Elections** | The horizontal gap; selects the people who run every chapter | Full node |
-| 3 | **A middle-case agency** — honest but incapable | Both poles now documented (78% vs 16% captured). The middle case tests whether practices alone lift a low-capacity, uncaptured body. | 2 drills |
-| 4 | **Doctrine translations** — Hausa, Yoruba, Igbo | Part V's relay model depends on it | Needs native speakers, not me |
+| 1 | **Node 8 — Elections** | The horizontal gap; selects the people who run every chapter | Full node |
+| 2 | **A middle-case agency** — honest but incapable | Both poles now documented (78% vs 16% captured). The middle case tests whether practices alone lift a low-capacity, uncaptured body. | 2 drills |
+| 3 | **Doctrine translations** — Hausa, Yoruba, Igbo | Part V's relay model depends on it | Needs native speakers, not me |
+| 4 | **Voice pass, remaining files** — Parts II/III/V, Chapters 1–7, sector briefs | Part I and the Doctrine done; the rest still carry the AI register | 1–2 sessions |
 
 ## Next
 
@@ -57,7 +57,8 @@ when a node, brief, or session exposes them.
 | Item | Closed by |
 | Seventeen-states drill (redefined the question: organisational, not geographic; corrected our own overclaim) | d213ef2 |
 | UBEC practice audit → ABSORPTION_PLAYBOOK.md (six transplantable practices + a six-point checklist) | 1d58bcc |
-| Failure-side audit (NDDC): incentive-vs-competence settled; playbook sequence corrected to secure-payment-chain → practices → measure | this commit |
+| Failure-side audit (NDDC): incentive-vs-competence settled; playbook sequence corrected to secure-payment-chain → practices → measure | 77bee7d |
+| Voice pass on Part I + Doctrine (the two files a stranger reads first) | this commit |
 |---|---|
 | Osun mechanism (Contested since Node 1) | v0.16 |
 | Node 1 replication proof | v0.12 (Kwara), v0.16 (three-way) |

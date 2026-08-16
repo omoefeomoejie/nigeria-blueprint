@@ -1,15 +1,16 @@
-<!-- BLUEPRINT | Doctrine v0.1 | Source: distilled ONLY from decision-grade nodes (Engine v0.9) | Status: DRAFT -->
+<!-- BLUEPRINT | Doctrine v0.2 (voice pass) | Source: distilled ONLY from decision-grade nodes (Engine v0.9) | Status: DRAFT -->
 
 # The Doctrine — v0.1
 
 *The short layer. What a person can carry in the mouth and win an argument
-with at a joint. Every line is backed by a written, checkable chapter — that
-is the whole difference between this and every promise Nigeria has heard.*
+with at a joint. Every line has a written chapter behind it that anybody can
+open and check. That is the whole difference between this and every promise
+Nigeria has heard.*
 
-**Design rules this text obeys:** proverb-weight lines; retellable without
-decay; second-person agency; medicine, not blame — no line names an enemy;
-every line traces to a certified finding; and the signature move — every
-claim invites verification.
+**Rules this text obeys.** Lines carry like proverbs. They survive ten
+retellings without changing shape. They speak to you, not about Abuja. No
+line names an enemy. Every line traces to a finding you can check, and every
+claim invites you to go and check it.
 
 ---
 
@@ -59,15 +60,16 @@ PG: *No believe us — check am. Everything dey written; anybody fit test am.*
 
 ---
 
-## The Wager *(clearly marked: this one is hope, not yet proof)*
+## The Wager *(this one is hope, not proof, and we say so)*
 
 EN: *When enough of us know the same truth and move, the country moves.*
 PG: *When enough of us sabi the same thing and move, naija go move.*
 
-Status: **Untested** (Foundations claims ledger — the tipping-point folk
-model). It stays in the doctrine as the honest wager the whole movement is
-making, labeled as such. If the movement itself proves or breaks it, this
-section updates.
+Status: **Untested**. The tipping-point idea is folk wisdom, not a finding of
+this project. It stays here because it is what we are betting on, and it
+stays labelled because a book that hides its weakest claim has no business
+demanding evidence from anybody else. If the movement proves it or breaks
+it, this section changes.
 
 ---
 
