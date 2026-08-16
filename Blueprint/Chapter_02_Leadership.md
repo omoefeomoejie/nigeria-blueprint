@@ -131,3 +131,10 @@ produces.
 So the independent examiner in §6 is not a procedural nicety. **It is what
 makes devolved selection legitimate at all.** Without it, this chapter is
 recommending that governors grade themselves.
+
+---
+
+### Cost
+**₦150m–₦500m capital, one test cycle a year recurring.** Cheaper than it looks, because states already run computer-based recruitment tests through accredited JAMB centres — Adamawa used 13 statewide in 2025; Oyo and Ekiti ran theirs through university and polytechnic centres [Certified]. A state does not need to build testing capacity; it rents it. The money goes on instrument design, the independent examiner, centre hire and publication.
+
+**The independent examiner is the item not to economise on.** It is what makes the result legitimate (see the scorekeeper note above). Full working: `COSTING.md`.

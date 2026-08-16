@@ -116,3 +116,10 @@ transmission." Not transmitted. In the same period the commission's
 observable in real time, sorted by loss-type, which is why §6(c)'s keystone
 (a transmission deadline in s.162(2)) is this chapter's central ask rather
 than a better formula. [Certified — contemporaneous reporting]
+
+---
+
+### Cost
+**Near zero, and it is the hardest chapter in the book.** Publishing a gate map, convening willing states, securing assembly endorsements and drafting an amendment are rounding errors against any state budget.
+
+This chapter has failed five times since 2001 and has never once failed for want of money. Anyone who believes Nigeria's problem is finance should sit with that. Full working: `COSTING.md`.

@@ -147,3 +147,12 @@ mechanism inverts into the failure documented in Chapter 8, where the body
 being measured controls the measurement. Ceará's design assumed independent
 assessment; Nigeria's National Learning Assessment is federally run, which
 satisfies the condition today. It is a condition, not a detail.
+
+---
+
+### Cost
+**₦500m–₦2bn, and this is the genuinely expensive chapter — because the assessment recurs annually or the mechanism dies.** Instrument design, enumerator training, fieldwork across every LG, marking, publication. Every year.
+
+Two things reduce it. The **National Learning Assessment already exists federally** [Certified — UBEC]; if it is credible and state-disaggregated, a state's cost collapses from administration to verification. And **the transfer money is not new spending** — it is a reallocation of transfers the state already sends.
+
+This is the least confident figure in `COSTING.md`, and it is flagged there as such.

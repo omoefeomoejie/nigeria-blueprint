@@ -17,7 +17,7 @@ when a node, brief, or session exposes them.
 | A3 | ~~Findings index~~ — **DONE**, `FINDINGS.md`, twelve findings ranked by what they changed | new |
 | B | ~~Real-terms restatement~~ — **DONE.** Osun's growth claim retired; Enugu halved to ~5.3× real; Kwara to ~40–50%. Oil finding strengthened. | 3.2 |
 | C | ~~Cost one pilot end to end~~ — **DONE** for Chapter 1: ₦250m–₦1bn capital plus one political fight; cost does not explain non-adoption. Chapters 2–8 still uncosted. | 3.4 |
-| C2 | **Cost the remaining chapters** — Ch.7's assessment and Ch.4's audit machinery are the two most likely to be genuinely expensive | 3.4 |
+| C2 | ~~Cost the remaining chapters~~ — **DONE.** All eight in `COSTING.md`. Ch.7's annual assessment is the genuinely expensive one and the least confident figure; Ch.5 costs nothing and is hardest. New finding: no Nigerian state publishes what its reforms cost — another missing scorekeeper. | 3.4 |
 | D | **Second civic auditor to triangulate BudgIT** — source concentration is real | 2.4 |
 | E | **Human sources** — the single largest structural weakness; not mine to do | 1.1 |
 

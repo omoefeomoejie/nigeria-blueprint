@@ -135,3 +135,10 @@ The mechanism travels downward.
 **Honest caveat:** the verifier is externally funded. Whether a Nigerian
 government can pay for a verifier that is willing to fail it is the open
 question, recorded in the Absorption Playbook.
+
+---
+
+### Cost
+**₦200m–₦600m capital; the participatory audit and the independent verifier are the recurring items.** Portal and OCDS publication are software costs comparable to Chapter 1's. The citizens' budget in Pidgin and two languages, plus radio explainers, is cheap.
+
+The verifier is the line not to under-fund — every working Nigerian instance of verified-delivery payment currently has a donor paying for the verifier (Absorption Playbook). Full working: `COSTING.md`.

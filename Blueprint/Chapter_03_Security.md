@@ -165,3 +165,10 @@ public data, and this is why.
 fixed intervals, and mirrored by an independent civic body** — never
 summarised by the outfit itself. Without an external scorer, this chapter
 cannot tell success from press release, and neither can anyone else.
+
+---
+
+### Cost
+**₦300m–₦1bn capital, and salaries thereafter — the only chapter in this book whose recurring cost dominates.** Vetting, training, equipment and the complaints line are one-off. The service itself is people, paid monthly, permanently.
+
+For scale: a police constable earns ₦54,000–62,000 a month [Certified], so a 1,000-person service is roughly ₦700–750m a year in salaries before equipment. A state that budgets the training and not the payroll has funded a launch, not a service. Full working: `COSTING.md`.

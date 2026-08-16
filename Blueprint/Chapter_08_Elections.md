@@ -137,3 +137,8 @@ Everywhere else in this Blueprint we argue for pushing power down, because
 competition between states makes them better. It only works when somebody
 else keeps the score. Hand a governor the referee and you do not get
 thirty-six competing states. You get thirty-six monopolies.
+
+---
+
+### Cost
+**Not a state cost.** Real-time upload is federal, legislative, and partly legislated already. A state's contribution is political pressure, and civic mirroring of upload rates on election day — which civil society can do for the price of a spreadsheet and a phone tree. Full working: `COSTING.md`.

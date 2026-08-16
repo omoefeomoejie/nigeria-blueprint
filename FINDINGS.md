@@ -154,7 +154,23 @@ Eleven entries, three correcting our own prior nodes. All permanent.
 
 ---
 
-### 13. The revenue pilot costs ₦250m–₦1bn and one political fight
+### 13. Money is not the binding constraint anywhere in this book
+All eight chapters costed. The four a governor can start alone total roughly
+**₦1.1bn–₦4.1bn** of capital — about 0.3% of Lagos's annual IGR, 6% of
+Kaduna's, less than a single flyover.
+
+The expensive items are **recurring, not capital**: Chapter 3's salaries and
+Chapter 7's annual assessment. Which maps exactly onto Rule 7 — capital buys
+stock, recurring buys flow. A state that funds the platform and not the
+audit has bought the half that survives by default and skipped the half that
+dies at succession.
+
+**And the cheapest chapter is the hardest.** Chapter 5 costs almost nothing
+and has failed five times since 2001.
+**[Order-of-magnitude inference, anchored where Nigerian figures exist]** ·
+`Blueprint/COSTING.md`
+
+### 13a. The revenue pilot costs ₦250m–₦1bn and one political fight
 Lagos budgets ₦250m for a digital tax platform against a ₦200bn target —
 0.02% of its IGR, 0.35% of Kaduna's, about two weeks of collections even for
 Taraba. The expensive items are not purchasable: operational autonomy for

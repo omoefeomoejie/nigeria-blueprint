@@ -59,6 +59,10 @@ believe any of it — or exactly where to aim if you shouldn't.
 | [8. Elections](Blueprint/Chapter_08_Elections.md) | How does the vote counted at your unit survive the journey to the centre? | ~70% |
 | [Part V: Movement](Blueprint/Part_V_The_Movement.md) | Who carries this? | *Weakest part — says so* |
 
+**[What it costs](Blueprint/COSTING.md)** — all eight chapters priced. The
+four a governor can start alone total about ₦1.1bn–₦4.1bn, less than one
+flyover. The cheapest chapter is the hardest.
+
 **[The Absorption Playbook](Blueprint/ABSORPTION_PLAYBOOK.md)** — one
 Nigerian agency completes 78% of its projects; another completes 16%. Same
 law, same contractors, same year. What the difference consists of, and a

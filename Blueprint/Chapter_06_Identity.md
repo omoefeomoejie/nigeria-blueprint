@@ -97,3 +97,10 @@ and Afrobarometer, not on advocacy — ✔ 3. Owed named (non-graduate scale;
 Pidgin direct evidence; religion mechanism) — ✔ 4. Residual uncertainty
 wouldn't change the design — ✔
 **Verdict: publishable as Draft v0.1.**
+
+---
+
+### Cost
+**₦100m–₦400m.** The posting-integrity audit is analysis of existing NYSC records — a research cost, and nobody has ever published that number. Extended-contact cohorts are the programme item, and national sports and skills competitions already exist as vehicles that could carry a mixing requirement at marginal cost.
+
+The binding constraint is federal cooperation, since NYSC is not a state body. Full working: `COSTING.md`.
