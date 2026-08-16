@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.9 | File: Node_4_Decision.md | File version: v1.0 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.10 | File: Node_4_Decision.md | File version: v1.0 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.9** · **File:** Node_4_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.10** · **File:** Node_4_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 

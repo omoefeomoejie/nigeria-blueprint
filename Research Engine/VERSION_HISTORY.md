@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.9 | File: VERSION_HISTORY.md | File version: v0.9 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.10 | File: VERSION_HISTORY.md | File version: v0.10 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.9** · **File:** VERSION_HISTORY.md · **File version:** v0.9 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.10** · **File:** VERSION_HISTORY.md · **File version:** v0.10 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -218,6 +218,19 @@ within the updated statuses).
 
 **Cadence:** five-step sequence steps 1–4 complete; step 5 (Doctrine v0.1)
 next.
+
+---
+
+## v0.10 — product commit (origin: Doctrine v0.1 distillation)
+
+**Added:** `Blueprint/Doctrine_v0.1.md` — nine proverb-weight lines + the
+labeled Wager, English + Pidgin, each traced to its node and status; passed
+the Publication Rule. Engine content unchanged (bookkeeping only). The
+five-step sequence (v0.6 plan) is complete: Node 4 close → Chapter 1 →
+Node 5 → Node 1 revisit → Doctrine.
+
+**Build-order milestone:** Doctrine, Blueprint chapter, and Research Engine
+now all exist as public, versioned, mutually-tracing artifacts.
 
 ---
 

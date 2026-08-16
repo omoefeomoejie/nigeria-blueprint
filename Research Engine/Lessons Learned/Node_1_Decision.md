@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.9 | File: Node_1_Decision.md | File version: v1.1 | Last updated: Engine v0.9 (Node 1 — 2026 addendum) | Status: Current -->
+<!-- RESEARCH ENGINE v0.10 | File: Node_1_Decision.md | File version: v1.1 | Last updated: Engine v0.9 (Node 1 — 2026 addendum) | Status: Current -->
 
-**Research Engine v0.9** · **File:** Node_1_Decision.md · **File version:** v1.1 · **Last updated:** Engine v0.9 (Node 1 — 2026 addendum) · **Status:** Current
+**Research Engine v0.10** · **File:** Node_1_Decision.md · **File version:** v1.1 · **Last updated:** Engine v0.9 (Node 1 — 2026 addendum) · **Status:** Current
 
 ---
 

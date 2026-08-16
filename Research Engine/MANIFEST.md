@@ -1,10 +1,10 @@
-<!-- RESEARCH ENGINE v0.9 | File: MANIFEST.md | File version: v1.6 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.10 | File: MANIFEST.md | File version: v1.7 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.9** · **File:** MANIFEST.md · **File version:** v1.6 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.10** · **File:** MANIFEST.md · **File version:** v1.7 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
-# MANIFEST — Research Engine v0.9
+# MANIFEST — Research Engine v0.10
 
 The single source of truth for what this engine contains. If a file in your
 copy is not on this list, it is stale — delete it. If a file on this list is
@@ -18,12 +18,12 @@ methodology; file revisions come from one source only.
 
 | Path | File version | Last changed at |
 |---|---|---|
-| `MANIFEST.md` | v1.6 | Engine v0.9 |
+| `MANIFEST.md` | v1.7 | Engine v0.10 |
 | `PREAMBLE.md` | v1.0 | Engine v0.1 |
 | `LAW_ZERO.md` | v1.0 | Engine v0.1 |
 | `RESEARCH_HABIT.md` | v1.0 | Engine v0.2 |
 | `Evidence_Standard.md` | v0.2 | Engine v0.2 |
-| `VERSION_HISTORY.md` | v0.9 | Engine v0.9 |
+| `VERSION_HISTORY.md` | v0.10 | Engine v0.10 |
 | `PUBLICATION_RULE.md` | v1.0 | Engine v0.7 |
 | `Skills/Comparative_Statecraft_Engine.md` | v0.5 | Engine v0.8 |
 | `SOPs/Investigation_SOP.md` | v0.1 | Engine v0.1 |
@@ -36,7 +36,7 @@ methodology; file revisions come from one source only.
 | `Lessons Learned/Node_5_Decision.md` | v1.0 | Engine v0.8 |
 
 ## Version-numbering note
-Engine versions (v0.1 → … → v0.9) mark commits of the whole engine and are git
+Engine versions (v0.1 → … → v0.10) mark commits of the whole engine and are git
 tags. File versions move independently and only when content changes. Semantic
 versioning remains a Candidate (trigger: skill interdependence).
 
@@ -53,8 +53,9 @@ versioning remains a Candidate (trigger: skill interdependence).
   Nigerian open-contracting outcome; Rigasa independent corroboration.
 - **Node 5 (Constitutional):** decision recorded (~65%). Open: the live
   2025–26 RMAFC review's fate; s.162(2) keystone passage question.
-- **Next:** Node 1 replication proof + Enugu 2026 durability (step 4 of the
-  five-step sequence), then Doctrine v0.1 (step 5).
+- **Five-step sequence:** COMPLETE at v0.10 (Node 4 → Chapter 1 → Node 5 →
+  Node 1 revisit → Doctrine). Next fork: Chapter 2 (Leadership) vs Node 6
+  (remaining backbone: national identity) vs open owed items.
 
 ## Update protocol
 1. Every engine change ships as a complete versioned release (a tagged commit),
