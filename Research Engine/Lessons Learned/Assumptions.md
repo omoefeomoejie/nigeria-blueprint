@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.7 | File: Assumptions.md | File version: v0.1 | Last updated: Engine v0.2 (post-Node 1 review) | Status: Current -->
+<!-- RESEARCH ENGINE v0.8 | File: Assumptions.md | File version: v0.2 | Last updated: Engine v0.2 (post-Node 1 review) | Status: Current -->
 
-**Research Engine v0.7** · **File:** Assumptions.md · **File version:** v0.1 · **Last updated:** Engine v0.2 (post-Node 1 review) · **Status:** Current
+**Research Engine v0.8** · **File:** Assumptions.md · **File version:** v0.2 · **Last updated:** Engine v0.2 (post-Node 1 review) · **Status:** Current
 
 ---
 
@@ -25,7 +25,7 @@ effective path to transformation than top-down federal/constitutional reform —
 i.e. you change Nigeria by making willing *states* succeed and forcing the centre
 to follow, rather than by capturing the centre and reforming downward.
 
-**Status:** Untested.
+**Status:** Partially Supported (updated at Node 5). Units acquire powers when the centre sheds burdens (electricity, certified); unit-pressure can approach ratification thresholds over ~a decade (LG trajectory); money-walls remain centre-held. Route-matched form: units-first through open gates; centre-engagement only at money gates.
 
 **Why it's load-bearing:** Almost every move so far has quietly assumed it — the
 willing-state pilot logic, competitive federalism, treating Lagos/Enugu/Osun as

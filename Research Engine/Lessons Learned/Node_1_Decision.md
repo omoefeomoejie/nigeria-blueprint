@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.7 | File: Node_1_Decision.md | File version: v1.0 | Last updated: Engine v0.3 (Node 1 — Enugu certification) | Status: Current -->
+<!-- RESEARCH ENGINE v0.8 | File: Node_1_Decision.md | File version: v1.0 | Last updated: Engine v0.3 (Node 1 — Enugu certification) | Status: Current -->
 
-**Research Engine v0.7** · **File:** Node_1_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.3 (Node 1 — Enugu certification) · **Status:** Current
+**Research Engine v0.8** · **File:** Node_1_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.3 (Node 1 — Enugu certification) · **Status:** Current
 
 ---
 

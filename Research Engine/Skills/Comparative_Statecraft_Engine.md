@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.7 | File: Comparative_Statecraft_Engine.md | File version: v0.4 | Last updated: Engine v0.5 (Node 3 — Security) | Status: Current -->
+<!-- RESEARCH ENGINE v0.8 | File: Comparative_Statecraft_Engine.md | File version: v0.5 | Last updated: Engine v0.5 (Node 3 — Security) | Status: Current -->
 
-**Research Engine v0.7** · **File:** Comparative_Statecraft_Engine.md · **File version:** v0.4 · **Last updated:** Engine v0.5 (Node 3 — Security) · **Status:** Current
+**Research Engine v0.8** · **File:** Comparative_Statecraft_Engine.md · **File version:** v0.5 · **Last updated:** Engine v0.5 (Node 3 — Security) · **Status:** Current
 
 ---
 
@@ -187,8 +187,29 @@ certify outcomes. When outcome attribution is confounded:
 > Maiduguri held while comparable LGAs without a strong community organ fell.
 > Mechanism certified; outfit-level outcome claims were not.
 
+
+### Rule 9 — Route-match constitutional change to the gate-holder and their loss-type
+Constitutional reform in a federation is not one door; it is several gates,
+each held by someone. Before prescribing any constitutional change, name:
+(a) **who holds each gate** on the route (presidential transmission, NASS
+supermajority, state-assembly ratification, courts), and (b) **what the
+gate-holder loses** — money, or a burden. Burden-shedding changes pass gates
+held by the shedder. Money-moving changes die at the loser's gate, however
+strong the case. Judicial bypasses win declarations, not disbursements — a
+ruling is a flow (Rule 7) and needs enforcement machinery plus a constituency,
+or the losers route around it.
+
+> **Origin — Node 5 (three paired cases, 2022–2024):** The revenue-formula
+> reform died untransmitted on the President's desk (2022 RMAFC proposal cut
+> the federal share; the gate-holder was the loser). The electricity
+> devolution amendment passed every gate (2023) because the federal centre
+> was shedding a failing burden, not losing money. LG financial autonomy
+> failed ratification three times (governors were the losers), won at the
+> Supreme Court (July 2024) — and is now defied in practice, with joint
+> accounts continuing under the unamended s.162.
+
 ### Ordering note
-*(Rules are numbered by birth order, not priority. Apply 1 → 2 → 2.1 → 3 → 4, then 5 → 6 → 7 on any case proposed for transfer, and 8 wherever outcomes are being attributed.)*
+*(Rules are numbered by birth order, not priority. Apply 1 → 2 → 2.1 → 3 → 4, then 5 → 6 → 7 on any case proposed for transfer, 8 wherever outcomes are attributed, and 9 on any constitutional-change prescription.)*
 
 ---
 
@@ -289,8 +310,14 @@ Every rule above is auditable via this fixed block.
 - Reason added: perception cannot certify outcomes; confounded before/after attributes nothing in either direction; certification must drop to mechanism + counterfactual contrast
 - Type: Rule
 
+**Rule 9 — Route-match constitutional change to gate-holder and loss-type**
+- Node: 5 (Constitutional)
+- Evidence: 2022 RMAFC formula proposal died untransmitted (presidential gate, money loss); 2023 electricity amendment passed all gates (burden shed); LG autonomy: 3 failed ratifications (governor gate), 2024 Supreme Court win, 2025–26 implementation defiance (₦10tn still state-controlled)
+- Reason added: identical "decentralization" reforms met opposite fates, explained entirely by gate-holder × loss-type
+- Type: Rule
+
 ---
 
-**Skill version:** v0.4 (Rule 8 earned from Node 3; Rules 1–7 unchanged)
+**Skill version:** v0.5 (Rule 9 earned from Node 5; Rules 1–8 unchanged)
 **Earned from:** Node 1 (Revenue Structure)
-**Next update trigger:** Node 4.
+**Next update trigger:** next investigation.

@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.7 | File: Mistakes.md | File version: v0.6 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.8 | File: Mistakes.md | File version: v0.7 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.7** · **File:** Mistakes.md · **File version:** v0.6 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.8** · **File:** Mistakes.md · **File version:** v0.7 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -214,4 +214,33 @@ as an engine-sufficiency signal for governance-class questions, not as a rule.
 
 ---
 
-**Next entry:** Node 5.
+## Node 5 — Constitutional
+
+### Mistake 5.1 — Our own Node 3 line "the walls are centre-territory" was too absolute
+- **Believed (Node 3 Decision, our own file):** units act only beneath
+  constitutional walls; the walls themselves belong to the centre.
+- **Wrong because:** the electricity wall had already opened (March 2023
+  amendment — before we wrote the line). Burden-shedding walls move; only
+  money-walls have proven immovable so far.
+- **Why fooled:** we generalized from policing (a money-and-control wall) to
+  all walls.
+- **Changed mind:** Node 5 drill 3 — the amendment route's proven passage.
+- **Rule added:** Rule 9. Node 3's decision file stands as written (per the
+  never-delete rule); this entry is its correction of record.
+
+### Mistake 5.2 — We nearly read the Supreme Court ruling as decisive
+- **Believed (briefly):** the July 2024 LG-autonomy ruling settled the
+  question — the judicial route beats the ratification gate.
+- **Wrong because:** implementation is defied; joint accounts continue under
+  the unamended s.162; autonomy "exists only on paper" per LG officials.
+  A ruling is a flow (Rule 7): declaration without enforcement machinery and
+  constituency.
+- **Why fooled:** a Supreme Court judgment *feels* like a stock change. It is
+  a flow instruction to actors who can wait (Rule 6).
+- **Changed mind:** the 2025–26 implementation reporting (₦10tn still
+  state-controlled).
+- **Rule added:** folded into Rule 9's judicial-bypass clause.
+
+---
+
+**Next entry:** next investigation.

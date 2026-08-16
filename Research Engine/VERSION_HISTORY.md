@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.7 | File: VERSION_HISTORY.md | File version: v0.7 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.8 | File: VERSION_HISTORY.md | File version: v0.8 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.7** · **File:** VERSION_HISTORY.md · **File version:** v0.7 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.8** · **File:** VERSION_HISTORY.md · **File version:** v0.8 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -189,6 +189,19 @@ first chapter-length body of claims. Chapter 1 (Revenue) drafted in
 (15 files). Candidates ledger: Publication Rule → **EARNED at v0.7**.
 
 **Cadence check:** node-close (v0.6) → product (v0.7). Healthy alternation.
+
+---
+
+## v0.8 — fifth evidence-earned commit (origin: Node 5, Constitutional)
+
+**Earned:** Rule 9 (route-match constitutional change: gate-holder ×
+loss-type) — three paired cases 2022–24. Node_5_Decision (~65%).
+Mistakes 5.1 (self-correction of Node 3's "walls" line — first engine
+correction of its own prior node) and 5.2 (rulings are flows).
+Assumption 1 upgraded Untested → **Partially Supported** (route-matched
+form). MANIFEST v1.5 (16 files).
+
+**Cadence check:** node (v0.6) → product (v0.7) → node (v0.8). Healthy.
 
 ---
 
