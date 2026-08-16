@@ -147,4 +147,9 @@ decomposes into the same root causes strengthens the diagnosis by
 convergence; any sector that fails for reasons the horizontals cannot
 explain will force Layer 4 to be revised. Both outcomes are recorded.
 
-Convergences so far: **1 of 8 planned sectors** (Agriculture).
+Convergences so far: **2 of 8 planned sectors** (Agriculture, Power).
+
+Power converged differently and more usefully: it did not merely restate the
+diagnosis — it **corrected a prescription of ours** (Mistakes 8.1). A
+vertical that can amend the horizontal is doing the work it was designed
+for.

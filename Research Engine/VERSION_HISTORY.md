@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.16 | File: VERSION_HISTORY.md | File version: v0.16 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.17 | File: VERSION_HISTORY.md | File version: v0.17 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.16** · **File:** VERSION_HISTORY.md · **File version:** v0.16 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.17** · **File:** VERSION_HISTORY.md · **File version:** v0.17 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -303,6 +303,23 @@ case, not a dependence-escape case. Node 1 ~78% → **~80%**; third
 independently-sourced layer-1 replication. Mistake 1.3 gains a resolution
 note: holding at Contested cost nothing and paid in full. Chapter 1 updated;
 harmonisation elevated as the pilot's entry move. MANIFEST v1.13.
+
+---
+
+## v0.17 — vertical axis opens; first correction earned from a sector
+
+**Blueprint/Sectors/** established (spec, five-field template,
+certified-number rule, actionability triage). Briefs 01 (Agriculture) and
+02 (Power) shipped.
+
+- **Agriculture:** first independent convergence on Part II's first
+  principle (a sector economist reaching Layer 4 from outside the project).
+- **Power:** first *correction* earned by the vertical axis. Mistakes 8.1 —
+  "take the open constitutional door" amended to "take it and build the
+  capacity first." Node_5_Decision → v1.2; Chapter 5 §6(a) rewritten.
+
+Elections reclassified as horizontal (Node 8 candidate); diplomacy folded
+into a future trade brief. MANIFEST v1.14.
 
 ---
 

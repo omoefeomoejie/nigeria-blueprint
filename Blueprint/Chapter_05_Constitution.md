@@ -45,9 +45,14 @@ norm in the culture.
 | Courts | Judiciary | …never for disbursement: rulings declare, losers wait |
 
 ## 6. Nigerian Adaptation — the sequenced route map
-**(a) Take the open doors now.** Every burden-shedding devolution — power,
-rail, corrections, and the next candidates — grows unit capacity and is
-politically cheap for the centre.
+**(a) Take the open doors now — and build the capacity to use them first.**
+Every burden-shedding devolution (power, rail, corrections) is politically
+cheap for the centre. But cheap to acquire is not the same as ready to use:
+16 states took electricity oversight by early 2026 and several produced
+non-functional regulators and licences issued outside the legal framework,
+with no measurable supply improvement [Certified — Sector Brief 02;
+Mistakes 8.1]. **Sequence: build the regulator, then take the power, then
+publish the baseline.**
 **(b) Build the coalitions for the locked doors.** The LG trajectory shows
 ratification support can be moved over ~a decade, with state legislators
 increasingly voting against their governors [Certified].

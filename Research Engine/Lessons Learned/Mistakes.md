@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.16 | File: Mistakes.md | File version: v0.10 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.17 | File: Mistakes.md | File version: v0.11 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.16** · **File:** Mistakes.md · **File version:** v0.10 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.17** · **File:** Mistakes.md · **File version:** v0.11 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -285,6 +285,35 @@ as an engine-sufficiency signal for governance-class questions, not as a rule.
   flagship-case confounding (Lagos, then Vietnam): **the most-cited case in
   any domain is the most likely to be confounded, because fame follows
   outcomes, not mechanisms.**
+
+---
+
+## Vertical axis — Sector briefs
+
+### Mistake 8.1 — We treated "take the open constitutional door" as unqualified good advice
+- **Believed (Node 5 Decision, Chapter 5, our own files):** burden-shedding
+  devolutions should be taken *now*, because each grows unit capacity and
+  fuels the units-first strategy.
+- **Wrong because:** the 2023 electricity devolution ran the experiment.
+  NERC transferred oversight to 16 states by early 2026. Two years on:
+  little meaningful improvement in supply; several states without fully
+  operational regulators; licences issued outside the legal framework (Imo
+  licensed a new entrant within weeks of its regulator's creation while
+  never having licensed the incumbent). In several states the devolution
+  produced a *worse* regulatory environment than the federal monopoly it
+  replaced.
+- **Why fooled:** we mapped Rule 5 preconditions for reforms we *proposed*,
+  but not for doors we told people to *walk through*. An acquired power
+  looked like a free win because it costs nothing to accept.
+- **Changed mind:** Sector Brief 02 (Power), reading NERC's own transfer
+  sequence against independent implementation reporting.
+- **Rule added:** none new — this is Rule 5 (precondition mapping) applied
+  to a class we had exempted. **Corrected prescription: take the open door
+  AND build the capacity to use it first. Devolution is a capacity project
+  in a legal costume.**
+- **Note:** this is the second time the engine has corrected its own prior
+  node (see Mistake 5.1), and the first correction earned by the vertical
+  axis — which is what that axis was built to be capable of.
 
 ---
 

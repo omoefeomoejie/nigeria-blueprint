@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.16 | File: Node_5_Decision.md | File version: v1.1 | Last updated: Engine v0.15 (Node 5 — live test) | Status: Current -->
+<!-- RESEARCH ENGINE v0.17 | File: Node_5_Decision.md | File version: v1.2 | Last updated: Engine v0.17 (correction from Sector Brief 02) | Status: Current -->
 
-**Research Engine v0.16** · **File:** Node_5_Decision.md · **File version:** v1.1 · **Last updated:** Engine v0.15 (Node 5 — live test) · **Status:** Current
+**Research Engine v0.17** · **File:** Node_5_Decision.md · **File version:** v1.2 · **Last updated:** Engine v0.17 (correction from Sector Brief 02) · **Status:** Current
 
 ---
 
@@ -116,3 +116,17 @@ change the formula is maximising collection instead.
 **Watch item (not a research gap):** transmission may still occur. If it
 does, this finding weakens and must be revised by commit. Only time resolves
 it.
+
+---
+
+## Correction (Engine v0.17 — from Sector Brief 02, Power)
+
+Recommendation 1(a) of this decision ("take every burden-shedding devolution
+now") is **amended**: take it *and build the absorptive capacity first*.
+The 2023 electricity devolution — 16 states by early 2026, NERC-published —
+confirmed the route-matching finding (burden-shedding doors open) and
+simultaneously showed that **an acquired power without regulatory capacity
+degrades governance**: non-functional regulators, licences outside the legal
+framework, no measurable supply improvement two years in. See Mistakes 8.1.
+Confidence unchanged (~70%) — the gate finding is strengthened; only the
+prescription is corrected.
