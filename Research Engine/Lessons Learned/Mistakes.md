@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.5 | File: Mistakes.md | File version: v0.5 | Last updated: Engine v0.5 (Node 3 — Security) | Status: Current -->
+<!-- RESEARCH ENGINE v0.6 | File: Mistakes.md | File version: v0.6 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.5** · **File:** Mistakes.md · **File version:** v0.5 · **Last updated:** Engine v0.5 (Node 3 — Security) · **Status:** Current
+**Research Engine v0.6** · **File:** Mistakes.md · **File version:** v0.6 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -185,4 +185,33 @@ Left Contested-unexamined; flagged for any future Kaduna drill.
 
 ---
 
-**Next entry:** Node 4.
+## Node 4 — Accountability
+
+### Mistake 4.1 — We nearly took the Rigasa anecdote as outcome proof
+- **Believed (briefly):** the citizen-report-to-contract-revocation loop (Rigasa
+  General Hospital) demonstrated the machinery produces outcomes.
+- **Wrong because:** single anecdote, sourced from OGP's own promotional
+  publication — an interested party showcasing members (Rule 3).
+- **Why fooled:** the anecdote is vivid and exactly the loop we hoped to find.
+- **Changed mind:** applying Rule 3 to the publisher, not just the claim.
+- **Rule added:** none — Rule 3 caught it.
+
+### Mistake 4.2 — We nearly equated transparency scores with accountability outcomes
+- **Believed (briefly):** Kaduna's 39/39 BudgIT score meant accountability works.
+- **Wrong because:** the causal chain has four links — publication → usability →
+  binding participation → reduced leakage/better delivery. Only link 1 is
+  certified in Nigeria. The state's own OGP civil-society co-chair flags the
+  usability gap (no citizens' budget); BudgIT itself warns consultations do not
+  guarantee accountability; no Nigerian leakage/savings measurement exists.
+- **Why fooled:** an independent 39/39 *feels* like an outcome. It is an input
+  measured well.
+- **Changed mind:** decomposing the chain (Rule 2.1's habit) + Rule 8.
+- **Rule added:** none — existing rules caught it.
+
+### Milestone note — first node closed with zero new rules
+Every near-miss in Node 4 was caught by existing rules (3, 2.1, 7, 8). Logged
+as an engine-sufficiency signal for governance-class questions, not as a rule.
+
+---
+
+**Next entry:** Node 5.

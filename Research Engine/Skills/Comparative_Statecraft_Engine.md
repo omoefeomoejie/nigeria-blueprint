@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.5 | File: Comparative_Statecraft_Engine.md | File version: v0.4 | Last updated: Engine v0.5 (Node 3 — Security) | Status: Current -->
+<!-- RESEARCH ENGINE v0.6 | File: Comparative_Statecraft_Engine.md | File version: v0.4 | Last updated: Engine v0.5 (Node 3 — Security) | Status: Current -->
 
-**Research Engine v0.5** · **File:** Comparative_Statecraft_Engine.md · **File version:** v0.4 · **Last updated:** Engine v0.5 (Node 3 — Security) · **Status:** Current
+**Research Engine v0.6** · **File:** Comparative_Statecraft_Engine.md · **File version:** v0.4 · **Last updated:** Engine v0.5 (Node 3 — Security) · **Status:** Current
 
 ---
 

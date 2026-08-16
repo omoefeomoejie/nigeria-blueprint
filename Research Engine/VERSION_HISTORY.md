@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.5 | File: VERSION_HISTORY.md | File version: v0.5 | Last updated: Engine v0.5 (Node 3 — Security) | Status: Current -->
+<!-- RESEARCH ENGINE v0.6 | File: VERSION_HISTORY.md | File version: v0.6 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.5** · **File:** VERSION_HISTORY.md · **File version:** v0.5 · **Last updated:** Engine v0.5 (Node 3 — Security) · **Status:** Current
+**Research Engine v0.6** · **File:** VERSION_HISTORY.md · **File version:** v0.6 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -163,6 +163,21 @@ within-case counterfactual).
   optional; it is being assembled by the evidence itself.
 
 **Cadence check:** v0.3 → v0.4 → v0.5, all evidence-earned. Healthy.
+
+---
+
+## v0.6 — fourth evidence-earned commit (origin: Node 4, Accountability)
+
+**Added:** `Node_4_Decision.md` (~70%); Mistakes 4.1–4.2 + sufficiency
+milestone; MANIFEST v1.3 (14 files). **No skill change** — first node closed
+with zero new rules; every near-miss caught by existing ones (3, 2.1, 7, 8).
+Rule 7 gained its confirming paired case (Kaduna: OGP flow survived the same
+succession that killed the competency-test flow).
+
+**Honest flag:** Nigerian outcome measurement for open contracting confirmed
+absent after three drills — the chapter must build it, not cite it.
+
+**Cadence check:** four consecutive evidence-earned commits. Healthy.
 
 ---
 
