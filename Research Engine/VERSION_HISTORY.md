@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.6 | File: VERSION_HISTORY.md | File version: v0.6 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.7 | File: VERSION_HISTORY.md | File version: v0.7 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.6** · **File:** VERSION_HISTORY.md · **File version:** v0.6 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.7** · **File:** VERSION_HISTORY.md · **File version:** v0.7 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -75,7 +75,7 @@ rules were already banked at v0.1 and no new investigation has run since.
 ## Candidates ledger (live)
 | Candidate | Trigger to become Earned | Status |
 |---|---|---|
-| Publication Rule | first chapter-length body of claims | still Candidate |
+| Publication Rule | first chapter-length body of claims | **EARNED at v0.7** |
 | Decision.md | Node 1 close (post-Enugu) | **EARNED at v0.3** |
 | "Strong" status | a claim that needs it | still Candidate |
 | Semantic versioning | skills become interdependent | still Candidate |
@@ -178,6 +178,17 @@ succession that killed the competency-test flow).
 absent after three drills — the chapter must build it, not cite it.
 
 **Cadence check:** four consecutive evidence-earned commits. Healthy.
+
+---
+
+## v0.7 — product-earned commit (origin: Chapter 1 drafting)
+
+**Earned:** `PUBLICATION_RULE.md` — Candidate since v0.2, trigger fired by the
+first chapter-length body of claims. Chapter 1 (Revenue) drafted in
+`Blueprint/` and passed the rule's four checks as Draft v0.1. MANIFEST v1.4
+(15 files). Candidates ledger: Publication Rule → **EARNED at v0.7**.
+
+**Cadence check:** node-close (v0.6) → product (v0.7). Healthy alternation.
 
 ---
 
