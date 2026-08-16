@@ -1,4 +1,4 @@
-<!-- BLUEPRINT | Chapter 1 | Draft v0.1 | Source: Research Engine Node 1 (Decision ~70%), Nodes 2/4 cross-findings | Status: DRAFT — publishable per Publication Rule check at end -->
+<!-- BLUEPRINT | Chapter 1 | Draft v0.2 | Source: Research Engine Node 1 (Decision ~70%), Nodes 2/4 cross-findings | Status: DRAFT — publishable per Publication Rule check at end -->
 
 # Chapter 1 — Revenue: Feeding the State From Its People's Work
 
@@ -22,8 +22,14 @@ for 71–92% of revenue.
   eliminated. A structurally ordinary state escaped dependence.
 - **Lagos** [Confounded]: real reform (LIRS, 800k+ properties digitized) —
   inseparable from uncopyable commercial geography. Illustration, not model.
-- **Osun** [Contested]: real NBS growth (₦27.7bn → ₦54.7bn); mechanism story
-  from interested sources only. [Owed: independent decomposition.]
+- **Osun** [Contested]: real growth, now independently confirmed in BudgIT's
+  top-5 growth index; mechanism story still from interested sources only.
+  [Owed: independent mechanism decomposition.]
+- **Kwara** [Certified (layer 1 + succession) / Owed (layers 2–3)]: the
+  replication case. No endowment; recurring composition (taxes + MDA fees);
+  262.8% growth 2020–24 into BudgIT's national top-3 and 5th-least
+  FAAC-dependence — on independent numbers. Layer 1 built **by statute**
+  (KW-IRS, Revenue Administration Law No. 6 of 2015).
 
 ## 3. The Mechanism (what actually transfers)
 Not the revenue source — sources are endowments (Lagos's ports, Enugu's
@@ -89,7 +95,10 @@ enumerated tax base. **Flow** (dies at succession unless defended): the
 autonomous revenue authority and the conversion ledger — must be statutory,
 with an organized constituency (the league table + CSO auditors) and an
 external anchor. Kaduna's paired case [Certified, Nodes 2/4] is the design
-warning and the design manual.
+warning; **Kwara is the design proof in this very domain** — its statutory
+revenue authority survived the hostile 2019 succession and was reformed,
+not scrapped [Certified, v0.12]. The prescription in this section is no
+longer theory: it has a named survivor.
 
 ---
 
