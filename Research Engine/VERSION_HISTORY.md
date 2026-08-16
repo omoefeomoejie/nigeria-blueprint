@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.19 | File: VERSION_HISTORY.md | File version: v0.19 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.20 | File: VERSION_HISTORY.md | File version: v0.20 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.19** · **File:** VERSION_HISTORY.md · **File version:** v0.19 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.20** · **File:** VERSION_HISTORY.md · **File version:** v0.20 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -357,6 +357,21 @@ performance is visible and comparable; it fails where the unit controls the
 scoreboard. Operational test for all future nodes: *who keeps the score?*
 Prescription here inverts to centralisation — the only such case in the
 Blueprint. Node_8_Decision v1.1; Chapter 8 addendum.
+
+---
+
+## v0.20 — Enugu integrity check: three qualifications, no collapse
+
+Deliberate audit of the state carrying load in three chapters. Debt caveat
+(₦82.5bn → ₦188.42bn, +128%) qualifies Node 1's headline: revenue autonomy
+part-financed by borrowing is a different achievement. Audited-accounts gap
+(2024 accounts unpublished, alongside published quarterly budget reports)
+locates the BudgIT transparency failure precisely and earns a new
+distinction: **self-reported performance data is not an audit**.
+Abandonment-cycle warning sign logged (new farm estates budgeted alongside
+existing abandoned ones; ₦1bn to the governor's home community).
+Counter-evidence recorded: HOPE-GOV implementation, BVN-linked payroll.
+Node_1_Decision v1.5; Chapter 1 evidence note. Confidence held at ~80%.
 
 ---
 

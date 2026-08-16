@@ -30,6 +30,7 @@ when a node, brief, or session exposes them.
 
 | Item | What would change | Where recorded |
 |---|---|---|
+| **Enugu 2024 audited accounts** | Publication would settle whether the gap is delay or avoidance | Node_1_Decision v1.5 |
 | RMAFC formula transmission | If transmitted, Node 5's central finding weakens — revise by commit | Node_5_Decision v1.1 |
 | **2027 elections** (presidential 16 Jan, governorship 6 Feb) | The only test of whether the 2026 Act's housing produces real-time upload | Node_8_Decision |
 | §60(3) gazetted text | Credible sources conflict on what it requires; read the operative text directly | Node_8_Decision |
@@ -65,7 +66,8 @@ when a node, brief, or session exposes them.
 | Middle-case agency (REA) — results-based payment identified as the structural fix; playbook sequence revised | d08e70d |
 | Voice pass — Doctrine, Parts I/II/III/V, Chapters 1–8 (mechanism sections and openings) | 9541536 |
 | Doctrine translation drafts (HA/YO/IG) written and quarantined pending native review | 321892e |
-| Domestically-funded pay-on-output question — answered: proven in Nigeria, not owned by Nigeria; every case donor-verified | this commit |
+| Domestically-funded pay-on-output question — answered: proven in Nigeria, not owned by Nigeria; every case donor-verified | 9f2baae |
+| Enugu integrity check — debt caveat, audited-accounts gap, abandonment warning; new distinction earned (self-report ≠ audit) | this commit |
 |---|---|
 | Osun mechanism (Contested since Node 1) | v0.16 |
 | Node 1 replication proof | v0.12 (Kwara), v0.16 (three-way) |

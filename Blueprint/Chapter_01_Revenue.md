@@ -149,3 +149,27 @@ recovery), Kwara (statutory authority, succession-proof), Osun
 that ends double taxation is the most-replicated and most politically
 survivable entry move — it makes businesses allies rather than victims.
 Start the pilot there.
+
+---
+
+### Evidence note (v0.20 — Enugu integrity check)
+
+We use Enugu as this chapter's proof that an ordinary state can escape
+dependence on Abuja. That holds. Two things must be said alongside it.
+
+**It borrowed heavily while doing it.** Enugu's domestic debt went from
+₦82.5bn in 2023 to ₦188.42bn by early 2026, more than double [Certified —
+Debt Management Office]. Revenue autonomy financed partly by borrowing is
+not the same achievement as revenue autonomy, and a state copying this
+chapter should watch both numbers, not one.
+
+**It publishes its own reports and withholds the audit.** Enugu issues
+quarterly budget implementation reports and has not published its 2024
+audited financial accounts [Certified]. This is why the same state that
+leads the country on revenue sits at the bottom of the transparency league.
+
+The distinction matters for anyone using this chapter: **a government's own
+performance report is not an audit.** Publishing the first is easy and
+useful. Withholding the second is where the trouble hides. §6's pilot
+therefore requires both, and §11's kill condition treats an unpublished
+audit as a failure of the chapter, not a technicality.

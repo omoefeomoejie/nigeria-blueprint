@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.19 | File: Node_1_Decision.md | File version: v1.4 | Last updated: Engine v0.16 (Osun closure) | Status: Current -->
+<!-- RESEARCH ENGINE v0.20 | File: Node_1_Decision.md | File version: v1.5 | Last updated: Engine v0.20 (Enugu integrity check) | Status: Current -->
 
-**Research Engine v0.19** · **File:** Node_1_Decision.md · **File version:** v1.4 · **Last updated:** Engine v0.16 (Osun closure) · **Status:** Current
+**Research Engine v0.20** · **File:** Node_1_Decision.md · **File version:** v1.5 · **Last updated:** Engine v0.20 (Enugu integrity check) · **Status:** Current
 
 ---
 
@@ -183,3 +183,49 @@ decomposition; a layers-only state reaching autonomy-grade; Kwara decomposition.
   Kwara, and the national agenda. Likely the most-replicated layer-1 move in
   Nigeria — and business-friendly, which explains why it passes politically
   where dismissal-based reforms do not. Elevate in pilot design.
+
+---
+
+## Enugu integrity check (Engine v0.20) — three qualifications, no collapse
+
+Enugu carries load in three chapters (revenue star, transparency laggard,
+early electricity-transfer state). A deliberate audit was owed. Result:
+**no claim collapses; three are qualified.**
+
+**1. The debt caveat — material to this node's headline.**
+Enugu's domestic debt rose from **₦82.5bn inherited in 2023 to ₦188.42bn by
+early 2026, over 128% growth** [Certified — DMO, via ADC candidate statement
+and multi-outlet reporting]. We certified Enugu as the ordinary state that
+escaped FAAC dependence. We did not weigh that it did so while more than
+doubling its debt. **Revenue autonomy part-financed by borrowing is a
+different achievement from revenue autonomy.** The finding stands; the
+framing was incomplete. Confidence held at ~80% (the three-layer mechanism
+is unaffected), but the Enugu *illustration* now carries this caveat
+wherever it appears.
+
+**2. The audited-accounts gap — and a distinction the Blueprint lacked.**
+Enugu publishes quarterly Budget Implementation Reports (Q1 2026: ₦101.8bn
+total revenue, ₦43.9bn IGR, ~43% of inflows) **and has not published its
+2024 audited financial accounts** [Certified]. That is the BudgIT
+transparency-league failure, located precisely.
+
+> **New distinction, earned here:** self-reported performance data is not an
+> audit. A government can be excellent at publishing its own account of
+> itself while withholding the independent check on that account. Chapter 4's
+> chain requires both; most Nigerian "transparency" is the first only.
+
+**3. The abandonment-cycle warning sign.** The 2026 budget proposes ₦1bn for
+farm projects in the governor's home community (Nkanu East) and ₦49bn for
+new farm estates, while abandoned farm estates exist at Adani, Ete and
+Aguibeje [Certified]. New-build alongside unresolved abandonment is the
+exact pattern Sector 06 identified, and the exact behaviour the Absorption
+Playbook's checklist rule 6 prohibits.
+
+**Counter-evidence, recorded fairly.** Enugu is implementing HOPE-GOV, whose
+own consultant states the programme "does not fund mere activities or
+processes but rather the verified achievements," with biometric capture and
+BVN-linked payroll against ghost workers [Certified]. The machinery is being
+built; the audit is being withheld. Both are true.
+
+**Owed:** Enugu's 2024 audited accounts, if published. Their content would
+settle whether the transparency gap is administrative delay or avoidance.
