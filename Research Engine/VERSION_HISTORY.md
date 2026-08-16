@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.8 | File: VERSION_HISTORY.md | File version: v0.8 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.9 | File: VERSION_HISTORY.md | File version: v0.9 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.8** · **File:** VERSION_HISTORY.md · **File version:** v0.8 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.9** · **File:** VERSION_HISTORY.md · **File version:** v0.9 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -202,6 +202,22 @@ Assumption 1 upgraded Untested → **Partially Supported** (route-matched
 form). MANIFEST v1.5 (16 files).
 
 **Cadence check:** node (v0.6) → product (v0.7) → node (v0.8). Healthy.
+
+---
+
+## v0.9 — sixth evidence-earned commit (origin: Node 1 revisit — durability + replication)
+
+**Updated:** `Node_1_Decision.md` → v1.1 (2026 Addendum). Durability:
+recurrence confirmed (₦406.8bn 2025, composition stable, H1-2026 3rd
+nationally; ESIRS-sourced, independent corroboration owed; coal-royalty
+extractive flag). Replication: partial via Kaduna (layers, no endowment,
+mid-tier movement) + Ebonyi negative control (−17.1%). Confidence ~70%→~75%.
+No new rules; existing rules (2, 2.1, 8) did all the work. MANIFEST v1.6.
+Chapter 1's evidence base strengthened without edits owed (its claims remain
+within the updated statuses).
+
+**Cadence:** five-step sequence steps 1–4 complete; step 5 (Doctrine v0.1)
+next.
 
 ---
 

@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.8 | File: Node_1_Decision.md | File version: v1.0 | Last updated: Engine v0.3 (Node 1 — Enugu certification) | Status: Current -->
+<!-- RESEARCH ENGINE v0.9 | File: Node_1_Decision.md | File version: v1.1 | Last updated: Engine v0.9 (Node 1 — 2026 addendum) | Status: Current -->
 
-**Research Engine v0.8** · **File:** Node_1_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.3 (Node 1 — Enugu certification) · **Status:** Current
+**Research Engine v0.9** · **File:** Node_1_Decision.md · **File version:** v1.1 · **Last updated:** Engine v0.9 (Node 1 — 2026 addendum) · **Status:** Current
 
 ---
 
@@ -88,3 +88,34 @@ is not proof of replication.
 supported* by Enugu — a unit moved without the centre — but **not** confirmed,
 because mechanism-proven is not transfer-proven, and a single state out-performing
 is not yet "the centre forced to follow." Remains Untested overall.
+
+---
+
+## 2026 Addendum — deferred questions revisited (Engine v0.9)
+
+**Durability (was Owed):** RECURRENCE CONFIRMED. 2025 full-year IGR ₦406.77bn
+(+125% on 2024), composition stable (87.4% non-tax), sources named as
+recurring-type (coal royalties, revived SOEs, asset optimisation); tax revenue
+itself +72% (₦30bn→₦51.5bn) attributed to compliance following visible
+delivery — first (interested-source) sighting of the citizen-bargain loop.
+H1-2026: Enugu 3rd nationally. Flags: all 2025 figures ESIRS-sourced
+(independent corroboration owed, as 2024's later received); coal royalties
+inside non-tax = extractive-category risk (Rule 2) — within-non-tax
+decomposition owed.
+
+**Replication (was Owed):** PARTIAL PROOF + NEGATIVE CONTROL.
+- Kaduna adopted the layers without an endowment (GIS land administration,
+  digital tax portal, systematised collection — independent analysis) and
+  moved to ₦71.6bn / 11th nationally (NBS 2024). Layers-without-endowment
+  works at moderate amplitude; dependence-escape not yet achieved. Partial.
+- Ebonyi: the only state whose IGR declined 2020–24 (−17.1%) — no layers, no
+  growth, same macro. Negative control (Rule 8 contrast, both directions).
+- Kwara flagged as unexamined candidate (+262.8%, no obvious endowment;
+  decomposition owed).
+- System context: national IGR is 73.35% tax and PAYE-dominated (most states
+  ride formal wages, no layers); capex back-loading >60%-in-Q4 is widespread —
+  layer 3 (execution) is the rarest, confirming its differentiating power.
+
+**Confidence: ~70% → ~75%.** Both deferred legs strengthened; neither fully
+closed. Remaining owed: independent 2025 Enugu corroboration; within-non-tax
+decomposition; a layers-only state reaching autonomy-grade; Kwara decomposition.

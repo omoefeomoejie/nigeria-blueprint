@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.8 | File: RESEARCH_HABIT.md | File version: v1.0 | Last updated: Engine v0.2 (post-Node 1 review) | Status: Current -->
+<!-- RESEARCH ENGINE v0.9 | File: RESEARCH_HABIT.md | File version: v1.0 | Last updated: Engine v0.2 (post-Node 1 review) | Status: Current -->
 
-**Research Engine v0.8** · **File:** RESEARCH_HABIT.md · **File version:** v1.0 · **Last updated:** Engine v0.2 (post-Node 1 review) · **Status:** Current
+**Research Engine v0.9** · **File:** RESEARCH_HABIT.md · **File version:** v1.0 · **Last updated:** Engine v0.2 (post-Node 1 review) · **Status:** Current
 
 ---
 
