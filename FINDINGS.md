@@ -182,6 +182,25 @@ Enugu implementations]** · Chapter 1, `Blueprint/PILOT_BRIEF.md`
 
 ---
 
+### 14. Nigeria can price its government but not its governing
+States publish personnel, overhead and capital spending — comparably, every
+year. **No state publishes what a reform cost or what it returned.** The
+input is scored; the output is not.
+
+Consequences: the national cost-of-governance argument aims at politicians'
+salaries (**3.41%** of the federal budget) rather than debt service
+(**28.52%**); overhead grew **62.66%** in 2024 against personnel's 23.24%,
+in the same year states celebrated record revenue, and nobody targets it;
+and even BudgIT concedes its own ranking "equates higher capital spending
+with progress" while ignoring impact.
+
+**A state that published one honest pair of numbers — what a reform cost,
+what it returned — would be the only government in the federation able to
+prove it governs efficiently rather than merely cheaply.**
+**[Certified]** · `Blueprint/Sectors/11_Cost_Of_Governance.md`
+
+---
+
 ## The single largest weakness
 
 Every claim here was verified by one entity against publicly indexed

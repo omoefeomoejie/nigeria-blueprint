@@ -144,6 +144,19 @@ titles issued and days-to-title would cost a fraction of one housing scheme,
 and would make every subsequent claim in that sector checkable. Nobody has
 proposed this, and it is the cheapest intervention this Blueprint has found.
 
+**A seventeenth domain, added after the costing work: the cost of governance
+itself.** Every state publishes personnel, overhead and capital spending,
+comparably, every year. **No state publishes what a reform cost or what it
+returned.** So Nigeria can rank its states by what government costs and
+cannot rank them by what governing achieves per naira — which is why the
+national argument is about the *size* of government rather than its
+*productivity*, and why it aims at politicians' salaries (3.41% of the
+federal budget) rather than debt service (28.52%).
+
+Even our best scorekeeper scores the input: BudgIT's own methodology note
+concedes its ranking "equates higher capital spending with progress" while
+ignoring efficiency, impact and service delivery [Certified].
+
 *[Certified — sixteen-domain test, `Research Engine/SCOREKEEPER_TEST.md`.
 The individual domain verdicts rest on documented evidence; the pattern
 across them is our inference and is marked as such there.]*

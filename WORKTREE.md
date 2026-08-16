@@ -33,6 +33,14 @@ See `RED_TEAM.md` for the full pass.
 | 4 | **Sector Brief 08 — trade & investment** | Last unwritten brief. Assessed as unlikely to yield a ninth finding; available on request. | Me, 1 session |
 | 5 | **Middle-case test of the absorption playbook** | We have the top (78%), the captured bottom (16%), and the results-based middle (65%). Untested: an honest, low-capacity body with no donor scaffolding. | Me, 2 drills |
 
+## Newly opened by the costing work
+
+- **The 2024 capex reversal.** Capital exceeded recurrent by ₦1.26tn for the
+  first time in the series. Either states turned a corner, or windfall
+  revenue flowed into capital budgets that went unexecuted (Sector 06 found
+  17.66% implementation to Q3 2025). Both stories fit the same number and
+  nobody has separated them. **Large question, genuinely open.**
+
 ## Owed per node — the research debts
 
 These come from the node decisions themselves. Several have been searched
