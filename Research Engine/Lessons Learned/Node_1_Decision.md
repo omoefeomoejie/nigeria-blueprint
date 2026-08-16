@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.14 | File: Node_1_Decision.md | File version: v1.3 | Last updated: Engine v0.12 (Kwara replication drill) | Status: Current -->
+<!-- RESEARCH ENGINE v0.15 | File: Node_1_Decision.md | File version: v1.3 | Last updated: Engine v0.12 (Kwara replication drill) | Status: Current -->
 
-**Research Engine v0.14** · **File:** Node_1_Decision.md · **File version:** v1.3 · **Last updated:** Engine v0.12 (Kwara replication drill) · **Status:** Current
+**Research Engine v0.15** · **File:** Node_1_Decision.md · **File version:** v1.3 · **Last updated:** Engine v0.12 (Kwara replication drill) · **Status:** Current
 
 ---
 

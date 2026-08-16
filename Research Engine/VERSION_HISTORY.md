@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.14 | File: VERSION_HISTORY.md | File version: v0.14 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.15 | File: VERSION_HISTORY.md | File version: v0.15 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.14** · **File:** VERSION_HISTORY.md · **File version:** v0.14 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.15** · **File:** VERSION_HISTORY.md · **File version:** v0.15 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
@@ -280,6 +280,17 @@ through mayoral attention, not education spending; equity is a design
 parameter. Vietnam Confounded (≤30% explained, mostly household). Zero new
 rules (fourth such node). Mistake 7.1: the flagship-case trap (Lagos, then
 Vietnam). Chapter 7 drafted. MANIFEST v1.11 (18 files).
+
+---
+
+## v0.15 — Node 5 live test (origin: RMAFC 2025–26 review status)
+
+Formula review complete, "ready for transmission," not transmitted — fifth
+occurrence since 2001. Within-institution paired case: remuneration reforms
+moved to the President and into law in the same period. Rule 9 confirmed
+contemporaneously. Node 5 ~65% → ~70%; Node_5_Decision v1.1; Chapter 5
+evidence note added. Watch item logged (transmission may still occur;
+revision by commit if so). MANIFEST v1.12.
 
 ---
 

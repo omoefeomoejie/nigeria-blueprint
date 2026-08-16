@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.14 | File: Node_5_Decision.md | File version: v1.0 | Last updated: Engine v0.8 (Node 5 — Constitutional) | Status: Current -->
+<!-- RESEARCH ENGINE v0.15 | File: Node_5_Decision.md | File version: v1.1 | Last updated: Engine v0.15 (Node 5 — live test) | Status: Current -->
 
-**Research Engine v0.14** · **File:** Node_5_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.8 (Node 5 — Constitutional) · **Status:** Current
+**Research Engine v0.15** · **File:** Node_5_Decision.md · **File version:** v1.1 · **Last updated:** Engine v0.15 (Node 5 — live test) · **Status:** Current
 
 ---
 
@@ -89,3 +89,30 @@ proven), and unit-pressure trajectories can approach ratification thresholds
 (LG, 0→30 states-ish in 8 years); money-walls remain centre-held. The fork
 now has a shape: units-first *through the open gates*, centre-engagement
 *only at the money gates*.
+
+---
+
+## Live-test update (Engine v0.15 — 15 Aug 2026)
+
+**Confidence ~65% → ~70%.** The 2025–26 RMAFC review completed after
+nationwide consultation; the harmonised report and legislative proposals are
+described as **"ready for transmission to the appropriate authorities."**
+Not transmitted — the fifth occurrence of the same gate state since 2001.
+
+**Within-institution paired case (strongest Rule 9 confirmation to date):**
+in the same briefing cycle, the *remuneration* stream moved — judicial
+office-holders' pay became an Act (2025); the executive/legislative pay bill
+is "expected to be transmitted"; and RMAFC sent the political salaries
+review directly to the President in July 2026. Same commission, same gate,
+same year: the reform that pays officeholders travels; the reform that would
+cut the federal share (52.68% → ~45%) waits. Velocity sorted by whether the
+gate-holder gains or loses.
+
+**Behavioural signature:** RMAFC is optimising around its blocked lever —
+National Revenue Dashboard, FAAN/NASRDA satellite-geospatial revenue
+identification, tighter 13% derivation monitoring. An institution unable to
+change the formula is maximising collection instead.
+
+**Watch item (not a research gap):** transmission may still occur. If it
+does, this finding weakens and must be revised by commit. Only time resolves
+it.

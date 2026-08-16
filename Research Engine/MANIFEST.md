@@ -1,10 +1,10 @@
-<!-- RESEARCH ENGINE v0.14 | File: MANIFEST.md | File version: v1.11 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.15 | File: MANIFEST.md | File version: v1.12 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.14** · **File:** MANIFEST.md · **File version:** v1.11 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.15** · **File:** MANIFEST.md · **File version:** v1.12 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 
-# MANIFEST — Research Engine v0.14
+# MANIFEST — Research Engine v0.15
 
 The single source of truth for what this engine contains. If a file in your
 copy is not on this list, it is stale — delete it. If a file on this list is
@@ -18,12 +18,12 @@ methodology; file revisions come from one source only.
 
 | Path | File version | Last changed at |
 |---|---|---|
-| `MANIFEST.md` | v1.11 | Engine v0.14 |
+| `MANIFEST.md` | v1.12 | Engine v0.15 |
 | `PREAMBLE.md` | v1.0 | Engine v0.1 |
 | `LAW_ZERO.md` | v1.0 | Engine v0.1 |
 | `RESEARCH_HABIT.md` | v1.0 | Engine v0.2 |
 | `Evidence_Standard.md` | v0.2 | Engine v0.2 |
-| `VERSION_HISTORY.md` | v0.14 | Engine v0.14 |
+| `VERSION_HISTORY.md` | v0.15 | Engine v0.15 |
 | `PUBLICATION_RULE.md` | v1.0 | Engine v0.7 |
 | `Skills/Comparative_Statecraft_Engine.md` | v0.5 | Engine v0.8 |
 | `SOPs/Investigation_SOP.md` | v0.1 | Engine v0.1 |
@@ -33,12 +33,12 @@ methodology; file revisions come from one source only.
 | `Lessons Learned/Node_2_Decision.md` | v1.0 | Engine v0.4 |
 | `Lessons Learned/Node_3_Decision.md` | v1.0 | Engine v0.5 |
 | `Lessons Learned/Node_4_Decision.md` | v1.0 | Engine v0.6 |
-| `Lessons Learned/Node_5_Decision.md` | v1.0 | Engine v0.8 |
+| `Lessons Learned/Node_5_Decision.md` | v1.1 | Engine v0.15 |
 | `Lessons Learned/Node_6_Decision.md` | v1.0 | Engine v0.13 |
 | `Lessons Learned/Node_7_Decision.md` | v1.0 | Engine v0.14 |
 
 ## Version-numbering note
-Engine versions (v0.1 → … → v0.14) mark commits of the whole engine and are git
+Engine versions (v0.1 → … → v0.15) mark commits of the whole engine and are git
 tags. File versions move independently and only when content changes. Semantic
 versioning remains a Candidate (trigger: skill interdependence).
 
@@ -54,8 +54,9 @@ versioning remains a Candidate (trigger: skill interdependence).
   generalization below existential threat.
 - **Node 4 (Accountability):** decision recorded (~70%). Open: any measured
   Nigerian open-contracting outcome; Rigasa independent corroboration.
-- **Node 5 (Constitutional):** decision recorded (~65%). Open: the live
-  2025–26 RMAFC review's fate; s.162(2) keystone passage question.
+- **Node 5 (Constitutional):** **~70%** (v0.15 live test). WATCH ITEM:
+  RMAFC proposals "ready for transmission" as of 15 Aug 2026 — revise by
+  commit if transmitted.
 - **Node 6 (National Identity):** decision recorded (~70%). Open: NYSC at
   non-graduate scale; Pidgin-as-unifier evidence; religion mechanism.
 - **Node 7 (Skills & Education):** decision recorded (~72%). Open: any

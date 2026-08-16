@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.14 | File: Mistakes.md | File version: v0.9 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
+<!-- RESEARCH ENGINE v0.15 | File: Mistakes.md | File version: v0.9 | Last updated: Engine v0.6 (Node 4 — Accountability) | Status: Current -->
 
-**Research Engine v0.14** · **File:** Mistakes.md · **File version:** v0.9 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
+**Research Engine v0.15** · **File:** Mistakes.md · **File version:** v0.9 · **Last updated:** Engine v0.6 (Node 4 — Accountability) · **Status:** Current
 
 ---
 

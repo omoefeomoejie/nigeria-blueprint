@@ -1,6 +1,6 @@
-<!-- RESEARCH ENGINE v0.14 | File: Node_7_Decision.md | File version: v1.0 | Last updated: Engine v0.14 (Node 7 — Skills & Education) | Status: Current -->
+<!-- RESEARCH ENGINE v0.15 | File: Node_7_Decision.md | File version: v1.0 | Last updated: Engine v0.14 (Node 7 — Skills & Education) | Status: Current -->
 
-**Research Engine v0.14** · **File:** Node_7_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.14 (Node 7 — Skills & Education) · **Status:** Current
+**Research Engine v0.15** · **File:** Node_7_Decision.md · **File version:** v1.0 · **Last updated:** Engine v0.14 (Node 7 — Skills & Education) · **Status:** Current
 
 ---
 

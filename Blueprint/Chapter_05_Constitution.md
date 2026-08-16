@@ -101,3 +101,13 @@ paired cases — ✔ 3. Owed named (whether any president signs a
 self-constraining amendment; live 2025–26 RMAFC review outcome) — ✔
 4. Residual uncertainty wouldn't change the sequencing — ✔
 **Verdict: publishable as Draft v0.1.**
+
+---
+
+### Evidence note (v0.15 — live test, 15 Aug 2026)
+The 2025–26 RMAFC review is complete and its proposals are "ready for
+transmission." Not transmitted. In the same period the commission's
+*remuneration* proposals reached the President and became law. The gate is
+observable in real time, sorted by loss-type — which is why §6(c)'s keystone
+(a transmission deadline in s.162(2)) is this chapter's central ask rather
+than a better formula. [Certified — contemporaneous reporting]
