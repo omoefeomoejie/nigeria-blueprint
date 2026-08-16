@@ -8,6 +8,18 @@ when a node, brief, or session exposes them.
 
 ---
 
+## From the red team (16 Aug 2026) — ranked by damage if found first
+
+| # | Item | Tier |
+|---|---|---|
+| A | **Who-keeps-the-score test across all eight nodes** — we found one boundary on units-first by accident; there may be more | 1.3 |
+| B | **Real-terms restatement of headline revenue figures** — nominal naira across a devaluation inflates the growth we celebrate | 3.2 |
+| C | **Cost one pilot end to end** — no chapter states what anything costs; a commissioner asks that first | 3.4 |
+| D | **Second civic auditor to triangulate BudgIT** — source concentration is real | 2.4 |
+| E | **Human sources** — the single largest structural weakness; not mine to do | 1.1 |
+
+See `RED_TEAM.md` for the full pass.
+
 ## Now — needs someone
 
 | # | Item | Why | Who |

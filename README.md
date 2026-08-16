@@ -20,11 +20,12 @@ nine lines, English and Pidgin, each traceable to an investigation.
 → [Part II: The Diagnosis](Blueprint/Part_II_Diagnosis.md)
 → [Part III: Vision 2050](Blueprint/Part_III_Vision_2050.md)
 
-**If you came to attack it** → open any chapter, find a claim, follow its
-status to the node that produced it, and check the source yourself. Then
-read [Mistakes.md](Research%20Engine/Lessons%20Learned/Mistakes.md) — where
-every reversal is recorded permanently, including the ones that embarrassed
-us.
+**If you came to attack it** → start with [RED_TEAM.md](RED_TEAM.md), where
+we attack it ourselves and rank our own weaknesses by how much damage they
+do. Then open any chapter, follow a claim to the node that produced it, and
+check the source. Then read
+[Mistakes.md](Research%20Engine/Lessons%20Learned/Mistakes.md) — every
+reversal, permanently, including the ones that embarrassed us.
 
 ---
 
