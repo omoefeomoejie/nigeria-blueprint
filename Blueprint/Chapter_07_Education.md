@@ -112,3 +112,21 @@ circular dies with the governor [Rule 7; Node 2's warning].
 — ✔ 3. Owed named (no Nigerian instance; assessment baseline absent) — ✔
 4. Residual uncertainty wouldn't change the design — ✔
 **Verdict: publishable as Draft v0.1.**
+
+---
+
+### Correction (from Sector Brief 04)
+This chapter assumed the binding Nigerian constraint was **measurement**.
+Basic-education data says it is at least equally **absorption**: ₦332bn in
+federal education money sits unaccessed or unspent because drawing it
+requires 50% counterpart funding and project-preparation capacity states
+often lack; 27 of 36 states accessed nothing in 2024 [Certified — UBEC,
+Plan International]. **You cannot tie a transfer to outcomes if the
+recipient cannot process a transfer.** Sequence corrected to:
+**absorption → measurement → incentive.** Technical assistance is not the
+impact-doubler here; it is the entry condition.
+
+Also: the measurement precondition may now be met. UBEC reports a completed
+**National Learning Assessment** with the Federal Ministry of Education
+[Certified]. **Owed:** verify its credibility and state-level granularity —
+if it holds, §6's baseline step is already built.

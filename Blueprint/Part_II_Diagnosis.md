@@ -147,8 +147,8 @@ decomposes into the same root causes strengthens the diagnosis by
 convergence; any sector that fails for reasons the horizontals cannot
 explain will force Layer 4 to be revised. Both outcomes are recorded.
 
-Convergences so far: **3 of 8 planned sectors** (Agriculture, Power,
-Primary Health).
+Convergences so far: **4 of 8 planned sectors** (Agriculture, Power,
+Primary Health, Basic Education).
 
 Power converged differently and more usefully: it did not merely restate the
 diagnosis — it **corrected a prescription of ours** (Mistakes 8.1). A
@@ -161,3 +161,13 @@ promptly used that data to show only 7.3% of the four-year target had been
 met. Chapter 4's chain — publication → usability → scrutiny — is already
 running in this sector, against the publishing agency's own interest. The
 Blueprint borrows from health here rather than instructing it.
+
+**Candidate horizontal finding — absorptive capacity.** Two sectors have now
+produced the same failure independently: 16 states took electricity
+oversight and could not operate it (Sector 02), and states leave ₦332bn of
+basic-education money unaccessed or unspent because drawing it requires
+counterpart cash and project-preparation capacity (Sector 04). In both
+cases the constraint is not authority and not money — it is **the ability to
+absorb either**. If this recurs in a third sector it stops being an
+observation and becomes a finding, and Layer 3 should be amended to name it.
+Logged, watched, not yet asserted [Law Zero].
