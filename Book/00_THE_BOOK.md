@@ -675,15 +675,33 @@ publish a list of which boreholes still work. If the ₦332 billion sat
 untouched because of colonialism, then no commissioner has to explain
 himself on Monday morning.
 
-Ask yourself who that protects. Not America. America is not seeking your
-approval and does not read your tweets.
+### Think of it like this
 
-**It protects the man who took Mama Ngozi's ₦500. It protects the officials
-who took the contractors' money. It protects the governor whose commission
-gave him 375 seats out of 376.**
+Imagine your shop is robbed. Deep down you know it was somebody who had a
+key. But you go outside and tell everybody it was armed robbers from another
+town.
 
-Every alibi has somebody it saves. In this case, the people it saves are
-Nigerian, and they are the ones you actually have some power over.
+You will feel better. People will sympathise. And the person with the key
+will stand there nodding along with you, agreeing about how terrible the
+robbers are.
+
+**You have just let the one person you could have caught walk free.**
+
+That is exactly what blaming America does.
+
+You cannot vote in Washington. You cannot ring a commissioner in London and
+ask him a question. You cannot stand outside an office in Paris and demand
+to see a number.
+
+**But the man who took Mama Ngozi's ₦500 works down the road from her.** The
+official sitting on that education money has an office in a building you
+could find this afternoon. The governor whose commission gave him 375 seats
+out of 376 will be back asking for your vote, and he will want you smiling
+when he comes.
+
+Those are the people the excuse protects.
+
+**And they are the only ones you were ever able to reach.**
 
 ### What we are not saying
 
