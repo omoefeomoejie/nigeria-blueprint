@@ -798,14 +798,48 @@ And it pays for itself the moment it plugs one leak.
 
 ### The whole book
 
-The four chapters a governor could start **without asking Abuja for
-permission** — money, openness, schools, land — come to somewhere between
-**₦1.1 billion and ₦4.1 billion.**
+Four chapters in this book can be started by a governor **without asking
+Abuja for anything.** Here is what each one costs and what the money
+actually buys.
+
+**Money (Chapter 10) — ₦250 million to ₦1 billion.** The digital tax
+platform, POS machines at collection points, a taxpayer service centre so
+people can pay without meeting anybody, and the system that publishes what
+was collected.
+
+**People (Chapter 11) — ₦150 million to ₦500 million.** Designing the test,
+renting computer-based test centres that already exist, paying an outside
+examiner to mark it, and publishing the results and the appeals.
+
+**Openness (Chapter 13) — ₦200 million to ₦600 million.** The contracts
+portal, a citizens' budget written in Pidgin and local languages, radio
+explainers, and the audit that checks whether what was published was true.
+
+**Schools (Chapter 16) — ₦500 million to ₦2 billion.** This is the
+expensive one, because it repeats every year: an independent test of whether
+children can read and count, in every local government, designed, marked and
+published.
+
+**Add them up: ₦1.1 billion at the low end. ₦4.1 billion at the high end.**
+
+The low end is a small state doing it carefully. The high end is a large
+state doing it properly with room for mistakes.
 
 That is **less than one flyover.**
 
-Not less than the budget. Less than one bridge over one junction in one
-city.
+Not less than the state budget. Less than one bridge over one junction in
+one city.
+
+*One honest note. Only the first figure comes from a Nigerian government's
+own published plan — Lagos budgeted ₦250 million for its digital tax system.
+The other three are our estimates, built from what comparable things cost.
+We could be wrong by a wide margin and the argument would not change,
+because we would have to be wrong by a factor of ten before this stopped
+being cheap.*
+
+*And land — Chapter 14's registry reform — is not in that total. It is
+cheaper still, because it is mostly a decision to stop charging people a
+third of their property's value to register it.*
 
 ### So why has nobody done it?
 
