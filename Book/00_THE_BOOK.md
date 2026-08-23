@@ -61,10 +61,10 @@ that is actually written in the law.
 Four payments. One woman. One stall. She has paid before she has sold one
 basket of tomatoes.
 
-### Now here is the part that will annoy you
+### Where did the money go?
 
-Ask yourself a simple question: **of the money Mama Ngozi paid this week,
-how much reached government?**
+Of the four payments Mama Ngozi made this week, how much reached
+government?
 
 The Monday man's receipt book has no serial number. Nobody counted the books
 he was given. Nobody will count the ones he brings back. Whatever he does
@@ -84,7 +84,10 @@ prove anything. Do that every single day for twenty years, and you will
 eventually say the words every Nigerian government says: *there is no
 money.*
 
-**There was money. It never arrived.**
+There was money. It never arrived.
+
+And notice something about that houseboy. He is not a foreign power. He is
+not a system. **He is one person, and he lives in your house.**
 
 This is why two things that sound like they contradict each other are both
 true:
@@ -219,7 +222,7 @@ listed **1,295** as revitalised.
 
 That is **7.3%** of the promise.
 
-### Now the surprising part — and it is good news
+### Where did that number come from?
 
 **Where did that 7.3% figure come from?**
 
@@ -233,12 +236,13 @@ And this was not the first promise of its kind. A 2016–17 pledge to
 revitalise 10,000 primary health centres was never delivered before that
 administration ended.
 
-Stop and notice how strange that is. An agency published the very numbers
-that made it look bad. Somebody outside checked. The truth came out without
-anybody needing permission.
+An agency published the numbers that made it look bad. Somebody outside did
+the arithmetic. The truth came out, and nobody had to be brave about it.
 
-Remember that. In two chapters it becomes the most important idea in this
-book.
+Nobody needed permission. Nobody needed power. Somebody just opened a file
+and did a division.
+
+Hold that.
 
 ### The pattern, in one line
 
@@ -325,10 +329,16 @@ him.
 > **If it lives in law, and somebody outside government would shout when it
 > stops, it survives.**
 
-That single sentence explains more Nigerian failure than corruption does.
-Think of every good programme you have watched disappear at a handover.
-Almost none of them were killed. **They were simply not defended by anybody
-who was not the man who started them.**
+Now think of every good thing you have watched disappear when a government
+changed. The road project. The scheme your local government started. The
+teacher who was actually teaching.
+
+You probably assumed somebody killed them.
+
+Mostly nobody did. **They just stopped, and there was nobody outside
+government whose job it was to notice.**
+
+Including you. Including all of us.
 
 *Where this comes from: the Kaduna test and dismissals were reported across
 Nigerian media and confirmed by the state government. The contracts system
@@ -358,8 +368,9 @@ the parents the results. No other adult ever sees a script.
 
 Every child in that school passes with distinction. Forever.
 
-Not because the teacher is evil. Because nobody who could contradict him
-ever sees anything.
+The teacher is not evil. He may be a decent man. But nobody who could
+contradict him ever sees anything, and after a while he stops even lying —
+he simply stops checking, because nothing depends on it.
 
 Now hold that picture and look at Nigeria.
 
@@ -445,6 +456,23 @@ because no number anywhere went red when he stopped.
 
 One question. Three chapters. **Who is counting?**
 
+And here is the uncomfortable version of that question.
+
+Nobody is counting. Not the ministry, not the agency, not the assembly.
+
+**Have you ever counted anything?**
+
+Do you know what your state collected last year? Do you know whether its
+audited accounts were published? Do you know how many of the boreholes in
+your local government still run?
+
+You do not. Neither did we, until we sat down and looked — and the looking
+took an afternoon, not a career.
+
+That is not an accusation. It is the shape of the problem. **Nigeria is not
+being ruined by people who are difficult to see. It is being ruined by
+people nobody has ever bothered to look at.**
+
 ---
 
 ## Chapter 5: So what is actually wrong with Nigeria?
@@ -513,8 +541,17 @@ did it with contracts and the system outlived the governor who built it.
 Both have been done. **Inside Nigeria. By Nigerians. In states you can name.
 In the last three years.**
 
-The rest of this book is those cases, and what it would take to do them
-where you live.
+Which leaves one question, and it is the one this book is really about.
+
+If it is this small — if the whole thing comes down to closing a leak and
+making somebody count — **why has nobody where you live done it?**
+
+Not America. Not the World Bank. Not colonialism.
+
+**Somebody whose name you could learn by Friday.**
+
+The rest of this book is what works, and what it would take to do it where
+you are.
 
 ---
 
@@ -592,6 +629,8 @@ outside government who would make noise if it stopped — that is a gate.
 Kaduna's teacher test was a gateman. Kaduna's contract publishing was a
 gate. Same governor, same state, same handover, opposite fates.
 
+Now apply that test to the last politician you were excited about.
+
 ---
 
 ## Chapter 7: "It is America, it is the West, they don't want us to rise"
@@ -656,17 +695,17 @@ Nobody flew in for that.
 
 ### The count
 
-We went through every failure documented in this book and asked, one by one,
-whether an outside power caused it.
+We went through every failure in this book, one by one, and asked whether an
+outside power caused it.
 
-**Roughly two out of twelve.** The rest were done here, by us, to us.
+**Two out of twelve.**
 
-### And now the part that should worry you most
+The other ten were done here. By people who live here. To us.
 
-Here is why we spend a whole chapter on this, instead of just moving on.
+### Why we spent a whole chapter on this
 
-Blaming outsiders does something very specific, and very useful — **for the
-wrong people.**
+Blaming outsiders does something very specific, and very useful. Just not
+for you.
 
 **It gives an explanation that requires nobody to count anything.**
 
@@ -702,6 +741,34 @@ when he comes.
 Those are the people the excuse protects.
 
 **And they are the only ones you were ever able to reach.**
+
+### The size of your enemy
+
+There is one more thing this excuse does, and it is the worst of them.
+
+**It makes your problem look enormous.**
+
+If the reason your area has no water is a global system of hegemony
+stretching back four hundred years, then there is nothing you can do about
+it before dinner, or this year, or ever. You are a small person facing a
+mountain. The only sensible response is to shrug and survive.
+
+But now look at what the evidence actually says.
+
+The reason your area has no water is that somebody did not budget ₦800,000 a
+year to service the pump — and no one anywhere publishes a list of which
+pumps still work.
+
+**That is not a mountain. That is a man, a budget line, and a missing list.**
+
+You have spent your life being told your problem is too big to face. Look at
+it properly and it is smaller than you were told. It has an address. It
+attends meetings. **It is beatable.**
+
+That should not comfort you. It should make you slightly angry — because if
+it is this small, then all of us, for a very long time, have been fighting
+the wrong enemy while the real one sat in an office nearby, nodding along
+about how bad the foreigners are.
 
 ### What we are not saying
 
@@ -793,6 +860,11 @@ Zero naira required. Failed five times.
 **If money were the problem, that chapter would have passed on the first
 try.**
 
+So when a governor tells you there is no money, he may be telling the truth
+about his account and lying about the reason. **The money did not fail to
+exist. It failed to arrive, and then it failed to be counted, and nobody
+made anybody explain either.**
+
 ---
 
 ## Chapter 9: The good ones who fail
@@ -853,6 +925,21 @@ That is the difference between doing good work and leaving something behind.
 And it is the reason this book keeps returning to the same short sentence:
 
 > **If it lives in one man, it dies with him.**
+
+There is a version of this you should sit with.
+
+If you are the kind of Nigerian who reads a book like this, you are probably
+also the kind who has, at some point, done something good and alone. Helped
+a school. Fixed something in your area. Started something.
+
+**And when you got tired, it stopped.**
+
+Not because you failed. Because you were the only one holding it, and one
+person is not a structure. That is not a personal weakness. It is the same
+thing that killed Kaduna's teacher test.
+
+The difference between what you did and what lasts is not effort.
+**It is whether anybody else was ever going to shout.**
 
 ---
 
@@ -1652,8 +1739,20 @@ Search for your state's name and any of these:
 **Then publish what you find.** A tweet, a WhatsApp message, a voice note in
 your family group. You do not need permission and you do not need us.
 
-Chapter 4 said the failure is that nobody is counting. **The cheapest thing
-any Nigerian can do is start counting.**
+Chapter 4 said the failure is that nobody is counting.
+
+**You are somebody. Counting is free.**
+
+And when you publish what you found, notice what has happened. There is now
+one more number in the world that a commissioner has to live with. You did
+not need an office, a party, a budget, or anybody's permission.
+
+If a hundred thousand Nigerians did that once a year, the men in Chapter 4
+would have to start explaining themselves — not because a law changed, but
+because somebody was finally watching.
+
+**That is not activism. That is arithmetic, done by people who were tired of
+being lied to.**
 
 ### Three: join one thing that mixes you with people unlike you
 
@@ -1687,9 +1786,39 @@ state can close that in six months, for about ₦250 million, using powers it
 already has. One state already did it and its revenue went up nearly five
 times in real terms without raising her tax by one naira.
 
-That is the whole book. **Not "Nigeria is cursed." Not "we need a saviour."
-Just: nobody is counting, and government does not need us — and both of
-those can be changed by people who are already alive.**
+That is the whole book. Not "Nigeria is cursed." Not "we need a saviour."
+
+**Nobody is counting, and government does not need us. Both can be changed
+by people who are already alive.**
+
+Which brings us to the part nobody enjoys.
+
+For as long as you have been an adult, you have known something was wrong.
+You have said so, often, and you were right every time. And in all those
+years — be honest — **how many hours did you spend finding out whether your
+own state published its accounts?**
+
+Not fighting anybody. Not marching. Just looking.
+
+Most of us have spent more time arguing about Nigeria than examining it. We
+were not lazy. **We were told the problem was too big to examine, and we
+believed it.**
+
+It is not too big. It is a leak, a missing list, and a man who has never
+once been asked a question he could not answer.
+
+He has never been asked because nobody knew enough to ask him.
+
+**That is the gap this platform exists to close.** Not to make you angrier —
+you are angry enough, and it has changed nothing. To make you the person in
+the room who knows the number.
+
+That is why there is an exam. Not to keep people out. **Because a man who
+knows the number cannot be lied to, cannot be bought cheaply, and cannot be
+sent home with a story.**
+
+Learn it, and you become a problem for exactly the people who should have
+one.
 
 We will be wrong about some of this. We have already been wrong about
 several things and written them down. When you find the next one, tell us,
