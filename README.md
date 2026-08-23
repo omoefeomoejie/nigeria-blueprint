@@ -11,7 +11,18 @@ the authors changed their minds. This repository is that working, in public.
 
 ---
 
-## Start here
+## Read the book
+
+**[Book/00_THE_BOOK.md](Book/00_THE_BOOK.md)** — one text, beginning to end,
+in ordinary language. Mama Ngozi paying four different people for one stall.
+The borehole that died in eighteen months. The 21,780 teachers who could not
+pass a primary four test. Then the one question underneath all of it: *who is
+counting?*
+
+Everything else below is the evidence behind that book. A reader never needs
+to open it. A skeptic can open all of it.
+
+## Start here (the evidence)
 
 **If you have five minutes** → [The Doctrine](Blueprint/Doctrine_v0.1.md) —
 nine lines, English and Pidgin, each traceable to an investigation.

@@ -23,6 +23,15 @@ when a node, brief, or session exposes them.
 
 See `RED_TEAM.md` for the full pass.
 
+## The book — highest priority
+
+| # | Item | Who |
+|---|---|---|
+| B1 | **Judge Part One's register** — 5 chapters written; is this the voice? Correct it before 40 more pages are drafted wrong. | Founder |
+| B2 | **Draft Parts Two to Five** in the same voice, once B1 is settled | Me |
+| B3 | **Pidgin version, written fresh** — not translated from English | Founder + me |
+| B4 | **Kill the jargon everywhere else** — "absorptive capacity," "stock/flow," "route-matching" are ours, not Nigeria's. The evidence layer can keep precise terms; nothing reader-facing can. | Me |
+
 ## Platform work opened (16 Aug 2026)
 
 | # | Item | Who |
