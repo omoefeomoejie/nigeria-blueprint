@@ -77,17 +77,14 @@ So of Mama Ngozi's four payments, the amount that reaches the government
 that is supposed to fix the road in front of her stall is **a fraction of
 what she paid.**
 
-Think of it like this. Imagine you send your houseboy to the market with
-₦10,000 and no list, no receipt, and no way to check prices. He comes back
-with ₦2,000 of food and a story. You cannot sack him, because you cannot
-prove anything. Do that every single day for twenty years, and you will
-eventually say the words every Nigerian government says: *there is no
+Do that in every market, in every local government, for twenty years, and
+you arrive at the sentence every Nigerian government says: *there is no
 money.*
 
 There was money. It never arrived.
 
-And notice something about that houseboy. He is not a foreign power. He is
-not a system. **He is one person, and he lives in your house.**
+And notice who stopped it. Not a foreign power. Not a system. **One man,
+with a receipt book, on a Monday morning in Aba.**
 
 This is why two things that sound like they contradict each other are both
 true:
@@ -363,16 +360,12 @@ person being judged?**
 
 ### Why that question matters more than it sounds
 
-Imagine a school where the teacher sets the exam, marks the exam, and tells
-the parents the results. No other adult ever sees a script.
+A teacher who sets the exam, marks the exam, and reports the results to the
+parents will produce a class of distinctions. Not because he is evil —
+because nobody who could contradict him ever sees a script, and after a
+while he stops checking, since nothing depends on it.
 
-Every child in that school passes with distinction. Forever.
-
-The teacher is not evil. He may be a decent man. But nobody who could
-contradict him ever sees anything, and after a while he stops even lying —
-he simply stops checking, because nothing depends on it.
-
-Now hold that picture and look at Nigeria.
+Now look at Nigeria.
 
 ### The five that failed
 
@@ -498,16 +491,18 @@ learn. Whether or not you are safe. Whether or not one single business in
 his state succeeds. He can wake up, do nothing for four years, and the money
 still comes.
 
-Compare it with a shop. A shopkeeper who depends on customers must be
-pleasant, must stock what people want, must open on time — not because he is
-a good man, but because if he does not, he eats nothing.
+Now look at the one state that does not live that way. **Lagos funds about
+72% of itself.** Only 28 naira in every hundred comes from Abuja.
 
-Now imagine a shopkeeper who is paid the same amount every month whether or
-not a single customer enters. **How long before he stops sweeping the
-floor?**
+Lagos is not governed well because Lagosians are better people. It is
+governed better because **a government that lives on what its people earn
+has to care whether its people are earning.** Traders who are not trading
+pay no tax. Businesses that leave take their money with them.
 
-That is your state government. And notice: **this is not about whether your
-governor is a good person.** Put a saint in that chair and the arrangement
+Taraba's own revenue in 2023 was ₦10.87 billion. Lagos's was ₦815.86
+billion. Ask yourself which governor has to answer his phone.
+
+And notice: **this is not about whether your governor is a good person.** Put a saint in that chair and the arrangement
 does not change. Nothing about it makes serving you the way to keep power.
 
 ### Fact two: nobody outside is checking whether he did anything
@@ -714,33 +709,20 @@ publish a list of which boreholes still work. If the ₦332 billion sat
 untouched because of colonialism, then no commissioner has to explain
 himself on Monday morning.
 
-### Think of it like this
+When you blame America, somebody in Nigeria gets to walk away.
 
-Imagine your shop is robbed. Deep down you know it was somebody who had a
-key. But you go outside and tell everybody it was armed robbers from another
-town.
-
-You will feel better. People will sympathise. And the person with the key
-will stand there nodding along with you, agreeing about how terrible the
-robbers are.
-
-**You have just let the one person you could have caught walk free.**
-
-That is exactly what blaming America does.
+**And the person walking away is the one you could actually have done
+something about.**
 
 You cannot vote in Washington. You cannot ring a commissioner in London and
 ask him a question. You cannot stand outside an office in Paris and demand
 to see a number.
 
-**But the man who took Mama Ngozi's ₦500 works down the road from her.** The
-official sitting on that education money has an office in a building you
-could find this afternoon. The governor whose commission gave him 375 seats
-out of 376 will be back asking for your vote, and he will want you smiling
-when he comes.
-
-Those are the people the excuse protects.
-
-**And they are the only ones you were ever able to reach.**
+But the man who took Mama Ngozi's ₦500 works down the road from her. The
+official sitting on ₦332 billion has an office in a building you could find
+this afternoon. The governor whose commission gave him 375 seats out of 376
+will be back asking for your vote, and he will want you smiling when he
+comes.
 
 ### The size of your enemy
 
@@ -987,9 +969,13 @@ Enugu flipped it. Capital spending went from under ₦30 billion historically
 to **₦414.3 billion — 79% of the 2024 budget** — and ₦837.9 billion, or 86%,
 in 2025.
 
-Think of a household earning ₦200,000 that spends ₦190,000 on rent, airtime
-and transport. They are not poor exactly — they are just never going to own
-anything. Move that to ₦120,000 and suddenly there is a future.
+And it is not a small shift. Across all 36 states in 2024, spending on
+overheads — travel, vehicles, running the offices — grew by **62.66%**, while
+spending on salaries grew by 23%. That was the same year states celebrated
+record revenue.
+
+**The money came in and the office got more comfortable.** Enugu is
+noticeable precisely because it went the other way.
 
 ### Job three: show the work
 
