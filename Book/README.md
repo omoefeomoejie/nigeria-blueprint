@@ -23,9 +23,19 @@ ordinary language, it does not go in.
 
 ## Status
 
-**Part One is written in full** (5 chapters). Parts Two to Five are outlined
-in the contents and not yet drafted, deliberately — the register should be
-judged and corrected before 40 more pages are written in the wrong voice.
+**Complete draft: 22 chapters, five parts, beginning to end.**
+
+Part One — why nothing works (Mama Ngozi, the borehole and the clinic, the
+teacher test, who is counting, the two-fact diagnosis).
+Part Two — why we keep getting it wrong (the good leader, blaming the West,
+"there is no money", why good people burn out).
+Part Three — what actually works (money, people, safety, openness, the
+Constitution, one people, schools, counting votes).
+Part Four — who does it (why not a party, a platform you qualify for, the
+promises made before power).
+Part Five — four things to do on Monday, and the last word.
+
+Still to come: the Pidgin version, written fresh rather than translated.
 
 ## The rules this text obeys
 

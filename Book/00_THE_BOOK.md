@@ -461,4 +461,1109 @@ where you live.
 
 ---
 
-*Parts Two to Five follow in this same voice.*
+---
+
+# PART TWO — WHY WE KEEP GETTING IT WRONG
+
+## Chapter 6: "We just need a good leader"
+
+Ask any Nigerian what the country needs and you will hear it within thirty
+seconds. *We need a good leader. One serious person. Somebody with the fear
+of God.*
+
+We have been saying it since 1960. Sixty-five years. Different men,
+different regions, different religions, soldiers and civilians, young and
+old.
+
+At some point you have to ask an uncomfortable question: **if the problem is
+finding the right man, why has nobody found him in sixty-five years?**
+
+### The Kaduna answer
+
+You already met the answer in Chapter 3, so let us say it plainly now.
+
+Kaduna's governor *was* the serious man. Whatever you think of his politics,
+he did the thing everybody says a serious person should do. He tested the
+teachers. He found that two out of three could not pass a primary four
+paper. He sacked them. He faced down a strike, a court case, and a national
+union, and he beat all three.
+
+That is what "a good leader" looks like when he actually turns up.
+
+**And it lasted until the day he left the building.**
+
+The next man did not have to be wicked. He did not reverse anything. He just
+stopped, and everything went back to what it was.
+
+So here is the lesson, and it is hard: **a good man in a bad system buys you
+one term.** Then the system resumes.
+
+### The right question
+
+Stop asking *how do we find a good leader.*
+
+Start asking: **how do we build things that still work when a bad one
+arrives?**
+
+Because a bad one will arrive. Not maybe. There is no country anywhere that
+has only had good governments. Britain, America, Ghana, Brazil — all of them
+have elected fools and thieves. The difference is not that they avoid bad
+leaders. **The difference is that when a bad leader arrives, the machine
+keeps running.**
+
+Think of a house with a good gateman. Everything is fine while he is there.
+The day he travels, anyone can walk in.
+
+Now think of a house with a real gate, a real lock, and a neighbour who
+notices strangers. The gateman can travel. **The house is still locked.**
+
+Nigeria keeps hiring gatemen. This book is about building the gate.
+
+### How to tell the difference, in real life
+
+There is a simple test you can apply to any programme a government announces,
+and it costs you nothing:
+
+**Ask: if this governor left tomorrow, would this continue?**
+
+If the answer depends on him personally caring — it is a gateman. Enjoy it
+while it lasts.
+
+If it is written in law, has its own budget line, and there are people
+outside government who would make noise if it stopped — that is a gate.
+
+Kaduna's teacher test was a gateman. Kaduna's contract publishing was a
+gate. Same governor, same state, same handover, opposite fates.
+
+---
+
+## Chapter 7: "It is America, it is the West, they don't want us to rise"
+
+This one deserves respect before it gets an argument, because it is not
+stupid and it is not baseless.
+
+Nigeria owes about **$51 billion** to outsiders. Paying that debt swallowed
+roughly **61 out of every 100 naira** the federal government expected to
+earn in 2025. Structural adjustment in the 1980s — designed abroad, accepted
+here — did real damage that people still feel. Our currency and our oil
+price are decided in rooms we are not in.
+
+So: is outside pressure real? **Yes. Measurably.**
+
+Now the harder question, and this is where we have to be honest with
+ourselves.
+
+### Go through the list
+
+Take everything in Part One and ask: **which of these did a foreigner do?**
+
+**₦332 billion of education money is sitting in accounts right now,
+untouched**, while twenty million Nigerian children are out of school.
+Twenty-seven of thirty-six states did not collect a single naira of it in
+2024. The money is there. It is Nigerian money. The states could not or did
+not take it.
+
+*Did Washington do that?*
+
+**The agency for the Niger Delta abandoned over 12,000 projects out of
+13,377** — projects that had already been paid for. An investigation found
+that staff of the agency were taking the biggest share of the money meant
+for contractors, and the contractors then walked away from the work. That is
+more than ₦10 trillion of Nigeria's own oil money.
+
+*Did London do that?*
+
+**A governor's own electoral commission gave his party 375 out of 376
+council seats.** Another gave 332 out of 332. A third, 203 out of 203.
+
+*Did Paris do that?*
+
+**Mama Ngozi's ₦500 went into a man's pocket on a Monday morning in Aba.**
+
+Nobody flew in for that.
+
+### The count
+
+We went through every failure documented in this book and asked, one by one,
+whether an outside power caused it.
+
+**Roughly two out of twelve.** The rest were done here, by us, to us.
+
+### And now the part that should worry you most
+
+Here is why we spend a whole chapter on this, instead of just moving on.
+
+Blaming outsiders does something very specific, and very useful — **for the
+wrong people.**
+
+**It gives an explanation that requires nobody to count anything.**
+
+If the borehole died because of Western hegemony, then nobody needs to
+publish a list of which boreholes still work. If the ₦332 billion sat
+untouched because of colonialism, then no commissioner has to explain
+himself on Monday morning.
+
+Ask yourself who that protects. Not America. America is not seeking your
+approval and does not read your tweets.
+
+**It protects the man who took Mama Ngozi's ₦500. It protects the officials
+who took the contractors' money. It protects the governor whose commission
+gave him 375 seats out of 376.**
+
+Every alibi has somebody it saves. In this case, the people it saves are
+Nigerian, and they are the ones you actually have some power over.
+
+### What we are not saying
+
+We are **not** saying colonialism did no damage. It did enormous damage, and
+the structure we live inside — a country whose government lives off exported
+oil rather than off its own people's work — was built in that period.
+
+We are **not** saying debt does not squeeze us. It does. Sixty-one naira in
+every hundred.
+
+We are saying something narrower and more useful: **the specific things
+ruining your daily life this week are within Nigerian control.** And the
+best answer to outside pressure is not louder complaint. It is this:
+
+**A country that collects its own money, finishes its own projects, and
+publishes its own accounts is much harder to push around than one that does
+not.**
+
+Strength is built. It is not announced.
+
+---
+
+## Chapter 8: "There is no money"
+
+This is the excuse you will hear most often, and it is the easiest one to
+kill.
+
+We costed everything in this book. Not guessed — costed, using prices
+Nigerian governments have actually published.
+
+### What it costs to fix Mama Ngozi's problem
+
+Lagos State budgeted **₦250 million** to build a digital tax system —
+software, training, publicity, all of it.
+
+₦250 million sounds like a lot until you put it beside what states collect.
+For Lagos, it is **two kobo in every hundred naira** of what it collects in
+a year. For Kaduna, about **35 kobo in every hundred**. Even for Taraba, one
+of the smallest revenue bases in the country, it is roughly **two weeks of
+collections**.
+
+And it pays for itself the moment it plugs one leak.
+
+### The whole book
+
+The four chapters a governor could start **without asking Abuja for
+permission** — money, openness, schools, land — come to somewhere between
+**₦1.1 billion and ₦4.1 billion.**
+
+That is **less than one flyover.**
+
+Not less than the budget. Less than one bridge over one junction in one
+city.
+
+### So why has nobody done it?
+
+Because the expensive part is not on any invoice.
+
+When we asked Enugu's revenue chairman what was hard, he did not talk about
+software. He talked about two things: **giving the revenue service the
+freedom to work without political interference**, and changing how the staff
+think about the job.
+
+Neither of those can be bought. And then there is the real cost, the one
+nobody writes in a budget:
+
+**The people who live on the leak will fight you. And some of them work for
+you.**
+
+The Monday man with the unnumbered receipt book has a family. He has a boss
+who gets a share. That boss knows somebody. When you kill cash collection,
+you are not buying software — **you are taking food off a table, and that
+table has people around it who can hurt you politically.**
+
+That is the price. Not naira. Enemies.
+
+### The cheapest chapter is the hardest
+
+Here is the fact that settles the argument.
+
+The chapter in this book that costs almost nothing — changing how Nigeria
+shares its money, which needs only a lawyer, some meetings and a signature —
+has failed **five times since 2001.**
+
+Zero naira required. Failed five times.
+
+**If money were the problem, that chapter would have passed on the first
+try.**
+
+---
+
+## Chapter 9: The good ones who fail
+
+You know somebody like this. Possibly you are somebody like this.
+
+The commissioner who genuinely wanted to fix things and left after two years
+exhausted. The director who tried to clean up procurement and was quietly
+transferred. The young graduate who joined the civil service to make a
+difference and now just collects salary.
+
+They were not bought. They were **worn down**. And the way it happens is
+worth understanding, because it will happen to you too if you do not see it
+coming.
+
+### How a good person gets defeated in Nigeria
+
+**Step one: they give you the job but not the tools.** You are made
+commissioner. You have no control over your own budget release, cannot hire,
+cannot fire, and your permanent secretary was appointed by somebody more
+powerful than you.
+
+**Step two: you discover the thing you must fix is somebody's income.** Not
+a policy. Not an oversight. An income, with a family attached to it, and a
+protector above it.
+
+**Step three: you fight, and you win a few.** Like the Kaduna governor. You
+find the strength, you take the noise, and you actually change something.
+
+**Step four: your term ends.**
+
+And the thing you built — which lived in your energy, your relationships,
+your willingness to take the phone calls — leaves with you. Within one year
+it is as if you were never there.
+
+**This is why good people burn out in Nigeria. Not because they fail. Because
+what they build cannot be inherited.**
+
+### The way out
+
+The way out is not more determination. Determination is exactly what the
+system is designed to outlast.
+
+The way out is to build things that do not need you:
+
+**Put it in law**, so stopping it requires an act rather than silence.
+
+**Give it its own money**, so nobody can starve it quietly.
+
+**Give it somebody outside who benefits and will shout** — parents, traders,
+a civic organisation, journalists.
+
+**Publish its numbers**, so that when it stops working, the number goes red
+where everyone can see.
+
+That is the difference between doing good work and leaving something behind.
+
+And it is the reason this book keeps returning to the same short sentence:
+
+> **If it lives in one man, it dies with him.**
+
+---
+
+
+# PART THREE — WHAT ACTUALLY WORKS
+
+*Eight things. Every one of them has been done. Most of them inside Nigeria.
+We tell you who did it, what it cost, and where it went wrong.*
+
+---
+
+## Chapter 10: Money — three jobs, in order
+
+Every state that has fixed its money did the same three things. Not the same
+policies — the same three jobs. In this order.
+
+### Job one: block the leak
+
+Kill cash. Everywhere. Every ministry, every agency, no exceptions, six
+months.
+
+That is what Enugu did, and it is what turned ₦37.6 billion into ₦180
+billion without raising anybody's tax.
+
+**But money is not the only leak.** Kwara State found another one:
+harmonisation. Before, a trader in Ilorin faced collectors from the state,
+the local government, and various "associations," all for the same business.
+Kwara published **one schedule** — this is what you owe, this is who
+collects it, anybody else is a thief. Osun did the same.
+
+Notice who wins when you do that. **The trader.** Suddenly the business
+community is on your side against the touts, and you have made an enemy of
+people who were never legitimate anyway.
+
+**If you are starting, start here.** It is the fight where you have the most
+allies.
+
+### Job two: plan the money
+
+Most Nigerian state budgets are mostly salaries and overhead — the cost of
+having a government, before the government does anything.
+
+Enugu flipped it. By 2024, about **79 out of every 100 naira** in the budget
+was going to building things rather than running the office.
+
+Think of a household earning ₦200,000 that spends ₦190,000 on rent, airtime
+and transport. They are not poor exactly — they are just never going to own
+anything. Move that to ₦120,000 and suddenly there is a future.
+
+### Job three: show the work
+
+This is the one everybody skips, and it is the one that decides whether any
+of it survives.
+
+**Publish, every quarter: this is what we collected, and this is what it
+built.** Two columns. Naira in, projects out.
+
+Why does it matter? Because collecting more money is not the achievement.
+Plenty of Nigerian governments collect more and deliver exactly the same
+nothing. The published pair of numbers is the only thing that stops "record
+revenue" becoming a press release.
+
+### Does this work in a poor state?
+
+Fair question, because Enugu is not a poor state and Lagos certainly is not.
+
+**Kwara.** No oil. No port. Ordinary. It set up its revenue service **by
+law** in 2015 — not by the governor's announcement, but by an Act of the
+State Assembly.
+
+Then in 2019 the entire government changed. New party, new governor, in an
+election that swept out almost everything.
+
+**The revenue service survived.** The new government kept it and improved
+it. Kwara is now among the top three states in the country on independent
+fiscal rankings, and among the five least dependent on Abuja.
+
+That is the single most important sentence in this chapter. **Kwara built a
+gate, not a gateman.**
+
+### What it costs
+₦250 million to ₦1 billion, and the political fight described in Chapter 8.
+
+### What we got wrong
+We used to cite Osun as a third success story on the size of its revenue
+growth. When we removed inflation from the figures, **Osun's growth was
+roughly flat.** The nominal number had grown; the real money had not. We
+withdrew the claim ourselves. Osun still belongs in this chapter for *how*
+it collects — the harmonisation — but not for how much.
+
+---
+
+## Chapter 11: People — test them before the seat, and let the law hold the test
+
+Kaduna proved you can test and replace teachers at scale in Nigeria and
+survive the fight.
+
+Kaduna also proved that if the test lives in the governor's will, it ends
+when he does.
+
+So the design is not complicated. **Do what Kaduna did, and fix the two
+things that killed it.**
+
+### Fix one: publish the test before anybody sits it
+
+An independent review of Kaduna's 2017 test found errors in the marking and
+a pass mark far above the normal standard — 75%, when in West African
+examinations a credit begins at 50%.
+
+That gave the union something true to shout about, and it made a fair fight
+look unfair.
+
+So: **publish the syllabus, publish the pass mark, and fix both before a
+single person sits down.** Never move the bar after seeing the scripts.
+
+### Fix two: let somebody outside mark it
+
+If the state sets the test, marks the test, and announces the result, the
+state is marking its own exam. Chapter 4 already told you what that
+produces.
+
+Bring in an external examiner. Publish the pass rates. Publish an appeals
+process.
+
+**And this is cheaper than people assume.** States already rent
+computer-based test centres — Adamawa used thirteen across the state in
+2025. You do not need to build anything. You rent what exists.
+
+### Fix three: pay properly, or the test is theatre
+
+When Georgia rebuilt its police, it did two things together. It removed the
+people who failed, and it **raised the pay of those who remained, by as much
+as fifteen times.**
+
+That second half was not generosity. A man who cannot feed his family on his
+salary will find money somewhere, and no test in the world catches that
+after the fact.
+
+For scale: a Nigerian police constable earns about ₦54,000 to ₦62,000 a
+month. Ask yourself honestly what that number does to a man standing at a
+checkpoint at 11pm.
+
+### Start with promotion, not sacking
+
+One quiet finding from Kaduna. The teacher testing died. But the state's
+**promotion exams** — sit an exam to rise — continued under the new
+government.
+
+Sacking creates an army of enemies with nothing to lose. **Promotion creates
+a queue of people with something to gain.** Same principle, far more
+survivable.
+
+### The honest gap
+No Nigerian state has yet shown that testing teachers made children learn
+better. The sackings happened; nobody measured the classroom afterwards. So
+**if you do this, measure the children from day one**, or you will win the
+argument and never know if you won the point.
+
+---
+
+## Chapter 12: Safety — the people who know the ground
+
+In 2013, Boko Haram controlled parts of Maiduguri. The Nigerian army,
+posted from all over the country, could not hold it.
+
+Then local young men organised themselves. They knew the streets, spoke the
+languages, and — this is the whole point — **they could tell a neighbour
+from a stranger.** A soldier from Ogun standing in Maiduguri cannot. He sees
+a crowd. They saw individuals, and knew which faces did not belong.
+
+Working with the military, they pushed Boko Haram out of the city. More than
+a hundred of them died doing it.
+
+And here is the comparison that proves it was them and not luck: **local
+governments in the same state, in the same war, that had no such group were
+overrun.**
+
+### The mechanism, plainly
+
+The thing that won was **not guns**. It was knowing who people are.
+
+That capability cannot be flown in from Abuja. It is the one thing a
+community has that a federal force structurally does not.
+
+### The part we must not hide
+
+The same researchers who documented the success also documented the abuses.
+Beatings. Detentions. Groups that grew into local power blocs answerable to
+nobody. One study calls them a "white devil" — effective and dangerous at
+once.
+
+**Both things are true.** A book that told you only the first half would be
+lying to you, and would get people killed.
+
+### So what should a state actually do?
+
+The Constitution forbids state police. Sections 214 and 215 — no other
+police force may be established. A governor cannot make one, and pretending
+otherwise wastes everybody's time.
+
+What he can lawfully build is an **intelligence and patrol service**, set up
+by state law: recruited locally, vetted, trained, paid, **unarmed by
+default**, with a legal duty to hand what it learns to the police and army.
+
+It gathers. It patrols. It reports. **It does not arrest, detain, or
+punish.** An eye, not a gun.
+
+And with it, from day one: **a complaints line whose numbers are published
+every month.** If the complaints rise, the state must answer publicly. A
+security outfit that reports only its own successes is marking its own exam
+— and you know by now what that produces.
+
+### The trap
+This is the most expensive chapter in the book, and the cost is not
+equipment. **It is salaries, forever.** A thousand people at constable pay
+is roughly ₦700 million a year, every year. A state that budgets the
+training and forgets the payroll has funded a launch ceremony, not a
+service.
+
+---
+
+## Chapter 13: Openness — money you can follow
+
+### Why this is not about morality
+
+Nobody has ever reduced corruption by asking people to be better.
+
+The goal here is smaller and duller: **make stealing hard, visible, and
+usually caught.** By machine, not by sermon.
+
+### What Kaduna did
+
+Kaduna publishes its contracts online. What was bought, from whom, for how
+much. By 2025 it had published more than 1,300 projects worth about ₦95
+billion. It scores **39 out of 39** on Nigeria's independent transparency
+ranking — the highest in the country.
+
+And it survived a change of government, because it was in law and civil
+society groups were part of running it.
+
+### The four steps, and Nigeria has done one
+
+Publishing is only the first step. There are four.
+
+**One: publish.** Kaduna does this. Most states do not.
+
+**Two: make it usable.** A budget document in accounting language is not
+usable by the person whose road it is. Kaduna's own civil society partner
+points out the state has no simplified citizens' budget. **Publishing
+something nobody can read is not transparency, it is paperwork.**
+
+**Three: make it bind.** If people comment and nothing changes, you have
+staged a consultation, not built accountability. Findings must carry a
+deadline for the government to respond.
+
+**Four: measure what was saved.** This is where Nigeria has built nothing at
+all. We searched three times. **No Nigerian state publishes what its
+transparency system saved it.** Ukraine's system is credited with billions.
+Nigeria has no number, anywhere.
+
+**So if you build this, build the fourth step from day one.** Otherwise in
+five years you will have a beautiful portal and no idea whether it worked.
+
+### The one that already works
+
+Twenty Nigerian states now receive money **only if they publish certain
+records** and an outside body confirms it. In June 2026 they shared $27
+million on exactly that basis.
+
+That is the whole idea in one sentence: **not a rule that says publish, a
+payment that does not arrive if you don't.**
+
+---
+
+## Chapter 14: The Constitution — which doors are already open
+
+Everybody says Nigeria needs a new constitution. Maybe. But before that
+argument, here is a fact almost nobody knows:
+
+**Most of this book needs no constitutional change at all.**
+
+Money, openness, schools, land — a governor can start all four on Monday
+using powers he already has. Nobody in Abuja can stop him.
+
+Only four things are actually blocked:
+
+**Police.** Sections 214–215. No state police. This is why Chapter 12 is a
+workaround.
+
+**Local government elections.** The Constitution creates the state electoral
+commissions that give governors 375 seats out of 376.
+
+**Oil money sharing.** Fixed in the Constitution.
+
+**And the strangest one — a missing sentence.** The Constitution says the
+President must lay proposals for sharing Nigeria's money before the National
+Assembly. **It does not say when.** So in 2022, a full proposal to cut the
+federal share and give states more was completed, and the President simply
+never sent it forward. That has now happened five times since 2001.
+
+**The fix is one clause: a deadline.** Not a new constitution. A sentence.
+
+### Why some changes pass and others never do
+
+In 2023, the Constitution *was* amended — states were allowed to generate
+and distribute their own electricity. It passed everything: two-thirds of
+the National Assembly, twenty-four state assemblies, presidential signature.
+
+So why does that pass while the money-sharing formula dies for thirty years?
+
+**Because electricity was a headache the federal government was glad to hand
+over. Money is not.**
+
+That is the rule. **Reforms that give the centre less work pass. Reforms
+that give the centre less money die.** Once you know which kind you are
+pushing, you know what you are in for.
+
+### The warning, from our own mistake
+
+We used to say: take every open constitutional door immediately.
+
+Then sixteen states took the electricity door and **could not use it.**
+Three years later nobody can even say whether power improved, because the
+states that took the job did not build anybody to check.
+
+So we corrected ourselves: **take the door, but build the ability to walk
+through it first.** A power you cannot use is worse than one you never took
+— because now the failure has your name on it.
+
+---
+
+## Chapter 15: One people
+
+### Tribe is not the disease
+
+We tested this rather than assumed it, and the finding surprised us.
+
+How Nigerians describe themselves **moves**. In surveys, the share of people
+identifying primarily by ethnic group swung about twenty points in eighteen
+months. It rises around elections. It hardens when government treats a group
+unfairly.
+
+If tribe were an ancient inheritance, it would not move by twenty points in
+a year and a half. **It moves because it is a response to something.**
+
+People fall back on their tribe when the state fails them, exactly the way a
+person with no insurance falls back on family. And politicians reach for it
+when they are fighting over one central pot of money.
+
+**Shrink the pot's importance and you shrink the weapon.** That is why
+Chapter 10 is also, quietly, a chapter about ethnic politics.
+
+### The thing Nigeria already built that works
+
+Now the strongest single piece of evidence in this entire book, and it is
+about a scheme Nigerians love to mock.
+
+**NYSC.**
+
+Because posting is close to random, researchers could do something rare:
+compare young Nigerians sent far from home against those who stayed nearby,
+and see whether being posted changed them.
+
+It did. Corps members posted outside their own ethnic region became
+**15 to 20 percentage points more willing** to move across ethnic lines for
+work, and measurably less likely to want political favouritism for their own
+group. **And the effect was still visible five years later.**
+
+Nigeria has been running a machine that measurably reduces ethnic prejudice
+for fifty years. **We did not invent it. We found it, checked it, and it
+works.**
+
+### So what should be done?
+
+**Protect the posting.** The mechanism *is* being sent far from home. Every
+waiver, every arrangement to serve near your mother, removes exactly the
+thing that produces the effect. Publish, state by state, how many corps
+members actually served outside their own region. Nobody has ever published
+that number.
+
+**Extend it below graduates.** NYSC only touches people who finished
+university. That is a small slice of any age group. Trade competitions,
+sports, technical service — anything that mixes people works, and mixing is
+the active ingredient.
+
+**And use the language we already share.** Pidgin belongs to no ethnic
+group. That is exactly why Tanzania's national language worked and
+Ethiopia's did not — theirs belonged to somebody, ours belongs to nobody.
+
+### Religion — the honest limit
+
+We will not pretend here. Even in the country that did nation-building best,
+religious grievance survived. Tribe can be cooled by fairness. **Faith is
+about meaning, and no state programme reaches meaning.**
+
+So the aim is narrower and achievable: **no faith captures the machinery of
+government.** Not unity of belief. Just a state that belongs to nobody's
+religion.
+
+---
+
+## Chapter 16: Schools — pay for learning, not for buildings
+
+### The number that reframes everything
+
+**₦332 billion of education money is sitting in accounts, unspent.**
+
+Twenty-seven of thirty-six states did not draw a single naira of it in 2024.
+
+Meanwhile twenty million Nigerian children are not in school.
+
+The money exists. The children exist. **The state cannot connect them.**
+
+Why? Because to collect that federal money a state must put up matching
+money of its own and prepare proper project papers. States that cannot do
+the paperwork leave the money. And the states worst at paperwork are usually
+the states with the most children out of school.
+
+**So the money flows toward capacity, not toward need.**
+
+### What actually raises learning
+
+Ceará is the fifth-poorest state in Brazil. Poor, unequal, rural — a fair
+comparison for a Nigerian state.
+
+They did one thing. They took a share of the money the state sends to local
+governments and **tied it to whether children could actually read and
+count.**
+
+Not to buildings. Not to enrolment. To reading.
+
+Children in schools under that system scored measurably better than children
+just across the state border. Where the state also sent teaching help, the
+effect **doubled**. Ceará went on to record the largest education
+improvement in Brazil.
+
+### The surprising part
+
+The local governments that got more money **did not spend it on education.**
+Less than half a naira in the naira went to schools.
+
+Learning improved anyway.
+
+Why? **Because the mayor was suddenly being measured on something he had
+never been measured on before.** He started paying attention. Attention,
+not money, was the missing ingredient.
+
+That is worth sitting with. It means this is not a spending programme. **It
+is a counting programme.**
+
+### How a Nigerian governor would do it
+
+**First, build the test.** An independent check, once a year, of whether
+primary two children can read and primary five children can count. Published
+in full, local government by local government. Most states have never
+published such a number in their history.
+
+**Then tie the money to it**, with two protections. Send teaching help to
+the worst performers, because that is what doubles the effect. And penalise
+local governments that improve their average by neglecting their weakest
+children — Ceará had to add that clause after their early gains went to
+schools that were already strong.
+
+**And never let the state run the test that decides its own local
+governments' money.** The moment it does, you have recreated the problem in
+Chapter 4.
+
+### What it costs
+This is the expensive chapter — ₦500 million to ₦2 billion — and unlike the
+others, the cost repeats every year, because the test must happen every
+year. But the transfer money itself is **not new spending.** It is money the
+state already sends. You are changing the condition, not the amount.
+
+---
+
+## Chapter 17: Counting the votes
+
+### What actually failed in 2023
+
+The machines worked. Accreditation worked — people were verified and voted.
+Senate and House results went up without trouble.
+
+**What failed was the journey.** Between the polling unit where your vote
+was counted in front of you, and the collation centre where the number was
+announced, paper travels. In that gap, numbers can change.
+
+Only **31.8%** of polling unit results reached the public viewing portal
+within thirty-six hours. And in several states, the figures announced at
+collation did not match what the machines recorded at the units.
+
+### Then the courts explained why nobody was punished
+
+The courts held that the law did not actually require electronic
+transmission, and that the public portal had **no legal force** — you could
+not even use it as evidence to challenge a result.
+
+Read that carefully. **The courts did not say INEC behaved well. They said
+INEC had no legal duty to break.**
+
+A transparency system that is not written into law is a favour. And favours
+stop exactly when they become inconvenient.
+
+### The fix is a timing word
+
+In 2026 the law changed. Transmission is now required.
+
+But the version originally proposed required the result to be uploaded
+**immediately at the polling unit, while the party agents and the crowd are
+still standing there.** That version was voted down, protested, partly
+restored — and people who read the final text still disagree about what it
+requires.
+
+Understand why that one detail is everything. **Upload while the crowd is
+watching, and the gap closes.** Upload later, "in a manner to be
+determined," and the gap is still open.
+
+They did not defeat the reform. **They amended when it happens.** That is
+harder to protest, because it still looks like the reform passed.
+
+### The line to hold
+
+If you take one demand from this chapter into any argument about elections:
+
+> **Upload the result before they leave the polling unit.**
+
+Not better machines. Not more observers. **Timing.**
+
+### The other election nobody watches
+
+Everything above is about presidential and governorship elections.
+
+The elections that choose the government closest to you — your local council
+— are run by commissions the governor appoints and pays.
+
+Lagos 2025: ruling party, 375 of 376 seats. Osun: 332 of 332. Ondo: 203 of
+203.
+
+The head of the national electoral body himself called these polls "mere
+coronation."
+
+**So here is the one place this book argues for taking power away from
+states rather than giving it to them.** Local elections should be run by
+INEC. And we know it works, because INEC already runs council elections in
+Abuja — where the opposition has actually won.
+
+Everywhere else in this book we argue for pushing power down, because
+competition between states makes them better. **But competition needs a
+referee who does not play for either side.** Give the governor the referee
+and you do not get thirty-six competing states. You get thirty-six one-man
+races.
+
+---
+
+# PART FOUR — WHO DOES IT
+
+## Chapter 18: Why not just join a party?
+
+You have read seventeen chapters. Everything in them has been done
+somewhere, most of it in Nigeria, and none of it needs a miracle.
+
+So the obvious question: **why has nobody done it?**
+
+Not because nobody knows. Some of what is in this book is known to any
+serious civil servant in Abuja. The knowledge is not the scarce thing.
+
+**The scarce thing is a group of people who understand it the same way and
+will still be pushing in ten years.**
+
+Nigerian politics is full of good individuals who arrive alone, get worn
+down as Chapter 9 described, and leave. What does not exist is an organised
+body of people who can all explain, in a market or a mosque or a motor park,
+why cash collection is the first fight, why one man's programme dies with
+him, and why the borehole failed.
+
+### The problem with how movements normally start
+
+A popular person announces a movement. People join because they like him.
+They cannot explain the programme, because there isn't really one — there is
+a man and a mood.
+
+Then one of three things happens. He is bought. He is jailed or frustrated
+into silence. Or he wins, and discovers that the people around him joined
+for their own reasons and have their own plans.
+
+Every time, the movement was **only as strong as one man's reputation.**
+
+We have spent this whole book saying that a good thing which lives in one
+man dies with him. **It would be absurd to then build exactly that.**
+
+## Chapter 19: A platform you have to qualify for
+
+So this is built the other way round. **Evidence first, then organisation.**
+
+Everything in this book was researched, checked and published before anybody
+was asked to join anything. If the person who started it disappears
+tomorrow, the findings are still true and still public, and somebody else
+can carry them.
+
+And to speak for this platform — to represent it, to stand for anything in
+its name — **you sit an examination.**
+
+### Why an exam
+
+Three reasons.
+
+**One: a movement whose members cannot explain it becomes a crowd.** And a
+crowd can be bought, divided, or turned by whoever pays last. If you can
+defend these findings in an argument at a joint, you can defend them
+anywhere.
+
+**Two: we are asking Nigeria to be run by people who can do the job.** A
+platform that demands merit in the civil service while admitting anybody who
+shows up has already lost that argument.
+
+**Three: it changes what a "member" is.** Everywhere else, a member is
+somebody who registered. Here, a member is somebody who has proved they
+understand the programme. **That is the one thing money cannot buy
+quickly.**
+
+### It is not a secret society
+
+The rules are the opposite of exclusive:
+
+**The syllabus is published in advance and free.** Everything on the exam is
+in this book and in the public evidence behind it. You can study it without
+joining, without paying, without telling anybody who you are.
+
+**The pass mark is 50%, published, and fixed before anyone sits.** It is
+never adjusted after the scripts are seen. Kaduna's teacher test was
+attacked for exactly that, and the criticism was fair.
+
+**Somebody outside the platform marks the hardest part**, and is paid
+whether you pass or fail. Otherwise we would be marking our own exam, and
+Chapter 4 explains what that produces.
+
+**We publish our pass rates**, every time, state by state. If only 12% pass,
+that number goes up.
+
+**It is free or nearly free to sit**, in English and Pidgin from the first
+day. An exam only the comfortable can attempt would just rebuild the elite
+we are trying to replace.
+
+**And nothing about your state, religion, ethnic group, party history, or
+who your father is appears anywhere in it.**
+
+### The last question on the paper
+
+The final question in the hardest part of the exam is this:
+
+> **State the strongest argument against this platform's central finding,
+> and say what evidence would change your mind.**
+
+You cannot pass it by agreeing with us. Somebody who cannot argue against us
+has not understood us.
+
+### What passing gets you, and what it does not
+
+**It gets you:** the right to speak in the platform's name, to vote
+internally, to stand for selection as a candidate.
+
+**It does not get you:** a position, a contract, a nomination, or a salary.
+Passing an exam proves you understand the programme. **It does not prove you
+can govern**, and confusing those two is the exact error Chapter 11 warns
+about.
+
+## Chapter 20: The promises we make before we have power
+
+Every Nigerian political formation makes promises. We make four, and they
+are unusual because **they are all promises to be checked rather than
+trusted.**
+
+**One. Every claim carries how sure we are.** When we are certain, we say
+so. When the evidence is contested, we say that. When we do not know, we say
+we do not know.
+
+**Two. The list of our mistakes stays public forever — especially when it
+becomes embarrassing.**
+
+We were wrong about Lagos as a model. We were wrong about what drove Enugu's
+revenue. We were wrong about Vietnam's schools. We built a whole
+recommendation on a number that fell apart a week later. We told states to
+take every open constitutional door until sixteen states took one and could
+not use it.
+
+All of it is written down and dated. **We adopted this rule now, before we
+have any power, precisely because we know we will not want it later.**
+
+If this platform ever quietly removes a mistake from that list, **that act
+alone is reason enough to leave it.** We are writing that sentence down
+while it costs us nothing.
+
+**Three. You are never asked to believe anything you cannot check.** Every
+number names its source in ordinary language.
+
+**Four. We say what we do not know.** No Nigerian state has ever shown that
+testing teachers made children learn better. Nobody in Nigeria publishes
+what a transparency system saved. And we do not know whether enough people
+understanding the same thing actually changes a country. **That last one is
+our bet, and we call it a bet rather than a fact.**
+
+### And the promise about how we fight
+
+**We do not name enemies.** Not opponents, not past leaders, not ethnic
+groups, not religions.
+
+Not because we are soft. Because anger recruits fastest and dies fastest,
+and in this country it also gets people hurt. And because the moment this
+becomes about a person, it stops being about a mechanism — and mechanisms
+are the only things that survive the person.
+
+**When a governor does something right, we will say so, even if we oppose
+him.** A platform that cannot praise its opponents cannot be trusted when it
+criticises them.
+
+---
+
+# PART FIVE — WHAT YOU DO ON MONDAY
+
+## Chapter 21: Four things
+
+You have finished the book. Here is what to do with it. All four are small.
+One you can do today.
+
+### One: carry one line
+
+Take one sentence from this book into a real argument this week.
+
+*A government that eats from your work must answer to you. A government that
+eats oil answers to nobody.*
+
+*Block the leak. Plan the money. Show the work.*
+
+*If it lives in one man, it dies with him.*
+
+*If nobody outside is counting, nothing is being fixed.*
+
+*Upload the result before they leave the polling unit.*
+
+You are not spreading propaganda. Every one of those is backed by evidence
+you can point at. **And the person who says them in a conversation usually
+wins it**, which is how ideas actually travel in Nigeria — not through
+books, through arguments at joints.
+
+### Two: check one number about your own state
+
+This is the one you can do today, and it costs nothing.
+
+Search for your state's name and any of these:
+
+- **How much it collects itself, versus how much Abuja sends it.** BudgIT
+  and the National Bureau of Statistics publish this.
+- **Its transparency score.** BudgIT ranks all 36 states, and only nine
+  score full marks.
+- **Whether its audited accounts for last year are published.** Many states
+  have not published theirs. Enugu — our best revenue story — has not.
+
+**Then publish what you find.** A tweet, a WhatsApp message, a voice note in
+your family group. You do not need permission and you do not need us.
+
+Chapter 4 said the failure is that nobody is counting. **The cheapest thing
+any Nigerian can do is start counting.**
+
+### Three: join one thing that mixes you with people unlike you
+
+This is the only instruction in this book with hard causal proof behind it.
+
+Serve outside your region if you can. Host corps members well. Employ across
+lines. Play, worship, trade, travel across them.
+
+It is not sentiment. **It measurably works, and the effect lasts years.**
+
+### Four: sit the exam, if you want to speak for this
+
+Not required to support the platform. Required to speak in its name.
+
+The syllabus is public and free. Everything on it is in this book and in the
+evidence behind it.
+
+## Chapter 22: The last thing
+
+We started this book with Mama Ngozi paying four people for one stall in
+Aba.
+
+Here is what we want you to notice about her, now that you have read
+everything.
+
+**Nothing about her situation requires a foreigner, a genius, or a
+miracle.**
+
+Her money leaks because nobody counts what she paid against what arrived. A
+state can close that in six months, for about ₦250 million, using powers it
+already has. One state already did it and its revenue went up nearly five
+times in real terms without raising her tax by one naira.
+
+That is the whole book. **Not "Nigeria is cursed." Not "we need a saviour."
+Just: nobody is counting, and government does not need us — and both of
+those can be changed by people who are already alive.**
+
+We will be wrong about some of this. We have already been wrong about
+several things and written them down. When you find the next one, tell us,
+and your name goes on the correction.
+
+**Do not believe us. Check us.**
+
+*Everything in this book — the sources, the confidence levels, the arguments
+against us, and the full list of our mistakes — is published and free.*
