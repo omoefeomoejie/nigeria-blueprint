@@ -97,7 +97,8 @@ leak**, and you will meet it again in almost every chapter of this book.
 
 ### What happened when one state closed the leak
 
-In 2023, Enugu State did something that sounds too simple to matter.
+In 2023, Enugu State — under Governor Peter Mbah, who took office in May of
+that year — did something that sounds too simple to matter.
 
 **They stopped collecting cash. Completely.**
 
@@ -110,8 +111,9 @@ There is now no man with a book. There is nothing to put in a pocket.
 
 **You cannot steal what you cannot touch.**
 
-In one year, money reaching the Enugu State government went from ₦37.6
-billion to ₦180.5 billion.
+In one year — 2023 to 2024 — money reaching the Enugu State government went
+from **₦37.6 billion to ₦180.5 billion.** By 2025 it was ₦406.7 billion, and
+Enugu ranked first in the country for revenue growth.
 
 Now understand what that number is and is not. **They did not raise anybody's
 tax.** No new levy. Nobody in Enugu was asked to pay more than they were
@@ -120,10 +122,11 @@ somewhere else on the way.
 
 When the state closed the leak, the money came home.
 
-*Where this comes from: the National Bureau of Statistics publishes what
-every state collects, every year. BudgIT, a Nigerian organisation that
-checks government figures independently, confirmed it. Both are free to
-read online.*
+*Where this comes from: the National Bureau of Statistics (NBS) publishes
+what every state collects, every year. BudgIT — a Nigerian civic
+organisation that has been checking government budgets since 2011 —
+confirmed it in its 2025 State of States report, which also ranked Enugu
+first nationally on covering its own running costs. Both are free online.*
 
 ### The part most books would leave out
 
@@ -140,8 +143,10 @@ ten times**. Still enormous. Still the best in the country. But we had been
 quoting the bigger number, and we corrected ourselves before anyone caught
 us. It is written down in our records with the date.
 
-**Two.** Enugu borrowed a lot of money while doing this — its debt more than
-doubled. And it has still not published its audited accounts for 2024. We do
+**Two.** Enugu borrowed heavily while doing this. Its domestic debt went from
+**₦82.5 billion when the government took office in 2023 to ₦188.42 billion by
+early 2026** — more than double, according to the Debt Management Office. And
+Enugu has still not published its audited accounts for 2024. We do
 not know what those accounts would show. **Nobody does.** And that, as you
 will see in Chapter 4, is its own kind of problem.
 
@@ -166,7 +171,14 @@ nobody had the part. Now it stands there — a pipe and a slab of concrete —
 and the women walk to the stream again.
 
 You are not imagining a pattern. **Four out of every ten boreholes in
-Nigeria stop working within two years.**
+Nigeria stop working within two years** — that is the figure from WASHNORM,
+the national water survey run by the Federal Ministry of Water Resources
+with the National Bureau of Statistics and UNICEF.
+
+And it is worse than one broken pump. Of Nigeria's **2.31 million water
+points, three quarters were dug by the people who use them**, not by
+government. Public water utilities produce water in 28 states and actually
+function — producing, supplying, collecting fees — in only **16**.
 
 Four in ten. In two years.
 
@@ -200,8 +212,10 @@ No light. No water.
 On paper, that centre has been fixed. In life, it is a painted building
 where a woman in labour is told to go somewhere else.
 
-Nigeria promised to fix 17,600 of these centres in four years — one for
-every ward in the country. By the middle of 2025, about **1,295** were done.
+In 2023 Nigeria promised to fix **17,600** of these centres in four years —
+one for every ward in the country — under the National Primary Health Care
+Development Agency (NPHCDA). By 20 September 2025, the agency's own dashboard
+listed **1,295** as revitalised.
 
 That is **7.3%** of the promise.
 
@@ -211,9 +225,13 @@ That is **7.3%** of the promise.
 
 Not from an opposition politician. Not from a foreign newspaper.
 
-**The government agency in charge published its own data online.** Then a
-Nigerian organisation opened it, did the arithmetic, and published the
-embarrassing number.
+**NPHCDA published its own monitoring dashboard online in August 2025.** Then
+Nigeria Health Watch, a Nigerian public-health organisation, opened it, did
+the arithmetic, and published the embarrassing figure a few weeks later.
+
+And this was not the first promise of its kind. A 2016–17 pledge to
+revitalise 10,000 primary health centres was never delivered before that
+administration ended.
 
 Stop and notice how strange that is. An agency published the very numbers
 that made it look bad. Somebody outside checked. The truth came out without
@@ -238,7 +256,8 @@ Health Watch.*
 
 ## Chapter 3: The teacher who could not pass a primary four test
 
-In 2017, Kaduna State tested its primary school teachers.
+In 2017, Kaduna State — under Governor Nasir el-Rufai — tested its primary
+school teachers.
 
 The test was set at **primary four level** — what a ten-year-old should be
 able to do.
@@ -257,17 +276,20 @@ into the classroom. Somebody put them there, and nobody tested anything.
 ### What the governor did, and what happened next
 
 He sacked all 21,780 and hired 25,000 new ones through a screening process.
+The test was repeated in **December 2021**, when 27,662 teachers sat; 165
+were dismissed for scoring below 40%, and a further 2,192 for refusing to sit
+it at all.
 
 The response was war. The Nigeria Labour Congress shut the state down for a
-week. The teachers' union took him to court. He sacked the union's own
-national president for refusing to sit the test.
+week in 2018. The Nigeria Union of Teachers took him to court. He dismissed
+**the NUT's own national president** for refusing to sit the test.
 
 **He won every single fight.** The strike ended. The court case failed. The
 testing continued and was repeated in 2021.
 
-Then in 2023 his term finished and he left office.
+Then in **May 2023** his two terms finished and Governor Uba Sani took over.
 
-**No test has been held since.**
+**No competency test has been held since 2021.**
 
 The new government did not reverse the sackings — that would have cost money
 and caused a fight. It simply stopped testing. It raised the retirement age
@@ -277,13 +299,16 @@ The side that lost every single battle won the war by waiting.
 
 ### Now compare it with something in the same state
 
-Kaduna also built something else: a system that publishes government
-contracts. What was bought, from whom, for how much, all online where anyone
-can look.
+Kaduna also built something else. In **2018 it became the first Nigerian
+state to join the Open Government Partnership**, and it built a portal that
+publishes government contracts — what was bought, from whom, for how much,
+online where anyone can look.
 
-**Same state. Same handover. Same new governor.**
+**Same state. Same handover. Same governor, Uba Sani.**
 
-That one did not die. It grew.
+That one did not die. It grew — a new action plan for 2024–25 co-created
+with more than 100 civil society organisations, and by April 2025 the portal
+was disclosing **1,379 projects worth ₦95.7 billion.**
 
 So ask the obvious question. Why did one survive and the other die?
 
@@ -340,12 +365,34 @@ Now hold that picture and look at Nigeria.
 
 ### The five that failed
 
-**Local government elections.** The governor appoints the electoral
-commission for his state and pays its bills. In 2025: in Lagos, the ruling
-party won **375 of 376** council seats. In Osun, the ruling party won **332
-of 332**. In Ondo, **203 of 203**.
+**Local government elections.** In every state, the governor appoints the
+State Independent Electoral Commission and pays its bills.
 
-Different states. **Different parties.** Same result.
+In **July 2025, Lagos State**: the APC — the governor's party — won **all 57
+chairmanships and 375 of 376 councillorship seats.** The opposition got one
+seat, in Ward D, Yaba.
+
+In **February 2025, Osun State**: the PDP — the governor's party — won **all
+30 chairmanships and all 332 councillorship seats.** Not one seat to anybody
+else.
+
+In **2025, Ondo State**: the APC — the governor's party — won **all 18
+chairmanships and all 203 councillorships.**
+
+Look carefully at those three. Lagos and Ondo are APC states. **Osun is a PDP
+state.** Two different parties, opposite sides of Nigerian politics, produced
+the same result in the same year.
+
+That is not one party being wicked. **That is what any human being does when
+he marks his own exam.** And it is not a small opinion — the Chairman of
+INEC, the national electoral body, has publicly called local government
+elections in virtually all states "mere coronation of candidates of ruling
+parties."
+
+There is even a control case. **INEC, not a state commission, runs council
+elections in Abuja.** In the 2015 FCT council elections, the opposition PDP
+won two of the three chairmanships. Same country, same voters. **Different
+referee, different result.**
 
 That is not one party being wicked. That is what any human being does when
 he marks his own exam.
@@ -354,8 +401,10 @@ he marks his own exam.
 processes its own applications and reports its own success. Nobody outside
 counts how many titles were actually issued, or how long people waited.
 
-**Electricity.** In 2023, sixteen states took over regulating power in their
-own states. Three years later, nobody can tell you whether supply improved
+**Electricity.** Between October 2024 and early 2026, the national regulator
+NERC transferred oversight to **16 states** — Enugu, Ekiti and Ondo first,
+then Imo, Oyo, Edo, Kogi, Lagos, Ogun, Niger, Plateau, Abia, Anambra,
+Nasarawa and Bayelsa. Three years later, nobody can tell you whether supply improved
 in any of them — because the states that took over the job also took over
 the counting. There is no independent number to look at. Not a good number,
 not a bad number. **No number.**
@@ -364,10 +413,12 @@ not a bad number. **No number.**
 
 And in every single one of them, **somebody outside was counting.**
 
-The National Bureau of Statistics counts what states collect. BudgIT checks
-budgets. An organisation called Tracka physically walks to project sites
-with a camera and photographs whether the thing exists. Afrobarometer, an
-Africa-wide survey, asks citizens directly.
+The **National Bureau of Statistics** counts what every state collects.
+**BudgIT** scores all 36 states on fiscal transparency — only nine got full
+marks in its Q4 2025 ranking. **Tracka**, BudgIT's field arm, physically
+walks to project sites with a camera: in one exercise it inspected **2,760
+federal projects across 30 states.** **Afrobarometer**, an Africa-wide survey
+running since 1999, asks citizens directly.
 
 Nobody in those systems is marking their own exam.
 
@@ -404,7 +455,13 @@ were told.
 ### Fact one: your government does not need you
 
 Thirty of Nigeria's thirty-six states get between **71 and 92 out of every
-100 naira** they spend from oil money shared out in Abuja.
+100 naira** they spend from oil money shared out in Abuja through FAAC — the
+Federation Account Allocation Committee, which meets monthly to divide the
+oil money.
+
+For contrast: **Lagos funds about 72% of itself** and takes only 28.1% from
+FAAC. **Taraba State's own revenue in 2023 was ₦10.87 billion** — against
+Lagos's ₦815.86 billion the same year.
 
 Now think about what that means for a governor.
 
@@ -542,9 +599,10 @@ gate. Same governor, same state, same handover, opposite fates.
 This one deserves respect before it gets an argument, because it is not
 stupid and it is not baseless.
 
-Nigeria owes about **$51 billion** to outsiders. Paying that debt swallowed
-roughly **61 out of every 100 naira** the federal government expected to
-earn in 2025. Structural adjustment in the 1980s — designed abroad, accepted
+Nigeria owed about **$51.86 billion** to outsiders as at December 2025,
+according to the Debt Management Office. Debt service in the 2025 federal
+budget was **₦10.1 trillion — about 61 out of every 100 naira** the federal
+government expected to earn. Structural adjustment in the 1980s — designed abroad, accepted
 here — did real damage that people still feel. Our currency and our oil
 price are decided in rooms we are not in.
 
@@ -557,24 +615,38 @@ ourselves.
 
 Take everything in Part One and ask: **which of these did a foreigner do?**
 
-**₦332 billion of education money is sitting in accounts right now,
-untouched**, while twenty million Nigerian children are out of school.
-Twenty-seven of thirty-six states did not collect a single naira of it in
-2024. The money is there. It is Nigerian money. The states could not or did
-not take it.
+**₦332 billion of education money is sitting in accounts untouched.** That
+is UBEC's own figure as at August 2026 — the Universal Basic Education
+Commission, the federal body that funds primary schools: **₦65 billion in
+matching grants never claimed, and ₦267 billion released but never spent.**
+In 2024, **27 of Nigeria's 36 states did not access the UBEC matching grant
+at all.** Meanwhile UNICEF counts **18 to 20 million Nigerian children out of
+school.**
+
+The money is there. It is Nigerian money, in Nigerian accounts.
 
 *Did Washington do that?*
 
-**The agency for the Niger Delta abandoned over 12,000 projects out of
-13,377** — projects that had already been paid for. An investigation found
-that staff of the agency were taking the biggest share of the money meant
-for contractors, and the contractors then walked away from the work. That is
-more than ₦10 trillion of Nigeria's own oil money.
+**The Niger Delta Development Commission (NDDC) abandoned over 12,000
+projects out of 13,377** — projects already paid for. That comes from the
+forensic audit of the NDDC covering **2001 to 2019**, which examined 13,777
+projects and 362 bank accounts, and was submitted to the federal government
+in **2021**. Independent research by Social Action, a Nigerian civic group,
+found that **NDDC staff themselves were taking the larger share of the money
+meant for contractors**, who then walked away from the jobs.
+
+More than **₦10 trillion** has passed through the 13% derivation to
+oil-producing states, and those communities remain poor.
+
+One more detail, because it says everything: **that forensic audit report has
+still never been published.** In 2025 a serving minister said it was
+missing.
 
 *Did London do that?*
 
-**A governor's own electoral commission gave his party 375 out of 376
-council seats.** Another gave 332 out of 332. A third, 203 out of 203.
+**Lagos State's own electoral commission gave the APC 375 out of 376 council
+seats in July 2025. Osun State's gave the PDP 332 out of 332 in February
+2025. Ondo State's gave the APC 203 out of 203.**
 
 *Did Paris do that?*
 
@@ -644,8 +716,10 @@ Nigerian governments have actually published.
 
 ### What it costs to fix Mama Ngozi's problem
 
-Lagos State budgeted **₦250 million** to build a digital tax system —
-software, training, publicity, all of it.
+Lagos State budgeted **₦250 million** for a digital tax management system —
+software, data work, training, publicity, all of it — in its own Eko Revenue
+Plus planning documents, against a target of ₦200 billion a year from that
+stream.
 
 ₦250 million sounds like a lot until you put it beside what states collect.
 For Lagos, it is **two kobo in every hundred naira** of what it collects in
@@ -670,8 +744,8 @@ city.
 
 Because the expensive part is not on any invoice.
 
-When we asked Enugu's revenue chairman what was hard, he did not talk about
-software. He talked about two things: **giving the revenue service the
+When the chairman of the Enugu State Internal Revenue Service described what
+was hard, he did not talk about software. He talked about two things: **giving the revenue service the
 freedom to work without political interference**, and changing how the staff
 think about the job.
 
@@ -694,7 +768,7 @@ Here is the fact that settles the argument.
 
 The chapter in this book that costs almost nothing — changing how Nigeria
 shares its money, which needs only a lawyer, some meetings and a signature —
-has failed **five times since 2001.**
+has failed in **2001, 2002, 2003, 2004 and 2022.**
 
 Zero naira required. Failed five times.
 
@@ -786,7 +860,8 @@ That is what Enugu did, and it is what turned ₦37.6 billion into ₦180
 billion without raising anybody's tax.
 
 **But money is not the only leak.** Kwara State found another one:
-harmonisation. Before, a trader in Ilorin faced collectors from the state,
+harmonisation. In 2026 it set up a committee specifically to end multiple
+taxation. Before, a trader in Ilorin faced collectors from the state,
 the local government, and various "associations," all for the same business.
 Kwara published **one schedule** — this is what you owe, this is who
 collects it, anybody else is a thief. Osun did the same.
@@ -803,8 +878,9 @@ allies.
 Most Nigerian state budgets are mostly salaries and overhead — the cost of
 having a government, before the government does anything.
 
-Enugu flipped it. By 2024, about **79 out of every 100 naira** in the budget
-was going to building things rather than running the office.
+Enugu flipped it. Capital spending went from under ₦30 billion historically
+to **₦414.3 billion — 79% of the 2024 budget** — and ₦837.9 billion, or 86%,
+in 2025.
 
 Think of a household earning ₦200,000 that spends ₦190,000 on rent, airtime
 and transport. They are not poor exactly — they are just never going to own
@@ -827,16 +903,19 @@ revenue" becoming a press release.
 
 Fair question, because Enugu is not a poor state and Lagos certainly is not.
 
-**Kwara.** No oil. No port. Ordinary. It set up its revenue service **by
-law** in 2015 — not by the governor's announcement, but by an Act of the
-State Assembly.
+**Kwara.** No oil. No port. Ordinary. It created the Kwara State Internal
+Revenue Service **by law** — the Revenue Administration Law No. 6 of **2015**
+— not by a governor's announcement, but by an Act of the State Assembly.
 
-Then in 2019 the entire government changed. New party, new governor, in an
-election that swept out almost everything.
+Then in **2019** the entire government changed. The "O to ge" wave swept out
+a political structure that had dominated the state for decades, and
+Abdulrahman Abdulrazaq took office from a different party.
 
 **The revenue service survived.** The new government kept it and improved
-it. Kwara is now among the top three states in the country on independent
-fiscal rankings, and among the five least dependent on Abuja.
+it. Kwara's own revenue grew **262% between 2020 and 2024** — about 40 to 50%
+once you remove inflation — reaching ₦59.6 billion in 2023, of which ₦23.1
+billion was tax and ₦36.5 billion was fees and charges. It now ranks in
+BudgIT's national top three and among the five least dependent on Abuja.
 
 That is the single most important sentence in this chapter. **Kwara built a
 gate, not a gateman.**
@@ -866,9 +945,10 @@ things that killed it.**
 
 ### Fix one: publish the test before anybody sits it
 
-An independent review of Kaduna's 2017 test found errors in the marking and
-a pass mark far above the normal standard — 75%, when in West African
-examinations a credit begins at 50%.
+An independent analyst who obtained the actual scoresheets found errors in
+the marking, and a pass mark set at **75%** — when in West African
+examinations a credit begins at 50%. By the 2021 test the state had itself
+moved the dismissal threshold down to 40%.
 
 That gave the union something true to shout about, and it made a fair fight
 look unfair.
@@ -886,12 +966,16 @@ Bring in an external examiner. Publish the pass rates. Publish an appeals
 process.
 
 **And this is cheaper than people assume.** States already rent
-computer-based test centres — Adamawa used thirteen across the state in
-2025. You do not need to build anything. You rent what exists.
+computer-based test centres accredited by JAMB — **Adamawa State used 13 of
+them across the state for its 2025 civil service recruitment**, and Oyo and
+Ekiti have run theirs through university and polytechnic centres. You do not need to build anything. You rent what exists.
 
 ### Fix three: pay properly, or the test is theatre
 
-When Georgia rebuilt its police, it did two things together. It removed the
+When the country of Georgia rebuilt its police after 2004, it did two things
+together. It dismissed about **16,000 traffic police in a single day** —
+leaving the country with no traffic police for a month — and rebuilt from
+scratch with 2,400 new patrol officers by August 2004. It removed the
 people who failed, and it **raised the pay of those who remained, by as much
 as fifteen times.**
 
@@ -923,16 +1007,19 @@ argument and never know if you won the point.
 
 ## Chapter 12: Safety — the people who know the ground
 
-In 2013, Boko Haram controlled parts of Maiduguri. The Nigerian army,
-posted from all over the country, could not hold it.
+In 2013, Boko Haram controlled parts of Maiduguri, the capital of Borno
+State. The Nigerian military's Joint Task Force, drawn from all over the
+country, could not hold it.
 
-Then local young men organised themselves. They knew the streets, spoke the
+Then local young men organised themselves into what became known as the
+**Civilian Joint Task Force** — the Civilian JTF. They knew the streets, spoke the
 languages, and — this is the whole point — **they could tell a neighbour
 from a stranger.** A soldier from Ogun standing in Maiduguri cannot. He sees
 a crowd. They saw individuals, and knew which faces did not belong.
 
-Working with the military, they pushed Boko Haram out of the city. More than
-a hundred of them died doing it.
+Working with the military, they pushed Boko Haram out of Maiduguri. **More
+than 100 of them were killed doing it.** Borno State now funds the group with
+about **₦352 million a year** through its Ministry of Justice.
 
 And here is the comparison that proves it was them and not luck: **local
 governments in the same state, in the same war, that had no such group were
@@ -975,8 +1062,8 @@ security outfit that reports only its own successes is marking its own exam
 
 ### The trap
 This is the most expensive chapter in the book, and the cost is not
-equipment. **It is salaries, forever.** A thousand people at constable pay
-is roughly ₦700 million a year, every year. A state that budgets the
+equipment. **It is salaries, forever.** A thousand people at Nigerian police constable pay — ₦54,000 to ₦62,000 a
+month — is roughly **₦700 to ₦750 million a year**, every year. A state that budgets the
 training and forgets the payroll has funded a launch ceremony, not a
 service.
 
@@ -1027,8 +1114,10 @@ five years you will have a beautiful portal and no idea whether it worked.
 ### The one that already works
 
 Twenty Nigerian states now receive money **only if they publish certain
-records** and an outside body confirms it. In June 2026 they shared $27
-million on exactly that basis.
+records** and an outside verification agent confirms it. In **June 2026 they
+shared $27 million** on exactly that basis, under a World Bank-supported
+programme called HOPE-GOV, for hitting verified targets in education, health
+and public financial management.
 
 That is the whole idea in one sentence: **not a rule that says publish, a
 payment that does not arrive if you don't.**
@@ -1065,9 +1154,11 @@ never sent it forward. That has now happened five times since 2001.
 
 ### Why some changes pass and others never do
 
-In 2023, the Constitution *was* amended — states were allowed to generate
-and distribute their own electricity. It passed everything: two-thirds of
-the National Assembly, twenty-four state assemblies, presidential signature.
+In **March 2023**, the Constitution *was* amended — states were allowed to
+license, generate, transmit and distribute their own electricity. President
+Buhari signed it, and the **Electricity Act followed in June 2023** under
+President Tinubu. It passed everything: two-thirds of the National Assembly,
+24 state assemblies, presidential signature.
 
 So why does that pass while the money-sharing formula dies for thirty years?
 
@@ -1124,10 +1215,12 @@ Because posting is close to random, researchers could do something rare:
 compare young Nigerians sent far from home against those who stayed nearby,
 and see whether being posted changed them.
 
-It did. Corps members posted outside their own ethnic region became
-**15 to 20 percentage points more willing** to move across ethnic lines for
-work, and measurably less likely to want political favouritism for their own
-group. **And the effect was still visible five years later.**
+It did. The study — by Oyebola Okunogbe, published in 2024 in the *American Economic
+Journal: Applied Economics*, one of the most demanding journals in the field
+— found that corps members posted outside their own ethnic region became
+**15 to 20 percentage points more willing** to relocate across ethnic lines
+for work, and measurably less likely to prefer political favouritism for
+their own group. **The effect was still visible five years after service.**
 
 Nigeria has been running a machine that measurably reduces ethnic prejudice
 for fifty years. **We did not invent it. We found it, checked it, and it
@@ -1183,17 +1276,20 @@ the states with the most children out of school.
 
 ### What actually raises learning
 
-Ceará is the fifth-poorest state in Brazil. Poor, unequal, rural — a fair
+Ceará is the **fifth-poorest of Brazil's 26 states.** Poor, unequal, rural — a fair
 comparison for a Nigerian state.
 
-They did one thing. They took a share of the money the state sends to local
-governments and **tied it to whether children could actually read and
-count.**
+They did one thing. Brazil's constitution sends a quarter of a certain state
+tax down to municipalities, and each state decides how part of it is shared.
+**Ceará assigned 18% of that share to an education index** measuring whether
+children could read by grade two and do reading and maths by grade five.
 
 Not to buildings. Not to enrolment. To reading.
 
-Children in schools under that system scored measurably better than children
-just across the state border. Where the state also sent teaching help, the
+Researchers compared schools on either side of Ceará's state border — same
+region, same people, different rules. Children under the system scored
+**0.15 standard deviations higher** in maths and language. Where the state
+also sent teaching support, **the effect doubled.** Where the state also sent teaching help, the
 effect **doubled**. Ceará went on to record the largest education
 improvement in Brazil.
 
@@ -1204,8 +1300,10 @@ Less than half a naira in the naira went to schools.
 
 Learning improved anyway.
 
-Why? **Because the mayor was suddenly being measured on something he had
-never been measured on before.** He started paying attention. Attention,
+Why? **Because the mayor was suddenly being measured on something he had never
+been measured on before** — and because the money was general money he could
+spend on anything, the whole municipal government cared, not just the
+education office. He started paying attention. Attention,
 not money, was the missing ingredient.
 
 That is worth sitting with. It means this is not a spending programme. **It
@@ -1247,8 +1345,11 @@ Senate and House results went up without trouble.
 was counted in front of you, and the collation centre where the number was
 announced, paper travels. In that gap, numbers can change.
 
-Only **31.8%** of polling unit results reached the public viewing portal
-within thirty-six hours. And in several states, the figures announced at
+Only **31.8%** of polling unit results reached IReV — INEC's public viewing
+portal — within thirty-six hours of the **25 February 2023** presidential
+election. Collation centres in Lagos, Rivers, Kogi and several northern
+states announced figures that differed from what the BVAS machines had
+recorded at the units. And in several states, the figures announced at
 collation did not match what the machines recorded at the units.
 
 ### Then the courts explained why nobody was punished
@@ -1265,7 +1366,13 @@ stop exactly when they become inconvenient.
 
 ### The fix is a timing word
 
-In 2026 the law changed. Transmission is now required.
+In **February 2026** the law changed. On 4 February the Senate rejected
+mandatory real-time transmission; nationwide protests followed; on 10
+February an emergency session passed a revised clause; and on 18 February
+President Tinubu signed it — about 24 hours after harmonisation.
+
+Note that speed, and compare it with the revenue formula proposal that has
+sat unsent since 2022.
 
 But the version originally proposed required the result to be uploaded
 **immediately at the polling unit, while the party agents and the crowd are
@@ -1304,7 +1411,14 @@ coronation."
 **So here is the one place this book argues for taking power away from
 states rather than giving it to them.** Local elections should be run by
 INEC. And we know it works, because INEC already runs council elections in
-Abuja — where the opposition has actually won.
+the Federal Capital Territory — where in **2015 the opposition PDP won two of
+the three chairmanships.**
+
+Be warned, though: this needs a constitutional amendment, which means 24
+state assemblies voting to take local elections away from their own
+governors. **On the logic of Chapter 14, it is the least likely change in
+this book to pass.** We recommend it because it is right, and we tell you it
+is hard.
 
 Everywhere else in this book we argue for pushing power down, because
 competition between states makes them better. **But competition needs a
