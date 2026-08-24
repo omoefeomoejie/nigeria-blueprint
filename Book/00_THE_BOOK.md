@@ -29,11 +29,15 @@ all of them.
 has failed for sixty years. Why blaming America feels good and changes
 nothing. Why money is not the problem.
 
-**Part Three — What actually works.** Twelve things. Each one already done.
+**Part Three — What actually works.** Fifteen things. Each one already done.
 
-**Part Four — Who does it.** Not a great man. Not a party as you know it.
+**Part Four — How to check anything.** How we found what we found, the six
+ways we got it wrong, and three questions that break most claims. This is the
+part that makes you useful.
 
-**Part Five — What you do on Monday.** Four things. One you can do today.
+**Part Five — Who does it.** Not a great man. Not a party as you know it.
+
+**Part Six — What you do on Monday.** Four things. One you can do today.
 
 ---
 
@@ -2001,6 +2005,119 @@ state already sends. You are changing the condition, not the amount.
 
 ---
 
+## Chapter 16a: Fertiliser that never arrives
+
+A farmer in Nigeria puts about **13 kilogrammes of fertiliser on a hectare of
+land.**
+
+The recommended amount is **200.**
+
+Before you conclude that Nigerian farmers are ignorant or stubborn, hold on,
+because the researchers asked them.
+
+### The 44
+
+The International Food Policy Research Institute surveyed 44 people across
+the sector — state ministry officials, agency staff, input dealers, farmer
+associations, and farmers belonging to no association at all.
+
+**All 44 said the same thing.** Demand far outstrips supply, every year. And
+many farmers said they would pay the full market price if the fertiliser were
+simply *there*.
+
+Read that again, because it turns the usual story upside down.
+
+Nigeria has spent decades subsidising fertiliser — subsidy rates have reached
+**87%** — to solve a demand problem **that does not exist.** The farmers were
+never the obstacle. They wanted it. They would have paid.
+
+**The obstacle was that it never reached them.**
+
+### Where it goes instead
+
+Subsidised fertiliser leaks into the open market. It is bought at the
+subsidised price and sold at the market price by people who were never
+farmers.
+
+And it does a second damage that is less obvious. Because subsidised bags
+keep appearing in the market at unpredictable prices, **no private supplier
+can build a real business** selling fertiliser properly — they never know
+what they are competing against. So the sector that could have solved the
+problem never grows.
+
+You have met this before. It is Mama Ngozi's leak, running in the opposite
+direction: **money going out that never arrives, instead of money coming in
+that never arrives.** Same missing receipt. Same nobody counting.
+
+### The advice that goes to people who need it least
+
+Now the other half of the problem.
+
+Extension officers are the people who tell a farmer what to plant, when, and
+how. In Nigeria they reach **fewer than half of smallholder farmers.**
+
+And when researchers looked at *which* half, the pattern was clear. Extension
+access lines up with owning assets, using fertiliser, and having credit.
+
+**The advice flows to the farmers who are already doing well.**
+
+Not through malice. Through convenience — the farmer with a phone, a bigger
+plot near the road, and a co-operative membership is easier to reach than the
+woman two hours off the tarred road. Do the easy visits and you have quietly
+built a system that widens every gap it touches.
+
+This is the same failure Ceará had to fix in Brazilian schools, in Chapter 16:
+help lands where it is least needed unless you deliberately point it
+elsewhere.
+
+### What actually works
+
+Three things, and one warning.
+
+**Know who the farmers are.** A state farmer registry — name, ward, plot,
+phone. Almost nothing else on this list works without it, and most states do
+not have one.
+
+**Replace bags with vouchers.** Instead of trucking fertiliser to be shared
+out, give registered farmers a voucher redeemed at an accredited dealer.
+Every redemption leaves a record. Leakage becomes visible, then costly. It is
+Chapter 10's traceability, pointed outward.
+
+**Send extension deliberately to the farmers who have nothing** — an explicit
+quota for farmers without assets or credit — because the default flow is
+toward those who already have them.
+
+**The warning:** digital advice on its own underperforms. The research is
+clear that advisory tools work much better **paired with a human being who
+turns up.** Which kills the cheap answer that an app will fix this.
+
+### The test
+
+If after two seasons registered farmers without assets show no yield
+improvement despite verified delivery, then inputs were never the binding
+problem — it is credit, or land, or getting produce to market. Move the money
+there and say so.
+
+### And the thing that overshadows all of it
+
+None of this works on land nobody can safely farm.
+
+**2.1 million hectares of northern farmland are now inaccessible** for
+security reasons — Niger 350,000, Zamfara 323,000, Borno 300,000, Katsina
+210,000, Benue 200,000. Nearly half of that idle land sits inside the maize
+belt that produces about 44% of Nigeria's maize.
+
+The Northern Governors Forum itself admits that up to **60% of farmland in
+key agricultural states** is abandoned or barely used.
+
+The FAO puts national food production down **15%** because of insecurity.
+
+So Chapter 12 is not a separate subject from this one. **In the north, the
+security chapter is the agriculture chapter**, and no voucher scheme works
+until somebody can walk to their farm.
+
+---
+
 ## Chapter 17: Counting the votes
 
 ### What actually failed in 2023
@@ -2103,9 +2220,392 @@ races.
 
 ---
 
-# PART FOUR — WHO DOES IT
+## Chapter 17a: The most money, the worst delivery
 
-## Chapter 18: Why not just join a party?
+We left this chapter until last on purpose, and the reason is the finding.
+
+Oil-producing states shared **₦1.51 trillion** in derivation in 2025 — double
+what they got in 2024. In the first three months of 2026 alone, **₦321.9
+billion** went to eleven states. Delta took ₦101.6 billion. Bayelsa ₦71.6
+billion. Akwa Ibom ₦69.4 billion.
+
+Three states took about three quarters of it. Four took nearly ninety per
+cent.
+
+This is the easiest money in Nigeria. Nobody has to collect it. No citizen
+has to be persuaded to pay it. No official has to be honest for it to arrive.
+**It simply comes.**
+
+### And here is what it produced
+
+The Niger Delta Development Commission: **over 12,000 of 13,377 projects
+abandoned after payment.**
+
+The Ministry of Niger Delta Affairs: **last of every federal agency on
+project completion, at 16%.**
+
+More than **₦10 trillion** has passed down the derivation pipe since it
+began. In 2026, host community representatives publicly accused state
+governments of politicising the money, saying the communities whose land the
+oil is taken from have not seen the benefit.
+
+### Now put those two facts next to each other
+
+**The largest, most reliable, most automatic money in the federation sits
+with the worst delivery record in the country.**
+
+Every excuse this book has heard is gone.
+
+No collection problem — the money arrives by itself. No tax base problem — no
+citizen pays it. No capacity problem in getting it — it requires no capacity
+at all. No question of whether the state can afford it.
+
+And the result is the worst outcomes in Nigeria.
+
+**If money were the answer, the Niger Delta would be the best-governed place
+in this country.** It is not close.
+
+This is the whole argument of the book, tested at the extreme: **give a
+government money without making it depend on its people, and delivery does
+not merely fail to improve. It gets worse.**
+
+### Why a governor cannot fix this
+
+Be honest about the limits. Derivation is fixed in the Constitution at not
+less than 13% of what the country earns from oil, and how much a state gets
+depends on how much oil comes out of its ground.
+
+No governor can raise it, cut it, or move it. There is no lever here.
+
+Which is exactly why this chapter comes last in a book about what states can
+do — **the biggest sector by money is the smallest by what anybody can
+actually do about it.** Size is not leverage.
+
+### The one thing that might work
+
+There is a new arrangement worth watching.
+
+Under the Petroleum Industry Act, **155 Host Community Development Trusts**
+have been set up — money going to the communities where oil is taken, with
+spending rules written into the law itself: **75% on projects, 20% invested,
+5% on administration.**
+
+Notice what that is. A rule an outsider can check, in a statute, delivering
+without passing through a state government.
+
+That is precisely what the NDDC never had.
+
+**Whether it works is unknown**, and it is the most important thing to watch
+in this sector. **The test:** if trust money starts getting abandoned the way
+NDDC money did, then spending rules alone are not enough without somebody
+independent verifying delivery — and this sector needs Chapter 9a's fix, not
+better allocation.
+
+### What a governor in an oil state could still do
+
+Publish the receipts, line by line. What came in, what it bought. **No oil
+state does this.**
+
+Fund the community trusts, as host communities have asked, and buy the
+spending discipline you have not built.
+
+Finish what is abandoned before awarding anything new.
+
+**And treat the money as temporary.** Any state whose plan depends on
+derivation past 2040 is planning on somebody else's weather. Chapter 10
+applies here more than anywhere: **build the tax state while the oil money is
+still coming.**
+
+---
+
+## Chapter 17b: If you can only start one thing
+
+A governor cannot do twelve chapters at once. Neither can a movement.
+
+So: which one first?
+
+That question has an answer, and it comes from noticing that these things are
+not separate.
+
+### The chain
+
+A health centre only works if it has **light and water.** So health sits on
+top of power and water — you can rebuild every clinic in a state and change
+nothing if the fridges are warm and the taps are dry.
+
+Schools need light too.
+
+Farming needs roads to move produce, and it needs safety before anything
+else.
+
+Property tax needs a **land register** — and the register is empty because of
+the fees, which is Chapter 14a.
+
+And underneath everything sits the thing from Chapter 9a: **can the
+government actually spend money and finish things?** If it cannot, every
+naira you add joins ₦332 billion sitting in an education account.
+
+### So the order looks like this
+
+**First, and it is not a sector at all: can you deliver?**
+
+Pay only after delivery is verified. Publish your completion rate. Do not
+award a new contract while an old one from the same office sits abandoned.
+
+Costs nothing. Decides whether everything below works.
+
+**Second: money and land, together.**
+
+The cheapest, fastest things, and they pay for everything else. Kill cash
+collection. Harmonise the taxes so a trader pays once. Cut the cost of
+registering a house to almost nothing so the register fills — and a full
+register is a permanent tax base.
+
+**Third: power, in one place.**
+
+It raises three ceilings at once. But sixteen states took power over
+electricity and could not run it, so do not announce it statewide. Prove it
+in one industrial cluster, with the regulator built *before* the licences go
+out.
+
+**Fourth: water billing, then health.**
+
+Water before health, because a clinic without water is a building. And fix
+billing before drilling, because a utility that cannot collect cannot
+maintain what it has.
+
+**Fifth: schools.**
+
+Not because it matters least — because it needs a working test first, and
+local governments that can actually receive money.
+
+**And running through all of it: who you hire, and in the north, security.**
+
+### Two things this warns against
+
+**Do not start with what photographs well.** Roads and buildings sit at the
+top of the chain and hold nothing up. A state that starts there gets ribbons
+and ₦5.71 trillion of unfinished projects rolled into next year.
+
+**Do not start with the biggest number.** Oil is the largest sector by money
+and the smallest by what a governor can do. Size is not leverage.
+
+### The honest caveat
+
+The links in that chain are documented. **The order we put them in is our
+argument, not a proven fact.** We changed it three times while writing this
+book — the first version left security out entirely, until the farmland
+figures showed it belongs near the bottom, not the top.
+
+If you run this sequence and it goes differently, that is worth more than our
+reasoning. **Tell us, and we will change it again.**
+
+---
+
+# PART FOUR — HOW TO CHECK ANYTHING
+
+*Everything so far is what we found. This part is how we found it — and how
+you can do the same thing to any claim, including ours.*
+
+*This is the part that makes you useful. Knowing our findings makes you
+informed. Knowing how to test a claim makes you dangerous to the people who
+depend on nobody testing theirs.*
+
+---
+
+## Chapter 18: How sure are you?
+
+Most Nigerian arguments have two settings: it is true, or it is a lie.
+
+Almost nothing is either. We use five settings, and once you have them you
+will find you cannot argue the old way again.
+
+**Certain.** Somebody independent, with nothing to gain, confirmed it. The
+government's own auditor. A civic organisation with no stake. A published
+survey.
+
+**Contested.** The underlying facts are real, but the *explanation* comes
+from somebody with an interest in the answer.
+
+**Confounded.** The result is real, but you cannot tell what caused it,
+because something else could explain it just as well.
+
+**Owed.** There is one specific fact that would settle this, and nobody has
+gone to get it.
+
+**Rejected.** We checked. It is false. We write it down and leave it written
+down.
+
+### Why this changes arguments
+
+Take a governor's claim that his reform doubled revenue.
+
+The old argument: *he is lying* / *no he isn't.* Nobody moves.
+
+The new argument: **the revenue figure is Certain — it is in the national
+statistics.** But **why** it doubled is Contested, because the only people
+explaining it work for him. And **whether his reform caused it is
+Confounded**, because prices also doubled in the same period.
+
+You have not called anybody a liar. You have made the conversation
+impossible to win with noise.
+
+---
+
+## Chapter 19: Six ways to be wrong
+
+Each of these caught us. That is why they are in the book.
+
+### 1. The famous case is usually the confounded one
+
+We started with Lagos. Of course we did — everyone does.
+
+Then we noticed Lagos has a seaport, the corporate headquarters, and about a
+third of Nigeria's economy. **You cannot tell how much of its revenue came
+from good management and how much came from being Lagos.**
+
+Then it happened again. Vietnam is the world's favourite poor-country
+education story. When researchers took it apart, **at most 30% of its
+performance could be explained by anything schools or policy did** — and most
+of that was what families did at home.
+
+**The rule: fame follows results, not causes.** So the most-cited case in any
+field is the one most likely to be confounded. Look for the boring case
+nobody writes about.
+
+### 2. A big number can hide the opposite of what you think
+
+We recorded that Enugu's revenue grew almost five times and filed it as
+"better tax collection."
+
+Then we broke the number apart. Most of the growth was **not tax at all** —
+it was recovering assets the state already owned. A completely different
+thing from what we had written.
+
+**The rule: never accept a total. Ask what it is made of.** "Revenue went up"
+is not a finding until you know which revenue.
+
+### 3. In a year when prices double, every number lies
+
+We praised Osun for growing its revenue 162%.
+
+Then we removed inflation. Nigerian prices roughly doubled over the same
+period. **In real terms, Osun's revenue was roughly flat.** The naira figure
+had grown. The money had not.
+
+We withdrew the claim ourselves.
+
+**The rule: in a high-inflation country, a naira figure is partly a statement
+about the naira.** Ask what it is worth, not what it says.
+
+### 4. The person explaining the number usually has a stake
+
+Osun again. The revenue figures came from the national statistics office —
+trustworthy. But every explanation of *why* they rose came from people
+working for the governor, in an election period.
+
+We held it as Contested for a long time, and eventually an independent
+organisation confirmed the same explanation. **Waiting cost us nothing and
+we were eventually proved right.**
+
+**The rule: separate the number from the story about the number.** They
+usually come from different people with different interests.
+
+### 5. Copying a policy without its conditions
+
+Georgia's police reform is famous. Kyrgyzstan copied it — same policy, same
+design.
+
+It failed. Because Georgia's version quietly required things Kyrgyzstan did
+not have: a government strong enough to dismiss thousands at once, and money
+to raise the pay of everyone remaining.
+
+**The rule: ask what the success needed *before* it could work.** That part
+is never in the policy document.
+
+### 6. Improvement in the numbers is not improvement
+
+Perception surveys said the south-west felt safer after Amotekun was
+established. Actual recorded deaths in the region rose faster than the
+national average over the same years.
+
+Both are real. They measure different things. And neither settles it, because
+the whole country got more dangerous at once — so you cannot tell what
+Amotekun changed without a comparison.
+
+**The rule: feeling safer is not being safer, and before-and-after proves
+nothing when everything is moving.** You need something to compare against.
+
+---
+
+## Chapter 20: Three questions that break most claims
+
+You do not need our whole method. You need three questions.
+
+### 1. Who is counting?
+
+Who produced this number, and do they work for the person it makes look good?
+
+If a state agency reports its own performance, you do not have a fact. You
+have a claim.
+
+### 2. Would this survive the next government?
+
+Is it written into law? Does it have its own money? Is there anybody outside
+government who would shout if it stopped?
+
+If all three answers are no, you are looking at something that ends the day
+its champion leaves — no matter how good it is today.
+
+### 3. What would prove this wrong?
+
+Ask anybody making a claim: **what would change your mind?**
+
+If they cannot answer, they are not making an argument. They are expressing a
+loyalty.
+
+**And that question applies to us.** Every chapter of this book names what
+would prove it wrong. If we ever stop doing that, stop reading us.
+
+---
+
+## Chapter 21: How to check your own state this week
+
+Nothing here needs permission, money, or courage.
+
+**What your state collects itself, and what Abuja sends it.** The National
+Bureau of Statistics and BudgIT publish this. If the second number is much
+bigger than the first, your government does not need you — Chapter 5.
+
+**Your state's transparency score.** BudgIT ranks all 36. Only nine score full
+marks. Where is yours?
+
+**Whether last year's audited accounts are published.** Not the budget —
+budgets are the government's own account of itself. The **audited** accounts
+are the version an outsider checked. Many states have not published theirs,
+including Enugu, our best revenue story.
+
+**Whether your state has an open contracts portal**, and whether the projects
+on it exist. This is what Tracka does with a camera. You can do it with a
+phone.
+
+**How many primary health centres in your state meet the full definition** —
+open 24 hours, four skilled birth attendants, power, water. Nobody publishes
+this. **Asking for it is itself a useful act.**
+
+### Then publish what you found
+
+A post. A voice note. A message in your family group.
+
+**There is now one more number in the world that somebody has to live with.**
+
+You did not need an office. You did not need a party. You needed an afternoon.
+
+---
+
+# PART FIVE — WHO DOES IT
+
+## Chapter 22: Why not just join a party?
 
 You have read seventeen chapters. Everything in them has been done
 somewhere, most of it in Nigeria, and none of it needs a miracle.
@@ -2139,7 +2639,7 @@ Every time, the movement was **only as strong as one man's reputation.**
 We have spent this whole book saying that a good thing which lives in one
 man dies with him. **It would be absurd to then build exactly that.**
 
-## Chapter 19: A platform you have to qualify for
+## Chapter 23: A platform you have to qualify for
 
 So this is built the other way round. **Evidence first, then organisation.**
 
@@ -2215,7 +2715,7 @@ Passing an exam proves you understand the programme. **It does not prove you
 can govern**, and confusing those two is the exact error Chapter 11 warns
 about.
 
-## Chapter 20: The promises we make before we have power
+## Chapter 24: The promises we make before we have power
 
 Every Nigerian political formation makes promises. We make four, and they
 are unusual because **they are all promises to be checked rather than
@@ -2266,9 +2766,9 @@ criticises them.
 
 ---
 
-# PART FIVE — WHAT YOU DO ON MONDAY
+# PART SIX — WHAT YOU DO ON MONDAY
 
-## Chapter 21: Four things
+## Chapter 25: Four things
 
 You have finished the book. Here is what to do with it. All four are small.
 One you can do today.
@@ -2340,7 +2840,7 @@ Not required to support the platform. Required to speak in its name.
 The syllabus is public and free. Everything on it is in this book and in the
 evidence behind it.
 
-## Chapter 22: The last thing
+## Chapter 26: The last thing
 
 We started this book with Mama Ngozi paying four people for one stall in
 Aba.
