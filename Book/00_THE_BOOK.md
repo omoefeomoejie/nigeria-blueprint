@@ -669,8 +669,14 @@ in **2021**. Independent research by Social Action, a Nigerian civic group,
 found that **NDDC staff themselves were taking the larger share of the money
 meant for contractors**, who then walked away from the jobs.
 
-More than **₦10 trillion** has passed through the 13% derivation to
-oil-producing states, and those communities remain poor.
+Some background, because the phrase gets used without explanation. Under the
+Constitution, **13 out of every 100 naira** the country earns from oil goes
+straight back to the states the oil came from, before the rest is shared.
+That is "derivation," and it is meant to compensate the communities whose
+land and water the oil is taken from.
+
+More than **₦10 trillion** has gone down that pipe. Those communities remain
+poor.
 
 One more detail, because it says everything: **that forensic audit report has
 still never been published.** In 2025 a serving minister said it was
@@ -930,8 +936,21 @@ The way out is to build things that do not need you:
 
 **Give it its own money**, so nobody can starve it quietly.
 
-**Give it somebody outside who benefits and will shout** — parents, traders,
-a civic organisation, journalists.
+**Give somebody outside a reason to care whether it continues.**
+
+Right now, in most Nigerian systems, looking away pays and looking closely
+costs. The contractor who says nothing gets the next job. The civil servant
+who queries a payment becomes difficult. Nobody is paid to notice, so nobody
+notices.
+
+So flip it. Find the people who lose something real when the thing stops —
+parents whose children sit the test, traders who benefit from one tax
+schedule instead of four, a civic organisation whose reputation is built on
+tracking it, journalists who get a story out of the numbers. Then give them
+the numbers, on a fixed date, whether the numbers are good or bad.
+
+**You are not asking anybody to be brave. You are making it worth somebody's
+while to look.**
 
 **Publish its numbers**, so that when it stops working, the number goes red
 where everyone can see.
@@ -996,20 +1015,30 @@ allies.
 
 ### Job two: plan the money
 
-Most Nigerian state budgets are mostly salaries and overhead — the cost of
-having a government, before the government does anything.
+Every state budget splits into two piles.
 
-Enugu flipped it. Capital spending went from under ₦30 billion historically
-to **₦414.3 billion — 79% of the 2024 budget** — and ₦837.9 billion, or 86%,
-in 2025.
+**Recurrent** is the cost of having a government at all — salaries,
+allowances, fuel, travel, electricity bills, vehicles, running the offices.
+It buys nothing you can point at. It is what you pay before anything
+happens.
 
-And it is not a small shift. Across all 36 states in 2024, spending on
-overheads — travel, vehicles, running the offices — grew by **62.66%**, while
-spending on salaries grew by 23%. That was the same year states celebrated
-record revenue.
+**Capital** is the roads, the classrooms, the boreholes, the clinics. The
+things still standing in ten years.
 
-**The money came in and the office got more comfortable.** Enugu is
-noticeable precisely because it went the other way.
+In most Nigerian states, the first pile eats the second. And when revenue
+rises, the first pile usually rises fastest. Across all 36 states in 2024,
+spending on overheads grew by **62.66%** while salaries grew 23% — in the
+same year states celebrated record revenue.
+
+**The money came in, and the offices got more comfortable.**
+
+Enugu went the other way. It moved the balance until **79 naira in every
+hundred** of its 2024 budget was going to capital rather than recurrent, and
+86 in every hundred in 2025.
+
+That does not mean the money was spent well — Chapter 13 is about finding
+out whether it was. It means it was *pointed* at things that outlast the
+government. That is the first requirement, not the last.
 
 ### Job three: show the work
 
@@ -1032,9 +1061,14 @@ Fair question, because Enugu is not a poor state and Lagos certainly is not.
 Revenue Service **by law** — the Revenue Administration Law No. 6 of **2015**
 — not by a governor's announcement, but by an Act of the State Assembly.
 
-Then in **2019** the entire government changed. The "O to ge" wave swept out
-a political structure that had dominated the state for decades, and
-Abdulrahman Abdulrazaq took office from a different party.
+Then in **2019** the entire government changed. *"O to ge"* — Yoruba for
+"enough is enough" — was the slogan of a movement that swept out a political
+structure which had run Kwara for decades. Abdulrahman Abdulrazaq took office
+from a different party, owing nothing to the people who built the revenue
+service.
+
+He could have scrapped it. Everything in Nigerian political habit says he
+should have.
 
 **The revenue service survived.** The new government kept it and improved
 it. Kwara's own revenue grew **262% between 2020 and 2024** — about 40 to 50%
@@ -1097,10 +1131,15 @@ Ekiti have run theirs through university and polytechnic centres. You do not nee
 
 ### Fix three: pay properly, or the test is theatre
 
-When the country of Georgia rebuilt its police after 2004, it did two things
-together. It dismissed about **16,000 traffic police in a single day** —
-leaving the country with no traffic police for a month — and rebuilt from
-scratch with 2,400 new patrol officers by August 2004. It removed the
+Georgia is a small country on the edge of Europe that came out of the Soviet
+Union in 1991 with a police force so corrupt that paying a bribe at a traffic
+stop was simply what happened. Seven in ten drivers reported it.
+
+In 2004, after a change of government, they did two things together.
+
+They dismissed about **16,000 traffic police in a single day.** The country
+had no traffic police at all for a month. Then they rebuilt from scratch —
+2,400 new patrol officers by that August, recruited fresh. It removed the
 people who failed, and it **raised the pay of those who remained, by as much
 as fifteen times.**
 
@@ -1159,13 +1198,28 @@ community has that a federal force structurally does not.
 
 ### The part we must not hide
 
-The same researchers who documented the success also documented the abuses.
-Beatings. Detentions. Groups that grew into local power blocs answerable to
-nobody. One study calls them a "white devil" — effective and dangerous at
-once.
+The Civilian JTF grew. What began as young men with sticks and cutlasses
+defending their own streets became, in places, a standing force of thousands
+— with real authority and no law behind it.
 
-**Both things are true.** A book that told you only the first half would be
-lying to you, and would get people killed.
+Authority without law does what it always does.
+
+The same researchers who documented the CJTF pushing Boko Haram out of
+Maiduguri also documented its members beating people, detaining people, and
+settling private scores under cover of security work. Some units became local
+power blocs, able to decide who was a suspect, answerable to nobody who could
+be voted out.
+
+One academic study of them uses the phrase **"white devil"** — something that
+saved a city and hurt the people in it, at the same time.
+
+Both are true. Any Nigerian who has lived near an "operation" of any kind
+knows exactly how both can be true at once.
+
+This is why the design in this chapter says **unarmed by default**, **no
+power to arrest**, and **a complaints line published every month.** Those are
+not niceties. They are the difference between what saved Maiduguri and what
+happens when the war ends and the young men still have the authority.
 
 ### So what should a state actually do?
 
@@ -1322,12 +1376,33 @@ unfairly.
 If tribe were an ancient inheritance, it would not move by twenty points in
 a year and a half. **It moves because it is a response to something.**
 
-People fall back on their tribe when the state fails them, exactly the way a
-person with no insurance falls back on family. And politicians reach for it
-when they are fighting over one central pot of money.
+People fall back on their tribe when the state fails them, the way a person
+with no insurance falls back on family.
 
-**Shrink the pot's importance and you shrink the weapon.** That is why
-Chapter 10 is also, quietly, a chapter about ethnic politics.
+And you do not need to accuse any politician of anything to see the second
+half. It is written into how Nigerian politics openly works.
+
+**Zoning.** Every major party arranges its presidential ticket North and
+South, and everybody discusses it in public as perfectly normal — whose
+"turn" it is. The argument is rarely about what the candidate would do. It is
+about where he is from.
+
+**Federal character.** The Constitution itself requires that appointments
+reflect the spread of states. The intention was fairness. The effect is that
+every appointment becomes a conversation about origin before it is a
+conversation about ability.
+
+**"It is our turn."** You have heard that sentence about a position. Notice
+what it assumes — that the office is a share of something being divided, not
+a job being filled.
+
+None of this requires a wicked politician. **It requires one central pot of
+money and a rule that the pot is shared by group.** After that, any rational
+person organises by group, because that is how the pot is shared.
+
+Which is why Chapter 10 is quietly a chapter about ethnicity. **Make states
+earn their own money and the pot shrinks — and so does the reason to fight
+over who gets a share of it.**
 
 ### The thing Nigeria already built that works
 
@@ -1364,9 +1439,34 @@ university. That is a small slice of any age group. Trade competitions,
 sports, technical service — anything that mixes people works, and mixing is
 the active ingredient.
 
-**And use the language we already share.** Pidgin belongs to no ethnic
-group. That is exactly why Tanzania's national language worked and
-Ethiopia's did not — theirs belonged to somebody, ours belongs to nobody.
+### The language nobody owns
+
+Tanzania has more than 120 ethnic groups and is one of the least ethnically
+divided countries in Africa. A large part of that was a language.
+**Kiswahili** was made the national language and the language of school.
+
+The important thing about Kiswahili is not that it is beautiful. It is that
+**it did not belong to the big, rich or powerful group.** Nobody was being
+asked to speak their rival's language. Everybody gave up a little.
+
+Ethiopia tried the same thing with Amharic — but Amharic *was* the language
+of the dominant group. Instead of unity it produced decades of resentment. In
+Congo, Mobutu tried it with Lingala, and everyone who did not speak Lingala
+heard it as one group being placed above them.
+
+**Nigeria already has the Tanzanian answer and did not plan it.**
+
+Pidgin belongs to no ethnic group. Nobody's grandfather owns it. A Kanuri man
+and an Urhobo woman speaking Pidgin are both slightly outside their own
+languages, and neither is submitting to the other.
+
+It is also, quietly, the language of the majority — spoken in markets, motor
+parks and on radio across the country, by people who never sat in a
+university.
+
+So a government that speaks to its citizens in Pidgin is not lowering itself.
+**It is choosing the one language in Nigeria that carries no claim of
+superiority** — and reaching the people English was designed to exclude.
 
 ### Religion — the honest limit
 
@@ -1392,16 +1492,24 @@ Meanwhile twenty million Nigerian children are not in school.
 
 The money exists. The children exist. **The state cannot connect them.**
 
-Why? Because to collect that federal money a state must put up matching
-money of its own and prepare proper project papers. States that cannot do
-the paperwork leave the money. And the states worst at paperwork are usually
+Why? Because of how the money works. UBEC does not simply send it. For every
+naira a state wants to collect, **it must put up a naira of its own** — and
+submit a proper plan showing what it will build. That is the "matching
+grant."
+
+So a state needs two things: cash it can commit, and officials able to
+prepare project papers that pass inspection. A state short of either simply
+leaves the money sitting there. And the states worst at paperwork are usually
 the states with the most children out of school.
 
 **So the money flows toward capacity, not toward need.**
 
 ### What actually raises learning
 
-Ceará is the **fifth-poorest of Brazil's 26 states.** Poor, unequal, rural — a fair
+Ceará is a state in the dry north-east of Brazil — **the fifth-poorest of
+Brazil's 26 states.** Rural, unequal, historically ignored by the richer
+south. If you are looking for a fair comparison to a Nigerian state, this is
+a much better one than Finland or Singapore. Poor, unequal, rural — a fair
 comparison for a Nigerian state.
 
 They did one thing. Brazil's constitution sends a quarter of a certain state
@@ -1470,9 +1578,17 @@ Senate and House results went up without trouble.
 was counted in front of you, and the collation centre where the number was
 announced, paper travels. In that gap, numbers can change.
 
-Only **31.8%** of polling unit results reached IReV — INEC's public viewing
-portal — within thirty-six hours of the **25 February 2023** presidential
-election. Collation centres in Lagos, Rivers, Kogi and several northern
+Two things were meant to protect the 2023 election. **BVAS** — a small
+machine at each polling unit that reads your fingerprint or face and confirms
+you are really you before you vote. And **IReV** — a public website where the
+result sheet from each polling unit was supposed to be photographed and
+uploaded immediately, so anybody with a phone could see what their own unit
+had recorded before the counting moved anywhere else.
+
+BVAS worked. IReV did not.
+
+Only **31.8%** of polling unit results reached IReV within thirty-six hours
+of the **25 February 2023** presidential election. Collation centres in Lagos, Rivers, Kogi and several northern
 states announced figures that differed from what the BVAS machines had
 recorded at the units. And in several states, the figures announced at
 collation did not match what the machines recorded at the units.
