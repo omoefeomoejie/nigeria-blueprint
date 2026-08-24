@@ -29,7 +29,7 @@ all of them.
 has failed for sixty years. Why blaming America feels good and changes
 nothing. Why money is not the problem.
 
-**Part Three — What actually works.** Eight things. Each one already done.
+**Part Three — What actually works.** Nine things. Each one already done.
 
 **Part Four — Who does it.** Not a great man. Not a party as you know it.
 
@@ -843,9 +843,10 @@ We could be wrong by a wide margin and the argument would not change,
 because we would have to be wrong by a factor of ten before this stopped
 being cheap.*
 
-*And land — Chapter 14's registry reform — is not in that total. It is
-cheaper still, because it is mostly a decision to stop charging people a
-third of their property's value to register it.*
+*And land is not in that total. It is cheaper still, because it is mostly a
+decision to stop charging people up to a third of their property's value to
+register it — a chapter this book still owes you, and one we name in the
+closing pages as unfinished.*
 
 ### So why has nobody done it?
 
@@ -1300,6 +1301,121 @@ and public financial management.
 
 That is the whole idea in one sentence: **not a rule that says publish, a
 payment that does not arrive if you don't.**
+
+---
+
+## Chapter 13a: Health — a building is not a clinic
+
+Go back to Chapter 2 for a moment, to the health centre with fresh paint and
+no water.
+
+There is an official definition of what makes a primary health centre
+actually work, and it is not complicated. It must be **open twenty-four
+hours.** It must have **at least four skilled birth attendants**, so a woman
+in labour at 2am meets somebody who knows what to do. It must have
+**electricity**, so the fridge holding vaccines keeps running. It must have
+**running water**, because you cannot deliver a baby without it. Plus a
+laboratory, and drugs on the shelf.
+
+Now hold that list against the buildings you know.
+
+### The promise, and the arithmetic
+
+In 2023 Nigeria promised **17,600 revitalised primary health centres in four
+years** — one for every ward in the country.
+
+By 20 September 2025, the agency's own dashboard listed **1,295** as
+revitalised.
+
+**That is 7.3% of the promise, at more than half the time.**
+
+And this was not the first time. A pledge in 2016–17 to revitalise **10,000**
+centres was never delivered before that government ended.
+
+### What "revitalised" is doing in that sentence
+
+Here is where it gets uncomfortable, and it is the same disease as everywhere
+else in this book.
+
+In Kaduna State, journalists visited centres that had been officially
+revitalised. At **Narayi**, they found something genuinely good — staffed,
+open around the clock, working.
+
+At others, the story was different enough that one of the reports was headed
+*"Fresh paint, old problems."* And at one renovated facility, **erosion was
+eating the building** while it stood on the list of completed projects.
+
+Both of those are on the same list. The list counts buildings touched. **It
+does not count clinics working.**
+
+So a state can hit its target and still have nowhere for a woman to deliver
+safely at 2am. Nobody has lied. The wrong thing was counted.
+
+### Now the good news, and it is real
+
+Remember from Chapter 2 who published the 7.3%.
+
+**The agency did.** NPHCDA put its own monitoring data online in August 2025.
+Nigeria Health Watch opened it, did the arithmetic, and published the
+embarrassing number.
+
+That is the whole idea of this book working in one sector, without anybody
+needing courage. Somebody published. Somebody outside counted.
+
+**Primary health is further along than money is.** In this one area, Nigeria
+already has the machine the rest of the book is asking for.
+
+### And there is money already set aside
+
+Most chapters in this book have to argue for a budget. This one does not.
+
+By law, **not less than 1% of the Consolidated Revenue Fund** — the federal
+government's main pot — goes to the Basic Health Care Provision Fund, money
+meant specifically for primary health care. There are proposals to raise it
+to 2%.
+
+That is a flow written into an Act, not into a governor's speech. It is
+exactly the arrangement Chapter 9 says makes things survive.
+
+**So the constraint here is not law and not money. It is that resources do
+not reliably arrive at the frontline**, and that the wrong thing is being
+counted when they do.
+
+### What a governor could do in eighteen months
+
+**One: audit function, not fabric.** Take the national list of "revitalised"
+centres in your state and check each one against the definition — 24 hours,
+four skilled birth attendants, power, water, drugs. **Publish the pass
+rate.** No state has ever published that number.
+
+**Two: staff and power before paint.** A staffed, powered, watered old
+building beats a painted empty new one. This reverses how it is normally
+done, and it is the whole argument.
+
+**Three: follow the money to the clinic, not to the local government.** A
+tool for tracking this already exists and has been piloted in Rivers, Ekiti,
+Gombe and Kaduna. Use it rather than building another.
+
+**Four: put maintenance in the budget as its own line, published.** The
+erosion eating that renovated building was in nobody's budget. It will
+happen again.
+
+**Five: publish, every quarter, how many centres in your state meet the full
+definition** — as a share of your wards.
+
+**And the test that decides whether this worked.** If in eighteen months the
+number of *renovated* centres has gone up but the number *meeting the
+definition* has not, stop building and move the entire budget to staff,
+power and water. Say so publicly, with the numbers.
+
+### What we do not know
+
+Whether any of this reduces deaths. Nigeria does not publish that connection
+anywhere, and neither can we. **We can tell you how many buildings meet a
+standard. Nobody in this country can yet tell you how many mothers lived
+because of it.**
+
+That gap is not a detail. It is the next thing somebody should build.
 
 ---
 
