@@ -1,143 +1,138 @@
-<!-- PLATFORM | The legal route to existing | Draft v0.1 | Status: DRAFT -->
+# Becoming A Party
 
-# How This Becomes Real, Legally
-
-*A platform that intends to contest for power has to exist in law. This is
-what that actually requires, and where the traps are.*
+*What it actually takes to exist in law, and why we should not rush.*
 
 ---
 
-## The two-stage reality
+## Two stages, and only one has a gatekeeper
 
-**Stage 1 — an association.** No registration needed to publish, examine
-members, run chapters, or campaign on ideas. This is where the platform
-lives for as long as it takes to build the membership base.
+**Stage one: an association.** No registration needed to publish, examine
+members, run chapters in states, or argue for anything. This is where we
+live while the membership is built.
 
-**Stage 2 — a registered political party**, if and when contesting elections
-is the goal. This is heavily regulated and the requirements are demanding.
+**Stage two: a registered political party**, if and when contesting elections
+is the point.
 
-**The strategic point: stage 1 has no gatekeeper and stage 2 does.** Do
-everything possible in stage 1 first, because nobody can refuse you
-permission to be right.
+**The whole strategy is in that difference.** In stage one, nobody can refuse
+you permission to be right. In stage two, somebody can refuse you
+permission to be on a ballot.
+
+So do everything possible in stage one first.
 
 ---
 
-## What registration requires
+## What registration actually requires
 
-**Constitutional (s.222):**
-- Name, symbol and logo must **not reflect ethnic, religious or sectional
-  identity**
-- Headquarters **in the Federal Capital Territory**
-- Registered constitution and manifesto lodged with INEC
-- National officers reflecting **federal character** — spread across at
-  least two-thirds of the states
+**From the Constitution (Section 222):**
 
-**Statutory and administrative:**
-- **Offices in at least 24 states plus the FCT** — verified physically by
-  INEC, which inspects to confirm the office exists and is functional
-- Registration application **not later than 12 months before a general
-  election** (s.75)
+- The name, symbol and logo must **not reflect any ethnic, religious or
+  sectional identity**
+- Headquarters **in Abuja**
+- A constitution and manifesto lodged with INEC
+- National officers spread across **at least two-thirds of the states**
+
+**From the Electoral Act and INEC's rules:**
+
+- **Offices in at least 24 states plus the FCT** — and INEC physically visits
+  to confirm each office exists and functions
+- Application **at least 12 months before a general election**
 - Registration fees
-- Post-registration: audited financial statements, democratic primaries,
-  internal dispute mechanisms, compliance with INEC guidelines, and
-  exposure to **deregistration** for non-compliance
-
-[All Certified — 1999 Constitution s.222; Electoral Act 2022 ss.75, 78;
-INEC Regulations and Guidelines for Political Parties 2022]
-
-**A change that matters, and it cuts against us.** Under the Electoral Act
-2022, if INEC failed to approve or refuse within the statutory window, an
-association was **deemed registered automatically** — a safeguard against
-regulatory inaction being used as an indirect veto. **The Electoral Act 2026
-removes that clause.** Registration is now express approval only. Refusal
-can be challenged at the Federal High Court **within 14 days** (s.76), and
-that judicial route has become correspondingly more important.
-
-**And the base rate is brutal.** In September 2025, **of 171 applicant
-associations, 14 met the preliminary requirements**. The other 157 were
-disqualified, mostly for incomplete documentation or inadequate national
-spread [Certified — INEC].
-
-**Read that number honestly: 8% cleared the first hurdle.** Anyone who tells
-you party registration is a formality has not looked.
+- Then, forever after: audited accounts, proper primaries, internal dispute
+  rules, and the risk of being deregistered for non-compliance
 
 ---
 
-## What this means for us, in plain terms
+## The number you need to know
 
-**The 24-state requirement is the real barrier, and it is physical.** Not 24
-letterheads — 24 offices INEC can walk into. That is a logistics and money
-problem that no amount of correct analysis solves.
+In September 2025, INEC received applications from **171 associations**
+wanting to become political parties.
 
-**This is where our membership model becomes an asset rather than a
-constraint.** Most associations fail spread verification because they have
-paper structures with no real people. A platform whose members have each
-passed a published examination has something rarer: **verifiable members
-who can be produced, in person, in their own states.** The exam is slow, and
-slow members are exactly what INEC's physical verification demands.
+**Fourteen met the preliminary requirements.**
 
-**Federal character applies to us too.** National officers must span
-two-thirds of the states. Our exam is deliberately blind to state of origin
-— which means we must watch our pass-rate distribution by state closely, not
-to engineer it, but because a qualification concentrated in three states
-cannot staff a national executive. **Publishing pass rates by state is not
-just an integrity measure; it is our own early-warning system.**
+The other 157 failed — mostly on incomplete documents and inadequate national
+spread.
 
-**The name and symbol rule constrains us usefully.** No ethnic, religious or
-sectional identity in name, symbol or logo. Our doctrine already refuses
-those frames, so the legal requirement and the political commitment point
-the same way.
+**Eight per cent cleared the first hurdle.** Anybody who tells you party
+registration is a formality has not looked at it.
+
+And one protection has just been removed. Under the 2022 law, if INEC failed
+to decide within its own deadline, an association counted as registered
+automatically. **The 2026 law deletes that.** Approval must now be express,
+with fourteen days to challenge a refusal in court.
 
 ---
 
-## The honest sequencing question
+## Where our exam becomes an advantage
 
-**We should not rush to register**, for three reasons.
+The real barrier is not paperwork. It is **24 offices INEC can walk into**,
+with real people in them.
 
-**One:** registration starts a compliance clock — audited accounts,
-primaries, guidelines, deregistration exposure — and those obligations
-consume the energy of a young organisation.
+Most associations fail exactly there, because they have letterheads and
+phantom structures.
 
-**Two:** the 8% base rate says preparation matters more than speed. An
-application that fails wastes a year and signals weakness.
+**A movement whose members have each passed a published examination has
+something rarer: people who can be produced, in person, in their own
+states.**
 
-**Three, and most important:** everything that makes this platform different
-— the corpus, the exam, the mistakes file, the qualified membership — is
-built in stage 1, where nobody can stop us. **Registration converts a body
-of ideas into a regulated entity. Do it when the ideas are ready to be
+The exam is slow. Slow, verifiable members are precisely what physical
+inspection demands.
+
+**And federal character applies to us.** National officers must span
+two-thirds of the states. Our exam is deliberately blind to where anyone
+comes from — which is exactly why we must watch our pass rates by state
+carefully. Not to engineer them. Because a qualification that clusters in
+three states cannot staff a national executive.
+
+**Publishing pass rates by state is not only about honesty. It is our own
+early warning system.**
+
+---
+
+## The trap, named in advance
+
+There will come a moment — deadline approaching, threshold unmet — when the
+obvious thing is to fill 24 state offices quickly with whoever is available.
+
+**That is the moment this movement would become what it opposes.**
+
+State offices staffed by people who did not pass the exam would mean our
+actual structure no longer matches our stated standard, and everything we say
+about merit becomes noise.
+
+**So the rule, written now while it costs nothing:**
+
+> *No person represents this movement in any state who has not passed the
+> examination.*
+
+If that makes 24 states slower to reach, it is slower.
+
+---
+
+## Why not to rush
+
+**Registration starts a clock.** Audited accounts, primaries, guidelines,
+deregistration risk. Those obligations eat the energy of a young
+organisation.
+
+**The 8% rate says preparation beats speed.** A failed application costs a
+year and signals weakness.
+
+**And everything that makes us different is built in stage one** — the book,
+the exam, the mistakes file, the qualified members. Registration turns a body
+of ideas into a regulated entity. **Do it when the ideas are ready to be
 carried by people, not before.**
 
-**But do not wait passively either.** The 12-month pre-election deadline is
-a hard cutoff. If a general election is the target, the application clock
-runs backwards from it, and the 24-state build must start long before that.
-
----
-
-## The trap we should name
-
-A platform built on evidence and honesty will be tempted, at the point of
-registration, to do the ordinary Nigerian thing: assemble 24 nominal state
-offices quickly using whoever is available, because the requirement is
-physical and the deadline is real.
-
-**That is the moment this platform would most likely become what it opposes.**
-State offices staffed by whoever was willing, rather than by people who
-passed the exam, would mean the organisation's actual structure no longer
-matches its stated standard.
-
-**The rule, written now while it costs nothing:** *no person represents this
-platform in any state who has not passed the examination.* If that makes the
-24-state threshold slower to reach, it is slower.
+But do not drift either. The 12-month deadline before a general election is
+hard, and the 24-state build must start long before it.
 
 ---
 
 ## What we do not know
 
-- Whether INEC's physical verification would treat a qualification-based
-  membership model favourably, unfavourably, or with indifference.
-- What registration actually costs end to end, including 24 offices — no
-  Nigerian party publishes this, which is one more missing scorekeeper.
-- Whether an association can meaningfully contest ideas nationally for years
-  without registering, or whether the absence of ballot access eventually
-  drains it. **This is a genuine open question and we should not pretend to
-  have settled it.**
+- Whether INEC's inspectors would treat a qualification-based membership
+  favourably, unfavourably, or not care at all.
+- What registration costs end to end, including 24 offices. **No Nigerian
+  party publishes this** — one more thing nobody counts.
+- Whether an association can argue nationally for years without a ballot line
+  before it runs out of patience. **That is a real open question and we are
+  not going to pretend we have settled it.**

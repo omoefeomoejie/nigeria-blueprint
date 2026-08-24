@@ -1,150 +1,171 @@
-<!-- PLATFORM | Founding document | Draft v0.1 | Status: DRAFT -->
-
 # What This Is
 
-*Read this before you decide whether to sit the exam.*
+*Read this before you decide anything.*
 
 ---
 
-## The short version
+## We are not asking you to trust us
 
-We spent a long time asking one question: **what would actually work in
-Nigeria, and how would we know?**
+You have been asked to trust people before. It has not gone well.
 
-We did not start with a manifesto. We started with investigations — sixteen
-of them, across revenue, leadership selection, security, accountability, the
-Constitution, national identity, education, elections, agriculture, power,
-health, water, transport, land, oil, and the cost of government itself.
+So we are doing something different. Everything we found is published — the
+numbers, where they came from, how sure we are, and a list of every time we
+got something wrong.
 
-Every claim we make carries its evidence and its confidence level. Every
-time we were wrong, we wrote it down and left it there.
-
-**We are not asking you to trust us. We are showing you our working,
-including the parts that embarrassed us, and inviting you to break it.**
+**Go and check us. That is the whole invitation.**
 
 ---
 
 ## What we found
 
-Nigeria's problem is not that Nigerians are lazy, or cursed, or uniquely
-corrupt. It is that the state is **funded without its citizens** — thirty of
-thirty-six states get 71–92% of their money from oil shared in Abuja — so
-nothing in the arrangement makes serving you the way to keep power.
+We spent a long time on one question: **what actually works in Nigeria, and
+how would we know?**
 
-And there is a second finding, newer, that tells you what to do about it.
-We tested sixteen areas of government and asked one question in each: **who
-keeps the score?** Five failed, and in every one the same body did the work
-and reported on the work. Eleven passed, and in every one somebody outside
-was counting.
+Not what sounds good. What has already been done somewhere, by somebody, with
+numbers you can look up.
 
-**The map of Nigeria's failures is close to the map of its missing
-scorekeepers.**
+Sixteen investigations later, two things were wrong with this country, and
+everything else grew out of them.
 
-That is why a governor's commission can declare 375 of 376 council seats for
-his own party. It is why sixteen states took control of electricity in 2023
-and three years later nobody can say whether supply improved. It is why
-₦332 billion of education money sits undrawn while twenty million children
-are out of school, and nobody resigns.
+**One. Your government does not need you.**
+
+Thirty of Nigeria's thirty-six states get between 71 and 92 naira in every
+hundred from oil money shared in Abuja. Their money arrives whether or not
+you work, whether or not your children learn, whether or not your business
+survives.
+
+**Two. Nobody outside is counting whether they did anything.**
+
+We tested sixteen parts of government and asked one question about each: *who
+keeps the score?* Five failed — and in every one, the same people did the
+work and reported on the work.
+
+That is why one governor's own electoral commission gave his party 375 of 376
+council seats in Lagos in July 2025, and another gave a different party 332
+of 332 in Osun. Two opposite parties, same year, same result. Not wickedness.
+**A man marking his own exam.**
 
 ---
 
 ## What we are not
 
-**We are not here to fight anybody.** Blame builds nothing. We do not name
-enemies, we do not run on anger, and we do not insult leaders past or
-present. If you came for that, this is the wrong room.
+**We are not here to fight anybody.**
 
-**We are not claiming foreign powers are the reason.** We tested that too,
-and sized it honestly. External constraint is real in three places — debt
-structure, currency exposure, and the fact that Nigeria cannot yet fund its
-own auditors. But of every failure we documented, roughly two in twelve are
-externally driven. ₦332bn undrawn is Nigerian money in Nigerian accounts. A
-formula frozen since 1992 died on a Nigerian desk.
+We do not name enemies. Not opponents, not past leaders, not tribes, not
+religions. Anger recruits fastest and dies fastest, and in this country it
+also gets people hurt. When a governor does something right, we will say so
+even if we oppose him.
 
-Blaming outside powers has one specific effect we care about: **it supplies
-an explanation that requires no scorekeeper.** If hegemony explains the dead
-boreholes, nobody has to publish the functionality register. That alibi
-protects Nigerian officials, not foreign ones.
+**We are not blaming the West.**
 
-**We are not promising a great leader.** The whole design principle of this
-platform is the opposite. We ask of every proposal: *would this still work
-under a mediocre or hostile successor?* If the answer is no, it is not
-finished. We are not looking for a hero. We are building machines that
-survive bad people, because bad people will come.
+We tested that too, and sized it honestly. Outside pressure is real —
+Nigeria's debt service ate about 61 naira in every hundred the federal
+government expected to earn in 2025.
+
+But go through the failures one by one. ₦332 billion of education money
+sitting undrawn in Nigerian accounts while twenty million children are out of
+school. Over 12,000 of 13,377 Niger Delta projects abandoned *after payment*,
+with commission staff taking the contractors' share. A land registry charging
+a third of a house's value to write down who owns it.
+
+Nobody flew in for any of that.
+
+And blaming outsiders does one specific thing: **it gives an explanation that
+requires nobody to count anything.** If the borehole died because of
+hegemony, nobody has to publish which boreholes still work. That excuse does
+not protect America. It protects the man down the road.
+
+**We are not promising a great leader.**
+
+That is the opposite of our design. We ask one question of every proposal:
+*would this still work under a bad successor?* If no, it is not finished.
+
+Bad leaders will come. They always do, everywhere. We are building things
+that survive them.
 
 ---
 
 ## What we are
 
-**A platform with an entrance requirement.**
+**A movement you have to qualify for.**
 
-You cannot wake up one morning and speak for this. To become a member you
-sit an examination on what we found and why — published syllabus, published
-pass mark, external examiner, published pass rates. The same way an
-accountant or a lawyer qualifies.
+You cannot wake up one morning and speak in our name. To become a member, you
+sit an examination on what we found and why.
 
-Not because we think we are better than other Nigerians. Because a movement
-whose members cannot explain its own evidence becomes a crowd, and a crowd
-can be bought. **If you can defend our findings in an argument at a joint,
-you can defend them anywhere. If you cannot, you are not ready to speak for
-us — and we would rather tell you that than take your money.**
+Published syllabus. Published pass mark. Somebody outside marks the hardest
+part. Pass rates published, state by state. Free to sit, in English and
+Pidgin.
 
----
+**Not because we think we are better than other Nigerians.** Because a
+movement whose members cannot explain it becomes a crowd, and a crowd can be
+bought.
 
-## The four commitments
-
-These bind us, and you may hold us to them in public.
-
-**1. Every claim carries its status.** Certified, Contested, Confounded,
-Owed, or Rejected. Nothing is stated more confidently than the evidence
-allows.
-
-**2. The mistakes file stays public — permanently, and especially when it is
-inconvenient.** We were wrong about Lagos. We were wrong about what drove
-Enugu's revenue. We were wrong about Vietnam. We built a policy conclusion
-on a number that failed corroboration one week later. We told states to take
-every open constitutional door until sixteen states took one and could not
-operate it. All of it is written down, dated, and will not be removed when
-it becomes embarrassing.
-
-**3. Nobody is asked to believe anything they cannot check.** Every finding
-names its source. Every open question names the fact that would settle it.
-
-**4. We say what we do not know.** No Nigerian selection reform has ever
-been shown to improve services. No measured Nigerian leakage-reduction
-figure exists anywhere. We do not know whether enough people knowing the
-same thing actually moves a country — that is our bet, and we label it as a
-bet.
+If you can defend these findings in an argument at a joint, you can defend
+them anywhere. If you cannot, you are not ready to speak for us — and we
+would rather tell you that now than take your money.
 
 ---
 
-## What it would cost to do this
+## The four promises
 
-We costed all eight chapters. The four a state can start without asking
-Abuja for anything total roughly **₦1.1–4.1 billion** of capital — about
-0.3% of Lagos's annual revenue, 6% of Kaduna's, **less than a single
-flyover**.
+You may hold us to these in public.
 
-Money is not the constraint. The cheapest chapter in the book is the one
-that has failed five times since 2001, and it failed for political reasons
-every time.
+**One. Every claim says how sure we are.** Certain, contested, or unknown. We
+do not state things more confidently than the evidence allows.
+
+**Two. Our mistakes stay public forever — especially when they embarrass
+us.**
+
+We were wrong about Lagos as a model. We were wrong about what drove Enugu's
+revenue. We were wrong about Vietnam's schools. We built a recommendation on
+a number that fell apart a week later. We told states to take every open
+constitutional door until sixteen took one and could not use it.
+
+Sixteen entries, all dated, all public. Three of them correct our own earlier
+conclusions.
+
+**We adopted this rule now, before we have anything, precisely because we
+know we will not want it later.** If this movement ever quietly removes an
+entry, that act alone is reason enough to leave it.
+
+**Three. Nothing here asks you to believe what you cannot check.** Every
+number names its source in plain language.
+
+**Four. We say what we do not know.** No Nigerian state has ever shown that
+testing teachers made children learn better. Nobody publishes what a
+transparency system saved. And we do not know whether enough people
+understanding the same thing actually changes a country. **That last one is
+our bet, and we call it a bet.**
 
 ---
 
-## What we are asking of you
+## What this would cost the country
 
-**Carry one line.** Use it in a real argument this week.
+Four of the things in our book can be started by a governor without asking
+Abuja for anything. Together they cost roughly **₦1.1 to ₦4.1 billion.**
 
-**Check one number** about your own state — its revenue, its transparency
-score, its project completion rate — and publish what you find.
+Less than one flyover.
 
-**Sit the exam** if you want to speak for this.
+And the cheapest thing in the whole book — changing how Nigeria shares its
+money, which needs a lawyer, some meetings and a signature — has failed five
+times since 2001.
 
-**And find us wrong.** We keep a file of our own errors. If you put one in
-it, your name goes on the entry.
+**Money was never the problem.**
 
 ---
 
-*The full evidence base, including the document where we attack our own work
-and rank our weaknesses by how much damage they do, is public. Start with
-`FINDINGS.md` and `RED_TEAM.md`.*
+## What we ask of you
+
+**Carry one line** into a real argument this week.
+
+**Check one number** about your own state and publish what you find. You need
+nobody's permission.
+
+**Sit the exam** if you want to speak in our name.
+
+**And find us wrong.** When you do, your name goes on the correction.
+
+---
+
+*Start with [the book](../Book/00_THE_BOOK.md). An hour, and you will know
+more about how your state actually works than most people who work in it.*
