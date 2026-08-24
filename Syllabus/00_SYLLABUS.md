@@ -1,130 +1,116 @@
-<!-- PLATFORM | Examination syllabus | Draft v0.1 | Status: DRAFT — published in advance, as required by the standard -->
-
 # The Syllabus
 
-*Published in full, in advance. Anyone may study it without joining, paying,
-or telling us who they are. Everything examinable is in the public corpus.*
+*Published in advance. Free. Everything examinable is in
+[the book](../Book/00_THE_BOOK.md), and the chapter is named beside every
+item.*
 
 ---
 
-## Level 1 — The Findings
-*40 questions, multiple-choice and short answer. Pass mark 50%.*
+## The rule that governs this syllabus
 
-**1.1 The dependence problem.** What share of Nigerian states depend on
-federal allocation, and in what range. Why a government funded without its
-citizens has no structural reason to serve them.
-*Source: Part II; Node 1.*
+**If it is not in the book, it cannot be on the exam.**
 
-**1.2 The three jobs.** Block the leak, plan the money, show the work. Why
-the revenue source does not transfer and the three layers do. The named
-cases and what each proves.
-*Source: Chapter 1; Node 1.*
-
-**1.3 Absorption.** What it means that a state cannot use what it already
-holds. The three resources it fails across — authority, money,
-infrastructure. Why UBEC completes 78% and another agency 16%.
-*Source: Part II Layer 3; Absorption Playbook.*
-
-**1.4 Pay on verified output.** Why the difference between a 65% agency and
-a 16% agency is *when the money moves*, not who the people are.
-*Source: Absorption Playbook.*
-
-**1.5 The scorekeeper finding.** The sixteen-domain test. Which five domains
-failed and what they share. Why competitive federalism is a property of
-measurement rather than of devolution.
-*Source: Part II Layer 4b; SCOREKEEPER_TEST.md.*
-
-**1.6 Stock and flow.** The Kaduna paired case. Why one reform survived a
-handover and another died in the same state, same year.
-*Source: Rule 7; Nodes 2 and 4.*
-
-**1.7 What the Constitution blocks.** The four provisions. Which chapters are
-executable now without any amendment.
-*Source: CONSTITUTIONAL_AUDIT.md.*
-
-**1.8 What it costs.** Order of magnitude for the state-executable chapters,
-and why the expensive items are recurring rather than capital.
-*Source: COSTING.md.*
-
-**1.9 External constraint.** The three real channels. Why the largest
-external creditor and the most expensive debt are not what the common
-argument assumes. Why external blame supplies an explanation that requires
-no scorekeeper.
-*Source: Part II Layer 4c; Node 9.*
-
-**1.10 Identity.** Why ethnic identification here is switched on rather than
-inherited, and what the NYSC evidence shows.
-*Source: Node 6; Chapter 6.*
-
-## Level 2 — The Method
-*Structured written questions. Pass mark 50%.*
-
-**2.1 Evidence statuses.** Certified, Contested, Confounded, Owed, Rejected.
-Given a claim and a source, assign the status and justify it.
-
-**2.2 Why interested sources cannot certify.** The Osun case: real data,
-interested mechanism story, held Contested for eighteen versions until an
-independent source arrived.
-
-**2.3 Confounding.** Why Lagos was demoted from proof to illustration. Why
-Vietnam could not carry the education chapter. **The flagship-case trap:**
-why the most-cited case in any domain is the most likely to be confounded.
-
-**2.4 Decomposition before interpretation.** Why "IGR went up" is not a
-finding. The Enugu decomposition and what it overturned.
-
-**2.5 Deflation.** Why we retired Osun's growth claim with our own
-arithmetic, and why every nominal figure in a high-inflation economy is
-partly a claim about the currency.
-
-**2.6 Preconditions.** Why Kyrgyzstan copied Georgia's police reform and
-failed. What a mechanism needs that is not written in the policy.
-
-**2.7 Route-matching.** Why the electricity amendment passed and the revenue
-formula did not. Gate-holder and loss-type.
-
-**2.8 The organised loser.** Why reforms here are outwaited rather than
-defeated, and what that implies for design.
-
-**2.9 Attribution.** Why perception data cannot certify an outcome, and what
-a counterfactual contrast is. The Amotekun case.
-
-## Level 3 — The Defence
-*Written, externally marked. Pass mark 50%.*
-
-**3.1 Case study.** A real Nigerian policy claim, unseen. Assign its
-evidence status, identify whose interest the source serves, and name the
-single fact that would settle it.
-
-**3.2 Design question.** Given a proposed reform, apply the stock/flow test
-and the scorekeeper test. State what would have to exist for it to survive a
-hostile successor.
-
-**3.3 The adversarial question.** *State the strongest argument against this
-platform's central finding, and say what evidence would change your mind.*
-
-A candidate who cannot argue against us has not understood us. **This
-question cannot be passed by agreement.**
+No insider knowledge. No paid course. No document you have to be a member to
+read. You can study for all three levels with one free text and an afternoon
+a week.
 
 ---
 
-## What is deliberately NOT examined
+## LEVEL 1 — What we found
+*40 questions, multiple choice and short answer. Pass mark 50%.*
 
-- Loyalty. We do not test whether you like us.
-- Biography. Not your state, religion, party history, or family.
-- Opinion. There is no correct view here on any contested political question
-  outside our findings. You may pass this exam and disagree with us about
-  almost everything else.
+| # | You should be able to explain | Chapter |
+|---|---|---|
+| 1.1 | Why Mama Ngozi's money leaks, and why both she and the government are telling the truth | 1 |
+| 1.2 | What Enugu did in 2023, and why revenue rose without anybody's tax rising | 1, 11 |
+| 1.3 | Why four in ten boreholes die within two years, and what a "revitalised" clinic can still be missing | 2, 15 |
+| 1.4 | What happened to Kaduna's teacher test, and why the contracts portal survived when the test did not | 3, 12 |
+| 1.5 | The scorekeeper question: which five areas failed it, and what all five have in common | 4 |
+| 1.6 | The two facts that are wrong with Nigeria, and why two fixable facts beat one insult | 5 |
+| 1.7 | Why "we need a good leader" has failed for sixty-five years, and the difference between a gateman and a gate | 6 |
+| 1.8 | How much of Nigeria's failure is externally caused, and what the excuse protects | 7 |
+| 1.9 | What the four state-startable chapters cost, and why the cheapest chapter is the hardest | 8 |
+| 1.10 | Why good people burn out here, and why what they build cannot be inherited | 9 |
+| 1.11 | UBEC 78% against Niger Delta 16% — and why that kills both "it's culture" and "it's region" | 10 |
+| 1.12 | Pay on verified output: NDDC against REA, and the one sentence that follows | 10 |
+| 1.13 | The three jobs — block the leak, plan the money, show the work — and what recurrent and capital mean | 11 |
+| 1.14 | Why Kwara's revenue service survived a hostile handover | 11 |
+| 1.15 | The three fixes Kaduna's teacher test needed, and why pay is half the mechanism | 12 |
+| 1.16 | What the Civilian JTF proved, what it cost, and why the design says "an eye, not a gun" | 13 |
+| 1.17 | The four steps of openness, and which one Nigeria has never built | 14 |
+| 1.18 | What ProZorro is and what Nigeria cannot yet say about its own transparency | 14 |
+| 1.19 | The four constitutional provisions that block this book — and the missing word in Section 162(2) | 16 |
+| 1.20 | Why the electricity amendment passed while the money formula never has | 16 |
+| 1.21 | The $300bn frozen behind a registration desk, and why states tax the doorway instead of the room | 17 |
+| 1.22 | Why three quarters of Nigeria's water points are self-dug, and what the sector lost when people stopped waiting | 18 |
+| 1.23 | Why ethnic identification moves by twenty points, and what the NYSC evidence shows | 19 |
+| 1.24 | Why Kiswahili worked and Amharic did not — and what that means for Pidgin | 19 |
+| 1.25 | What Ceará did, and why mayors improved learning without spending more on schools | 20 |
+| 1.26 | Why ₦332bn of education money sits undrawn, and what a matching grant requires | 20 |
+| 1.27 | Why all 44 surveyed said demand outstrips supply, and what that says about subsidy | 21 |
+| 1.28 | Why extension reaches the farmers who need it least | 21 |
+| 1.29 | What actually failed in 2023's election, and why the courts punished nobody | 22 |
+| 1.30 | Why the demand is "upload before they leave the polling unit" | 22 |
+| 1.31 | Why the biggest money in Nigeria sits with the worst delivery | 23 |
+| 1.32 | The order to attack things in, and why not to start with what photographs well | 24 |
 
-**We test whether you know what we found and how we found it. Nothing else.**
+## LEVEL 2 — How we know
+*Structured written answers. Pass mark 50%.*
+
+| # | You should be able to do this | Chapter |
+|---|---|---|
+| 2.1 | Given a claim and its source, place it as Certain, Contested, Confounded, Owed or Rejected — and justify it | 25 |
+| 2.2 | Explain why the most famous case in any field is usually confounded, using Lagos and Vietnam | 26 |
+| 2.3 | Explain why a total must be broken apart before it means anything, using Enugu | 26 |
+| 2.4 | Explain why we withdrew Osun's growth claim ourselves, and what inflation does to any naira figure | 26 |
+| 2.5 | Separate a number from the story about the number, and say who benefits from each | 26 |
+| 2.6 | Explain why Kyrgyzstan's copy of Georgia's police reform failed | 26 |
+| 2.7 | Explain why perception data cannot settle an outcome, using Amotekun | 26 |
+| 2.8 | Apply the three questions — who is counting, would it survive the next government, what would prove it wrong | 27 |
+| 2.9 | Describe how you would audit your own state in an afternoon, and what each number would tell you | 28 |
+| 2.10 | Explain why this movement rejects the CCP model while keeping the exam | 30 |
+
+## LEVEL 3 — Can you defend it
+*Written, marked by an examiner from outside this movement. Pass mark 50%.*
+
+**3.1 — The unseen claim.** A real Nigerian policy claim you have not seen
+before. Place its confidence level, identify whose interest each source
+serves, and name the single fact that would settle it.
+
+**3.2 — The design question.** Given a proposed reform: would it survive the
+next government? Who keeps the score? What would have to exist for it to
+outlast the person who started it?
+
+**3.3 — The adversarial question.**
+
+> **State the strongest argument against this movement's central finding, and
+> say what evidence would change your mind.**
+
+**This question cannot be passed by agreeing with us.** Somebody who cannot
+argue against us has not understood us.
 
 ---
 
-## Study materials
+## What is deliberately not examined
 
-The entire corpus is public and free. `../Evidence/FINDINGS.md` covers most of Level 1.
-`../Evidence/RED_TEAM.md` and `../Evidence/MISTAKES.md` cover much of Level 2 and are the best
-preparation for Level 3, since they are where we argue against ourselves.
+**Loyalty.** We do not test whether you like us.
 
-**No paid course is required, and none will be endorsed.** The moment
+**Biography.** Not your state, religion, ethnic group, party history,
+schooling, or family.
+
+**Opinion.** There is no correct view here on any contested political
+question outside our findings. **You may pass this exam and disagree with us
+about almost everything else.**
+
+---
+
+## How to study
+
+Read [the book](../Book/00_THE_BOOK.md). That is Level 1 and most of Level 2.
+
+For Level 3, read the two documents where we argue against ourselves:
+[what we got wrong](../Evidence/MISTAKES.md) and
+[where we are weakest](../Evidence/RED_TEAM.md).
+
+**No paid course is required and none will ever be endorsed.** The moment
 passing requires buying something from us, the gate has become a business.

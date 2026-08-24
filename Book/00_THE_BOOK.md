@@ -1013,7 +1013,7 @@ We tell you who did it, what it cost, and where it went wrong.*
 
 ---
 
-## Chapter 9a: The difference between 78 and 16
+## Chapter 10: The difference between 78 and 16
 
 Two Nigerian federal agencies. Same country, same year, same procurement law,
 largely the same pool of contractors.
@@ -1049,7 +1049,7 @@ UBEC does a handful of things differently, and none of them is clever.
 **It bundles.** Rather than putting a classroom here and a toilet there, it
 fixes whole schools at once — classrooms, water, fence, furniture together.
 That way you cannot deliver half a school and call it done. (This is exactly
-what goes wrong in health, in Chapter 13a: paint without water.)
+what goes wrong in health, in Chapter 15: paint without water.)
 
 **It treats finishing as the number that matters**, and publishes it.
 
@@ -1120,7 +1120,7 @@ feel safe. That is a different problem and needs a different answer.
 
 ---
 
-## Chapter 10: Money — three jobs, in order
+## Chapter 11: Money — three jobs, in order
 
 Every state that has fixed its money did the same three things. Not the same
 policies — the same three jobs. In this order.
@@ -1225,7 +1225,7 @@ it collects — the harmonisation — but not for how much.
 
 ---
 
-## Chapter 11: People — test them before the seat, and let the law hold the test
+## Chapter 12: People — test them before the seat, and let the law hold the test
 
 Kaduna proved you can test and replace teachers at scale in Nigeria and
 survive the fight.
@@ -1303,7 +1303,7 @@ argument and never know if you won the point.
 
 ---
 
-## Chapter 12: Safety — the people who know the ground
+## Chapter 13: Safety — the people who know the ground
 
 In 2013, Boko Haram controlled parts of Maiduguri, the capital of Borno
 State. The Nigerian military's Joint Task Force, drawn from all over the
@@ -1382,7 +1382,7 @@ service.
 
 ---
 
-## Chapter 13: Openness — money you can follow
+## Chapter 14: Openness — money you can follow
 
 ### Why this is not about morality
 
@@ -1437,7 +1437,7 @@ payment that does not arrive if you don't.**
 
 ---
 
-## Chapter 13a: Health — a building is not a clinic
+## Chapter 15: Health — a building is not a clinic
 
 Go back to Chapter 2 for a moment, to the health centre with fresh paint and
 no water.
@@ -1552,7 +1552,7 @@ That gap is not a detail. It is the next thing somebody should build.
 
 ---
 
-## Chapter 14: The Constitution — which doors are already open
+## Chapter 16: The Constitution — which doors are already open
 
 Everybody says Nigeria needs a new constitution. Maybe. But before that
 argument, here is a fact almost nobody knows:
@@ -1611,7 +1611,7 @@ through it first.** A power you cannot use is worse than one you never took
 
 ---
 
-## Chapter 14a: The house you own and cannot use
+## Chapter 17: The house you own and cannot use
 
 You built your house. Almost certainly with your own money — **about 90 out
 of every 100 Nigerian houses are built from the owner's savings**, not from a
@@ -1720,7 +1720,7 @@ not going to pretend otherwise.
 
 ---
 
-## Chapter 14b: Three quarters of Nigeria's water
+## Chapter 18: Three quarters of Nigeria's water
 
 Nigeria has about **2.31 million water points** — boreholes, wells, taps.
 
@@ -1800,7 +1800,7 @@ construction was never the constraint.
 
 ---
 
-## Chapter 15: One people
+## Chapter 19: One people
 
 ### Tribe is not the disease
 
@@ -1918,7 +1918,7 @@ religion.
 
 ---
 
-## Chapter 16: Schools — pay for learning, not for buildings
+## Chapter 20: Schools — pay for learning, not for buildings
 
 ### The number that reframes everything
 
@@ -2005,7 +2005,7 @@ state already sends. You are changing the condition, not the amount.
 
 ---
 
-## Chapter 16a: Fertiliser that never arrives
+## Chapter 21: Fertiliser that never arrives
 
 A farmer in Nigeria puts about **13 kilogrammes of fertiliser on a hectare of
 land.**
@@ -2118,7 +2118,7 @@ until somebody can walk to their farm.
 
 ---
 
-## Chapter 17: Counting the votes
+## Chapter 22: Counting the votes
 
 ### What actually failed in 2023
 
@@ -2220,7 +2220,7 @@ races.
 
 ---
 
-## Chapter 17a: The most money, the worst delivery
+## Chapter 23: The most money, the worst delivery
 
 We left this chapter until last on purpose, and the reason is the finding.
 
@@ -2298,7 +2298,7 @@ That is precisely what the NDDC never had.
 **Whether it works is unknown**, and it is the most important thing to watch
 in this sector. **The test:** if trust money starts getting abandoned the way
 NDDC money did, then spending rules alone are not enough without somebody
-independent verifying delivery — and this sector needs Chapter 9a's fix, not
+independent verifying delivery — and this sector needs Chapter 10's fix, not
 better allocation.
 
 ### What a governor in an oil state could still do
@@ -2318,7 +2318,7 @@ still coming.**
 
 ---
 
-## Chapter 17b: If you can only start one thing
+## Chapter 24: If you can only start one thing
 
 A governor cannot do twelve chapters at once. Neither can a movement.
 
@@ -2339,9 +2339,9 @@ Farming needs roads to move produce, and it needs safety before anything
 else.
 
 Property tax needs a **land register** — and the register is empty because of
-the fees, which is Chapter 14a.
+the fees, which is Chapter 17.
 
-And underneath everything sits the thing from Chapter 9a: **can the
+And underneath everything sits the thing from Chapter 10: **can the
 government actually spend money and finish things?** If it cannot, every
 naira you add joins ₦332 billion sitting in an education account.
 
@@ -2413,7 +2413,7 @@ depend on nobody testing theirs.*
 
 ---
 
-## Chapter 18: How sure are you?
+## Chapter 25: How sure are you?
 
 Most Nigerian arguments have two settings: it is true, or it is a lie.
 
@@ -2452,7 +2452,7 @@ impossible to win with noise.
 
 ---
 
-## Chapter 19: Six ways to be wrong
+## Chapter 26: Six ways to be wrong
 
 Each of these caught us. That is why they are in the book.
 
@@ -2538,7 +2538,7 @@ nothing when everything is moving.** You need something to compare against.
 
 ---
 
-## Chapter 20: Three questions that break most claims
+## Chapter 27: Three questions that break most claims
 
 You do not need our whole method. You need three questions.
 
@@ -2569,7 +2569,7 @@ would prove it wrong. If we ever stop doing that, stop reading us.
 
 ---
 
-## Chapter 21: How to check your own state this week
+## Chapter 28: How to check your own state this week
 
 Nothing here needs permission, money, or courage.
 
@@ -2605,7 +2605,7 @@ You did not need an office. You did not need a party. You needed an afternoon.
 
 # PART FIVE — WHO DOES IT
 
-## Chapter 22: Why not just join a party?
+## Chapter 29: Why not just join a party?
 
 You have read seventeen chapters. Everything in them has been done
 somewhere, most of it in Nigeria, and none of it needs a miracle.
@@ -2639,7 +2639,7 @@ Every time, the movement was **only as strong as one man's reputation.**
 We have spent this whole book saying that a good thing which lives in one
 man dies with him. **It would be absurd to then build exactly that.**
 
-## Chapter 23: A platform you have to qualify for
+## Chapter 30: A platform you have to qualify for
 
 So this is built the other way round. **Evidence first, then organisation.**
 
@@ -2715,7 +2715,7 @@ Passing an exam proves you understand the programme. **It does not prove you
 can govern**, and confusing those two is the exact error Chapter 11 warns
 about.
 
-## Chapter 24: The promises we make before we have power
+## Chapter 31: The promises we make before we have power
 
 Every Nigerian political formation makes promises. We make four, and they
 are unusual because **they are all promises to be checked rather than
@@ -2768,7 +2768,7 @@ criticises them.
 
 # PART SIX — WHAT YOU DO ON MONDAY
 
-## Chapter 25: Four things
+## Chapter 32: Four things
 
 You have finished the book. Here is what to do with it. All four are small.
 One you can do today.
@@ -2840,7 +2840,7 @@ Not required to support the platform. Required to speak in its name.
 The syllabus is public and free. Everything on it is in this book and in the
 evidence behind it.
 
-## Chapter 26: The last thing
+## Chapter 33: The last thing
 
 We started this book with Mama Ngozi paying four people for one stall in
 Aba.
