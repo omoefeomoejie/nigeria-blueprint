@@ -29,7 +29,7 @@ all of them.
 has failed for sixty years. Why blaming America feels good and changes
 nothing. Why money is not the problem.
 
-**Part Three — What actually works.** Nine things. Each one already done.
+**Part Three — What actually works.** Twelve things. Each one already done.
 
 **Part Four — Who does it.** Not a great man. Not a party as you know it.
 
@@ -883,6 +883,28 @@ Zero naira required. Failed five times.
 **If money were the problem, that chapter would have passed on the first
 try.**
 
+### While we are here: you are shouting at the wrong number
+
+Every Nigerian argument about the cost of government is about politicians'
+salaries. The allowances, the cars, the foreign trips.
+
+Those are real, and they are **3.41% of the federal budget.** The National
+Assembly, the Presidency and the entire Judiciary, added together.
+
+**Debt service is 28.52%.**
+
+Nearly one naira in every three, gone before a single road is built or a
+teacher is paid.
+
+Cut every politician's salary in Nigeria to zero — every senator, the
+President, every judge — and you would fund **about six weeks** of debt
+service.
+
+We are not defending anybody's allowance. We are pointing out that the
+country has spent twenty years shouting at 3% while 28% walked past
+unexamined, and that this is exactly what Chapter 4 predicted would happen
+when nobody is counting properly.
+
 So when a governor tells you there is no money, he may be telling the truth
 about his account and lying about the reason. **The money did not fail to
 exist. It failed to arrive, and then it failed to be counted, and nobody
@@ -984,6 +1006,113 @@ The difference between what you did and what lasts is not effort.
 
 *Eight things. Every one of them has been done. Most of them inside Nigeria.
 We tell you who did it, what it cost, and where it went wrong.*
+
+---
+
+## Chapter 9a: The difference between 78 and 16
+
+Two Nigerian federal agencies. Same country, same year, same procurement law,
+largely the same pool of contractors.
+
+**UBEC — the body that funds primary schools — finishes 78 out of every 100
+projects it starts.**
+
+**The Ministry of Niger Delta Affairs finishes 16.**
+
+Sixty-two points apart, inside one government.
+
+Sit with that, because it destroys the two explanations everybody reaches for.
+
+**It is not culture.** The culture is identical in both. Same country, same
+upbringing, same everything people mean when they say Nigerians cannot
+execute.
+
+**It is not region.** The widest gap in the country is not between north and
+south. It is between two offices in Abuja.
+
+So it is not Nigerians. **It is organisations.** Some can deliver and some
+cannot, and the difference is inside them — which means it can be found,
+copied, and demanded.
+
+### What the good one does
+
+The findings come from BudgIT's field arm, Tracka, which physically visits
+project sites with a camera. They inspected 2,760 federal projects across 30
+states.
+
+UBEC does a handful of things differently, and none of them is clever.
+
+**It bundles.** Rather than putting a classroom here and a toilet there, it
+fixes whole schools at once — classrooms, water, fence, furniture together.
+That way you cannot deliver half a school and call it done. (This is exactly
+what goes wrong in health, in Chapter 13a: paint without water.)
+
+**It treats finishing as the number that matters**, and publishes it.
+
+**It has a written plan that outlives the current officeholder.**
+
+**And it says its job is delivery, not disbursement.** An agency that thinks
+its work ends when the money leaves produces exactly what you would expect.
+
+### What the bad one does, and this is the important half
+
+The Niger Delta Development Commission — the body meant to develop the
+oil-producing states — was examined in a forensic audit covering 2001 to
+2019. The audit looked at **13,777 projects and 362 bank accounts.**
+
+**Over 12,000 of 13,377 projects had been abandoned after payment.**
+
+Not abandoned before payment. **After.**
+
+Independent research by Social Action, a Nigerian civic group, found how:
+**staff of the commission were taking the larger share of the money meant for
+contractors.** The contractors, left with a fraction, walked away from the
+work.
+
+And there is a smaller detail that tells you everything about who was
+watching. That forensic audit was submitted to the federal government in
+**2021. It has never been published.** In 2025 a serving minister said it was
+missing.
+
+### The fix, and it is one sentence
+
+Now compare a third agency. The Rural Electrification Agency finishes 65 out
+of 100 — not brilliant, but four times the Niger Delta figure.
+
+Its main funding windows work like this: **money is released only after
+somebody independent confirms that electricity actually reached a customer.**
+Not after the contract is signed. Not after mobilisation. After delivery,
+verified by a person who does not work for either side.
+
+Now put the two side by side.
+
+**NDDC paid on award. REA pays on delivery.**
+
+> **You cannot abandon a project after payment if the payment only arrives
+> after delivery.**
+
+That is the whole thing. It does not require honest officials. It does not
+require a new agency, a training programme, or a change in the national
+character. It removes the opportunity.
+
+If you take one sentence from this book into any argument about a contract,
+about a road, about a borehole, take that one.
+
+### The honest limits
+
+Two of them.
+
+**One.** Every Nigerian example of paying-after-delivery currently has a
+foreign body paying for the person who does the verifying. Nobody has yet
+shown a Nigerian government funding a verifier who is genuinely free to fail
+it. **That is the most direct sovereignty problem in this book**, and it is
+unsolved.
+
+**Two.** Paying on delivery fixes contractors abandoning work. It does not
+fix nobody turning up at all. In the electricity sector, the north-east and
+north-west received almost no new licensed capacity in eight years despite
+having the best sunlight in the country — because investors go where they
+feel safe. That is a different problem and needs a different answer.
 
 ---
 
@@ -1475,6 +1604,195 @@ states that took the job did not build anybody to check.
 So we corrected ourselves: **take the door, but build the ability to walk
 through it first.** A power you cannot use is worse than one you never took
 — because now the failure has your name on it.
+
+---
+
+## Chapter 14a: The house you own and cannot use
+
+You built your house. Almost certainly with your own money — **about 90 out
+of every 100 Nigerian houses are built from the owner's savings**, not from a
+mortgage, not from a scheme.
+
+Now try to use it.
+
+Take it to a bank as security for a loan to expand your business, and the
+bank will ask for your papers. Most Nigerians do not have them. **More than
+90% of land in Nigeria is unregistered.** In the national household survey,
+**71.4% of landlords hold no document at all.** Only 8.1% hold a Certificate
+of Occupancy.
+
+So the house exists. You own it in every way that matters to your neighbours.
+And to a bank, it is not there.
+
+### What that is worth
+
+The federal housing ministry has an estimate for the value locked up this
+way. **About $300 billion.**
+
+That is roughly **60% of everything Nigeria produces in a year**, sitting in
+buildings that cannot be borrowed against, sold cleanly, or inherited without
+a fight.
+
+Nigerians are not poor in the way the figures suggest. **Nigerians are rich
+in things they are not allowed to use.**
+
+### Why nobody registers
+
+Here is the part that should make you put the book down for a second.
+
+To register a property in Nigeria — governor's consent, stamp duties, the
+various fees — **can cost between 15 and 30% of what the property is worth.**
+And it can take months, sometimes years.
+
+Read that as the owner. You built the house. To make it legally yours in a
+way a bank recognises, the state wants up to a **third of its value.**
+
+So you do not register. Nobody sensible would. And your house stays a house
+instead of becoming capital.
+
+### The part that makes it absurd
+
+Every state government wants property tax. It is the most reliable revenue a
+state can have — it does not run away, it does not close down, it is there
+every year.
+
+**But you cannot tax property you have not recorded.**
+
+So the state charges a fortune to register, almost nobody registers, the
+register stays empty, and the state has no property tax base. It has taxed
+the doorway so heavily that nobody enters the room.
+
+Lagos is the exception that proves it. It enumerated **over 800,000
+properties** — and that register is precisely why Lagos can collect property
+tax at all.
+
+### And who actually holds the power here
+
+The Land Use Act, which sits inside the Constitution, vests all land in each
+state **in the Governor**, held in trust for the people.
+
+So the person with total legal authority over land administration in your
+state is the same person whose government says titling is slow and difficult.
+
+**There is no gate here except the one he is standing at.** No amendment
+needed. No National Assembly. A governor could cut first-registration fees to
+a token amount next quarter, by executive decision.
+
+### What that would look like
+
+**Cut the cost of first registration to near-nothing** for ordinary
+owner-occupied homes. Treat the register as a road — infrastructure that pays
+for itself later — not as a toll gate.
+
+**Publish a service standard**: how many days to a title, what it costs, how
+long the queue is. Update it monthly. No Nigerian state publishes this.
+
+**Go to people rather than waiting for them.** Register ward by ward,
+systematically, instead of waiting for applications from people who do not
+know the process exists.
+
+**Publish the register**, so a bank can check it and a tout cannot invent a
+claim.
+
+### Two warnings we will not leave out
+
+**Map the commons in the same exercise.** If you record only private plots,
+you erase grazing corridors, water points and seasonal routes that whole
+communities depend on. A badly designed titling programme does not just fail
+— **it can manufacture farmer-herder conflict.** Record the shared land at
+the same time as the private land.
+
+**Register women too.** Where registration defaults to "the head of the
+household," widows lose houses they spent thirty years in. Put both names on
+by default.
+
+### And one thing we have not investigated
+
+A Certificate of Occupancy is not the same as owning your land outright — it
+is closer to a long lease from the governor. Whether the Land Use Act itself
+should be changed is a real argument, and **we have not studied it.** We have
+studied what it costs to register. That is a narrower question, and we are
+not going to pretend otherwise.
+
+---
+
+## Chapter 14b: Three quarters of Nigeria's water
+
+Nigeria has about **2.31 million water points** — boreholes, wells, taps.
+
+**Three quarters of them were dug by the people who use them.**
+
+Not by government. Not by a ministry. By families, landlords, churches,
+mosques, private estates, and people who pooled money because waiting had
+become ridiculous.
+
+That single figure is this whole book, arriving at household level.
+
+### What it means when people stop waiting
+
+Public water utilities exist in most states. They produce water in 28 of
+them. They actually **function** — producing, supplying real customers, and
+collecting fees — in **16.**
+
+Meanwhile the average Nigerian gets about **9 litres of water a day**, against
+a national minimum standard of 12 to 16. One in three Nigerians drinks water
+that is not safe. And **46 million people — 23 out of every 100 Nigerians —
+still practise open defecation.**
+
+There was a national commitment to end open defecation by 2025. That year
+came and went.
+
+### Now the quiet consequence, and it is the important part
+
+Think about who drills a private borehole.
+
+Not the poorest household. The one that could afford it — the landlord, the
+small business, the family with somebody working. **The people whose
+complaints would have carried weight.**
+
+And once they have their own water, they stop complaining. Permanently.
+
+**The water sector did not lose its customers. It lost its advocates.**
+
+That is why water is politically invisible in Nigeria despite affecting
+absolutely everybody. The people with the loudest voices bought their way
+out, one borehole at a time, and everybody left waiting is somebody nobody in
+government has to answer to.
+
+You can see the same thing everywhere once you look for it. Generators.
+Private schools. Private clinics. Private security. **Every service where the
+comfortable can exit is a service that quietly rots**, because the exit
+removes exactly the people who could have forced a fix.
+
+### And the ones that were built keep dying
+
+Remember Chapter 2: **four out of every ten boreholes fail within two years.**
+
+Nobody budgets to maintain them. There is money for the ceremony and no money
+for the pump.
+
+### What a state could actually do
+
+**Publish which water points still work** — not how many were built. A
+register of *working*, updated yearly, ward by ward. Nigeria counts
+construction. Nobody counts function.
+
+**Fix billing before building.** A utility that collects fees can maintain
+what it has. One that cannot will lose the next 40% too.
+
+**Give every water point an owner** — a committee with a legal relationship
+to it, not a launch ceremony. This is the sector's own recommendation, and it
+is Chapter 9's rule wearing a different hat.
+
+**Put maintenance in the budget as its own published line.**
+
+**And go first to the places thick with private boreholes.** Not because they
+are the neediest — they are not. Because those are the people the sector
+lost, and they are the ones who can make noise when the service fails again.
+
+**The test:** if in eighteen months more water points have been built but the
+share that actually work has not risen, stop building. The evidence says
+construction was never the constraint.
 
 ---
 

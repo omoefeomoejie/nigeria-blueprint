@@ -122,8 +122,8 @@ question cannot be passed by agreement.**
 
 ## Study materials
 
-The entire corpus is public and free. `FINDINGS.md` covers most of Level 1.
-`RED_TEAM.md` and the mistakes file cover much of Level 2 and are the best
+The entire corpus is public and free. `../Evidence/FINDINGS.md` covers most of Level 1.
+`../Evidence/RED_TEAM.md` and `../Evidence/MISTAKES.md` cover much of Level 2 and are the best
 preparation for Level 3, since they are where we argue against ourselves.
 
 **No paid course is required, and none will be endorsed.** The moment

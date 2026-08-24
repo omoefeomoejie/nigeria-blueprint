@@ -1,186 +1,110 @@
-# How To Make Nigeria Great
+# How To Make A Nigeria Great
 
-**A blueprint for Nigeria's transformation — where every claim names its
-evidence, its confidence, and what would prove it wrong.**
+**A plan for Nigeria where every claim shows its evidence, its confidence,
+and what would prove it wrong.**
 
-Nigeria has heard many plans. What it has not been offered is the working:
-the sources, the mechanisms, the confidence levels, and the record of where
-the authors changed their minds. This repository is that working, in public.
+Nigeria has heard many plans. What it has never been offered is the working —
+the sources, the numbers, and the record of where the authors changed their
+minds.
 
-> *Don't believe us — check it. Everything is written, so anybody can test it.*
-
----
-
-## Read the book
-
-**[Book/00_THE_BOOK.md](Book/00_THE_BOOK.md)** — one text, beginning to end,
-in ordinary language. Mama Ngozi paying four different people for one stall.
-The borehole that died in eighteen months. The 21,780 teachers who could not
-pass a primary four test. Then the one question underneath all of it: *who is
-counting?*
-
-Everything else below is the evidence behind that book. A reader never needs
-to open it. A skeptic can open all of it.
-
-## Start here (the evidence)
-
-**If you have five minutes** → [The Doctrine](Blueprint/Doctrine_v0.1.md) —
-nine lines, English and Pidgin, each traceable to an investigation.
-
-**If you want the findings, not the structure** →
-[FINDINGS.md](FINDINGS.md) — everything this project established, ranked by
-what it changed, with what we got wrong and what we still do not know.
-
-**If you want the argument** → [Part I: What We Believe](Blueprint/Part_I_Doctrine.md)
-→ [Part II: The Diagnosis](Blueprint/Part_II_Diagnosis.md)
-→ [Part III: Vision 2050](Blueprint/Part_III_Vision_2050.md)
-
-**If you came to attack it** → start with [RED_TEAM.md](RED_TEAM.md), where
-we attack it ourselves and rank our own weaknesses by how much damage they
-do. Then open any chapter, follow a claim to the node that produced it, and
-check the source. Then read
-[Mistakes.md](Research%20Engine/Lessons%20Learned/Mistakes.md) — every
-reversal, permanently, including the ones that embarrassed us.
+> *Don't believe us. Check us.*
 
 ---
 
-## The platform
+## Start here
 
-The Blueprint is what we found. **[Platform/](Platform/)** is the
-organisation built to carry it — with an entrance examination on the
-evidence, governed like a professional institute rather than a party,
-because a movement whose members cannot explain its own findings becomes a
-crowd, and a crowd can be bought.
+### 📖 [The Book](Book/00_THE_BOOK.md)
 
-Start with **[what this is](Platform/00_WHAT_THIS_IS.md)**, then
-**[the membership standard](Platform/01_MEMBERSHIP_STANDARD.md)** and
-**[the syllabus](Platform/03_SYLLABUS.md)** — published in advance, free to
-study, no membership required.
+One text, beginning to end, in ordinary language. Mama Ngozi paying four
+different collectors for one stall in Aba. The borehole that died in eighteen
+months. The 21,780 teachers who could not pass a primary four test. Then the
+question underneath all of it: **who is counting?**
 
-## The two projects
+An hour to read. You need to know nothing before you start.
 
-| | What it is | Who reads it |
+---
+
+## The five parts of this project
+
+| | What it is | For |
 |---|---|---|
-| **[Blueprint/](Blueprint/)** | The book: doctrine, diagnosis, vision, seven chapters, the movement | Everyone |
-| **[Research Engine/](Research%20Engine/)** | The machine that certifies the book's claims are true | Anyone checking our work |
-
-The Blueprint is what we argue. The Research Engine is why you should
-believe any of it — or exactly where to aim if you shouldn't.
+| 📖 **[Book/](Book/)** | The argument, start to finish | Everyone |
+| 🤝 **[Movement/](Movement/)** | Why join, what we promise, how to join | Anyone considering it |
+| 📚 **[Syllabus/](Syllabus/)** | What a member must know | Anyone studying for the exam |
+| ✍️ **[Exams/](Exams/)** | The examination itself | Candidates |
+| 🔍 **[Evidence/](Evidence/)** | Everything a sceptic checks | Critics, researchers, journalists |
 
 ---
 
-## The chapters
+## If you came to attack it
 
-| Chapter | Question it answers | Node confidence |
-|---|---|---|
-| [1. Revenue](Blueprint/Chapter_01_Revenue.md) | How does a state live on its people's work instead of oil? | ~78% |
-| [2. Leadership](Blueprint/Chapter_02_Leadership.md) | How do competent people reach the seat — and stay? | ~60% |
-| [3. Security](Blueprint/Chapter_03_Security.md) | How do you make people safe under a federal police monopoly? | ~65% |
-| [4. Accountability](Blueprint/Chapter_04_Accountability.md) | How does money become traceable and theft expensive? | ~70% |
-| [5. Constitution](Blueprint/Chapter_05_Constitution.md) | Which constitutional doors are open, and in what order? | ~65% |
-| [6. Identity](Blueprint/Chapter_06_Identity.md) | How do Nigerians become Nigerians without ceasing to be themselves? | ~70% |
-| [7. Education](Blueprint/Chapter_07_Education.md) | How does a poor state actually raise learning? | ~72% |
-| [8. Elections](Blueprint/Chapter_08_Elections.md) | How does the vote counted at your unit survive the journey to the centre? | ~70% |
-| [Part V: Movement](Blueprint/Part_V_The_Movement.md) | Who carries this? | *Weakest part — says so* |
+Good. Start with the places we attack ourselves.
 
-**[What needs the Constitution changed](Blueprint/CONSTITUTIONAL_AUDIT.md)**
-— four chapters plus land administration are executable now; four provisions
-block the rest. Not "the Constitution," four provisions.
+**[Evidence/RED_TEAM.md](Evidence/RED_TEAM.md)** — where we rank our own
+weaknesses by how much damage they do if somebody else finds them first.
 
-**[What it costs](Blueprint/COSTING.md)** — all eight chapters priced. The
-four a governor can start alone total about ₦1.1bn–₦4.1bn, less than one
-flyover. The cheapest chapter is the hardest.
+**[Evidence/MISTAKES.md](Evidence/MISTAKES.md)** — sixteen entries. Every
+time we were wrong, dated and permanent. We were wrong about Lagos. We were
+wrong about what drove Enugu's revenue. We were wrong about Vietnam. We built
+a recommendation on a number that fell apart a week later. Three of those
+entries correct our own earlier conclusions.
 
-**[The Absorption Playbook](Blueprint/ABSORPTION_PLAYBOOK.md)** — one
-Nigerian agency completes 78% of its projects; another completes 16%. Same
-law, same contractors, same year. What the difference consists of, and a
-six-point checklist any government could impose tomorrow.
+**[Evidence/FINDINGS.md](Evidence/FINDINGS.md)** — everything established,
+ranked by what it changed, including what we still do not know.
 
-**The sector axis** — six ministries examined against the chapters:
-[what six sectors proved](Blueprint/Sectors/00_Synthesis.md). It added one
-finding to the diagnosis (the state often cannot absorb what it already
-holds), refined it (17 states abandon nothing; 5 hold 97.5% of abandoned
-projects), and corrected two of our own chapters.
+---
 
-Confidence figures are the honest confidence of the investigation behind
-each chapter, not marketing.
+## What we found, in short
+
+**Two things are wrong**, and everything else grows out of them.
+
+**Your government does not need you.** Thirty of thirty-six states get
+between 71 and 92 naira in every hundred from oil money shared in Abuja. A
+government funded whether or not you work has no reason to care whether you
+work.
+
+**And nobody outside is counting whether it did anything.** We tested sixteen
+areas of government and asked one question in each: who keeps the score? Five
+failed — and in every one, the same body did the work and reported on the
+work. Eleven passed, and in every one somebody outside was counting.
+
+**The map of Nigeria's failures looks a lot like the map of its missing
+scorekeepers.**
+
+Which makes the cheapest reform in this book one nobody has proposed: **where
+nobody is counting, start counting.**
+
+---
+
+## What it would cost
+
+The four chapters a governor can start without asking Abuja for anything come
+to roughly **₦1.1–4.1 billion** — less than one flyover.
+
+The cheapest chapter in the book is the hardest. It costs almost nothing and
+has failed five times since 2001.
+
+**Money was never the constraint.** [The full costing](Evidence/COSTING.md).
 
 ---
 
 ## The rules we hold ourselves to
 
-1. **Law Zero** — no rule enters the methodology without a named case that
-   paid for it.
-2. **Evidence Standard** — every claim is Certified, Contested, Confounded,
+1. **Every claim carries its status.** Certified, Contested, Confounded,
    Owed, or Rejected. Nothing is stated more confidently than its evidence
    allows.
-3. **Publication Rule** — a chapter ships only when no certified conclusion
-   rests on a contested premise and every open question names the fact that
-   would close it.
-4. **Not achieved — irreversible** — every proposal is claimed twice: what
-   persists by default (stock) and what dies at succession unless housed in
-   law with a constituency (flow).
-5. **Mistakes are permanent** — reversals are never deleted. We were wrong
-   about Lagos, wrong about what drove Enugu, wrong about Vietnam. It is
-   written down.
+2. **No rule enters our method without a real case that paid for it.**
+3. **A chapter ships only when** no certified conclusion rests on a contested
+   premise, and every open question names the fact that would close it.
+4. **Not achieved — irreversible.** Every proposal is claimed twice: what
+   survives by default, and what dies at the next handover unless it is
+   written into law with somebody outside who would shout.
+5. **Mistakes are permanent.** No entry is ever removed, softened, or made
+   private — least of all when it becomes inconvenient.
 
 ---
 
-## What we found (the short version)
+*Nine investigations. Twelve sector briefs. Sixteen recorded reversals.
+Everything public, everything checkable.*
 
-Nigeria's root problem is not corruption, not tribe, not oil. It is
-**misaligned incentives inside a low-capacity state** — a state funded
-without its citizens, staffed by quota, closed to their knowledge, opaque to
-their eyes, and constitutionally gated by the beneficiaries of all four.
-
-**And the newer finding, which tells you what to do about it:** we tested
-sixteen areas of government and asked who keeps the score. Five failed, and
-in every one the state did the thing *and* reported on the thing. Eleven
-passed, and in every one somebody outside was counting — BudgIT, NAERLS,
-Afrobarometer, a federal dashboard, a civic tracker with a camera.
-
-**The map of Nigeria's failures is close to the map of its missing
-scorekeepers.** Which makes the cheapest reform in this book one nobody has
-proposed: found a scorer where none exists. A civic body counting land
-titles issued would cost a fraction of one housing scheme and would make
-every claim in that sector checkable.
-
-And every one of those mechanisms has been beaten somewhere — four of them
-inside Nigeria:
-
-- An ordinary state escaped revenue dependence (Enugu); another built the
-  machinery by law and carried it through a hostile handover (Kwara).
-- Merit testing was executed at scale against a strike and a lawsuit
-  (Kaduna) — and died at succession, teaching us why housing matters.
-- Community knowledge beat an insurgency federal force alone could not
-  (Borno).
-- A Nigerian state holds a perfect independent transparency score (Kaduna).
-- Nigeria's own youth service scheme measurably reduces ethnic bias, with
-  effects lasting years — the strongest causal evidence in this book.
-
-Complex is not impossible. Nothing here waits for a hero.
-
----
-
-## What you can do on Monday
-
-1. **Carry one line** from the Doctrine into a real argument.
-2. **Check one number** about your own state — its IGR, its federal
-   dependence, its transparency score — and publish what you find.
-3. **Join one thing that mixes** you with people unlike you. It is the only
-   instruction in this book with causal proof behind it.
-4. **Adopt one chapter locally** — every chapter has a citizen-side handle,
-   not only a governor-side one.
-
----
-
-## Status
-
-Structure complete: Parts I–V, Chapters 1–7, seven investigations closed.
-Work continues on the owed items listed in each node decision, and on Hausa,
-Yoruba and Igbo renderings of the Doctrine.
-
-Releases are git tags (`v0.1` … `v0.14`). Every change is a commit; every
-rule cites the investigation that earned it.
-
-*Read. Apply. Grow.*
+**Read. Apply. Grow.**
