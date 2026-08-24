@@ -1,20 +1,42 @@
 # The Exams
 
-**Status: not yet built.**
+*Three levels. Published in advance. Free to sit.*
 
-The [syllabus](../Syllabus/00_SYLLABUS.md) describes three levels and the
-[membership standard](../Movement/02_HOW_TO_JOIN.md) sets out how the exam
-must be governed — published pass mark of 50%, fixed before anyone sits,
-external examiner paid whether candidates pass or fail, pass rates published
-by state, free to sit, English and Pidgin from the first diet.
+| File | What it is |
+|---|---|
+| **[LEVEL_1_QUESTION_BANK.md](LEVEL_1_QUESTION_BANK.md)** | 40 questions with answers, drawn from the 32 syllabus items |
+| **[LEVEL_2_PAPER.md](LEVEL_2_PAPER.md)** | Ten structured questions, answer any six |
+| **[LEVEL_3_SPECIMEN.md](LEVEL_3_SPECIMEN.md)** | Specimen paper with marking notes |
 
-**What does not exist yet:**
+## The rules
 
-- The Level 1 question bank
-- Level 2 structured questions
-- Level 3 case study and marking scheme
-- A named external examiner
-- A specimen paper
+**Pass mark 50% at every level.** Published, fixed before anyone sits, never
+adjusted after scripts are seen.
 
-This folder is deliberately empty rather than quietly missing. A movement
-that announces a standard and has no instrument has announced nothing.
+**Level 3 is marked by somebody outside this movement**, paid whether
+candidates pass or fail.
+
+**Pass rates are published every diet, by state.** If only 12% pass, that
+number goes up.
+
+**Free or near-free to sit**, in English and Pidgin from the first diet.
+
+**Nothing about your state, religion, ethnic group, party history, schooling
+or family appears anywhere in these papers.**
+
+## Why the question bank is public
+
+Because the point is that you *know this*, not that you guess it on the day.
+Questions are refreshed each diet; the syllabus never changes without notice.
+
+**If it is not in [the book](../Book/00_THE_BOOK.md), it cannot be on the
+exam.**
+
+## Still needed
+
+- A named external examiner (**the one thing that cannot be written; it must
+  be a person, and finding them is the founder's job**)
+- Oral examination protocol for Level 1, for candidates who cannot sit a
+  written paper
+- Hausa, Yoruba and Igbo papers, once native speakers have reviewed the
+  translations
