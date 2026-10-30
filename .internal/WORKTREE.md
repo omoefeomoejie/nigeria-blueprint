@@ -1,59 +1,167 @@
-<!-- WORKTREE | The live queue | Updated: 16 Aug 2026 -->
+<!-- WORKTREE | The live queue and the handover document | Updated: 30 Oct 2026 -->
 
 # Worktree
 
-Everything owed, ranked. Nothing here depends on anyone remembering it.
-Items move to **Done** with the commit that closed them; items are added
-when a node, brief, or session exposes them.
+This file is two things at once. It is the queue of everything owed, and it
+is the handover document a new session reads first. If you are a fresh
+session, read this file, then `.internal/AUDIT.md`, then the book.
 
 ---
 
-## From the red team (16 Aug 2026) — ranked by damage if found first
+## READ FIRST — the state of the repo on 30 Oct 2026
+
+**Repo:** `github.com/omoefeomoejie/nigeria-blueprint`, branch `main`.
+81 commits, 71 tracked files, latest tag `v0.23`.
+
+**Structure — five buckets, one front door.** `README.md` points at the book
+first. Everything else sits under one of five directories:
+
+| Bucket | What it is | State |
+|---|---|---|
+| `Book/` | `00_THE_BOOK.md` — 33 chapters, 6 parts, ~19,800 words | Complete first draft. Never read end to end by the founder. |
+| `Movement/` | Why join, how to join, what survives us, becoming a party, the nine lines, for a governor | Rewritten in the book's voice (commit 19edf0b) |
+| `Syllabus/` | `00_SYLLABUS.md` — 32 Level 1 items, 10 Level 2, 3 Level 3 tasks, each naming its chapter | Derived from the book, re-derived after renumbering (2df495c) |
+| `Exams/` | Level 1 question bank (40 Q with answers), Level 2 paper (10 structured, answer any 6), Level 3 specimen (3 tasks with marking notes) | Exist as of b7d8a4a. Never sat by anyone. |
+| `Evidence/` | 9 node investigations, 10 sector briefs, the method layer, findings, red team, mistakes, scorekeeper test, costing, constitutional audit, absorption playbook, the older Blueprint chapters | Stable. This is the load-bearing research. |
+
+**The chain that governs all of it:** the book is written from the evidence;
+the syllabus is derived from the book; the exams are derived from the
+syllabus. The rule, stated in the syllabus itself and non-negotiable:
+
+> **If it is not in the book, it cannot be on the exam.**
+
+That rule is why the book had to become complete. Part Four (how to check
+anything) was written specifically so Level 2 would be studiable.
+
+**Starting a fresh session:**
+
+1. The sandbox filesystem resets between sessions. The repo must be cloned
+   again each time, and **the GitHub token must be supplied again by the
+   founder** — do not expect to find it on disk. The token in use as of
+   this writing is a fine-grained PAT scoped to this one repo,
+   Contents read/write only, 90-day expiry from mid-Aug 2026. It has
+   appeared in chat history and **should be rotated at expiry rather than
+   renewed.**
+2. `git clone`, then read this file, then `.internal/AUDIT.md`.
+3. `Evidence/MISTAKES.md` before making any claim — it records every
+   reversal and why it happened. Mistake 9.1 is the one to internalise: *a
+   figure that makes the argument neat deserves more scrutiny, not less.*
+
+---
+
+## URGENT — `.internal/` is not internal
+
+**Verified 30 Oct 2026: the repository is public, `.internal/` is tracked in
+git, and an anonymous clone returns every file in it.**
+
+The directory was created on the premise that these files must not be
+public. That premise is currently false. Publicly readable right now:
+
+- `Translations_DRAFT.md` — the Hausa, Yoruba and Igbo doctrine lines,
+  marked unusable pending native-speaker review. The quarantine exists only
+  as a comment in the file. Anyone can read the lines and attribute them to
+  us.
+- `AUDIT.md` — our own assessment of where this work is weakest.
+- `WORKTREE.md` — this file, including item E below, which states in plain
+  words that the project's largest structural weakness is the absence of
+  human sources.
+- `Foundations_pre_evidence.md` — the pre-evidence framework material,
+  retained for provenance, superseded in substance.
+- `MANIFEST.md`, `VERSION_HISTORY.md` — harmless.
+
+Three honest options, for the founder to pick:
+
+1. **Accept it.** Publish the lot deliberately and stop calling it internal.
+   Defensible — a project whose doctrine is "no claim above its evidence"
+   can survive showing its own audit. The real exposure is the unreviewed
+   translations, not the self-criticism.
+2. **Remove the two files that matter** (`Translations_DRAFT.md`,
+   `AUDIT.md`) from the working tree and keep them off the repo. Cheap, and
+   stops future exposure — but **does not remove them from the 81 commits of
+   history already pushed.** Anyone who has cloned already has them.
+3. **Rewrite history** to purge them, force-push, and rotate the token.
+   Only worth it if the translations are judged genuinely damaging. Breaks
+   every existing clone.
+
+**Nothing should be added to `.internal/` on the assumption that it is
+private until this is decided.**
+
+---
+
+## FOUNDER ONLY — the two things I cannot do
+
+These have been sitting unassigned for weeks and a new session would not
+know they are yours. They are not research tasks. They need a human with a
+phone.
+
+1. **Find a named external examiner.** A person or body outside the
+   movement, paid whether candidates pass or fail. Without this, Level 3
+   fails our own scorekeeper test — and the scorekeeper test is the single
+   finding the whole project rests on. We rejected the CCP model on exactly
+   this ground: the CCP sets, marks and audits its own exam, which is the
+   same structure that produced 375 seats out of 376 in Lagos in July 2025.
+   If we mark our own exam we have reproduced the thing we are against.
+   Governance should come from the professional-institute model (ICAN and
+   similar), not the party model.
+2. **Get native speakers to check the Hausa, Yoruba and Igbo doctrine
+   lines.** Drafts are in `.internal/Translations_DRAFT.md`, all marked
+   unusable. One speaker per language. They are judging rhythm and whether
+   the line lands, not literal accuracy. Until this happens the lines cannot
+   be published in any form.
+
+A third, smaller, also yours: **decide whether sharing the podcast name
+("Hand of Nigeria") is right.** The risk is that the founder becomes the
+product, and a movement whose doctrine is "if it lives in one man, it dies
+with him" is embarrassed by that.
+
+---
+
+## The book — highest priority work
+
+| # | Item | Who |
+|---|---|---|
+| B5 | **Read the full book end to end.** It has never had one complete read. Mark anything that stops the reader. This is the highest-value hour available. | Founder |
+| B3 | **Pidgin edition, written fresh** — not translated from English | Founder + me |
+| B6 | **Second specificity pass.** The rule is: name the state, the date, the party, the agency. The book mostly obeys it now. Mostly is not a standard. | Me |
+
+## Offered, not yet accepted
+
+**A script system for short-form video.** The founder is camera-shy and
+currently uses Google Veo via YouTube Shorts plus CapCut. The proposal was a
+repeatable format drawn from the book's 33 chapters and the 40 Level 1
+questions, turning the channel into a recruitment funnel for the exam. Never
+accepted or declined. Still available.
+
+## From the red team — ranked by damage if found first
 
 | # | Item | Tier |
 |---|---|---|
-| A | ~~Scorekeeper test, nodes and sectors~~ — **DONE.** 16 domains tested, 5 failures. New finding: Nigeria's governance failures map onto its missing scorekeepers (no civic auditor for land registries, state electricity regulators, or facility-level water). | 1.3 |
-| A2 | **Found or fund an external scorer in an unscored domain** — cheapest high-leverage intervention the test surfaced; nobody has proposed it | new |
-| A3 | ~~Findings index~~ — **DONE**, `FINDINGS.md`, twelve findings ranked by what they changed | new |
-| B | ~~Real-terms restatement~~ — **DONE.** Osun's growth claim retired; Enugu halved to ~5.3× real; Kwara to ~40–50%. Oil finding strengthened. | 3.2 |
-| C | ~~Cost one pilot end to end~~ — **DONE** for Chapter 1: ₦250m–₦1bn capital plus one political fight; cost does not explain non-adoption. Chapters 2–8 still uncosted. | 3.4 |
-| C2 | ~~Cost the remaining chapters~~ — **DONE.** All eight in `COSTING.md`. Ch.7's annual assessment is the genuinely expensive one and the least confident figure; Ch.5 costs nothing and is hardest. New finding: no Nigerian state publishes what its reforms cost — another missing scorekeeper. | 3.4 |
+| A2 | **Found or fund an external scorer in an unscored domain** — cheapest high-leverage intervention the scorekeeper test surfaced; nobody has proposed it | new |
 | D | **Second civic auditor to triangulate BudgIT** — source concentration is real | 2.4 |
 | E | **Human sources** — the single largest structural weakness; not mine to do | 1.1 |
 
-See `RED_TEAM.md` for the full pass.
+See `Evidence/RED_TEAM.md` for the full pass. Items A, A3, B, C and C2 are
+closed and listed under Done.
 
-## The book — highest priority
-
-| # | Item | Who |
-|---|---|---|
-| B1 | ~~Judge Part One's register~~ — **approved by founder** | done |
-| B2 | ~~Draft Parts Two to Five~~ — **DONE. 22 chapters, complete draft.** | done |
-| B5 | **Read the full book end to end** — first complete read; mark anything that stops the reader | Founder |
-| B3 | **Pidgin version, written fresh** — not translated from English | Founder + me |
-| B4 | **Kill the jargon everywhere else** — "absorptive capacity," "stock/flow," "route-matching" are ours, not Nigeria's. The evidence layer can keep precise terms; nothing reader-facing can. | Me |
-
-## Platform work opened (16 Aug 2026)
+## Platform work still open
 
 | # | Item | Who |
 |---|---|---|
-| P1 | **Find an external examiner** — a person or body outside the platform, paid whether candidates pass or fail. Without this the exam fails our own scorekeeper test. | Founder |
-| P2 | **Write the Level 1 question bank** — 40 questions against the published syllabus | Me |
-| P3 | **Cost registration end to end** — 24 offices, fees, compliance. No Nigerian party publishes this; another missing scorekeeper. | Me, 2 drills |
-| P4 | **The supporter tier** — how a person who cannot sit a written exam participates without speaking in the platform's name. Risk 2 in the membership standard is unsolved. | Both |
-| P5 | **Decide the name** — must not reflect ethnic, religious or sectional identity (s.222) | Founder |
+| P3 | **Cost party registration end to end** — 24 offices, fees, compliance. No Nigerian party publishes this; another missing scorekeeper. | Me, 2 drills |
+| P4 | **The supporter tier** — how a person who cannot sit a written exam participates without speaking in the movement's name. Risk 2 in the membership standard is unsolved. | Both |
+| P6 | **Oral examination protocol for Level 1** — follows from P4. A written-only gate excludes people the movement needs. | Me |
+| P5 | **Confirm the name against s.222** — must not reflect ethnic, religious or sectional identity. "Hand of Nigeria" appears to pass; it has not been checked against INEC's actual refusals. | Founder + me |
 
-## Now — needs someone
+## Research still owed
 
 | # | Item | Why | Who |
 |---|---|---|---|
-| 1 | **Native review of the three renderings** | Drafts exist in `Doctrine_Translations_DRAFT.md`, all marked unusable. One speaker per language, judging rhythm not literal accuracy. | Founder — not me |
 | 2 | **What a bandit foot soldier actually earns** | The ₦5,000 figure failed corroboration; the ransom economy is what corroborated. Nobody has published what a participant nets from a ransom share — the number a livelihood programme must actually compete with. | Me, 2 drills |
-| 3 | **Independent verification of UBEC's self-reported figures** | 95% procurement completion, 8.7m learners, ₦100bn mobilised — all self-reported. The playbook's practices rest partly on them. | Me, 2 drills |
+| 3 | **Independent verification of UBEC's self-reported figures** | 95% procurement completion, 8.7m learners, ₦100bn mobilised — all self-reported. The absorption playbook rests partly on them. | Me, 2 drills |
 | 4 | **Sector Brief 08 — trade & investment** | Last unwritten brief. Assessed as unlikely to yield a ninth finding; available on request. | Me, 1 session |
 | 5 | **Middle-case test of the absorption playbook** | We have the top (78%), the captured bottom (16%), and the results-based middle (65%). Untested: an honest, low-capacity body with no donor scaffolding. | Me, 2 drills |
 
-## Newly opened by Node 9 (external constraint)
+### Opened by Node 9 (external constraint)
 
 - **Illicit financial flows and transfer pricing out of Nigeria** — genuinely
   unexamined, plausibly large, and the channel most likely to shift Node 9's
@@ -70,7 +178,7 @@ See `RED_TEAM.md` for the full pass.
   security. A Certificate of Occupancy is a leasehold from the governor, not
   freehold. Different question, unanswered.
 
-## Newly opened by the costing work
+### Opened by the costing work
 
 - **The 2024 capex reversal.** Capital exceeded recurrent by ₦1.26tn for the
   first time in the series. Either states turned a corner, or windfall
@@ -78,10 +186,10 @@ See `RED_TEAM.md` for the full pass.
   17.66% implementation to Q3 2025). Both stories fit the same number and
   nobody has separated them. **Large question, genuinely open.**
 
-## Owed per node — the research debts
+### Owed per node
 
-These come from the node decisions themselves. Several have been searched
-and not found, which is itself a finding.
+From the node decisions themselves. Several have been searched and not
+found, which is itself a finding.
 
 - **Node 1:** Kwara layers 2–3 (capex share, conversion); within-non-tax
   decomposition beyond 2024
@@ -102,13 +210,13 @@ and not found, which is itself a finding.
 
 | Item | What would change | Where recorded |
 |---|---|---|
-| **2027 elections** (presidential 16 Jan, governorship 6 Feb) | The only real test of whether the 2026 Act produces real-time upload | Node_8_Decision |
-| **RMAFC formula transmission** | If transmitted, Node 5's central finding weakens — revise by commit | Node_5_Decision v1.1 |
-| **Enugu 2024 audited accounts** | Publication settles whether the gap is delay or avoidance | Node_1_Decision v1.5 |
+| **2027 elections** (presidential 16 Jan, governorship 6 Feb) | The only real test of whether the 2026 Act produces real-time upload | Node 8 |
+| **RMAFC formula transmission** | If transmitted, Node 5's central finding weakens — revise by commit | Node 5 v1.1 |
+| **Enugu 2024 audited accounts** | Publication settles whether the gap is delay or avoidance | Node 1 v1.5 |
 | **155 Host Community Development Trusts** | If HCDT funds show NDDC's abandonment pattern within 3 years, statutory spending rules are insufficient without independent verification | Sector 09 |
 | **NDDC forensic audit report** | Submitted 2021, declared missing 2025, still unpublished. Highest-value single disclosure available. | Absorption Playbook |
 | Federal funding-certainty directive (2026) | If 2026–27 abandonment falls, procurement rules can move absorption | Sector 06 §4 |
-| Enugu FY2025 independent corroboration | Node 1's newest figures are ESIRS-sourced | Node_1_Decision v1.4 |
+| Enugu FY2025 independent corroboration | Node 1's newest figures are ESIRS-sourced | Node 1 v1.4 |
 | National Learning Assessment quality | If credible and state-disaggregated, Ch.7's baseline step already exists | Ch.7 correction |
 
 ## Standing rules
@@ -116,10 +224,14 @@ and not found, which is itself a finding.
 1. Anything discovered and not immediately actioned lands here in the same
    commit.
 2. Items are ranked by evidential value, not by ease.
-3. A closed item moves to Done with its commit hash — never deleted.
-4. **This file is cleaned when it drifts.** It had duplicate rows and
-   already-written briefs listed as pending on 16 Aug 2026; corrected same
-   day.
+3. A closed item moves to Done with its commit or tag — never deleted.
+4. **This file is cleaned when it drifts.** It had duplicate rows on
+   16 Aug 2026; it was two revisions behind the repo on 30 Oct 2026, listing
+   neither the consolidation, nor the exams, nor the Movement rewrite.
+   Corrected both times. It will drift again.
+5. Reader-facing text carries no jargon of ours. "Absorptive capacity,"
+   "stock and flow," "route-matching" are our words, not Nigeria's. The
+   evidence layer may keep precise terms; nothing a citizen reads may.
 
 ## Done
 
@@ -147,4 +259,19 @@ and not found, which is itself a finding.
 | Sector interdependence map — the sequence a state should attack in | 573264e |
 | Reverse dependency: insecurity→agriculture measured; map corrected to regionally conditional | 8377838 |
 | Feedback loop closed: agriculture→insecurity; security-first shown self-defeating alone | 1226a99 |
-| ₦5,000 corroboration attempt — FAILED; figure downgraded to Contested, design conclusion restated, Mistake 9.1 logged | this commit |
+| ₦5,000 corroboration attempt — FAILED; figure downgraded to Contested, design conclusion restated, Mistake 9.1 logged | v0.21 |
+| Scorekeeper test across 16 domains — 5 failures | v0.22 |
+| Real-terms restatement — Osun's magnitude claim retired, Enugu halved | v0.22 |
+| All eight chapters costed; "no Nigerian state publishes what reform costs" logged as a missing scorekeeper | v0.22 |
+| Findings index — twelve findings ranked by what they changed | FINDINGS.md |
+| Full repo audit — 66 files, found the book was 16% of words and 100% of what a stranger could read | .internal/AUDIT.md |
+| Plain-language rewrite for a Nigerian lay reader; invented analogies replaced with real cases | multiple |
+| Health chapter written (was absent) | a58d19e |
+| Sector work brought into the book — absorption, land, water, agriculture, oil, sequencing | 31d825a |
+| Part Four written (how to check anything) so Level 2 would be studiable | 31d825a |
+| Consolidation into five buckets, one front door | a58d19e |
+| Movement files rewritten in the book's voice | 19edf0b |
+| Syllabus re-derived from the book after renumbering | 2df495c |
+| Exams written — Level 1 bank, Level 2 paper, Level 3 specimen | b7d8a4a |
+| Chapter-list error in the costing corrected (money, people, openness, schools — not land) | 31d825a |
+| CCP governance model rejected using our own scorekeeper evidence | Movement/02 |
