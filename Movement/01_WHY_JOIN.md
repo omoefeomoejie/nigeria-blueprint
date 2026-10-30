@@ -121,7 +121,7 @@ revenue. We were wrong about Vietnam's schools. We built a recommendation on
 a number that fell apart a week later. We told states to take every open
 constitutional door until sixteen took one and could not use it.
 
-Sixteen entries, all dated, all public. Three of them correct our own earlier
+Twenty-one entries, all dated, all public. Three of them correct our own earlier
 conclusions.
 
 **We adopted this rule now, before we have anything, precisely because we

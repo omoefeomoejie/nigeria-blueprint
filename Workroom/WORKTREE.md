@@ -119,7 +119,8 @@ with him" is embarrassed by that.
 
 | # | Item | Who |
 |---|---|---|
-| B5 | **Read the full book end to end.** It has never had one complete read. Mark anything that stops the reader. This is the highest-value hour available. | Founder |
+| B5 | **Read the full book end to end.** It has never had one complete read. Mark anything that stops the reader. This is the highest-value hour available. **Still open after 30 Oct:** an external read found the book contradicting our own Mistake 1.4 on Enugu (now Mistake 10.1) and fourteen stale chapter references (10.2). Both fixed — which raises, not lowers, the value of the founder's own read. Start with the rewritten Chapter 1 Enugu section and the new Chapter 4 "five that failed". | Founder |
+| B7 | **Reverse-sweep rule (Mistake 10.1).** Whenever a claim is Rejected or a figure restated in `Evidence/`, grep its phrases through `Book/`, `Movement/`, `Syllabus/`, `Exams/` in the same commit. Not yet applied retrospectively to Mistakes 1.1–9.1 other than 1.4 and the Osun withdrawal. | Me |
 | B3 | **Pidgin edition, written fresh** — not translated from English | Founder + me |
 | B6 | **Second specificity pass.** The rule is: name the state, the date, the party, the agency. The book mostly obeys it now. Mostly is not a standard. | Me |
 
@@ -276,3 +277,6 @@ found, which is itself a finding.
 | CCP governance model rejected using our own scorekeeper evidence | Movement/02 |
 | Front-door counts corrected — README said twelve sector briefs (nine) and sixteen mistakes (nineteen) | 30 Oct 2026 |
 | `.internal/` renamed `Workroom/` and published; translations draft pulled out | 30 Oct 2026 |
+| Enugu causal claim removed from book, syllabus, exam and governor brief — cash ban kept as the copyable move, jump attributed to assets, Kwara as the ordinary-payer case (Mistake 10.1) | 9de31d0 |
+| Renumbering residue: fourteen cross-references, count words, duplicated passages, payroll arithmetic (₦648m–744m), Book/README counts (Mistake 10.2) | 6f025eb |
+| MISTAKES.md: book-layer entries 10.1 and 10.2; front-door counts now twenty-one | this commit |

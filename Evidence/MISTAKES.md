@@ -340,4 +340,64 @@ as an engine-sufficiency signal for governance-class questions, not as a rule.
 
 ---
 
+## Book layer — the reader-facing text and its chain
+
+### Mistake 10.1 — The book revived a hypothesis we had already Rejected, and the exam marked it correct
+- **Believed (in the book, not in the evidence):** Enugu's revenue jump was
+  caused by banning cash collection. Book Chapter 1 said "the people were
+  already paying... when the state closed the leak, the money came home."
+  Chapter 11 said the cash ban "turned ₦37.6 billion into ₦180 billion
+  without raising anybody's tax." Chapter 33 repeated it. The syllabus
+  (item 1.2) asked why revenue rose without tax rising; Level 1 Q3 gave
+  "it stopped collecting cash" as the marked answer for what changed.
+- **Wrong because:** Mistake 1.4 had already decomposed the number and
+  Rejected the tax-collection reading. 2024: ~₦30bn tax vs ~₦150bn non-tax;
+  2025: 87.4% non-tax. The rise came mostly from idle state assets put back
+  to work, revived state companies, coal royalties, rents and licences
+  (+1,000%, recurring), and ₦78bn+ of one-off Enugu Housing Corporation
+  property sales (Node 1 v0.9, v0.11). The cash ban is real and
+  BudgIT-corroborated; "nobody's tax rate was raised" is true; but no
+  evidence links the ban to the jump. The book's own Chapter 26 told the
+  correct story while Chapter 1 told the rejected one. The same passage
+  also misdated ₦180.5bn to 2025 (it was 2024).
+- **Why fooled:** the plain-language rewrite of Part One (commit 718b028,
+  23 Aug 2026) joined two true sentences — "Enugu banned cash" and "Enugu's
+  revenue jumped" — into one causal story, because the story made Mama
+  Ngozi's leak pay off on the next page. Simplifying for a lay reader
+  removed the decomposition, and the removed decomposition was the whole
+  finding. Mistake 9.1's lesson applied and was not used: a sentence that
+  makes the argument neat deserves more scrutiny, not less. Then the chain
+  did exactly what it was built to do: the syllabus was derived from the
+  book, the exam from the syllabus, so the error reached a marked answer
+  that a candidate who knew the evidence would have *lost* marks for
+  contradicting.
+- **Changed mind:** an external read of the book against Node 1 and this
+  file (30 Oct 2026).
+- **Rule added:** **the book → syllabus → exam chain transmits errors as
+  faithfully as truths. A logged reversal (any Rejected hypothesis, any
+  restated figure) must trigger a reverse sweep of every book passage,
+  syllabus item and exam answer that uses the claim** — grep for the claim's
+  phrases, not just its name. Writing for a lay reader may drop the
+  qualifier; it may not drop the decomposition when the decomposition is the
+  finding. Corrected in commit 9de31d0: Ch 1, 5, 11, 33; Syllabus 1.2;
+  Level 1 Q3–Q5; Movement/FOR_A_GOVERNOR.md. Kwara is now the book's case of
+  ordinary people's payments arriving.
+
+### Mistake 10.2 — We renumbered the chapters and did not sweep the cross-references
+- **Believed:** renumbering (2df495c) was a mechanical change finished when
+  the headings were renumbered and the syllabus re-derived.
+- **Wrong because:** fourteen "Chapter N" references inside the book still
+  pointed at the old numbers — the costing list sent readers to the wrong
+  chapter for four of its four items, and Chapter 29 said "seventeen
+  chapters" after twenty-eight. Count words ("eight things", "fifteen
+  things", "twelve chapters", "three years later") had drifted the same way.
+- **Why fooled:** the headings looked right, and nobody read the book end
+  to end (Worktree item B5 was still open).
+- **Changed mind:** the same external read.
+- **Rule added:** a renumbering is not done until every in-text "Chapter N"
+  and every count of chapters has been checked against its meaning, not its
+  number. Corrected in commit 6f025eb.
+
+---
+
 **Next entry:** next investigation.

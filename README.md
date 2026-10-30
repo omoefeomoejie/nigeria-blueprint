@@ -43,7 +43,7 @@ Good. Start with the places we attack ourselves.
 **[Evidence/RED_TEAM.md](Evidence/RED_TEAM.md)** — where we rank our own
 weaknesses by how much damage they do if somebody else finds them first.
 
-**[Evidence/MISTAKES.md](Evidence/MISTAKES.md)** — nineteen entries. Every
+**[Evidence/MISTAKES.md](Evidence/MISTAKES.md)** — twenty-one entries. Every
 time we were wrong, dated and permanent. We were wrong about Lagos. We were
 wrong about what drove Enugu's revenue. We were wrong about Vietnam. We built
 a recommendation on a number that fell apart a week later. Three of those
