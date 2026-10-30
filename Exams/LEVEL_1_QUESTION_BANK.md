@@ -29,7 +29,7 @@ untraceable? *(Ch 1)*
 **3.** Enugu stopped collecting cash in 2023, and its own revenue rose from
 ₦37.6bn (2023) to ₦180.5bn (2024). Did stopping cash cause that rise? What
 did, and which part can another state copy? *(Ch 1, 11)*
-> No. Most of the rise was not tax: it came from the state putting its own
+> Not mainly. Most of the rise was not tax: it came from the state putting its own
 > idle property to work — revived state companies, coal royalties, rents and
 > licences — plus over ₦78bn from the Housing Corporation selling houses and
 > land, which cannot be repeated. Stopping cash is the part any state can

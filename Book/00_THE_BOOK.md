@@ -12,7 +12,7 @@ it.
 
 This is a book about **what actually works** — and every single thing in it
 has already been done somewhere. Most of them have been done inside Nigeria,
-in states you can name, in the last three years.
+in states you can name, in recent years.
 
 We are not going to ask you to believe us. Every number in this book comes
 from somewhere you can go and check. And when we got something wrong — and
@@ -140,7 +140,7 @@ willingly once they could see things being built. That explanation comes
 from the state itself, so hold it loosely.
 
 So here is the honest picture. Stopping cash was real, and it is the part any
-state can copy. **It is not what made Enugu's revenue jump.** The jump came
+state can copy. **It is not what made most of Enugu's revenue jump.** The jump came
 mostly from things Enugu already owned — and a state with nothing lying idle
 cannot copy that part.
 
@@ -584,7 +584,7 @@ And you *can* fix "nobody is counting" — **you make somebody count.** Kaduna
 did it with contracts and the system outlived the governor who built it.
 
 Both have been done. **Inside Nigeria. By Nigerians. In states you can name.
-In the last three years.**
+In recent years.**
 
 Which leaves one question, and it is the one this book is really about.
 
@@ -1182,7 +1182,7 @@ Kill cash. Everywhere. Every ministry, every agency, no exceptions, six
 months.
 
 That is what Enugu did. Be clear about what it bought. It made the money
-traceable, so it can be counted. It is **not** what made Enugu's revenue jump
+traceable, so it can be counted. It is **not** what made most of Enugu's revenue jump
 — as Chapter 1 explained, most of that came from the state putting its own
 idle property to work, and part of it from selling houses and land, which
 cannot be repeated.
