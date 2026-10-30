@@ -99,7 +99,7 @@ true:
 **The money left her hand and did not arrive.** We will call that gap **the
 leak**, and you will meet it again in almost every chapter of this book.
 
-### What happened when one state closed the leak
+### What one state did about the leak
 
 In 2023, Enugu State — under Governor Peter Mbah, who took office in May of
 that year — did something that sounds too simple to matter.
@@ -115,22 +115,50 @@ There is now no man with a book. There is nothing to put in a pocket.
 
 **You cannot steal what you cannot touch.**
 
-In one year — 2023 to 2024 — money reaching the Enugu State government went
-from **₦37.6 billion to ₦180.5 billion.** By 2025 it was ₦406.7 billion, and
-Enugu ranked first in the country for revenue growth.
+That is the first move, and any state can copy it.
 
-Now understand what that number is and is not. **They did not raise anybody's
-tax.** No new levy. Nobody in Enugu was asked to pay more than they were
-already paying. The people were already paying. The money was simply going
-somewhere else on the way.
+Over the same years, the money Enugu State collected for itself went from
+**₦37.6 billion in 2023 to ₦180.5 billion in 2024**, and to **₦406.7 billion
+in 2025.** No state in the country grew faster in 2024.
 
-When the state closed the leak, the money came home.
+Now be careful with that number, because it is easy to tell the wrong story
+about it.
+
+**Most of that money was not tax.** In 2024, about ₦30 billion was tax and
+about ₦150 billion was other income. In 2025, more than 87 naira in every 100
+came from things other than tax. Most of the rise came from the state making
+its own property earn: buildings and land that were lying idle put back to
+work, dead state companies brought back to life, royalties on coal, and rents
+and licence fees, which rose more than ten times. One big piece — over ₦78
+billion — came from the Enugu Housing Corporation selling houses and land. A
+state can sell a house only once.
+
+Tax did rise too, from about ₦30 billion in 2024 to ₦51.5 billion in 2025, and
+**nobody's tax rate was raised to get it.** The state says people paid more
+willingly once they could see things being built. That explanation comes
+from the state itself, so hold it loosely.
+
+So here is the honest picture. Stopping cash was real, and it is the part any
+state can copy. **It is not what made Enugu's revenue jump.** The jump came
+mostly from things Enugu already owned — and a state with nothing lying idle
+cannot copy that part.
+
+Mama Ngozi's leak is still real, and closing it still matters. But nobody has
+measured how much money closing it brings in — not in Enugu, not anywhere in
+Nigeria. If you want to see ordinary people's payments actually arriving,
+look at **Kwara State** in Chapter 11. No oil. No port. In 2023 it collected
+₦59.6 billion of its own money — ₦23.1 billion in tax and ₦36.5 billion in
+fees and charges, the kind of money that comes back every year — through a
+revenue service set up by law, which survived a change of party in 2019.
 
 *Where this comes from: the National Bureau of Statistics (NBS) publishes
 what every state collects, every year. BudgIT — a Nigerian civic
 organisation that has been checking government budgets since 2011 —
-confirmed it in its 2025 State of States report, which also ranked Enugu
-first nationally on covering its own running costs. Both are free online.*
+confirmed Enugu's 2024 figure in its 2025 State of States report, which also
+ranked Enugu first nationally on covering its own running costs and named
+the Housing Corporation sales. The split between tax and other income comes
+from Enugu's own revenue service, reported by Vanguard, Daily Trust and
+Nairametrics. The 2025 figures so far come only from the state itself.*
 
 ### The part most books would leave out
 
@@ -138,14 +166,15 @@ This book has one rule that no political book in Nigeria has ever kept: **we
 show you the weaknesses in our own argument, in the same chapter, before
 anybody else finds them.**
 
-So, two things about Enugu.
+So, three things about Enugu.
 
-**One.** Prices in Nigeria roughly doubled between 2023 and 2025. So ₦180
-billion in 2025 does not buy what ₦180 billion would have bought in 2023.
-When we did that sum properly, the real increase was about **five times, not
-ten times**. Still enormous. Still the best in the country. But we had been
-quoting the bigger number, and we corrected ourselves before anyone caught
-us. It is written down in our records with the date.
+**One.** Prices in Nigeria roughly doubled between 2023 and 2025. So ₦406.7
+billion in 2025 does not buy what the same naira would have bought in 2023.
+When we did that sum properly, Enugu's revenue grew about **five times** in
+real money over those two years — not the nearly **eleven times** the naira
+figures suggest. Still enormous. Still the best in the country. But we had
+been quoting the bigger number, and we corrected ourselves before anyone
+caught us. It is written down in our records with the date.
 
 **Two.** Enugu borrowed heavily while doing this. Its domestic debt went from
 **₦82.5 billion when the government took office in 2023 to ₦188.42 billion by
@@ -154,7 +183,14 @@ Enugu has still not published its audited accounts for 2024. We do
 not know what those accounts would show. **Nobody does.** And that, as you
 will see in Chapter 4, is its own kind of problem.
 
-We could have left both out. Every politician would have. We put them in,
+**Three.** Most of Enugu's rise came from its own idle property put to work,
+not from tax — and part of it, the house and land sales, will not come
+again. Another state cannot simply copy that. We got this wrong twice. Our
+research first filed Enugu as a story about better tax collection. Then the
+first version of this very chapter said the jump came from closing the cash
+leak. Both were wrong, and both are written down in our records.
+
+We could have left all three out. Every politician would have. We put them in,
 because if you cannot check us, we are just another person promising you
 something.
 
@@ -531,8 +567,9 @@ an insult, and there is no next step after it. Nobody has ever woken up and
 decided to be a different people.
 
 But you *can* fix "the state does not need its citizens" — **you change what
-the state lives on.** Enugu started doing it in one year, by refusing to
-touch cash.
+the state lives on.** Kwara has been doing it, through a revenue service set
+up by law that its own people pay into, and that survived a change of party.
+It is now among the five states least dependent on Abuja.
 
 And you *can* fix "nobody is counting" — **you make somebody count.** Kaduna
 did it with contracts and the system outlived the governor who built it.
@@ -1130,8 +1167,11 @@ policies — the same three jobs. In this order.
 Kill cash. Everywhere. Every ministry, every agency, no exceptions, six
 months.
 
-That is what Enugu did, and it is what turned ₦37.6 billion into ₦180
-billion without raising anybody's tax.
+That is what Enugu did. Be clear about what it bought. It made the money
+traceable, so it can be counted. It is **not** what made Enugu's revenue jump
+— as Chapter 1 explained, most of that came from the state putting its own
+idle property to work, and part of it from selling houses and land, which
+cannot be repeated.
 
 **But money is not the only leak.** Kwara State found another one:
 harmonisation. In 2026 it set up a committee specifically to end multiple
@@ -2853,8 +2893,9 @@ miracle.**
 
 Her money leaks because nobody counts what she paid against what arrived. A
 state can close that in six months, for about ₦250 million, using powers it
-already has. One state already did it and its revenue went up nearly five
-times in real terms without raising her tax by one naira.
+already has. Enugu has already stopped taking cash in every office. And
+Kwara, with no oil and no port, shows that the money ordinary people pay can
+actually arrive — and keep arriving after the governor changes.
 
 That is the whole book. Not "Nigeria is cursed." Not "we need a saviour."
 

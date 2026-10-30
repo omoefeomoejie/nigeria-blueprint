@@ -22,7 +22,7 @@ a week.
 | # | You should be able to explain | Chapter |
 |---|---|---|
 | 1.1 | Why Mama Ngozi's money leaks, and why both she and the government are telling the truth | 1 |
-| 1.2 | What Enugu did in 2023, and why revenue rose without anybody's tax rising | 1, 11 |
+| 1.2 | What Enugu did in 2023 about cash, what actually made its revenue jump, and which part another state can copy | 1, 11 |
 | 1.3 | Why four in ten boreholes die within two years, and what a "revitalised" clinic can still be missing | 2, 15 |
 | 1.4 | What happened to Kaduna's teacher test, and why the contracts portal survived when the test did not | 3, 12 |
 | 1.5 | The scorekeeper question: which five areas failed it, and what all five have in common | 4 |

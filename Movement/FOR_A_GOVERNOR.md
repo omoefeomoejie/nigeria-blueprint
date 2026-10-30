@@ -14,13 +14,19 @@ you can check.*
 **What it is.** Three changes, in this order.
 
 Kill cash collection everywhere in the state. Every MDA, no exceptions, six
-months. Enugu did this and its revenue went from ₦37.6bn to ₦180.5bn in a
-year. The point is not the money; it is that cash cannot be traced and
-therefore cannot be counted.
+months. Enugu did this. Its revenue did go from ₦37.6bn to ₦180.5bn in a
+year, but do not expect the same from this step alone: most of that rise was
+not tax. It came from the state putting idle property to work, and over
+₦78bn of it from one-off house and land sales. The point of killing cash is
+not the money; it is that cash cannot be traced and therefore cannot be
+counted. For ordinary taxpayers' money arriving and recurring, look at Kwara:
+₦23.1bn tax and ₦36.5bn fees and charges in 2023, no oil, no port.
 
 Harmonise your taxes. One schedule, published, ending double and triple
-collection on the same business. Osun did this and its revenue rose 162%
-between 2021 and 2025, confirmed by an independent civic audit. This is the
+collection on the same business. Osun did this, and an independent civic
+audit confirmed that this is how it collects. (Its revenue rose 162% in
+naira between 2021 and 2025, but once you remove inflation it was roughly
+flat, so we cite Osun for how it collects, not how much.) This is the
 easiest of the three politically, because businesses become your allies
 instead of your victims. Start here if you want an early win.
 

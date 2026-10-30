@@ -26,20 +26,26 @@ untraceable? *(Ch 1)*
 > It has no serial number. Nobody counts books issued against books returned,
 > so nothing can be proved.
 
-**3.** Enugu's revenue rose from ₦37.6bn to ₦180.5bn in one year. What did the
-state actually change? *(Ch 1, 11)*
-> It stopped collecting cash entirely — every ministry, every agency. Nobody's
-> tax rate rose. You cannot steal what you cannot touch.
+**3.** Enugu stopped collecting cash in 2023, and its own revenue rose from
+₦37.6bn (2023) to ₦180.5bn (2024). Did stopping cash cause that rise? What
+did, and which part can another state copy? *(Ch 1, 11)*
+> No. Most of the rise was not tax: it came from the state putting its own
+> idle property to work — revived state companies, coal royalties, rents and
+> licences — plus over ₦78bn from the Housing Corporation selling houses and
+> land, which cannot be repeated. Stopping cash is the part any state can
+> copy: it makes the money traceable. Nobody's tax rate was raised.
 
 **4.** In real terms, how much did Enugu's revenue actually grow over two
 years, and why is that different from the naira figure? *(Ch 1, 26)*
-> About five times, not ten. Nigerian prices roughly doubled over the same
-> period.
+> About five times, not nearly eleven. Nigerian prices roughly doubled over
+> the same period.
 
-**5.** What two things does this book say about Enugu that weaken its own
+**5.** What three things does this book say about Enugu that weaken its own
 argument? *(Ch 1)*
-> Its debt more than doubled (₦82.5bn to ₦188.42bn), and it has not published
-> audited accounts for 2024.
+> Its debt more than doubled (₦82.5bn to ₦188.42bn); it has not published
+> audited accounts for 2024; and most of its rise came from its own idle
+> property, part of it one-off sales, which another state cannot simply
+> copy.
 
 **6.** What share of Nigerian boreholes stop working within two years, and
 why? *(Ch 2)*
