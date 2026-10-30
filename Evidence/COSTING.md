@@ -66,7 +66,7 @@ community intelligence service is people, and people are paid every month —
 this is a permanent line, not a project.
 
 Comparator: a police constable earns ₦54,000–62,000 monthly [Certified]. A
-1,000-person service at that level is roughly **₦700m–₦750m a year in
+1,000-person service at that level is roughly **₦650m–₦745m a year in
 salaries alone**, before equipment.
 **Real constraint:** the constitutional ceiling, and abuse risk. Both are
 recorded in the chapter.

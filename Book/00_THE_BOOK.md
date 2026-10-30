@@ -29,7 +29,8 @@ all of them.
 has failed for sixty years. Why blaming America feels good and changes
 nothing. Why money is not the problem.
 
-**Part Three — What actually works.** Fifteen things. Each one already done.
+**Part Three — What actually works.** Fourteen things, each one already done
+somewhere, and then the order to start them in.
 
 **Part Four — How to check anything.** How we found what we found, the six
 ways we got it wrong, and three questions that break most claims. This is the
@@ -261,8 +262,6 @@ That is **7.3%** of the promise.
 
 ### Where did that number come from?
 
-**Where did that 7.3% figure come from?**
-
 Not from an opposition politician. Not from a foreign newspaper.
 
 **NPHCDA published its own monitoring dashboard online in August 2025.** Then
@@ -438,8 +437,14 @@ elections in Abuja.** In the 2015 FCT council elections, the opposition PDP
 won two of the three chairmanships. Same country, same voters. **Different
 referee, different result.**
 
-That is not one party being wicked. That is what any human being does when
-he marks his own exam.
+**Testing public servants.** When Kaduna tested its teachers, the state set
+the test, set the pass mark, marked the scripts and announced the result. An
+outside analyst later found errors in the marking. Chapter 12 comes back to
+this.
+
+**Security.** Crime figures are collected by the same authorities whose job
+is to reduce crime. A state security outfit reporting on its own success is
+marking its own exam.
 
 **Land.** The state government runs the land registry, sets its own fees,
 processes its own applications and reports its own success. Nobody outside
@@ -448,14 +453,18 @@ counts how many titles were actually issued, or how long people waited.
 **Electricity.** Between October 2024 and early 2026, the national regulator
 NERC transferred oversight to **16 states** — Enugu, Ekiti and Ondo first,
 then Imo, Oyo, Edo, Kogi, Lagos, Ogun, Niger, Plateau, Abia, Anambra,
-Nasarawa and Bayelsa. Three years later, nobody can tell you whether supply improved
+Nasarawa and Bayelsa. Up to two years on, nobody can tell you whether supply improved
 in any of them — because the states that took over the job also took over
 the counting. There is no independent number to look at. Not a good number,
 not a bad number. **No number.**
 
-### The eleven that passed
+### The ones that passed
 
-And in every single one of them, **somebody outside was counting.**
+The other eleven did better, though not all of them cleanly. Two were mixed — water, for
+example, is counted properly for the country as a whole but not pump by
+pump, and oil money is counted on the way in but not on the way out.
+
+And everywhere that passed, **somebody outside was counting.**
 
 The **National Bureau of Statistics** counts what every state collects.
 **BudgIT** scores all 36 states on fiscal transparency — only nine got full
@@ -849,20 +858,20 @@ Four chapters in this book can be started by a governor **without asking
 Abuja for anything.** Here is what each one costs and what the money
 actually buys.
 
-**Money (Chapter 10) — ₦250 million to ₦1 billion.** The digital tax
+**Money (Chapter 11) — ₦250 million to ₦1 billion.** The digital tax
 platform, POS machines at collection points, a taxpayer service centre so
 people can pay without meeting anybody, and the system that publishes what
 was collected.
 
-**People (Chapter 11) — ₦150 million to ₦500 million.** Designing the test,
+**People (Chapter 12) — ₦150 million to ₦500 million.** Designing the test,
 renting computer-based test centres that already exist, paying an outside
 examiner to mark it, and publishing the results and the appeals.
 
-**Openness (Chapter 13) — ₦200 million to ₦600 million.** The contracts
+**Openness (Chapter 14) — ₦200 million to ₦600 million.** The contracts
 portal, a citizens' budget written in Pidgin and local languages, radio
 explainers, and the audit that checks whether what was published was true.
 
-**Schools (Chapter 16) — ₦500 million to ₦2 billion.** This is the
+**Schools (Chapter 20) — ₦500 million to ₦2 billion.** This is the
 expensive one, because it repeats every year: an independent test of whether
 children can read and count, in every local government, designed, marked and
 published.
@@ -886,8 +895,7 @@ being cheap.*
 
 *And land is not in that total. It is cheaper still, because it is mostly a
 decision to stop charging people up to a third of their property's value to
-register it — a chapter this book still owes you, and one we name in the
-closing pages as unfinished.*
+register it. Chapter 17 tells that story.*
 
 ### So why has nobody done it?
 
@@ -933,6 +941,11 @@ Those are real, and they are **3.41% of the federal budget.** The National
 Assembly, the Presidency and the entire Judiciary, added together.
 
 **Debt service is 28.52%.**
+
+(Chapter 7 said debt takes about 61 naira in every hundred. That was out of
+what the government *earns*. This is out of everything it plans to *spend* —
+a bigger pot, because much of it is borrowed. So the share looks smaller here.
+Both are true.)
 
 Nearly one naira in every three, gone before a single road is built or a
 teacher is paid.
@@ -1045,7 +1058,8 @@ The difference between what you did and what lasts is not effort.
 
 # PART THREE — WHAT ACTUALLY WORKS
 
-*Eight things. Every one of them has been done. Most of them inside Nigeria.
+*Fourteen things, and then the order to start them in. Every one of them has
+been done somewhere. Most of them inside Nigeria.
 We tell you who did it, what it cost, and where it went wrong.*
 
 ---
@@ -1210,7 +1224,7 @@ Enugu went the other way. It moved the balance until **79 naira in every
 hundred** of its 2024 budget was going to capital rather than recurrent, and
 86 in every hundred in 2025.
 
-That does not mean the money was spent well — Chapter 13 is about finding
+That does not mean the money was spent well — Chapter 14 is about finding
 out whether it was. It means it was *pointed* at things that outlast the
 government. That is the first requirement, not the last.
 
@@ -1416,7 +1430,7 @@ security outfit that reports only its own successes is marking its own exam
 ### The trap
 This is the most expensive chapter in the book, and the cost is not
 equipment. **It is salaries, forever.** A thousand people at Nigerian police constable pay — ₦54,000 to ₦62,000 a
-month — is roughly **₦700 to ₦750 million a year**, every year. A state that budgets the
+month — is roughly **₦650 to ₦750 million a year**, every year. A state that budgets the
 training and forgets the payroll has funded a launch ceremony, not a
 service.
 
@@ -1547,7 +1561,7 @@ government's main pot — goes to the Basic Health Care Provision Fund, money
 meant specifically for primary health care. There are proposals to raise it
 to 2%.
 
-That is a flow written into an Act, not into a governor's speech. It is
+That is money written into an Act, not into a governor's speech. It is
 exactly the arrangement Chapter 9 says makes things survive.
 
 **So the constraint here is not law and not money. It is that resources do
@@ -1604,7 +1618,7 @@ using powers he already has. Nobody in Abuja can stop him.
 
 Only four things are actually blocked:
 
-**Police.** Sections 214–215. No state police. This is why Chapter 12 is a
+**Police.** Sections 214–215. No state police. This is why Chapter 13 is a
 workaround.
 
 **Local government elections.** The Constitution creates the state electoral
@@ -1642,7 +1656,7 @@ pushing, you know what you are in for.
 We used to say: take every open constitutional door immediately.
 
 Then sixteen states took the electricity door and **could not use it.**
-Three years later nobody can even say whether power improved, because the
+Up to two years on, nobody can even say whether power improved, because the
 states that took the job did not build anybody to check.
 
 So we corrected ourselves: **take the door, but build the ability to walk
@@ -1878,7 +1892,7 @@ None of this requires a wicked politician. **It requires one central pot of
 money and a rule that the pot is shared by group.** After that, any rational
 person organises by group, because that is how the pot is shared.
 
-Which is why Chapter 10 is quietly a chapter about ethnicity. **Make states
+Which is why Chapter 11 is quietly a chapter about ethnicity. **Make states
 earn their own money and the pot shrinks — and so does the reason to fight
 over who gets a share of it.**
 
@@ -1987,8 +2001,7 @@ the states with the most children out of school.
 Ceará is a state in the dry north-east of Brazil — **the fifth-poorest of
 Brazil's 26 states.** Rural, unequal, historically ignored by the richer
 south. If you are looking for a fair comparison to a Nigerian state, this is
-a much better one than Finland or Singapore. Poor, unequal, rural — a fair
-comparison for a Nigerian state.
+a much better one than Finland or Singapore.
 
 They did one thing. Brazil's constitution sends a quarter of a certain state
 tax down to municipalities, and each state decides how part of it is shared.
@@ -2000,8 +2013,7 @@ Not to buildings. Not to enrolment. To reading.
 Researchers compared schools on either side of Ceará's state border — same
 region, same people, different rules. Children under the system scored
 **0.15 standard deviations higher** in maths and language. Where the state
-also sent teaching support, **the effect doubled.** Where the state also sent teaching help, the
-effect **doubled**. Ceará went on to record the largest education
+also sent teaching support, **the effect doubled.** Ceará went on to record the largest education
 improvement in Brazil.
 
 ### The surprising part
@@ -2106,7 +2118,7 @@ plot near the road, and a co-operative membership is easier to reach than the
 woman two hours off the tarred road. Do the easy visits and you have quietly
 built a system that widens every gap it touches.
 
-This is the same failure Ceará had to fix in Brazilian schools, in Chapter 16:
+This is the same failure Ceará had to fix in Brazilian schools, in Chapter 20:
 help lands where it is least needed unless you deliberately point it
 elsewhere.
 
@@ -2121,7 +2133,7 @@ not have one.
 **Replace bags with vouchers.** Instead of trucking fertiliser to be shared
 out, give registered farmers a voucher redeemed at an accredited dealer.
 Every redemption leaves a record. Leakage becomes visible, then costly. It is
-Chapter 10's traceability, pointed outward.
+Chapter 11's traceability, pointed outward.
 
 **Send extension deliberately to the farmers who have nothing** — an explicit
 quota for farmers without assets or credit — because the default flow is
@@ -2152,7 +2164,7 @@ key agricultural states** is abandoned or barely used.
 
 The FAO puts national food production down **15%** because of insecurity.
 
-So Chapter 12 is not a separate subject from this one. **In the north, the
+So Chapter 13 is not a separate subject from this one. **In the north, the
 security chapter is the agriculture chapter**, and no voucher scheme works
 until somebody can walk to their farm.
 
@@ -2181,8 +2193,7 @@ BVAS worked. IReV did not.
 Only **31.8%** of polling unit results reached IReV within thirty-six hours
 of the **25 February 2023** presidential election. Collation centres in Lagos, Rivers, Kogi and several northern
 states announced figures that differed from what the BVAS machines had
-recorded at the units. And in several states, the figures announced at
-collation did not match what the machines recorded at the units.
+recorded at the units.
 
 ### Then the courts explained why nobody was punished
 
@@ -2248,7 +2259,7 @@ the three chairmanships.**
 
 Be warned, though: this needs a constitutional amendment, which means 24
 state assemblies voting to take local elections away from their own
-governors. **On the logic of Chapter 14, it is the least likely change in
+governors. **On the logic of Chapter 16, it is the least likely change in
 this book to pass.** We recommend it because it is right, and we tell you it
 is hard.
 
@@ -2262,7 +2273,8 @@ races.
 
 ## Chapter 23: The most money, the worst delivery
 
-We left this chapter until last on purpose, and the reason is the finding.
+We put this chapter last among the things that work, on purpose, and the
+reason is the finding.
 
 Oil-producing states shared **₦1.51 trillion** in derivation in 2025 — double
 what they got in 2024. In the first three months of 2026 alone, **₦321.9
@@ -2352,7 +2364,7 @@ spending discipline you have not built.
 Finish what is abandoned before awarding anything new.
 
 **And treat the money as temporary.** Any state whose plan depends on
-derivation past 2040 is planning on somebody else's weather. Chapter 10
+derivation past 2040 is planning on somebody else's weather. Chapter 11
 applies here more than anywhere: **build the tax state while the oil money is
 still coming.**
 
@@ -2360,7 +2372,7 @@ still coming.**
 
 ## Chapter 24: If you can only start one thing
 
-A governor cannot do twelve chapters at once. Neither can a movement.
+A governor cannot do fourteen chapters at once. Neither can a movement.
 
 So: which one first?
 
@@ -2647,7 +2659,7 @@ You did not need an office. You did not need a party. You needed an afternoon.
 
 ## Chapter 29: Why not just join a party?
 
-You have read seventeen chapters. Everything in them has been done
+You have read twenty-eight chapters. Everything in them has been done
 somewhere, most of it in Nigeria, and none of it needs a miracle.
 
 So the obvious question: **why has nobody done it?**
@@ -2752,7 +2764,7 @@ internally, to stand for selection as a candidate.
 
 **It does not get you:** a position, a contract, a nomination, or a salary.
 Passing an exam proves you understand the programme. **It does not prove you
-can govern**, and confusing those two is the exact error Chapter 11 warns
+can govern**, and confusing those two is the exact error Chapter 12 warns
 about.
 
 ## Chapter 31: The promises we make before we have power

@@ -118,6 +118,6 @@ Publish the numbers, including the bad ones. The whole argument of this
 Blueprint is that Nigerian government can be checked. A pilot that succeeds
 quietly proves nothing to anybody.
 
-Full chapters, evidence and sources: `Blueprint/Chapter_01_Revenue.md` and
-`Blueprint/Chapter_07_Education.md`. Every claim above carries its status
+Full chapters, evidence and sources: `Evidence/Chapters/Chapter_01_Revenue.md`
+and `Evidence/Chapters/Chapter_07_Education.md`. Every claim above carries its status
 and its source there.

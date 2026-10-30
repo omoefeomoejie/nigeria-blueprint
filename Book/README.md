@@ -16,24 +16,26 @@ researchers organise things: by node, by chapter, by sector. That is useful
 for checking and useless for reading. A stranger landing here had no idea
 where to start or where to stop.
 
-So: one book. Five parts. Real people and real situations, not concepts.
+So: one book. Six parts. Real people and real situations, not concepts.
 Every technical term we invented — "absorptive capacity," "stock and flow,"
 "route-matching" — is banned from these pages. If an idea cannot be said in
 ordinary language, it does not go in.
 
 ## Status
 
-**Complete draft: 22 chapters, five parts, beginning to end.**
+**Complete draft: 33 chapters, six parts, beginning to end.**
 
-Part One — why nothing works (Mama Ngozi, the borehole and the clinic, the
-teacher test, who is counting, the two-fact diagnosis).
-Part Two — why we keep getting it wrong (the good leader, blaming the West,
-"there is no money", why good people burn out).
-Part Three — what actually works (money, people, safety, openness, the
-Constitution, one people, schools, counting votes).
-Part Four — who does it (why not a party, a platform you qualify for, the
-promises made before power).
-Part Five — four things to do on Monday, and the last word.
+Part One — why nothing works (Chapters 1–5: Mama Ngozi, the borehole and the
+clinic, the teacher test, who is counting, the two-fact diagnosis).
+Part Two — why we keep getting it wrong (Chapters 6–9: the good leader,
+blaming the West, "there is no money", why good people burn out).
+Part Three — what actually works (Chapters 10–24: paying on delivery, money,
+people, safety, openness, health, the Constitution, land, water, one people,
+schools, fertiliser, counting votes, oil — and which one to start first).
+Part Four — how to check anything (Chapters 25–28).
+Part Five — who does it (Chapters 29–31: why not a party, a platform you
+qualify for, the promises made before power).
+Part Six — four things to do on Monday, and the last word (Chapters 32–33).
 
 Still to come: the Pidgin version, written fresh rather than translated.
 

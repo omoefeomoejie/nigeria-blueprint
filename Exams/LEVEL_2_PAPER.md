@@ -13,7 +13,7 @@ claim that his reform caused it. *(Ch 25)*
 **2.** Why is the most famous case in any field usually the one you should
 trust least? Use Lagos and Vietnam. *(Ch 26)*
 
-**3.** "IGR went up 4.8 times." Explain why this is not yet a finding, using
+**3.** "Revenue went up almost five times." Explain why this is not yet a finding, using
 what happened when we broke Enugu's number apart. *(Ch 26)*
 
 **4.** We withdrew Osun's growth claim ourselves. Explain what we did to the
