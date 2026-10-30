@@ -4,14 +4,30 @@
 
 This file is two things at once. It is the queue of everything owed, and it
 is the handover document a new session reads first. If you are a fresh
-session, read this file, then `.internal/AUDIT.md`, then the book.
+session, read this file, then `Workroom/AUDIT.md`, then the book.
+
+**This folder is public, deliberately.** It was called `.internal/` until
+30 Oct 2026 on the assumption that it was private. It never was — the repo
+is public and the folder was tracked in git. Rather than hide it, the
+founder's decision is that it stays open: Nigerians are meant to read this
+work, and a project whose first rule is *no claim above its evidence* is not
+damaged by publishing its own audit. The folder was renamed `Workroom/` so
+the name stops lying, and `README.md` now links to it.
+
+One file was pulled out rather than published: `Translations_DRAFT.md`, the
+Hausa, Yoruba and Igbo doctrine lines, all marked unusable pending
+native-speaker review. It is held outside the repo until the review happens
+(founder item 2 below). It remains in the pre-30-Oct git history, so anyone
+who cloned before that date has it.
 
 ---
 
 ## READ FIRST — the state of the repo on 30 Oct 2026
 
 **Repo:** `github.com/omoefeomoejie/nigeria-blueprint`, branch `main`.
-81 commits, 71 tracked files, latest tag `v0.23`.
+82 commits, 70 tracked files (one more commit lands with this update), latest
+pushed tag `v0.23` — tag pushes are blocked by some sandbox proxies, so tags
+may lag the commits.
 
 **Structure — five buckets, one front door.** `README.md` points at the book
 first. Everything else sits under one of five directories:
@@ -22,7 +38,7 @@ first. Everything else sits under one of five directories:
 | `Movement/` | Why join, how to join, what survives us, becoming a party, the nine lines, for a governor | Rewritten in the book's voice (commit 19edf0b) |
 | `Syllabus/` | `00_SYLLABUS.md` — 32 Level 1 items, 10 Level 2, 3 Level 3 tasks, each naming its chapter | Derived from the book, re-derived after renumbering (2df495c) |
 | `Exams/` | Level 1 question bank (40 Q with answers), Level 2 paper (10 structured, answer any 6), Level 3 specimen (3 tasks with marking notes) | Exist as of b7d8a4a. Never sat by anyone. |
-| `Evidence/` | 9 node investigations, 10 sector briefs, the method layer, findings, red team, mistakes, scorekeeper test, costing, constitutional audit, absorption playbook, the older Blueprint chapters | Stable. This is the load-bearing research. |
+| `Evidence/` | 9 node investigations, 9 sector briefs plus a synthesis and an interdependence map (brief 08, trade & investment, was never written), the method layer, findings, red team, mistakes, scorekeeper test, costing, constitutional audit, absorption playbook, the older Blueprint chapters | Stable. This is the load-bearing research. |
 
 **The chain that governs all of it:** the book is written from the evidence;
 the syllabus is derived from the book; the exams are derived from the
@@ -42,49 +58,32 @@ anything) was written specifically so Level 2 would be studiable.
    Contents read/write only, 90-day expiry from mid-Aug 2026. It has
    appeared in chat history and **should be rotated at expiry rather than
    renewed.**
-2. `git clone`, then read this file, then `.internal/AUDIT.md`.
+2. `git clone`, then read this file, then `Workroom/AUDIT.md`.
 3. `Evidence/MISTAKES.md` before making any claim — it records every
    reversal and why it happened. Mistake 9.1 is the one to internalise: *a
    figure that makes the argument neat deserves more scrutiny, not less.*
 
 ---
 
-## URGENT — `.internal/` is not internal
+## Publication decision — recorded 30 Oct 2026
 
-**Verified 30 Oct 2026: the repository is public, `.internal/` is tracked in
-git, and an anonymous clone returns every file in it.**
+The repository is public by intent. The founder's words: *"it is meant to be
+public, because I want Nigerians to read it."* So there is no quarantine
+layer in this repo and nothing should be added on the assumption of privacy.
+If something genuinely cannot be published, it does not live here at all.
 
-The directory was created on the premise that these files must not be
-public. That premise is currently false. Publicly readable right now:
+What that decision covers and does not cover:
 
-- `Translations_DRAFT.md` — the Hausa, Yoruba and Igbo doctrine lines,
-  marked unusable pending native-speaker review. The quarantine exists only
-  as a comment in the file. Anyone can read the lines and attribute them to
-  us.
-- `AUDIT.md` — our own assessment of where this work is weakest.
-- `WORKTREE.md` — this file, including item E below, which states in plain
-  words that the project's largest structural weakness is the absence of
-  human sources.
-- `Foundations_pre_evidence.md` — the pre-evidence framework material,
-  retained for provenance, superseded in substance.
-- `MANIFEST.md`, `VERSION_HISTORY.md` — harmless.
+| File | Status |
+|---|---|
+| `AUDIT.md` | Public. Our own assessment of where the work is weakest. Publishing it is the argument working. |
+| `WORKTREE.md` | Public. Includes item E — that our largest structural weakness is having no human sources. Stated plainly, on purpose. |
+| `MANIFEST.md`, `VERSION_HISTORY.md` | Public. Harmless. |
+| `Foundations_pre_evidence.md` | Public. Pre-evidence framework material, kept for provenance, superseded in substance. |
+| `Translations_DRAFT.md` | **Removed from the repo.** Three languages the founder cannot verify, marked unusable. Publishing lines nobody has checked, in languages we do not speak, is not transparency — it is a claim above its evidence, in Hausa. It returns in one commit once reviewed. |
 
-Three honest options, for the founder to pick:
-
-1. **Accept it.** Publish the lot deliberately and stop calling it internal.
-   Defensible — a project whose doctrine is "no claim above its evidence"
-   can survive showing its own audit. The real exposure is the unreviewed
-   translations, not the self-criticism.
-2. **Remove the two files that matter** (`Translations_DRAFT.md`,
-   `AUDIT.md`) from the working tree and keep them off the repo. Cheap, and
-   stops future exposure — but **does not remove them from the 81 commits of
-   history already pushed.** Anyone who has cloned already has them.
-3. **Rewrite history** to purge them, force-push, and rotate the token.
-   Only worth it if the translations are judged genuinely damaging. Breaks
-   every existing clone.
-
-**Nothing should be added to `.internal/` on the assumption that it is
-private until this is decided.**
+The folder name was `.internal/` and is now `Workroom/`, because the old
+name told a future contributor something false.
 
 ---
 
@@ -104,7 +103,7 @@ phone.
    Governance should come from the professional-institute model (ICAN and
    similar), not the party model.
 2. **Get native speakers to check the Hausa, Yoruba and Igbo doctrine
-   lines.** Drafts are in `.internal/Translations_DRAFT.md`, all marked
+   lines.** Drafts are in `Translations_DRAFT.md` (held outside the repo), all marked
    unusable. One speaker per language. They are judging rhythm and whether
    the line lands, not literal accuracy. Until this happens the lines cannot
    be published in any form.
@@ -264,7 +263,7 @@ found, which is itself a finding.
 | Real-terms restatement — Osun's magnitude claim retired, Enugu halved | v0.22 |
 | All eight chapters costed; "no Nigerian state publishes what reform costs" logged as a missing scorekeeper | v0.22 |
 | Findings index — twelve findings ranked by what they changed | FINDINGS.md |
-| Full repo audit — 66 files, found the book was 16% of words and 100% of what a stranger could read | .internal/AUDIT.md |
+| Full repo audit — 66 files, found the book was 16% of words and 100% of what a stranger could read | Workroom/AUDIT.md |
 | Plain-language rewrite for a Nigerian lay reader; invented analogies replaced with real cases | multiple |
 | Health chapter written (was absent) | a58d19e |
 | Sector work brought into the book — absorption, land, water, agriculture, oil, sequencing | 31d825a |
@@ -275,3 +274,5 @@ found, which is itself a finding.
 | Exams written — Level 1 bank, Level 2 paper, Level 3 specimen | b7d8a4a |
 | Chapter-list error in the costing corrected (money, people, openness, schools — not land) | 31d825a |
 | CCP governance model rejected using our own scorekeeper evidence | Movement/02 |
+| Front-door counts corrected — README said twelve sector briefs (nine) and sixteen mistakes (nineteen) | 30 Oct 2026 |
+| `.internal/` renamed `Workroom/` and published; translations draft pulled out | 30 Oct 2026 |
